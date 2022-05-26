@@ -56,7 +56,10 @@ const nodes = artificialIntelligence
 		{
             "data": {
                 "id": "In Vivo Measurement of Glycation Crosslinks"
-				},
+			},
+			"style": {
+				"background-color": "#168253"
+			},
             "group": "nodes"
         },
 		{
@@ -75,36 +78,54 @@ const nodes = artificialIntelligence
             "data": {
                 "id": "Control ECM Turnover Throughout Body"
             },
+			"style": {
+				"background-color": "#168253"
+			},
             "group": "nodes"
         },
         {
             "data": {
                 "id": "Produce Young ECM"
             },
+			"style": {
+				"background-color": "#168253"
+			},
             "group": "nodes"
         },
         {
             "data": {
                 "id": "Control Inflammation Signaling"
             },
+			"style": {
+				"background-color": "#168253"
+			},
             "group": "nodes"
         },
 		{
             "data": {
                 "id": "Cancer"
             },
+			"style": {
+				"background-color": "#FFFF38"
+			},
             "group": "nodes"
         },
 		{
             "data": {
                 "id": "Loss of Identity"
             },
+			"style": {
+				"background-color": "#FFFF38"
+			},
             "group": "nodes"
         },
 		{
             "data": {
                 "id": "Stem Cell Exhaustion"
             },
+			"style": {
+				"background-color": "#FFFF38"
+			},
             "group": "nodes"
         },
 		{
@@ -123,6 +144,9 @@ const nodes = artificialIntelligence
             "data": {
                 "id": "Pneumonia"
             },
+			"style": {
+				"background-color": "#FFFF38"
+			},
             "group": "nodes"
         },
 		{
@@ -133,7 +157,43 @@ const nodes = artificialIntelligence
         },
 		{
             "data": {
+                "id": "Cell-Attached ECM"
+            },
+            "group": "nodes"
+        },
+		{
+            "data": {
+                "id": "Independent ECM"
+            },
+            "group": "nodes"
+        },
+		{
+            "data": {
+                "id": "Glycation Crosslink Breakers"
+            },
+			"style": {
+				"background-color": "#168253"
+			},
+            "group": "nodes"
+        },
+		{
+            "data": {
+                "id": "Small Molecules for ECM Homeostasis"
+            },
+			"style": {
+				"background-color": "#168253"
+			},
+            "group": "nodes"
+        },
+		{
+            "data": {
                 "id": "Carbamylation"
+            },
+            "group": "nodes"
+        },
+		{
+            "data": {
+                "id": "Tail-Tendon Breakage Assay"
             },
             "group": "nodes"
         },
@@ -141,6 +201,9 @@ const nodes = artificialIntelligence
             "data": {
                 "id": "Loss of Mitochondrial Homeostasis"
             },
+			"style": {
+				"background-color": "#FFFF38"
+			},
             "group": "nodes"
         },
 		{
@@ -298,18 +361,27 @@ const nodes = artificialIntelligence
             "data": {
                 "id": "Liver Failure"
             },
+			"style": {
+				"background-color": "#FFFF38"
+			},
             "group": "nodes"
         },
 		{
             "data": {
                 "id": "Lung Failure"
             },
+			"style": {
+				"background-color": "#FFFF38"
+			},
             "group": "nodes"
         },
 		{
             "data": {
                 "id": "Heart Failure"
             },
+			"style": {
+				"background-color": "#FFFF38"
+			},
             "group": "nodes"
         },
 		{
@@ -328,6 +400,9 @@ const nodes = artificialIntelligence
             "data": {
                 "id": "Loss of Proteolysis"
             },
+			"style": {
+				"background-color": "#FFFF38"
+			},
             "group": "nodes"
         },
 		{
@@ -346,6 +421,9 @@ const nodes = artificialIntelligence
             "data": {
                 "id": "Control Downstream Signaling"
             },
+			"style": {
+				"background-color": "#168253"
+			},
             "group": "nodes"
         },
         {
@@ -406,6 +484,38 @@ const nodes = artificialIntelligence
         },
 		{
             "data": {
+                "source": "Matrisome",
+                "target": "Cell-Attached ECM",
+                "id": "cellat" 
+            },
+            "group": "edges"
+        },
+		{
+            "data": {
+                "source": "Matrisome",
+                "target": "Independent ECM",
+                "id": "indat" 
+            },
+            "group": "edges"
+        },
+		{
+            "data": {
+                "source": "Cell-Attached ECM",
+                "target": "Small Molecules for ECM Homeostasis",
+                "id": "homeo" 
+            },
+            "group": "edges"
+        },
+		{
+            "data": {
+                "source": "Independent ECM",
+                "target": "Glycation Crosslink Breakers",
+                "id": "break" 
+            },
+            "group": "edges"
+        },
+		{
+            "data": {
                 "source": "Loss of Mechanotransduction",
                 "target": "Loss of Identity",
                 "id": "ident" 
@@ -424,7 +534,7 @@ const nodes = artificialIntelligence
             "data": {
                 "source": "Loss of Mechanotransduction",
                 "target": "Loss of Mitochondrial Homeostasis",
-                "id": "homeo" 
+                "id": "homeo2" 
             },
             "group": "edges"
         },
@@ -711,6 +821,15 @@ const nodes = artificialIntelligence
                 "source": "Collagen",
                 "target": "Fibrosis",
                 "id": "fibro2",
+                "description": ""
+            },
+            "group": "edges"
+        },
+		{
+            "data": {
+                "source": "Tail-Tendon Breakage Assay",
+                "target": "Crosslinking",
+                "id": "cross2",
                 "description": ""
             },
             "group": "edges"
