@@ -193,6 +193,12 @@ const nodes = artificialIntelligence
         },
 		{
             "data": {
+                "id": "Tail-Tendon Breakage Assay"
+            },
+            "group": "nodes"
+        },
+		{
+            "data": {
                 "id": "Loss of Mitochondrial Homeostasis"
             },
 			"style": {
@@ -259,13 +265,15 @@ const nodes = artificialIntelligence
             "data": {
                 "id": "UV Damage"
             },
-            "group": "nodes"
+            "group": "nodes",
+			"position": (0,0)
         },
 		{
             "data": {
                 "id": "ROS"
             },
-            "group": "nodes"
+            "group": "nodes",
+			"position": (50,50)
         },
 		{
             "data": {
@@ -680,7 +688,7 @@ const nodes = artificialIntelligence
                 "source": "Protein Aggregates",
                 "target": "Matrisome",
                 "id": "promat",
-                "description": ""
+                "description": ""				
             },
             "group": "edges"
         },
@@ -815,6 +823,15 @@ const nodes = artificialIntelligence
                 "source": "Collagen",
                 "target": "Fibrosis",
                 "id": "fibro2",
+                "description": ""
+            },
+            "group": "edges"
+        },
+		{
+            "data": {
+                "source": "Tail-Tendon Breakage Assay",
+                "target": "Crosslinking",
+                "id": "cross2",
                 "description": ""
             },
             "group": "edges"

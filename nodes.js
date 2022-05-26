@@ -686,7 +686,7 @@ const nodes = artificialIntelligence
                 "source": "Protein Aggregates",
                 "target": "Matrisome",
                 "id": "promat",
-                "description": ""
+                "description": ""				
             },
             "group": "edges"
         },

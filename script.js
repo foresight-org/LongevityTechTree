@@ -124,7 +124,8 @@ function main() {
           'background-color': '#729FCF',
           'label': 'data(id)',
 		  'shape': 'round-rectangle',
-		  'width': 100
+		  'width': 100,
+		  'text-valign': 'center'
         }
       },
       {
@@ -146,7 +147,7 @@ function main() {
         style: {
           'width': 3,
           'line-color': '#9A9A9A',
-          'curve-style': 'bezier',
+          'curve-style': 'taxi',
           'target-arrow-shape': 'triangle',
           'target-arrow-color': '#9A9A9A'
         }
