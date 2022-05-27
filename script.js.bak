@@ -96,8 +96,8 @@ function main() {
 
     ready: function () {
       this.layout({
-        name: 'fcose',
-        randomize: true,
+        name: 'preset',
+        randomize: false,
         fit: true,
         animate: false,
       }).run();
@@ -113,7 +113,7 @@ function main() {
         },
         fisheye: true,
         animate: true,
-        undoable: false
+        undoable: true
       });
       //api.collapseAll();
     },

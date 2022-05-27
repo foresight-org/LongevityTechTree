@@ -262,8 +262,8 @@ const nodes = [
                 "id": "Advanced Glycation Endproducts"
             },
 			"position": {
-			"x": 100,
-			"y": 100,
+			"x": 1000,
+			"y": 1000,
 			},
             "group": "nodes"
         },

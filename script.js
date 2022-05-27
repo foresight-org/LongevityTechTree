@@ -97,7 +97,7 @@ function main() {
     ready: function () {
       this.layout({
         name: 'fcose',
-        randomize: true,
+        randomize: false,
         fit: true,
         animate: false,
       }).run();
