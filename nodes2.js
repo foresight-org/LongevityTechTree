@@ -1,5 +1,3 @@
-import artificialIntelligence from './nodes/artificialIntelligence.js';
-
 function makeList(strings) {
     return strings.reduce((result, str) => result + "• " + str + "<br/>", "");
 }
@@ -32,33 +30,7 @@ function parseNode(node) {
     }
 }
 
-const nodes = artificialIntelligence
-    .flat()
-    .concat(
-        {
-            "data": {
-                "id": "decentralised artificial intelligence"
-            },
-            "group": "nodes"
-        },
-        {
-            "data": {
-                "id": "private artificial intelligence"
-            },
-            "group": "nodes"
-        },
-        {
-            "data": {
-                "id": "private decentralised computation"
-            },
-            "group": "nodes"
-        },
-        {
-            "data": {
-                "id": "Data sovereignty"
-            },
-            "group": "nodes"
-        },
+const nodes = [
  		{
             "data": {
                 "id": "in vivo measurement of glycation crosslinks"
@@ -260,7 +232,7 @@ const nodes = artificialIntelligence
             },
             "group": "edges"
         },
-    )
+    ]
     .map(node => parseNode(node));
 
 export default nodes;
