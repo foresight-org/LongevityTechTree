@@ -1,8 +1,3 @@
-import artificialIntelligence from './nodes/artificialIntelligence.js';
-import decentralisation from './nodes/decentralisation.js';
-import privacy from './nodes/privacy.js';
-import data from './nodes/data.js';
-
 function makeList(strings) {
     return strings.reduce((result, str) => result + "• " + str + "<br/>", "");
 }
@@ -35,24 +30,7 @@ function parseNode(node) {
     }
 }
 
-const nodes = artificialIntelligence
-    .concat(decentralisation)
-    .concat(privacy)
-    .concat(data)
-    .flat()
-    .concat(
-        {
-            "data": {
-                "id": "private artificial intelligence"
-            },
-            "group": "nodes"
-        },
-        {
-            "data": {
-                "id": "Data sovereignty"
-            },
-            "group": "nodes"
-        },
+const nodes = [
 		{
             "data": {
                 "id": "In Vivo Measurement of Glycation Crosslinks"
@@ -852,7 +830,7 @@ const nodes = artificialIntelligence
             },
             "group": "edges"
         },
-    )
+    ]
     .map(node => parseNode(node));
 
 export default nodes;
