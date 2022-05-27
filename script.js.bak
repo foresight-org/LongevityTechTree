@@ -96,14 +96,14 @@ function main() {
 
     ready: function () {
       this.layout({
-        name: 'preset',
-        randomize: false,
+        name: 'fcose',
+        randomize: true,
         fit: true,
         animate: false,
       }).run();
       var api = this.expandCollapse({
         layoutBy: {
-          name: "preset",
+          name: "fcose",
           animate: true,
           randomize: false,
           fit: true,
@@ -115,7 +115,7 @@ function main() {
         animate: true,
         undoable: false
       });
-      api.collapseAll();
+      //api.collapseAll();
     },
     style: [
       {

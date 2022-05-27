@@ -113,9 +113,9 @@ function main() {
         },
         fisheye: true,
         animate: true,
-        undoable: false
+        undoable: true
       });
-      api.collapseAll();
+      //api.collapseAll();
     },
     style: [
       {
