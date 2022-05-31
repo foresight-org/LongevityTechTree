@@ -44,6 +44,10 @@ const nodes = [
             "data": {
                 "id": "Bacterial Elastase"
             },
+			"position": {
+			"x": 2000,
+			"y": 2000
+			},
             "group": "nodes"
         },
 		{
@@ -58,6 +62,10 @@ const nodes = [
             },
 			"style": {
 				"background-color": "#168253"
+			},
+			"position": {
+    "x": 200,
+    "y": 200
 			},
             "group": "nodes"
         },
