@@ -59,6 +59,10 @@ const nodes = [
 			"style": {
 				"background-color": "#168253"
 			},
+			"position": {
+			"x": 200,
+			"y": 200
+			},
             "group": "nodes"
         },
         {
