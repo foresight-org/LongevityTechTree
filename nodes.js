@@ -44,10 +44,6 @@ const nodes = [
             "data": {
                 "id": "Bacterial Elastase"
             },
-			"position": {
-			"x": 2000,
-			"y": 2000
-			},
             "group": "nodes"
         },
 		{
@@ -62,10 +58,6 @@ const nodes = [
             },
 			"style": {
 				"background-color": "#168253"
-			},
-			"position": {
-    "x": 200,
-    "y": 200
 			},
             "group": "nodes"
         },
@@ -269,20 +261,12 @@ const nodes = [
             "data": {
                 "id": "Advanced Glycation Endproducts"
             },
-			"position": {
-			"x": 1000,
-			"y": 1000,
-			},
             "group": "nodes"
         },
 		{
             "data": {
                 "id": "Senescence"
             },
-			"position": {
-			"x": 40,
-			"y": 40,
-			},
             "group": "nodes"
         },
 		{

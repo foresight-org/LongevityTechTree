@@ -100,6 +100,22 @@ function main() {
         randomize: false,
         fit: true,
         animate: false,
+        fixedNodeConstraint: [
+          {
+            "nodeId": "Bacterial Elastase",
+            "position": {
+              "x": 2000,
+              "y": 2000
+            }
+          },
+          {
+            "nodeId": "Control ECM Turnover Throughout Body",
+            "position": {
+              "x": 200,
+              "y": 200
+            }
+          },
+        ]
       }).run();
       var api = this.expandCollapse({
         layoutBy: {
