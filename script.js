@@ -101,18 +101,305 @@ function main() {
         fit: true,
         animate: false,
         fixedNodeConstraint: [
-          {
-            "nodeId": "Bacterial Elastase",
+		  {
+            "nodeId": "Glycoproteins",
             "position": {
-              "x": 2000,
-              "y": 2000
+              "x": 100,
+              "y": 100
             }
           },
-          {
+		  {
+            "nodeId": "Laminins",
+            "position": {
+              "x": 100,
+              "y": 150
+            }
+          },
+		  {
+            "nodeId": "Fibronectin",
+            "position": {
+              "x": 100,
+              "y": 200
+            }
+          },
+		  {
+            "nodeId": "Collagen",
+            "position": {
+              "x": 100,
+              "y": 400
+            }
+          },
+		  {
+            "nodeId": "Integrin",
+            "position": {
+              "x": 100,
+              "y": 300
+            }
+          },
+		  {
+            "nodeId": "Discoidin Domain Receptors",
+            "position": {
+              "x": 100,
+              "y": 350
+            }
+          },
+		  {
+            "nodeId": "Elastin",
+            "position": {
+              "x": 100,
+              "y": 250
+            }
+          },
+		  {
+            "nodeId": "Cancer",
+            "position": {
+              "x": 600,
+              "y": 0
+            }
+          },
+		  {
+            "nodeId": "Loss of Identity",
+            "position": {
+              "x": 600,
+              "y": 50
+            }
+          },
+		  {
+            "nodeId": "Loss of Mitochondrial Homeostasis",
+            "position": {
+              "x": 600,
+              "y": 100
+            }
+          },
+		  {
+            "nodeId": "Stem Cell Exhaustion",
+            "position": {
+              "x": 600,
+              "y": 150
+            }
+          },
+		  {
+            "nodeId": "Fibrosis",
+            "position": {
+              "x": 400,
+              "y": 300
+            }
+          },
+		  {
+            "nodeId": "Lung Failure",
+            "position": {
+              "x": 600,
+              "y": 250
+            }
+          },
+		  {
+            "nodeId": "Heart Failure",
+            "position": {
+              "x": 600,
+              "y": 300
+            }
+          },
+		  {
+            "nodeId": "Liver Failure",
+            "position": {
+              "x": 600,
+              "y": 350
+            }
+          },
+		  {
+            "nodeId": "Diet",
+            "position": {
+              "x": -200,
+              "y": 800
+            }
+          },
+		  {
+            "nodeId": "Glycation",
+            "position": {
+              "x": -200,
+              "y": 750
+            }
+          },
+		  {
+            "nodeId": "Carbamylation",
+            "position": {
+              "x": -200,
+              "y": 700
+            }
+          },
+		  {
+            "nodeId": "Loss of Mechanotransduction",
+            "position": {
+              "x": 400,
+              "y": 75
+            }
+          },
+		  {
+            "nodeId": "Advanced Glycation Endproducts",
+            "position": {
+              "x": -200,
+              "y": 650
+            }
+          },
+		  {
+            "nodeId": "Crosslinking",
+            "position": {
+              "x": -200,
+              "y": 600
+            }
+          },
+		  {
+            "nodeId": "In Vivo Measurement of Glycation Crosslinks",
+            "position": {
+              "x": -400,
+              "y": 600
+            }
+          },
+		  {
+            "nodeId": "Stiffening ECM",
+            "position": {
+              "x": -200,
+              "y": 550
+            }
+          },
+		  {
+            "nodeId": "Loss of Proteolysis",
+            "position": {
+              "x": -800,
+              "y": -150
+            }
+          },
+		  {
+            "nodeId": "Proteolysis",
+            "position": {
+              "x": -600,
+              "y": -150
+            }
+          },
+		  {
+            "nodeId": "Inflammation",
+            "position": {
+              "x": -600,
+              "y": 150
+            }
+          },
+		  {
+            "nodeId": "TGF-B",
+            "position": {
+              "x": -400,
+              "y": 150
+            }
+          },
+		  {
+            "nodeId": "Calcification",
+            "position": {
+              "x": -400,
+              "y": 0
+            }
+          },
+		  {
+            "nodeId": "Circadian Rhythm",
+            "position": {
+              "x": -600,
+              "y": 300
+            }
+          },
+		  {
+            "nodeId": "Pneumonia",
+            "position": {
+              "x": -800,
+              "y": 200
+            }
+          },
+		  {
+            "nodeId": "Bacterial Elastase",
+            "position": {
+              "x": -600,
+              "y": 200
+            }
+          },
+		  {
+            "nodeId": "ROS",
+            "position": {
+              "x": -600,
+              "y": 450
+            }
+          },
+		  {
+            "nodeId": "UV Damage",
+            "position": {
+              "x": -800,
+              "y": 450
+            }
+          },
+		  {
+            "nodeId": "Senescence",
+            "position": {
+              "x": -600,
+              "y": 550
+            }
+          },
+		  {
             "nodeId": "Control ECM Turnover Throughout Body",
             "position": {
-              "x": 200,
-              "y": 200
+              "x": 0,
+              "y": -250
+            }
+          },
+		  {
+            "nodeId": "Small Molecules for ECM Homeostasis",
+            "position": {
+              "x": 0,
+              "y": -150
+            }
+          },
+		  {
+            "nodeId": "Produce Young ECM",
+            "position": {
+              "x": 0,
+              "y": -200
+            }
+          },
+		  {
+            "nodeId": "Matrix Metalloproteinases",
+            "position": {
+              "x": -300,
+              "y": 500
+            }
+          },
+		  {
+            "nodeId": "Loss of Collagen Production",
+            "position": {
+              "x": -300,
+              "y": 400
+            }
+          },
+		  {
+            "nodeId": "Protein Aggregates",
+            "position": {
+              "x": -400,
+              "y": -150
+            }
+          },
+		  {
+            "nodeId": "Collagen Induction Therapy",
+            "position": {
+              "x": 0,
+              "y": 800
+            }
+          },
+		  {
+            "nodeId": "Collagen Replacement Therapy",
+            "position": {
+			  "x": 250,
+              "y": 800
+            }
+          },
+		  {
+            "nodeId": "Collagen Supplements",
+            "position": {
+              "x": 500,
+              "y": 800
             }
           },
         ]

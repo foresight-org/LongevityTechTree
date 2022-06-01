@@ -59,10 +59,6 @@ const nodes = [
 			"style": {
 				"background-color": "#168253"
 			},
-			"position": {
-			"x": 200,
-			"y": 200
-			},
             "group": "nodes"
         },
         {
@@ -75,15 +71,6 @@ const nodes = [
             "group": "nodes"
         },
         {
-            "data": {
-                "id": "Control Inflammation Signaling"
-            },
-			"style": {
-				"background-color": "#168253"
-			},
-            "group": "nodes"
-        },
-		{
             "data": {
                 "id": "Cancer"
             },
@@ -451,7 +438,7 @@ const nodes = [
         {
             "data": {
                 "source": "Control ECM Turnover Throughout Body",
-                "target": "Elastin",
+                "target": "Matrisome",
                 "id": "ai_dec" 
             },
             "group": "edges"
@@ -551,15 +538,6 @@ const nodes = [
                 "source": "ROS",
                 "target": "Matrix Metalloproteinases",
                 "id": "ROS_Matrix",
-                "description": ""
-            },
-            "group": "edges"
-        },
-		{
-            "data": {
-                "source": "Control Inflammation Signaling",
-                "target": "Inflammation",
-                "id": "inflame",
                 "description": ""
             },
             "group": "edges"
