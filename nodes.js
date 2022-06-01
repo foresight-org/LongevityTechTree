@@ -36,7 +36,8 @@ const nodes = [
                 "id": "In Vivo Measurement of Glycation Crosslinks"
 			},
 			"style": {
-				"background-color": "#168253"
+				"background-color": "#168253",
+				'width': 350
 			},
             "group": "nodes"
         },
@@ -44,6 +45,9 @@ const nodes = [
             "data": {
                 "id": "Bacterial Elastase"
             },
+			"style": {
+				'width': 150
+			},
             "group": "nodes"
         },
 		{
@@ -52,12 +56,25 @@ const nodes = [
             },
             "group": "nodes"
         },
+		{
+            "data": {
+                "id": "Fragmentation"
+            },
+            "group": "nodes"
+        },
+		{
+            "data": {
+                "id": "Weakening ECM"
+            },
+            "group": "nodes"
+        },
         {
             "data": {
                 "id": "Control ECM Turnover Throughout Body"
             },
 			"style": {
-				"background-color": "#168253"
+				"background-color": "#168253",
+				'width': 350
 			},
             "group": "nodes"
         },
@@ -66,7 +83,8 @@ const nodes = [
                 "id": "Produce Young ECM"
             },
 			"style": {
-				"background-color": "#168253"
+				"background-color": "#168253",
+				'width': 150
 			},
             "group": "nodes"
         },
@@ -84,7 +102,8 @@ const nodes = [
                 "id": "Loss of Identity"
             },
 			"style": {
-				"background-color": "#FFFF38"
+				"background-color": "#FFFF38",
+				'width': 125
 			},
             "group": "nodes"
         },
@@ -93,7 +112,8 @@ const nodes = [
                 "id": "Stem Cell Exhaustion"
             },
 			"style": {
-				"background-color": "#FFFF38"
+				"background-color": "#FFFF38",
+				'width': 200
 			},
             "group": "nodes"
         },
@@ -107,6 +127,9 @@ const nodes = [
             "data": {
                 "id": "Plasma Rich Platelets"
             },
+			"style": {
+				'width': 175
+			},
             "group": "nodes"
         },
 		{
@@ -120,6 +143,25 @@ const nodes = [
         },
 		{
             "data": {
+                "id": "Osteoporosis"
+            },
+			"style": {
+				"background-color": "#FFFF38"
+			},
+            "group": "nodes"
+        },
+		{
+            "data": {
+                "id": "Arterial Stiffening"
+            },
+			"style": {
+				"background-color": "#FFFF38",
+				'width': 150
+			},
+            "group": "nodes"
+        },
+		{
+            "data": {
                 "id": "Glycation"
             },
             "group": "nodes"
@@ -128,12 +170,18 @@ const nodes = [
             "data": {
                 "id": "Cell-Attached ECM"
             },
+			"style": {
+				'width': 150
+			},
             "group": "nodes"
         },
 		{
             "data": {
                 "id": "Independent ECM"
             },
+			"style": {
+				'width': 150
+			},
             "group": "nodes"
         },
 		{
@@ -141,7 +189,8 @@ const nodes = [
                 "id": "Glycation Crosslink Breakers"
             },
 			"style": {
-				"background-color": "#168253"
+				"background-color": "#168253",
+				'width': 250
 			},
             "group": "nodes"
         },
@@ -150,7 +199,8 @@ const nodes = [
                 "id": "Small Molecules for ECM Homeostasis"
             },
 			"style": {
-				"background-color": "#168253"
+				"background-color": "#168253",
+				'width': 300
 			},
             "group": "nodes"
         },
@@ -164,6 +214,20 @@ const nodes = [
             "data": {
                 "id": "Tail-Tendon Breakage Assay"
             },
+			"style": {
+				"background-color": "#FFCCCB",
+				'width': 250
+			},
+            "group": "nodes"
+        },
+		{
+            "data": {
+                "id": "Herovici Staining"
+            },
+			"style": {
+				"background-color": "#FFCCCB",
+				'width': 150
+			},
             "group": "nodes"
         },
 		{
@@ -171,7 +235,8 @@ const nodes = [
                 "id": "Loss of Mitochondrial Homeostasis"
             },
 			"style": {
-				"background-color": "#FFFF38"
+				"background-color": "#FFFF38",
+				'width': 250
 			},
             "group": "nodes"
         },
@@ -185,18 +250,27 @@ const nodes = [
             "data": {
                 "id": "Collagen Replacement Therapy"
             },
+			"style": {
+				'width': 250
+			},
             "group": "nodes"
         },
 		{
             "data": {
                 "id": "Collagen Induction Therapy"
             },
+			"style": {
+				'width': 200
+			},
             "group": "nodes"
         },
 		{
             "data": {
                 "id": "Collagen Supplements"
             },
+			"style": {
+				'width': 200
+			},
             "group": "nodes"
         },
 		{
@@ -209,6 +283,9 @@ const nodes = [
             "data": {
                 "id": "Loss of Collagen Production"
             },
+			"style": {
+				'width': 225
+			},
             "group": "nodes"
         },
 		{
@@ -221,6 +298,9 @@ const nodes = [
             "data": {
                 "id": "Matrix Metalloproteinases"
             },
+			"style": {
+				'width': 200
+			},
             "group": "nodes"
         },
 		{
@@ -246,12 +326,18 @@ const nodes = [
             "data": {
                 "id": "Arthritis"
             },
+			"style": {
+				"background-color": "#FFFF38"
+			},
             "group": "nodes"
         },
 		{
             "data": {
                 "id": "Advanced Glycation Endproducts"
             },
+			"style": {
+				'width': 250
+			},
             "group": "nodes"
         },
 		{
@@ -306,6 +392,9 @@ const nodes = [
                 "id": "Discoidin Domain Receptors",
 				"parent": "Matrisome"
             },
+			"style": {
+				'width': 250
+			},
             "group": "nodes"
         },
 		{
@@ -318,6 +407,9 @@ const nodes = [
             "data": {
                 "id": "Loss of Mechanotransduction"
             },
+			"style": {
+				'width': 250
+			},
             "group": "nodes"
         },
 		{
@@ -363,6 +455,9 @@ const nodes = [
             "data": {
                 "id": "Circadian Rhythm"
             },
+			"style": {
+				'width': 175
+			},
             "group": "nodes"
         },
 		{
@@ -370,7 +465,8 @@ const nodes = [
                 "id": "Loss of Proteolysis"
             },
 			"style": {
-				"background-color": "#FFFF38"
+				"background-color": "#FFFF38",
+				'width': 175
 			},
             "group": "nodes"
         },
@@ -378,6 +474,9 @@ const nodes = [
             "data": {
                 "id": "Protein Aggregates"
             },
+			"style": {
+				'width': 175
+			},
             "group": "nodes"
         },
 		{
@@ -391,7 +490,8 @@ const nodes = [
                 "id": "Control Downstream Signaling"
             },
 			"style": {
-				"background-color": "#168253"
+				"background-color": "#168253",
+				'width': 250
 			},
             "group": "nodes"
         },
@@ -435,14 +535,6 @@ const nodes = [
             },
             "group": "edges"
         },
-        {
-            "data": {
-                "source": "Control ECM Turnover Throughout Body",
-                "target": "Matrisome",
-                "id": "ai_dec" 
-            },
-            "group": "edges"
-        },
 		{
             "data": {
                 "source": "Loss of Mechanotransduction",
@@ -469,18 +561,24 @@ const nodes = [
         },
 		{
             "data": {
-                "source": "Cell-Attached ECM",
-                "target": "Small Molecules for ECM Homeostasis",
+                "source": "Small Molecules for ECM Homeostasis",
+                "target": "Matrisome",
                 "id": "homeo" 
             },
+			"style": {
+				"taxi-direction": "horizontal"
+			},
             "group": "edges"
         },
 		{
             "data": {
-                "source": "Independent ECM",
-                "target": "Glycation Crosslink Breakers",
-                "id": "break" 
+                "source": "Control ECM Turnover Throughout Body",
+                "target": "Matrisome",
+                "id": "harg" 
             },
+			"style": {
+				"taxi-direction": "horizontal"
+			},
             "group": "edges"
         },
 		{
@@ -488,6 +586,14 @@ const nodes = [
                 "source": "Loss of Mechanotransduction",
                 "target": "Loss of Identity",
                 "id": "ident" 
+            },
+            "group": "edges"
+        },
+		{
+            "data": {
+                "source": "Glycation Crosslink Breakers",
+                "target": "Crosslinking",
+                "id": "crossl" 
             },
             "group": "edges"
         },
@@ -547,8 +653,11 @@ const nodes = [
                 "source": "Produce Young ECM",
                 "target": "Matrisome",
                 "id": "matrione",
-                "description": ""
+				"description": ""
             },
+			"style": {
+				"taxi-direction": "horizontal"
+			},
             "group": "edges"
         },
 		{
@@ -724,6 +833,24 @@ const nodes = [
         },
 		{
             "data": {
+                "source": "Stiffening ECM",
+                "target": "Arterial Stiffening",
+                "id": "stiff2",
+                "description": ""
+            },
+            "group": "edges"
+        },
+		{
+            "data": {
+                "source": "Matrisome",
+                "target": "Osteoporosis",
+                "id": "osteo",
+                "description": ""
+            },
+            "group": "edges"
+        },
+		{
+            "data": {
                 "source": "Matrisome",
                 "target": "Loss of Mechanotransduction",
                 "id": "loss",
@@ -747,6 +874,9 @@ const nodes = [
                 "id": "collo",
                 "description": ""
             },
+			"style": {
+				"taxi-direction": "horizontal"
+			},
             "group": "edges"
         },
 		{
@@ -754,6 +884,18 @@ const nodes = [
                 "source": "Collagen Supplements",
                 "target": "Collagen",
                 "id": "collo2",
+                "description": ""
+            },
+			"style": {
+				"taxi-direction": "horizontal"
+			},
+            "group": "edges"
+        },
+		{
+            "data": {
+                "source": "Herovici Staining",
+                "target": "Collagen",
+                "id": "hero",
                 "description": ""
             },
             "group": "edges"
@@ -765,6 +907,9 @@ const nodes = [
                 "id": "collo3",
                 "description": ""
             },
+			"style": {
+				"taxi-direction": "horizontal"
+			},
             "group": "edges"
         },
 		{

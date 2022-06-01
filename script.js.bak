@@ -102,6 +102,20 @@ function main() {
         animate: false,
         fixedNodeConstraint: [
 		  {
+            "nodeId": "Cell-Attached ECM",
+            "position": {
+              "x": 0,
+              "y": 0
+            }
+          },
+		  {
+            "nodeId": "Independent ECM",
+            "position": {
+              "x": 0,
+              "y": -50
+            }
+          },
+		  {
             "nodeId": "Glycoproteins",
             "position": {
               "x": 100,
@@ -112,7 +126,7 @@ function main() {
             "nodeId": "Laminins",
             "position": {
               "x": 100,
-              "y": 150
+              "y": 250
             }
           },
 		  {
@@ -127,6 +141,13 @@ function main() {
             "position": {
               "x": 100,
               "y": 400
+            }
+          },
+		  {
+            "nodeId": "Herovici Staining",
+            "position": {
+              "x": 100,
+              "y": 600
             }
           },
 		  {
@@ -147,35 +168,56 @@ function main() {
             "nodeId": "Elastin",
             "position": {
               "x": 100,
-              "y": 250
+              "y": 150
+            }
+          },
+		  {
+            "nodeId": "Arthritis",
+            "position": {
+              "x": 500,
+              "y": 150
+            }
+          },
+		  {
+            "nodeId": "Plasma Rich Platelets",
+            "position": {
+              "x": 500,
+              "y": 100
+            }
+          },
+		  {
+            "nodeId": "Osteoporosis",
+            "position": {
+              "x": 500,
+              "y": 200
             }
           },
 		  {
             "nodeId": "Cancer",
             "position": {
-              "x": 600,
-              "y": 0
+              "x": 750,
+              "y": -100
             }
           },
 		  {
             "nodeId": "Loss of Identity",
             "position": {
-              "x": 600,
-              "y": 50
+              "x": 800,
+              "y": -50
             }
           },
 		  {
             "nodeId": "Loss of Mitochondrial Homeostasis",
             "position": {
-              "x": 600,
-              "y": 100
+              "x": 850,
+              "y": 0
             }
           },
 		  {
             "nodeId": "Stem Cell Exhaustion",
             "position": {
-              "x": 600,
-              "y": 150
+              "x": 800,
+              "y": 50
             }
           },
 		  {
@@ -230,8 +272,8 @@ function main() {
 		  {
             "nodeId": "Loss of Mechanotransduction",
             "position": {
-              "x": 400,
-              "y": 75
+              "x": 500,
+              "y": 0
             }
           },
 		  {
@@ -266,14 +308,14 @@ function main() {
             "nodeId": "Loss of Proteolysis",
             "position": {
               "x": -800,
-              "y": -150
+              "y": 300
             }
           },
 		  {
             "nodeId": "Proteolysis",
             "position": {
               "x": -600,
-              "y": -150
+              "y": 300
             }
           },
 		  {
@@ -284,17 +326,24 @@ function main() {
             }
           },
 		  {
+            "nodeId": "TGF-B",
+            "position": {
+              "x": -400,
+              "y": 150
+            }
+          },
+		  {
             "nodeId": "Calcification",
             "position": {
               "x": -400,
-              "y": 0
+              "y": 250
             }
           },
 		  {
             "nodeId": "Circadian Rhythm",
             "position": {
               "x": -600,
-              "y": 300
+              "y": 350
             }
           },
 		  {
@@ -309,6 +358,13 @@ function main() {
             "position": {
               "x": -600,
               "y": 200
+            }
+          },
+		  {
+            "nodeId": "Elastase",
+            "position": {
+              "x": -600,
+              "y": 0
             }
           },
 		  {
@@ -335,22 +391,22 @@ function main() {
 		  {
             "nodeId": "Control ECM Turnover Throughout Body",
             "position": {
-              "x": 0,
-              "y": -250
+              "x": -200,
+              "y": -350
             }
           },
 		  {
             "nodeId": "Small Molecules for ECM Homeostasis",
             "position": {
-              "x": 0,
-              "y": -150
+              "x": -175,
+              "y": -250
             }
           },
 		  {
             "nodeId": "Produce Young ECM",
             "position": {
-              "x": 0,
-              "y": -200
+              "x": -100,
+              "y": -300
             }
           },
 		  {
@@ -371,28 +427,28 @@ function main() {
             "nodeId": "Protein Aggregates",
             "position": {
               "x": -400,
-              "y": -150
+              "y": 600
             }
           },
 		  {
             "nodeId": "Collagen Induction Therapy",
             "position": {
-              "x": 0,
-              "y": 800
+              "x": 400,
+              "y": 500
             }
           },
 		  {
             "nodeId": "Collagen Replacement Therapy",
             "position": {
-			  "x": 250,
-              "y": 800
+			  "x": 425,
+              "y": 550
             }
           },
 		  {
             "nodeId": "Collagen Supplements",
             "position": {
-              "x": 500,
-              "y": 800
+              "x": 400,
+              "y": 600
             }
           },
         ]

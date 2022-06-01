@@ -1,0 +1,76 @@
+{
+            "data": {
+                "id": "In Vivo Measurement of Glycation Crosslinks"
+			},
+			"style": {
+				"background-color": "#168253",
+				'width': 350
+			},
+            "group": "nodes"
+        },
+		{
+            "data": {
+                "id": "Bacterial Elastase"
+            },
+			"style": {
+				'width': 150
+			},
+            "group": "nodes"
+        },
+		{
+            "data": {
+                "id": "Matrisome"
+            },
+            "group": "nodes"
+        },
+		{
+            "data": {
+                "id": "Fragmentation"
+            },
+            "group": "nodes"
+        },
+		{
+            "data": {
+                "id": "Weakening ECM"
+            },
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "Control ECM Turnover Throughout Body"
+            },
+			"style": {
+				"background-color": "#168253",
+				'width': 350
+			},
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "Produce Young ECM"
+            },
+			"style": {
+				"background-color": "#168253",
+				'width': 150
+			},
+            "group": "nodes"
+        },
+        {
+            "data": {
+                "id": "Cancer"
+            },
+			"style": {
+				"background-color": "#FFFF38"
+			},
+            "group": "nodes"
+        },
+		{
+            "data": {
+                "id": "Loss of Identity"
+            },
+			"style": {
+				"background-color": "#FFFF38",
+				'width': 125
+			},
+            "group": "nodes"
+        },
