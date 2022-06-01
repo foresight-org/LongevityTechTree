@@ -427,7 +427,7 @@ function main() {
             "nodeId": "Protein Aggregates",
             "position": {
               "x": -400,
-              "y": 600
+              "y": 300
             }
           },
 		  {

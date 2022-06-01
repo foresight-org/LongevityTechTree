@@ -249,27 +249,6 @@ function main() {
             }
           },
 		  {
-            "nodeId": "Diet",
-            "position": {
-              "x": -200,
-              "y": 800
-            }
-          },
-		  {
-            "nodeId": "Glycation",
-            "position": {
-              "x": -200,
-              "y": 750
-            }
-          },
-		  {
-            "nodeId": "Carbamylation",
-            "position": {
-              "x": -200,
-              "y": 700
-            }
-          },
-		  {
             "nodeId": "Loss of Mechanotransduction",
             "position": {
               "x": 500,

@@ -56,6 +56,18 @@ const nodes = [
             },
             "group": "nodes"
         },
+		{
+            "data": {
+                "id": "Fragmentation"
+            },
+            "group": "nodes"
+        },
+		{
+            "data": {
+                "id": "Weakening ECM"
+            },
+            "group": "nodes"
+        },
         {
             "data": {
                 "id": "Control ECM Turnover Throughout Body"
@@ -779,33 +791,6 @@ const nodes = [
                 "source": "Crosslinking",
                 "target": "Stiffening ECM",
                 "id": "cross",
-                "description": ""
-            },
-            "group": "edges"
-        },
-		{
-            "data": {
-                "source": "Diet",
-                "target": "Glycation",
-                "id": "glyc",
-                "description": ""
-            },
-            "group": "edges"
-        },
-		{
-            "data": {
-                "source": "Glycation",
-                "target": "Carbamylation",
-                "id": "carba",
-                "description": ""
-            },
-            "group": "edges"
-        },
-		{
-            "data": {
-                "source": "Carbamylation",
-                "target": "Advanced Glycation Endproducts",
-                "id": "AGEs",
                 "description": ""
             },
             "group": "edges"

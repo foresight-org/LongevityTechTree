@@ -119,12 +119,6 @@ const nodes = [
         },
 		{
             "data": {
-                "id": "Diet"
-            },
-            "group": "nodes"
-        },
-		{
-            "data": {
                 "id": "Plasma Rich Platelets"
             },
 			"style": {
@@ -158,12 +152,6 @@ const nodes = [
 				"background-color": "#FFFF38",
 				'width': 150
 			},
-            "group": "nodes"
-        },
-		{
-            "data": {
-                "id": "Glycation"
-            },
             "group": "nodes"
         },
 		{
@@ -202,12 +190,6 @@ const nodes = [
 				"background-color": "#168253",
 				'width': 300
 			},
-            "group": "nodes"
-        },
-		{
-            "data": {
-                "id": "Carbamylation"
-            },
             "group": "nodes"
         },
 		{
@@ -791,33 +773,6 @@ const nodes = [
                 "source": "Crosslinking",
                 "target": "Stiffening ECM",
                 "id": "cross",
-                "description": ""
-            },
-            "group": "edges"
-        },
-		{
-            "data": {
-                "source": "Diet",
-                "target": "Glycation",
-                "id": "glyc",
-                "description": ""
-            },
-            "group": "edges"
-        },
-		{
-            "data": {
-                "source": "Glycation",
-                "target": "Carbamylation",
-                "id": "carba",
-                "description": ""
-            },
-            "group": "edges"
-        },
-		{
-            "data": {
-                "source": "Carbamylation",
-                "target": "Advanced Glycation Endproducts",
-                "id": "AGEs",
                 "description": ""
             },
             "group": "edges"
