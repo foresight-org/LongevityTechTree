@@ -119,12 +119,6 @@ const nodes = [
         },
 		{
             "data": {
-                "id": "Diet"
-            },
-            "group": "nodes"
-        },
-		{
-            "data": {
                 "id": "Plasma Rich Platelets"
             },
 			"style": {
@@ -158,12 +152,6 @@ const nodes = [
 				"background-color": "#FFFF38",
 				'width': 150
 			},
-            "group": "nodes"
-        },
-		{
-            "data": {
-                "id": "Glycation"
-            },
             "group": "nodes"
         },
 		{
@@ -202,12 +190,6 @@ const nodes = [
 				"background-color": "#168253",
 				'width': 300
 			},
-            "group": "nodes"
-        },
-		{
-            "data": {
-                "id": "Carbamylation"
-            },
             "group": "nodes"
         },
 		{
@@ -595,6 +577,9 @@ const nodes = [
                 "target": "Crosslinking",
                 "id": "crossl" 
             },
+			"style": {
+				"taxi-direction": "horizontal"
+			},
             "group": "edges"
         },
 		{
@@ -838,6 +823,9 @@ const nodes = [
                 "id": "meas",
                 "description": ""
             },
+			"style": {
+				"taxi-direction": "horizontal"
+			},
             "group": "edges"
         },
 		{
@@ -890,6 +878,24 @@ const nodes = [
                 "source": "Discoidin Domain Receptors",
                 "target": "Fibrosis",
                 "id": "fibro",
+                "description": ""
+            },
+            "group": "edges"
+        },
+		{
+            "data": {
+                "source": "Matrix Metalloproteinases",
+                "target": "Fragmentation",
+                "id": "frag",
+                "description": ""
+            },
+            "group": "edges"
+        },
+		{
+            "data": {
+                "source": "Fragmentation",
+                "target": "Weakening ECM",
+                "id": "weak",
                 "description": ""
             },
             "group": "edges"

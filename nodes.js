@@ -481,7 +481,8 @@ const nodes = [
             "data": {
                 "source": "Bacterial Elastase",
                 "target": "Elastin",
-                "id": "bact_elast" 
+                "id": "bact_elast",
+				"description": ""
             },
             "group": "edges"
         },
@@ -489,7 +490,8 @@ const nodes = [
             "data": {
                 "source": "Elastase",
                 "target": "Elastin",
-                "id": "elast_elast" 
+                "id": "elast_elast",
+				"description": ""
             },
             "group": "edges"
         },
@@ -497,15 +499,17 @@ const nodes = [
             "data": {
                 "source": "Inflammation",
                 "target": "TGF-B",
-                "id": "inf_tgf" 
-            },
+                "id": "inf_tgf",
+				"description": ""
+	    },
             "group": "edges"
         },
         {
             "data": {
                 "source": "TGF-B",
                 "target": "Collagen",
-                "id": "tgf_col" 
+                "id": "tgf_col",
+				"description": ""
             },
             "group": "edges"
         },
@@ -545,7 +549,8 @@ const nodes = [
             "data": {
                 "source": "Small Molecules for ECM Homeostasis",
                 "target": "Matrisome",
-                "id": "homeo" 
+                "id": "homeo",
+				"description": ""
             },
 			"style": {
 				"taxi-direction": "horizontal"
@@ -556,7 +561,8 @@ const nodes = [
             "data": {
                 "source": "Control ECM Turnover Throughout Body",
                 "target": "Matrisome",
-                "id": "harg" 
+                "id": "harg",
+				"description": ""
             },
 			"style": {
 				"taxi-direction": "horizontal"
@@ -567,7 +573,8 @@ const nodes = [
             "data": {
                 "source": "Loss of Mechanotransduction",
                 "target": "Loss of Identity",
-                "id": "ident" 
+                "id": "ident",
+				"description": ""
             },
             "group": "edges"
         },
@@ -577,13 +584,17 @@ const nodes = [
                 "target": "Crosslinking",
                 "id": "crossl" 
             },
+			"style": {
+				"taxi-direction": "horizontal"
+			},
             "group": "edges"
         },
 		{
             "data": {
                 "source": "Loss of Mechanotransduction",
                 "target": "Stem Cell Exhaustion",
-                "id": "exhaust" 
+                "id": "exhaust" ,
+				"description": ""
             },
             "group": "edges"
         },
@@ -591,7 +602,8 @@ const nodes = [
             "data": {
                 "source": "Loss of Mechanotransduction",
                 "target": "Loss of Mitochondrial Homeostasis",
-                "id": "homeo2" 
+                "id": "homeo2",
+				"description": ""
             },
             "group": "edges"
         },
@@ -599,7 +611,8 @@ const nodes = [
             "data": {
                 "source": "Senescence",
                 "target": "Matrix Metalloproteinases",
-                "id": "ai_priv" 
+                "id": "ai_priv",
+				"description": ""
             },
             "group": "edges"
         },
@@ -820,6 +833,9 @@ const nodes = [
                 "id": "meas",
                 "description": ""
             },
+			"style": {
+				"taxi-direction": "horizontal"
+			},
             "group": "edges"
         },
 		{
@@ -872,6 +888,24 @@ const nodes = [
                 "source": "Discoidin Domain Receptors",
                 "target": "Fibrosis",
                 "id": "fibro",
+                "description": ""
+            },
+            "group": "edges"
+        },
+		{
+            "data": {
+                "source": "Matrix Metalloproteinases",
+                "target": "Fragmentation",
+                "id": "frag",
+                "description": ""
+            },
+            "group": "edges"
+        },
+		{
+            "data": {
+                "source": "Fragmentation",
+                "target": "Weakening ECM",
+                "id": "weak",
                 "description": ""
             },
             "group": "edges"

@@ -258,29 +258,50 @@ function main() {
 		  {
             "nodeId": "Advanced Glycation Endproducts",
             "position": {
-              "x": -200,
-              "y": 650
+              "x": -700,
+              "y": 750
             }
           },
 		  {
             "nodeId": "Crosslinking",
             "position": {
-              "x": -200,
-              "y": 600
+              "x": -400,
+              "y": 750
+            }
+          },
+		  {
+            "nodeId": "Tail-Tendon Breakage Assay",
+            "position": {
+              "x": -400,
+              "y": 700
             }
           },
 		  {
             "nodeId": "In Vivo Measurement of Glycation Crosslinks",
             "position": {
-              "x": -400,
-              "y": 600
+              "x": -600,
+              "y": 850
+            }
+          },
+		  {
+            "nodeId": "Glycation Crosslink Breakers",
+            "position": {
+              "x": -550,
+              "y": 900
             }
           },
 		  {
             "nodeId": "Stiffening ECM",
             "position": {
               "x": -200,
-              "y": 550
+              "y": 750
+            }
+          },
+		  {
+            "nodeId": "Arterial Stiffening",
+            "position": {
+              "x": 0,
+              "y": 750
             }
           },
 		  {
@@ -393,6 +414,20 @@ function main() {
             "position": {
               "x": -300,
               "y": 500
+            }
+          },
+		  {
+            "nodeId": "Fragmentation",
+            "position": {
+              "x": -300,
+              "y": 550
+            }
+          },
+		  {
+            "nodeId": "Weakening ECM",
+            "position": {
+              "x": -100,
+              "y": 550
             }
           },
 		  {
