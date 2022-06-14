@@ -423,6 +423,15 @@
         },
 		{
             "data": {
+                "id": "Macrophage Apoptosis"
+            },
+			"style": {
+				'width': 125
+			},
+            "group": "nodes"
+        },
+		{
+            "data": {
                 "id": "Receptors for AGEs"
             },
 			"style": {

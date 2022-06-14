@@ -1,3 +1,4 @@
+const agenode = 
 		{
             "data": {
                 "id": "Autofluorescence"
@@ -483,4 +484,10 @@
 				'width': 125
 			},
             "group": "nodes"
-        },
+        }
+		
+export default [
+    myNode,
+    myEdge1,
+    myEdge2
+]
