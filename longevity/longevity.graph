@@ -1,0 +1,224 @@
+{
+    "items": [
+        {
+            "id": 2,
+            "kind": "node",
+            "label": "Arithmetic",
+            "notes": "some notes here",
+            "desc": "",
+            "link": "",
+            "tags": [
+                "org:meta",
+                "primary"
+            ],
+            "parent": null,
+            "pos": {
+                "x": 264,
+                "y": 351
+            }
+        },
+        {
+            "id": 1,
+            "kind": "node",
+            "label": "Algebra",
+            "notes": "other notes",
+            "desc": "",
+            "link": "",
+            "tags": [
+                "org:google",
+                "lab:cambridge",
+                "sponsor"
+            ],
+            "parent": null,
+            "pos": {
+                "x": 155,
+                "y": 783
+            }
+        },
+        {
+            "id": 4,
+            "kind": "edge",
+            "label": "is a prerequisite of",
+            "desc": "",
+            "link": "",
+            "tags": [
+                "org:apple",
+                "lab:mit"
+            ],
+            "directed": true,
+            "weight": 5,
+            "fromId": 3,
+            "toId": 1
+        },
+        {
+            "id": 37845,
+            "kind": "edge",
+            "label": "",
+            "desc": "",
+            "link": "",
+            "tags": [
+                "org:apple",
+                "org:google"
+            ],
+            "directed": true,
+            "weight": 5,
+            "fromId": 3,
+            "toId": 94575
+        },
+        {
+            "id": 3,
+            "kind": "node",
+            "label": "Subtraction",
+            "notes": "dangal",
+            "desc": "",
+            "link": "",
+            "tags": [],
+            "parent": 2,
+            "pos": {
+                "x": 445,
+                "y": 364
+            }
+        },
+        {
+            "id": 94575,
+            "kind": "node",
+            "label": "Multiplication",
+            "notes": "",
+            "desc": "",
+            "link": "",
+            "tags": [
+                "org:apple",
+                "lab:mit"
+            ],
+            "parent": 2,
+            "pos": {
+                "x": 70,
+                "y": 410
+            }
+        },
+        {
+            "id": 1550,
+            "kind": "node",
+            "label": "Quadratic Equations",
+            "notes": "",
+            "desc": "",
+            "link": "",
+            "tags": [
+                "org:apple",
+                "org:google",
+                "sponsor"
+            ],
+            "parent": 1,
+            "pos": {
+                "x": 150,
+                "y": 831
+            }
+        },
+        {
+            "id": 17122,
+            "kind": "edge",
+            "label": "",
+            "desc": "",
+            "link": "",
+            "tags": [],
+            "directed": true,
+            "weight": 5,
+            "fromId": 5699,
+            "toId": 10451,
+            "strokeType": "dotted"
+        },
+        {
+            "id": 5699,
+            "kind": "node",
+            "label": "Arithmetic Sequences",
+            "notes": "",
+            "desc": "",
+            "link": "",
+            "tags": [],
+            "parent": 3,
+            "pos": {
+                "x": 465,
+                "y": 274
+            }
+        },
+        {
+            "id": 6916,
+            "kind": "node",
+            "label": "Factorizing",
+            "notes": "",
+            "desc": "",
+            "link": "",
+            "tags": [],
+            "parent": 94575,
+            "pos": {
+                "x": 48,
+                "y": 450
+            }
+        },
+        {
+            "id": 10451,
+            "kind": "node",
+            "label": "Proof by Induction",
+            "notes": "",
+            "desc": "",
+            "link": "",
+            "tags": [],
+            "parent": 3,
+            "pos": {
+                "x": 519,
+                "y": 474
+            }
+        },
+        {
+            "id": 3283,
+            "kind": "node",
+            "label": "Prime Numbers",
+            "notes": "",
+            "desc": "",
+            "link": "",
+            "tags": [],
+            "badge": "👎",
+            "parent": 6916,
+            "pos": {
+                "x": 25,
+                "y": 450
+            }
+        }
+    ],
+    "extra": [
+        {
+            "kind": "note",
+            "pos": {
+                "x": 200,
+                "y": 250
+            },
+            "value": "hello"
+        }
+    ],
+    "grid": "false",
+    "theme": {
+        "name": "classic",
+        "bgfill": "#f3f3f3",
+        "grid": "cartesian",
+        "font": "Balsamiq Sans",
+        "nodefill": "#fbe6a3",
+        "nodelabelstroke": "black",
+        "nodeborder": "black",
+        "edgestroke": "#4277dd",
+        "edgeshape": "curved",
+        "edgestroketype": "solid",
+        "badges": [
+            "✅",
+            "❌",
+            "⚡",
+            "👎",
+            "👍"
+        ]
+    },
+    "jsondownload": true,
+    "jsonupload": true,
+    "contextmenu": true,
+    "customjson": false,
+    "exportcytoscape": true,
+    "exportsvg": true
+}
