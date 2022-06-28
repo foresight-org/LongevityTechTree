@@ -28,20 +28,6 @@
       "shape": "straight"
     },
     {
-      "id": 7231,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "stroke": "#d0021b",
-      "directed": true,
-      "weight": 5,
-      "fromId": 1665,
-      "toId": 1911,
-      "shape": "ortho"
-    },
-    {
       "id": 486,
       "kind": "edge",
       "label": "",
@@ -158,19 +144,6 @@
       "weight": 5,
       "fromId": 455,
       "toId": 9210,
-      "shape": "straight"
-    },
-    {
-      "id": 4725,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 2884,
-      "toId": 8590,
       "shape": "straight"
     },
     {
@@ -389,33 +362,6 @@
       "shape": "ortho"
     },
     {
-      "id": 8230,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 7166,
-      "toId": 1665,
-      "shape": "straight"
-    },
-    {
-      "id": 8112,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "stroke": "#d0021b",
-      "directed": true,
-      "weight": 5,
-      "fromId": 1911,
-      "toId": 2884,
-      "shape": "ortho"
-    },
-    {
       "id": 3581,
       "kind": "edge",
       "label": "",
@@ -427,6 +373,19 @@
       "fromId": 7238,
       "toId": 455,
       "shape": "ortho"
+    },
+    {
+      "id": 4725,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 2884,
+      "toId": 8590,
+      "shape": "straight"
     },
     {
       "id": 8260,
@@ -468,21 +427,6 @@
       "pos": {
         "x": 939.0733032226562,
         "y": 18.13746452331543
-      },
-      "fill": "#f8e71c"
-    },
-    {
-      "id": 8590,
-      "kind": "node",
-      "label": "Scleroderma",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "parent": null,
-      "pos": {
-        "x": 894.9396362304688,
-        "y": 124.7036361694336
       },
       "fill": "#f8e71c"
     },
@@ -761,35 +705,6 @@
       "fill": "#f8e71c"
     },
     {
-      "id": 1665,
-      "kind": "node",
-      "label": "Inflammation",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "parent": null,
-      "pos": {
-        "x": -866.2537841796875,
-        "y": 236.74215698242188
-      },
-      "fill": "#f8e71c"
-    },
-    {
-      "id": 1911,
-      "kind": "node",
-      "label": "TGF-B",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "parent": null,
-      "pos": {
-        "x": -551.6739822305664,
-        "y": 156.96192932128906
-      }
-    },
-    {
       "id": 7238,
       "kind": "node",
       "label": "Bacterial Elastase",
@@ -832,6 +747,21 @@
       }
     },
     {
+      "id": 8590,
+      "kind": "node",
+      "label": "Scleroderma",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 894.9396362304688,
+        "y": 124.7036361694336
+      },
+      "fill": "#f8e71c"
+    },
+    {
       "id": 2699,
       "kind": "node",
       "label": "Advanced Glycation Endproducts",
@@ -841,9 +771,37 @@
       "tags": [],
       "parent": null,
       "pos": {
-        "x": -3605.6410369873047,
-        "y": 551.1472702026367
+        "x": -2558.817916870117,
+        "y": 557.1963958740234
       }
+    },
+    {
+      "id": 8112,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "stroke": "#d0021b",
+      "directed": true,
+      "weight": 5,
+      "fromId": 1911,
+      "toId": 2884,
+      "shape": "ortho"
+    },
+    {
+      "id": 9963,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "stroke": "#d0021b",
+      "directed": true,
+      "weight": 5,
+      "fromId": 7166,
+      "toId": 1911,
+      "shape": "straight"
     },
     {
       "id": 7018,
@@ -989,45 +947,6 @@
       "shape": "straight"
     },
     {
-      "id": 2723,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 8496,
-      "toId": 7665,
-      "shape": "straight"
-    },
-    {
-      "id": 2203,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 8496,
-      "toId": 5297,
-      "shape": "straight"
-    },
-    {
-      "id": 2817,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 8496,
-      "toId": 821,
-      "shape": "straight"
-    },
-    {
       "id": 419,
       "kind": "edge",
       "label": "",
@@ -1051,84 +970,6 @@
       "weight": 5,
       "fromId": 9793,
       "toId": 4485,
-      "shape": "straight"
-    },
-    {
-      "id": 8623,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 4485,
-      "toId": 484,
-      "shape": "straight"
-    },
-    {
-      "id": 2747,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 4485,
-      "toId": 9962,
-      "shape": "straight"
-    },
-    {
-      "id": 7693,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 4485,
-      "toId": 8678,
-      "shape": "straight"
-    },
-    {
-      "id": 1503,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 4602,
-      "toId": 471,
-      "shape": "straight"
-    },
-    {
-      "id": 8109,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 4602,
-      "toId": 5979,
-      "shape": "straight"
-    },
-    {
-      "id": 5596,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 4654,
-      "toId": 5377,
       "shape": "straight"
     },
     {
@@ -1301,6 +1142,123 @@
       "shape": "straight"
     },
     {
+      "id": 5596,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4654,
+      "toId": 5377,
+      "shape": "straight"
+    },
+    {
+      "id": 8623,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4485,
+      "toId": 484,
+      "shape": "straight"
+    },
+    {
+      "id": 2747,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4485,
+      "toId": 9962,
+      "shape": "straight"
+    },
+    {
+      "id": 7693,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4485,
+      "toId": 8678,
+      "shape": "straight"
+    },
+    {
+      "id": 1503,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4602,
+      "toId": 471,
+      "shape": "straight"
+    },
+    {
+      "id": 8109,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4602,
+      "toId": 5979,
+      "shape": "straight"
+    },
+    {
+      "id": 2723,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 8496,
+      "toId": 7665,
+      "shape": "straight"
+    },
+    {
+      "id": 2203,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 8496,
+      "toId": 5297,
+      "shape": "straight"
+    },
+    {
+      "id": 2817,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 8496,
+      "toId": 821,
+      "shape": "straight"
+    },
+    {
       "id": 2222,
       "kind": "node",
       "label": "Integrin",
@@ -1399,87 +1357,59 @@
       }
     },
     {
-      "id": 5900,
+      "id": 457,
       "kind": "node",
-      "label": "Glucose",
+      "label": "Spiegel Lab - Yale",
       "notes": "",
       "desc": "",
-      "link": "",
+      "link": "https://spiegellab.yale.edu/",
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -3944.0455169677734,
-        "y": 453.5881156921387
+        "x": -2238.5692138671875,
+        "y": -124.15507507324219
       }
     },
     {
-      "id": 1596,
+      "id": 6628,
       "kind": "node",
-      "label": "Lipids",
+      "label": "Gugliucci Lab - Touro University",
       "notes": "",
       "desc": "",
-      "link": "",
+      "link": "https://research.tu.edu/com/laboratories/gugliucci/index.html",
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -3927.62451171875,
-        "y": 723.484130859375
+        "x": -2174.7774658203125,
+        "y": -75.42672920227051
       }
     },
     {
-      "id": 1428,
+      "id": 3340,
       "kind": "node",
-      "label": "Glycolysis",
+      "label": "Taylor Lab - Tufts",
       "notes": "",
       "desc": "",
-      "link": "",
+      "link": "https://gsbs.tufts.edu/facultyResearch/faculty/taylor-allen/research",
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -3704.9205169677734,
-        "y": 433.9179001539178
+        "x": -2236.6949462890625,
+        "y": -24.824230194091797
       }
     },
     {
-      "id": 837,
+      "id": 3994,
       "kind": "node",
-      "label": "Aminoacetone Threonine",
+      "label": "Kapahi Lab - Buck Institute",
       "notes": "",
       "desc": "",
-      "link": "",
+      "link": "https://www.buckinstitute.org/lab/kapahi-lab/",
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -3711.326171875,
-        "y": 281.23545837402344
-      }
-    },
-    {
-      "id": 8496,
-      "kind": "node",
-      "label": "Glyoxal/Glycoaldehyde",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "parent": 2699,
-      "pos": {
-        "x": -3485.255990026327,
-        "y": 753.7681884765625
-      }
-    },
-    {
-      "id": 1016,
-      "kind": "node",
-      "label": "Dietary AGE's",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "parent": 2699,
-      "pos": {
-        "x": -3254.106201171875,
-        "y": 937.18798828125
+        "x": -2199.2117919921875,
+        "y": -172.8834228515625
       }
     },
     {
@@ -1492,50 +1422,22 @@
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -3942.296553222106,
-        "y": 358.4916801452637
+        "x": -3392.5832963861685,
+        "y": 224.55548477172852
       }
     },
     {
-      "id": 4485,
+      "id": 5900,
       "kind": "node",
-      "label": "Methylglyoxyl",
+      "label": "Glucose",
       "notes": "",
       "desc": "",
       "link": "",
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -3492.5209304852256,
-        "y": 381.9853745191522
-      }
-    },
-    {
-      "id": 4602,
-      "kind": "node",
-      "label": "Deoxyglucosone",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "parent": 2699,
-      "pos": {
-        "x": -3511.4591948905054,
-        "y": 518.6116061780722
-      }
-    },
-    {
-      "id": 3233,
-      "kind": "node",
-      "label": "Amadori Products",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "parent": 2699,
-      "pos": {
-        "x": -3637.1548767854315,
-        "y": 616.1009250257284
+        "x": -3412.177230834961,
+        "y": 354.2735939025879
       }
     },
     {
@@ -1548,39 +1450,150 @@
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -3950.1981048583984,
-        "y": 570.3917575452597
+        "x": -3405.175033569336,
+        "y": 486.756465492037
       }
     },
     {
-      "id": 4389,
+      "id": 1596,
       "kind": "node",
-      "label": "Advanced Glycation Endproduct Catalog",
+      "label": "Lipids",
       "notes": "",
       "desc": "",
       "link": "",
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -3168.879150390625,
-        "y": 158.93284606933594
-      },
-      "fill": "#417505"
+        "x": -3440.7520751953125,
+        "y": 665.8512496948242
+      }
     },
     {
-      "id": 9458,
+      "id": 837,
       "kind": "node",
-      "label": "Data on AGE accumulation over time",
+      "label": "Aminoacetone Threonine",
       "notes": "",
       "desc": "",
       "link": "",
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -2772.6005859375,
-        "y": 195.86203002929688
+        "x": -3035.0811767578125,
+        "y": 189.49372100830078
+      }
+    },
+    {
+      "id": 4485,
+      "kind": "node",
+      "label": "Methylglyoxyl",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2851.482478336788,
+        "y": 309.61720282725764
+      }
+    },
+    {
+      "id": 1428,
+      "kind": "node",
+      "label": "Glycolysis",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3102.988265991211,
+        "y": 375.2897492139764
+      }
+    },
+    {
+      "id": 4602,
+      "kind": "node",
+      "label": "Deoxyglucosone",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2907.012539617068,
+        "y": 477.1917377088339
+      }
+    },
+    {
+      "id": 3233,
+      "kind": "node",
+      "label": "Amadori Products",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3066.5602722932435,
+        "y": 598.4668841932089
+      }
+    },
+    {
+      "id": 8496,
+      "kind": "node",
+      "label": "Glyoxal/Glycoaldehyde",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3116.2358484247643,
+        "y": 728.6126022338867
+      }
+    },
+    {
+      "id": 691,
+      "kind": "node",
+      "label": "AGE's",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2393.954330444336,
+        "y": 521.7348537445068
+      }
+    },
+    {
+      "id": 1016,
+      "kind": "node",
+      "label": "Dietary AGE's",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2752.2232666015625,
+        "y": 917.132194519043
+      }
+    },
+    {
+      "id": 7163,
+      "kind": "node",
+      "label": "AGE Reduction",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2649.2183837890625,
+        "y": 1014.3012619018555
       },
-      "fill": "#417505"
+      "fill": "#104194"
     },
     {
       "id": 3444,
@@ -1592,8 +1605,8 @@
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -2514.822265625,
-        "y": 461.12669372558594
+        "x": -1942.5013427734375,
+        "y": 320.85623931884766
       }
     },
     {
@@ -1606,8 +1619,8 @@
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -2253.292710281268,
-        "y": 457.8635711669922
+        "x": -1682.4493264922053,
+        "y": 320.80496978759766
       },
       "fill": "#f8e71c"
     },
@@ -1621,8 +1634,8 @@
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -2534.266240586407,
-        "y": 582.5752849578857
+        "x": -1931.2265677348446,
+        "y": 485.83629417419434
       },
       "fill": "#f8e71c"
     },
@@ -1636,8 +1649,8 @@
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -2532.3590050453004,
-        "y": 625.2341594696045
+        "x": -1893.4252892249879,
+        "y": 569.2841396331787
       },
       "fill": "#f8e71c"
     },
@@ -1651,8 +1664,8 @@
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -2534.9216565298602,
-        "y": 671.6025066375732
+        "x": -1882.9354504751727,
+        "y": 643.38893699646
       },
       "fill": "#f8e71c"
     },
@@ -1666,8 +1679,8 @@
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -2527.6282005600065,
-        "y": 727.4428997039795
+        "x": -1905.009914427194,
+        "y": 722.0711269378662
       },
       "fill": "#f8e71c"
     },
@@ -1681,8 +1694,8 @@
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -2546.58256898427,
-        "y": 779.652738571167
+        "x": -1914.1749762108325,
+        "y": 784.070333480835
       },
       "fill": "#f8e71c"
     },
@@ -1696,10 +1709,40 @@
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -2548.912138232473,
-        "y": 837.5730266571045
+        "x": -1903.4520552246604,
+        "y": 864.8324184417725
       },
       "fill": "#f8e71c"
+    },
+    {
+      "id": 4389,
+      "kind": "node",
+      "label": "Advanced Glycation Endproduct Catalog",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2677.2396240234375,
+        "y": 49.98849105834961
+      },
+      "fill": "#417505"
+    },
+    {
+      "id": 9458,
+      "kind": "node",
+      "label": "Data on AGE accumulation over time",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2395.9547119140625,
+        "y": 112.88394927978516
+      },
+      "fill": "#417505"
     },
     {
       "id": 6468,
@@ -1711,8 +1754,22 @@
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -2550.4688742028857,
-        "y": 337.64327812194824
+        "x": -1966.0927755700732,
+        "y": 233.64488792419434
+      }
+    },
+    {
+      "id": 2416,
+      "kind": "node",
+      "label": "NF-kB",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -1768.172835741158,
+        "y": 227.4624538421631
       }
     },
     {
@@ -1725,95 +1782,10 @@
       "tags": [],
       "parent": 2699,
       "pos": {
-        "x": -2107.061354234325,
-        "y": 337.64327812194824
+        "x": -1612.9486833358874,
+        "y": 227.46243858337402
       },
       "fill": "#f8e71c"
-    },
-    {
-      "id": 2416,
-      "kind": "node",
-      "label": "NF-kB",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "parent": 2699,
-      "pos": {
-        "x": -2320.400374803658,
-        "y": 337.64327812194824
-      }
-    },
-    {
-      "id": 691,
-      "kind": "node",
-      "label": "AGE's",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "parent": 2699,
-      "pos": {
-        "x": -3000.5643157958984,
-        "y": 525.1298503875732
-      }
-    },
-    {
-      "id": 7163,
-      "kind": "node",
-      "label": "AGE Reduction",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "parent": 2699,
-      "pos": {
-        "x": -2865.5791015625,
-        "y": 988.6734619140625
-      },
-      "fill": "#104194"
-    },
-    {
-      "id": 457,
-      "kind": "node",
-      "label": "Spiegel Lab - Yale",
-      "notes": "",
-      "desc": "",
-      "link": "https://spiegellab.yale.edu/",
-      "tags": [],
-      "parent": 2699,
-      "pos": {
-        "x": -3285.392333984375,
-        "y": -130.2042007446289
-      }
-    },
-    {
-      "id": 6628,
-      "kind": "node",
-      "label": "Gugliucci Lab - Touro University",
-      "notes": "",
-      "desc": "",
-      "link": "https://research.tu.edu/com/laboratories/gugliucci/index.html",
-      "tags": [],
-      "parent": 2699,
-      "pos": {
-        "x": -3221.6005859375,
-        "y": -81.47585487365723
-      }
-    },
-    {
-      "id": 3340,
-      "kind": "node",
-      "label": "Taylor Lab - Tufts",
-      "notes": "",
-      "desc": "",
-      "link": "https://gsbs.tufts.edu/facultyResearch/faculty/taylor-allen/research",
-      "tags": [],
-      "parent": 2699,
-      "pos": {
-        "x": -3283.51806640625,
-        "y": -30.873355865478516
-      }
     },
     {
       "id": 484,
@@ -1825,8 +1797,8 @@
       "tags": [],
       "parent": 691,
       "pos": {
-        "x": -2992.9031829833984,
-        "y": 320.3580207824707
+        "x": -2386.293197631836,
+        "y": 316.9630241394043
       }
     },
     {
@@ -1839,8 +1811,8 @@
       "tags": [],
       "parent": 691,
       "pos": {
-        "x": -2991.0458984375,
-        "y": 372.0193634033203
+        "x": -2384.4359130859375,
+        "y": 368.6243667602539
       }
     },
     {
@@ -1853,8 +1825,8 @@
       "tags": [],
       "parent": 691,
       "pos": {
-        "x": -2978.16455078125,
-        "y": 414.44578552246094
+        "x": -2371.5545654296875,
+        "y": 411.05078887939453
       }
     },
     {
@@ -1867,8 +1839,8 @@
       "tags": [],
       "parent": 691,
       "pos": {
-        "x": -3016.0595703125,
-        "y": 508.4548797607422
+        "x": -2409.4495849609375,
+        "y": 505.0598831176758
       }
     },
     {
@@ -1881,8 +1853,8 @@
       "tags": [],
       "parent": 691,
       "pos": {
-        "x": -2964.140869140625,
-        "y": 465.83482360839844
+        "x": -2357.5308837890625,
+        "y": 462.43982696533203
       }
     },
     {
@@ -1895,8 +1867,8 @@
       "tags": [],
       "parent": 691,
       "pos": {
-        "x": -3017.40869140625,
-        "y": 564.2709045410156
+        "x": -2410.7987060546875,
+        "y": 560.8759078979492
       }
     },
     {
@@ -1909,8 +1881,8 @@
       "tags": [],
       "parent": 691,
       "pos": {
-        "x": -2983.63427734375,
-        "y": 647.4898529052734
+        "x": -2377.0242919921875,
+        "y": 644.094856262207
       }
     },
     {
@@ -1923,8 +1895,8 @@
       "tags": [],
       "parent": 691,
       "pos": {
-        "x": -2983.628662109375,
-        "y": 698.6511077880859
+        "x": -2377.0186767578125,
+        "y": 695.2561111450195
       }
     },
     {
@@ -1937,22 +1909,22 @@
       "tags": [],
       "parent": 691,
       "pos": {
-        "x": -2956.548095703125,
-        "y": 749.5904388427734
+        "x": -2349.9381103515625,
+        "y": 746.195442199707
       }
     },
     {
-      "id": 3994,
+      "id": 1911,
       "kind": "node",
-      "label": "Kapahi Lab - Buck Institute",
+      "label": "TGF-B",
       "notes": "",
       "desc": "",
-      "link": "https://www.buckinstitute.org/lab/kapahi-lab/",
+      "link": "",
       "tags": [],
-      "parent": 2699,
+      "parent": null,
       "pos": {
-        "x": -3246.034912109375,
-        "y": -178.93254852294922
+        "x": -853.5120559610351,
+        "y": 132.48858642578125
       }
     }
   ],
