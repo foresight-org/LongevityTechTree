@@ -1,99 +1,30 @@
-<!DOCTYPE>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <title>Longevity Tech Tree</title>
+	<meta charset='utf-8'>
+	<meta name='viewport' content='width=device-width,initial-scale=1'>
 
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
-  <link rel="stylesheet" href="style.css">
-  <script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
+	<title>Longevity Tech Tree - Editor</title>
 
-  <!-- jquery for graphml -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+	<link rel='icon' type='image/png' href='favicon.svg'>
 
-  <!-- sweetalert -->
-  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@300;400;700&family=Dosis:wght@300;400;700&family=Roboto+Condensed:wght@300;400;700&display=swap" rel="stylesheet"> 
 
-  <!-- UIkit CSS -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.14.1/dist/css/uikit.min.css" />
+	<link rel='stylesheet' href='global.css'>
+	<link rel='stylesheet' href='build/bundle.css'>
 
-  <!-- UIkit JS -->
-  <script src="https://cdn.jsdelivr.net/npm/uikit@3.14.1/dist/js/uikit.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/uikit@3.14.1/dist/js/uikit-icons.min.js"></script>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.0.0-beta.75/dist/themes/light.css" />
+	<script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.0.0-beta.76/dist/shoelace.js"></script>
 
-  <!-- for testing with local version of cytoscape.js -->
-  <!--<script src="../cytoscape.js/build/cytoscape.js"></script>-->
-  <script src="https://unpkg.com/layout-base/layout-base.js"></script>
-  <script src="https://unpkg.com/cose-base/cose-base.js"></script>
-  <script src="https://unpkg.com/cytoscape-fcose/cytoscape-fcose.js"></script>
-  <script src="https://unpkg.com/cytoscape-graphml/cytoscape-graphml.js"></script>
-  <script src="./assets/cytoscape-expand-collapse.js"></script>
-  <script src="script.js" type="module"></script>
+	<script>
+		window.graphjsonpath = 'longevity.graph';
+	</script>
+
+	<script defer src='build/bundle.js'></script>
 </head>
 
 <body>
-  <h1>Longevity Tech Tree</h1>
-  <div class="fright" id="cy"></div>
-
-  <div class="fleft">
-    <div class="menu-container">
-
-      <div class="accordion-container">
-        <div class="accordion">General</div>
-        <div class="panel">
-          <button id="graphml" onclick="document.getElementById('graphml-input').click();">
-            Import from GraphML file
-          </button>
-          <input id="graphml-input" type="file" name="name" style="display: none;" />
-          <input id="load-from-inp" type="file" name="name" style="display: none;" />
-
-          <button id="saveAsJson">Save as JSON</button>
-          <button id="loadFromJson">Load from JSON</button>
-        </div>
-      </div>
-
-      <div class="accordion-container">
-        <div class="accordion">Nodes</div>
-        <div class="panel">
-          <button id="add-compound">Add compound for selected</button>
-          <button id="remove-compound">Remove selected compound</button>
-          <button id="collapseAll">Collapse all nodes</button>
-          <button id="expandAll">Expand all nodes</button>
-          <button id="collapseRecursively">Collapse selected recursively</button>
-          <button id="expandRecursively">Expand selected recursively</button>
-        </div>
-      </div>
-
-    </div>
-  </div>
-
-  <div id="offcanvas-overlay" uk-offcanvas="flip: true; overlay: true">
-    <div class="uk-offcanvas-bar">
-        <h3><span id="node-title"></span></h3>
-
-        <h4>Description:</h4>
-        <span id="node-description"></span>
-
-        <h4>History:</h4>
-        <span id="node-history"></span>
-
-        <h4>Companies:</h4>
-        <span id="node-companies"></span>
-
-        <h4>Labs:</h4>
-        <span id="node-labs"></span>
-
-        <h4>Key opinion leaders:</h4>
-        <span id="node-people"></span>
-
-        <h4>Ways to get involved:</h4>
-        <span id="node-involvement"></span>
-
-        <h4>Resources:</h4>
-        <span id="node-resources"></span>
-    </div>
-  </div>
-
 </body>
-
 </html>
