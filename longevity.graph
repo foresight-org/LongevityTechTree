@@ -1,0 +1,1985 @@
+{
+  "items": [
+    {
+      "id": 2099,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 8260,
+      "toId": 455,
+      "shape": "ortho"
+    },
+    {
+      "id": 2478,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "stroke": "#d0021b",
+      "directed": true,
+      "weight": 5,
+      "fromId": 3878,
+      "toId": 2685,
+      "shape": "straight"
+    },
+    {
+      "id": 7231,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "stroke": "#d0021b",
+      "directed": true,
+      "weight": 5,
+      "fromId": 1665,
+      "toId": 1911,
+      "shape": "ortho"
+    },
+    {
+      "id": 486,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "stroke": "#d0021b",
+      "directed": true,
+      "weight": 5,
+      "fromId": 3548,
+      "toId": 2029,
+      "shape": "straight"
+    },
+    {
+      "id": 5582,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 2029,
+      "toId": 2685,
+      "shape": "straight"
+    },
+    {
+      "id": 3861,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 2029,
+      "toId": 2906,
+      "shape": "straight"
+    },
+    {
+      "id": 6111,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "stroke": "#d0021b",
+      "directed": true,
+      "weight": 5,
+      "fromId": 2906,
+      "toId": 2884,
+      "shape": "ortho"
+    },
+    {
+      "id": 5065,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 2685,
+      "toId": 6153,
+      "shape": "straight"
+    },
+    {
+      "id": 5863,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 6153,
+      "toId": 3825,
+      "shape": "ortho"
+    },
+    {
+      "id": 7738,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 6153,
+      "toId": 9285,
+      "shape": "ortho"
+    },
+    {
+      "id": 1412,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 6153,
+      "toId": 3378,
+      "shape": "ortho"
+    },
+    {
+      "id": 797,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 455,
+      "toId": 9210,
+      "shape": "straight"
+    },
+    {
+      "id": 4725,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 2884,
+      "toId": 8590,
+      "shape": "straight"
+    },
+    {
+      "id": 9140,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 3759,
+      "toId": 2884,
+      "shape": "ortho"
+    },
+    {
+      "id": 8660,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "stroke": "#d0021b",
+      "directed": true,
+      "weight": 5,
+      "fromId": 4346,
+      "toId": 8781,
+      "shape": "straight"
+    },
+    {
+      "id": 8957,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "stroke": "#d0021b",
+      "directed": true,
+      "weight": 5,
+      "fromId": 4359,
+      "toId": 8288,
+      "shape": "straight"
+    },
+    {
+      "id": 8937,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "stroke": "#d0021b",
+      "directed": true,
+      "weight": 5,
+      "fromId": 4346,
+      "toId": 4816,
+      "shape": "ortho"
+    },
+    {
+      "id": 1898,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "stroke": "#d0021b",
+      "directed": true,
+      "weight": 5,
+      "fromId": 8288,
+      "toId": 4816,
+      "shape": "ortho"
+    },
+    {
+      "id": 8748,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 8994,
+      "toId": 4819,
+      "shape": "ortho"
+    },
+    {
+      "id": 4391,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 8994,
+      "toId": 1304,
+      "shape": "ortho"
+    },
+    {
+      "id": 805,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 8994,
+      "toId": 744,
+      "shape": "ortho"
+    },
+    {
+      "id": 7507,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 8994,
+      "toId": 6715,
+      "shape": "ortho"
+    },
+    {
+      "id": 6726,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 8994,
+      "toId": 8302,
+      "shape": "ortho"
+    },
+    {
+      "id": 1087,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4816,
+      "toId": 8994,
+      "shape": "ortho"
+    },
+    {
+      "id": 2009,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "stroke": "#d0021b",
+      "directed": true,
+      "weight": 5,
+      "fromId": 3548,
+      "toId": 8781,
+      "shape": "straight"
+    },
+    {
+      "id": 9165,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "stroke": "#d0021b",
+      "directed": true,
+      "weight": 5,
+      "fromId": 6026,
+      "toId": 4816,
+      "shape": "ortho"
+    },
+    {
+      "id": 7173,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 455,
+      "toId": 4816,
+      "shape": "straight"
+    },
+    {
+      "id": 9827,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "stroke": "#d0021b",
+      "directed": true,
+      "weight": 5,
+      "fromId": 2699,
+      "toId": 8781,
+      "shape": "straight"
+    },
+    {
+      "id": 8674,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 2884,
+      "toId": 6153,
+      "shape": "ortho"
+    },
+    {
+      "id": 8230,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 7166,
+      "toId": 1665,
+      "shape": "straight"
+    },
+    {
+      "id": 8112,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "stroke": "#d0021b",
+      "directed": true,
+      "weight": 5,
+      "fromId": 1911,
+      "toId": 2884,
+      "shape": "ortho"
+    },
+    {
+      "id": 3581,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 7238,
+      "toId": 455,
+      "shape": "ortho"
+    },
+    {
+      "id": 8260,
+      "kind": "node",
+      "label": "Elastase",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -235.6444091796875,
+        "y": 408.6141357421875
+      }
+    },
+    {
+      "id": 2906,
+      "kind": "node",
+      "label": "Loss of Collagen Production",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -626.3748779296875,
+        "y": 331.9518737792969
+      }
+    },
+    {
+      "id": 9210,
+      "kind": "node",
+      "label": "Arterial Stiffening",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 939.0733032226562,
+        "y": 18.13746452331543
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 8590,
+      "kind": "node",
+      "label": "Scleroderma",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 894.9396362304688,
+        "y": 124.7036361694336
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 3825,
+      "kind": "node",
+      "label": "Heart Failure",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 1461.664189018608,
+        "y": 359.0966796875
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 3759,
+      "kind": "node",
+      "label": "Circadian Rhythm",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -150.45559692382812,
+        "y": 476.05731201171875
+      }
+    },
+    {
+      "id": 4359,
+      "kind": "node",
+      "label": "Fragmentation",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -126.54783630371094,
+        "y": 604.1016235351562
+      }
+    },
+    {
+      "id": 4346,
+      "kind": "node",
+      "label": "Stiffening ECM",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 78.026123046875,
+        "y": 549.8641967773438
+      }
+    },
+    {
+      "id": 8288,
+      "kind": "node",
+      "label": "Weakening ECM",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 84.50720952145377,
+        "y": 605.7332153320312
+      }
+    },
+    {
+      "id": 6715,
+      "kind": "node",
+      "label": "Cancer",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 1537.9108222743585,
+        "y": 439.71026611328125
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 744,
+      "kind": "node",
+      "label": "Loss of Identity",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 1541.4506596322549,
+        "y": 489.4727478027344
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 4819,
+      "kind": "node",
+      "label": "Stem Cell Exhaustion",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 1552.5557670404933,
+        "y": 553.9193115234375
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 1304,
+      "kind": "node",
+      "label": "Cell Death",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 1540.3158677621425,
+        "y": 615.9183349609375
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 8302,
+      "kind": "node",
+      "label": "Loss of Mitochondrial Homeostasis",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 1539.381981614759,
+        "y": 673.02294921875
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 3878,
+      "kind": "node",
+      "label": "Senescence",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -940.88720703125,
+        "y": 1004.51806640625
+      }
+    },
+    {
+      "id": 4816,
+      "kind": "node",
+      "label": "Core Matrisome",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 479.04627990722656,
+        "y": 305.98561096191406
+      }
+    },
+    {
+      "id": 6026,
+      "kind": "node",
+      "label": "Calcification",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 216.7836151123047,
+        "y": 722.2586669921875
+      }
+    },
+    {
+      "id": 8994,
+      "kind": "node",
+      "label": "Loss of Mechanotransduction",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 1181.2564697265625,
+        "y": 553.9192504882812
+      }
+    },
+    {
+      "id": 9285,
+      "kind": "node",
+      "label": "Lung Failure",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 1458.8772571043107,
+        "y": 305.7441101074219
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 2685,
+      "kind": "node",
+      "label": "Matrix Metalloproteinases",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 376.11547452182424,
+        "y": 847.0646362304688
+      }
+    },
+    {
+      "id": 8781,
+      "kind": "node",
+      "label": "Crosslinking",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -135.94129035783018,
+        "y": 551.4957885742188
+      }
+    },
+    {
+      "id": 6153,
+      "kind": "node",
+      "label": "Fibrosis",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 1217.86767578125,
+        "y": 328.1482238769531
+      }
+    },
+    {
+      "id": 3378,
+      "kind": "node",
+      "label": "Liver Failure",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 1459.2012131504475,
+        "y": 247.2751007080078
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 1665,
+      "kind": "node",
+      "label": "Inflammation",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -866.2537841796875,
+        "y": 236.74215698242188
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 1911,
+      "kind": "node",
+      "label": "TGF-B",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -551.6739822305664,
+        "y": 156.96192932128906
+      }
+    },
+    {
+      "id": 7238,
+      "kind": "node",
+      "label": "Bacterial Elastase",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -342.27760314941406,
+        "y": 79.31214904785156
+      }
+    },
+    {
+      "id": 3548,
+      "kind": "node",
+      "label": "UV Damage",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -814.7250671386719,
+        "y": 808.453857421875
+      }
+    },
+    {
+      "id": 2029,
+      "kind": "node",
+      "label": "ROS",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -638.3550872802734,
+        "y": 649.8474182058966
+      }
+    },
+    {
+      "id": 2699,
+      "kind": "node",
+      "label": "Advanced Glycation Endproducts",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -3605.6410369873047,
+        "y": 551.1472702026367
+      }
+    },
+    {
+      "id": 7018,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 5900,
+      "toId": 9793,
+      "shape": "straight"
+    },
+    {
+      "id": 7554,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 5900,
+      "toId": 1428,
+      "shape": "straight"
+    },
+    {
+      "id": 6957,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 5900,
+      "toId": 4654,
+      "shape": "straight"
+    },
+    {
+      "id": 2942,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4654,
+      "toId": 3233,
+      "shape": "straight"
+    },
+    {
+      "id": 3601,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 3233,
+      "toId": 4602,
+      "shape": "straight"
+    },
+    {
+      "id": 4371,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1596,
+      "toId": 8496,
+      "shape": "straight"
+    },
+    {
+      "id": 2169,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 3233,
+      "toId": 8496,
+      "shape": "straight"
+    },
+    {
+      "id": 3412,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4654,
+      "toId": 8496,
+      "shape": "straight"
+    },
+    {
+      "id": 1118,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1428,
+      "toId": 4485,
+      "shape": "straight"
+    },
+    {
+      "id": 2057,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 837,
+      "toId": 4485,
+      "shape": "straight"
+    },
+    {
+      "id": 854,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 691,
+      "toId": 3444,
+      "shape": "straight"
+    },
+    {
+      "id": 2723,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 8496,
+      "toId": 7665,
+      "shape": "straight"
+    },
+    {
+      "id": 2203,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 8496,
+      "toId": 5297,
+      "shape": "straight"
+    },
+    {
+      "id": 2817,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 8496,
+      "toId": 821,
+      "shape": "straight"
+    },
+    {
+      "id": 419,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1016,
+      "toId": 691,
+      "shape": "straight"
+    },
+    {
+      "id": 6067,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 9793,
+      "toId": 4485,
+      "shape": "straight"
+    },
+    {
+      "id": 8623,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4485,
+      "toId": 484,
+      "shape": "straight"
+    },
+    {
+      "id": 2747,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4485,
+      "toId": 9962,
+      "shape": "straight"
+    },
+    {
+      "id": 7693,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4485,
+      "toId": 8678,
+      "shape": "straight"
+    },
+    {
+      "id": 1503,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4602,
+      "toId": 471,
+      "shape": "straight"
+    },
+    {
+      "id": 8109,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4602,
+      "toId": 5979,
+      "shape": "straight"
+    },
+    {
+      "id": 5596,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4654,
+      "toId": 5377,
+      "shape": "straight"
+    },
+    {
+      "id": 7830,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4389,
+      "toId": 691,
+      "shape": "straight"
+    },
+    {
+      "id": 5226,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 9458,
+      "toId": 691,
+      "shape": "straight"
+    },
+    {
+      "id": 2422,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 691,
+      "toId": 2313,
+      "shape": "straight"
+    },
+    {
+      "id": 1486,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 691,
+      "toId": 258,
+      "shape": "straight"
+    },
+    {
+      "id": 5741,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 691,
+      "toId": 2693,
+      "shape": "straight"
+    },
+    {
+      "id": 3860,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 3444,
+      "toId": 6566,
+      "shape": "straight"
+    },
+    {
+      "id": 7176,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 691,
+      "toId": 7081,
+      "shape": "straight"
+    },
+    {
+      "id": 2407,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 691,
+      "toId": 4115,
+      "shape": "straight"
+    },
+    {
+      "id": 2676,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 691,
+      "toId": 3566,
+      "shape": "straight"
+    },
+    {
+      "id": 4742,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 691,
+      "toId": 6468,
+      "shape": "straight"
+    },
+    {
+      "id": 5194,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 6468,
+      "toId": 2416,
+      "shape": "straight"
+    },
+    {
+      "id": 1135,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 2416,
+      "toId": 7166,
+      "shape": "straight"
+    },
+    {
+      "id": 4436,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 7163,
+      "toId": 691,
+      "shape": "straight"
+    },
+    {
+      "id": 2222,
+      "kind": "node",
+      "label": "Integrin",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4816,
+      "pos": {
+        "x": 485.9322967529297,
+        "y": 411.85906982421875
+      }
+    },
+    {
+      "id": 9316,
+      "kind": "node",
+      "label": "Fibronectin",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4816,
+      "pos": {
+        "x": 486.4652099609375,
+        "y": 360.39097595214844
+      }
+    },
+    {
+      "id": 1457,
+      "kind": "node",
+      "label": "Glycoproteins",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4816,
+      "pos": {
+        "x": 485.2287292480469,
+        "y": 298.5666046142578
+      }
+    },
+    {
+      "id": 2461,
+      "kind": "node",
+      "label": "Laminins",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4816,
+      "pos": {
+        "x": 480.28275299072266,
+        "y": 240.45164489746094
+      }
+    },
+    {
+      "id": 8893,
+      "kind": "node",
+      "label": "Discoidin Domain Receptors",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4816,
+      "pos": {
+        "x": 479.3533020019531,
+        "y": 468.7110595703125
+      }
+    },
+    {
+      "id": 455,
+      "kind": "node",
+      "label": "Elastin",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4816,
+      "pos": {
+        "x": 477.809814453125,
+        "y": 146.47852325439453
+      }
+    },
+    {
+      "id": 2884,
+      "kind": "node",
+      "label": "Collagen",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4816,
+      "pos": {
+        "x": 480.46659088134766,
+        "y": 194.7014923095703
+      }
+    },
+    {
+      "id": 5900,
+      "kind": "node",
+      "label": "Glucose",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3944.0455169677734,
+        "y": 453.5881156921387
+      }
+    },
+    {
+      "id": 1596,
+      "kind": "node",
+      "label": "Lipids",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3927.62451171875,
+        "y": 723.484130859375
+      }
+    },
+    {
+      "id": 1428,
+      "kind": "node",
+      "label": "Glycolysis",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3704.9205169677734,
+        "y": 433.9179001539178
+      }
+    },
+    {
+      "id": 837,
+      "kind": "node",
+      "label": "Aminoacetone Threonine",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3711.326171875,
+        "y": 281.23545837402344
+      }
+    },
+    {
+      "id": 8496,
+      "kind": "node",
+      "label": "Glyoxal/Glycoaldehyde",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3485.255990026327,
+        "y": 753.7681884765625
+      }
+    },
+    {
+      "id": 1016,
+      "kind": "node",
+      "label": "Dietary AGE's",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3254.106201171875,
+        "y": 937.18798828125
+      }
+    },
+    {
+      "id": 9793,
+      "kind": "node",
+      "label": "Fructose",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3942.296553222106,
+        "y": 358.4916801452637
+      }
+    },
+    {
+      "id": 4485,
+      "kind": "node",
+      "label": "Methylglyoxyl",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3492.5209304852256,
+        "y": 381.9853745191522
+      }
+    },
+    {
+      "id": 4602,
+      "kind": "node",
+      "label": "Deoxyglucosone",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3511.4591948905054,
+        "y": 518.6116061780722
+      }
+    },
+    {
+      "id": 3233,
+      "kind": "node",
+      "label": "Amadori Products",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3637.1548767854315,
+        "y": 616.1009250257284
+      }
+    },
+    {
+      "id": 4654,
+      "kind": "node",
+      "label": "Schiff Base",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3950.1981048583984,
+        "y": 570.3917575452597
+      }
+    },
+    {
+      "id": 4389,
+      "kind": "node",
+      "label": "Advanced Glycation Endproduct Catalog",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3168.879150390625,
+        "y": 158.93284606933594
+      },
+      "fill": "#417505"
+    },
+    {
+      "id": 9458,
+      "kind": "node",
+      "label": "Data on AGE accumulation over time",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2772.6005859375,
+        "y": 195.86203002929688
+      },
+      "fill": "#417505"
+    },
+    {
+      "id": 3444,
+      "kind": "node",
+      "label": "Macrophage Apoptosis",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2514.822265625,
+        "y": 461.12669372558594
+      }
+    },
+    {
+      "id": 6566,
+      "kind": "node",
+      "label": "Atherosclerosis",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2253.292710281268,
+        "y": 457.8635711669922
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 2313,
+      "kind": "node",
+      "label": "Obesity",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2534.266240586407,
+        "y": 582.5752849578857
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 258,
+      "kind": "node",
+      "label": "Retinopathy",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2532.3590050453004,
+        "y": 625.2341594696045
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 2693,
+      "kind": "node",
+      "label": "Neurodegeneration",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2534.9216565298602,
+        "y": 671.6025066375732
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 7081,
+      "kind": "node",
+      "label": "Cardiomyopathy",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2527.6282005600065,
+        "y": 727.4428997039795
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 3566,
+      "kind": "node",
+      "label": "Neuropathy",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2546.58256898427,
+        "y": 779.652738571167
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 4115,
+      "kind": "node",
+      "label": "Nephropathy",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2548.912138232473,
+        "y": 837.5730266571045
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 6468,
+      "kind": "node",
+      "label": "Receptors for AGE's",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2550.4688742028857,
+        "y": 337.64327812194824
+      }
+    },
+    {
+      "id": 7166,
+      "kind": "node",
+      "label": "Inflammation",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2107.061354234325,
+        "y": 337.64327812194824
+      },
+      "fill": "#f8e71c"
+    },
+    {
+      "id": 2416,
+      "kind": "node",
+      "label": "NF-kB",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2320.400374803658,
+        "y": 337.64327812194824
+      }
+    },
+    {
+      "id": 691,
+      "kind": "node",
+      "label": "AGE's",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3000.5643157958984,
+        "y": 525.1298503875732
+      }
+    },
+    {
+      "id": 7163,
+      "kind": "node",
+      "label": "AGE Reduction",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -2865.5791015625,
+        "y": 988.6734619140625
+      },
+      "fill": "#104194"
+    },
+    {
+      "id": 457,
+      "kind": "node",
+      "label": "Spiegel Lab - Yale",
+      "notes": "",
+      "desc": "",
+      "link": "https://spiegellab.yale.edu/",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3285.392333984375,
+        "y": -130.2042007446289
+      }
+    },
+    {
+      "id": 6628,
+      "kind": "node",
+      "label": "Gugliucci Lab - Touro University",
+      "notes": "",
+      "desc": "",
+      "link": "https://research.tu.edu/com/laboratories/gugliucci/index.html",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3221.6005859375,
+        "y": -81.47585487365723
+      }
+    },
+    {
+      "id": 3340,
+      "kind": "node",
+      "label": "Taylor Lab - Tufts",
+      "notes": "",
+      "desc": "",
+      "link": "https://gsbs.tufts.edu/facultyResearch/faculty/taylor-allen/research",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3283.51806640625,
+        "y": -30.873355865478516
+      }
+    },
+    {
+      "id": 484,
+      "kind": "node",
+      "label": "Carboxyethyl Lysine",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 691,
+      "pos": {
+        "x": -2992.9031829833984,
+        "y": 320.3580207824707
+      }
+    },
+    {
+      "id": 9962,
+      "kind": "node",
+      "label": "Tetrahydrapyrimidine",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 691,
+      "pos": {
+        "x": -2991.0458984375,
+        "y": 372.0193634033203
+      }
+    },
+    {
+      "id": 8678,
+      "kind": "node",
+      "label": "Methylglyoxal dimer imidazolone crosslink",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 691,
+      "pos": {
+        "x": -2978.16455078125,
+        "y": 414.44578552246094
+      }
+    },
+    {
+      "id": 471,
+      "kind": "node",
+      "label": "Glucosopane",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 691,
+      "pos": {
+        "x": -3016.0595703125,
+        "y": 508.4548797607422
+      }
+    },
+    {
+      "id": 5979,
+      "kind": "node",
+      "label": " 3-deoxyglucosone-derived imidazolium cross-link",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 691,
+      "pos": {
+        "x": -2964.140869140625,
+        "y": 465.83482360839844
+      }
+    },
+    {
+      "id": 5377,
+      "kind": "node",
+      "label": "Pentosidine",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 691,
+      "pos": {
+        "x": -3017.40869140625,
+        "y": 564.2709045410156
+      }
+    },
+    {
+      "id": 7665,
+      "kind": "node",
+      "label": "Carboxymethyl Lysine",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 691,
+      "pos": {
+        "x": -2983.63427734375,
+        "y": 647.4898529052734
+      }
+    },
+    {
+      "id": 5297,
+      "kind": "node",
+      "label": "Glyoxyl Lysine Dimer",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 691,
+      "pos": {
+        "x": -2983.628662109375,
+        "y": 698.6511077880859
+      }
+    },
+    {
+      "id": 821,
+      "kind": "node",
+      "label": "Glyoxal derived imidazolium cross-link",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 691,
+      "pos": {
+        "x": -2956.548095703125,
+        "y": 749.5904388427734
+      }
+    },
+    {
+      "id": 3994,
+      "kind": "node",
+      "label": "Kapahi Lab - Buck Institute",
+      "notes": "",
+      "desc": "",
+      "link": "https://www.buckinstitute.org/lab/kapahi-lab/",
+      "tags": [],
+      "parent": 2699,
+      "pos": {
+        "x": -3246.034912109375,
+        "y": -178.93254852294922
+      }
+    }
+  ],
+  "grid": "false",
+  "theme": {
+    "name": "foresight",
+    "bgfill": "#1c170b",
+    "grid": false,
+    "nodefill": "#7b9ecb",
+    "nodelabelstroke": "black",
+    "nodeborder": "white",
+    "edgestroke": "#ccc",
+    "edgeshape": "ortho",
+    "edgestroketype": "solid",
+    "font": "Roboto Condensed",
+    "badges": [
+      "✅",
+      "❌",
+      "⚡",
+      "👎",
+      "👍"
+    ]
+  },
+  "jsondownload": true,
+  "jsonupload": true,
+  "contextmenu": true,
+  "customjson": false,
+  "exportcytoscape": true,
+  "exportsvg": true
+}
