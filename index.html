@@ -20,11 +20,19 @@
 
 	<script>
 		window.graphjsonpath = 'longevity.graph';
+		window.overrideOptions = {
+			"persistLocalStorage": false
+		};
 	</script>
 
 	<script defer src='build/bundle.js'></script>
 </head>
 
 <body>
+    <div style="position:absolute;left:-9999cm;top:-9999cm;visibility:hidden;">
+        <!-- hidden svg to be able to do text measurements before rendering on actual svg -->
+        <svg id='textbbox' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"></svg>
+    </div>
+    <div id="grapheditor"></div>
 </body>
 </html>
