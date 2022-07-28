@@ -2563,11 +2563,7 @@
     "edgeshape": "curved",
     "edgestroketype": "solid",
     "badges": [
-      "✅",
-      "❌",
-      "⚡",
-      "👎",
-      "👍"
+      "https://cdn.discordapp.com/attachments/987690735639875584/997881951534981203/hexbadge.png"
     ]
   },
   "jsondownload": true,
