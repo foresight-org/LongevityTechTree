@@ -1,0 +1,102 @@
+<!DOCTYPE>
+<html>
+<head>
+  <title>Intelligent Cooperation Tech Tree</title>
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
+
+  <!-- jquery for graphml -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+
+  <!-- sweetalert -->
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+  <!-- UIkit CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.14.1/dist/css/uikit.min.css" />
+
+  <!-- UIkit JS -->
+  <script src="https://cdn.jsdelivr.net/npm/uikit@3.14.1/dist/js/uikit.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/uikit@3.14.1/dist/js/uikit-icons.min.js"></script>
+
+  <!-- for testing with local version of cytoscape.js -->
+  <!--<script src="../cytoscape.js/build/cytoscape.js"></script>-->
+  <script src="https://unpkg.com/layout-base/layout-base.js"></script>
+  <script src="https://unpkg.com/cose-base/cose-base.js"></script>
+  <script src="https://unpkg.com/cytoscape-fcose/cytoscape-fcose.js"></script>
+  <script src="https://unpkg.com/cytoscape-graphml/cytoscape-graphml.js"></script>
+  <script src="./assets/cytoscape-expand-collapse.js"></script>
+  <script src="script.js" type="module"></script>
+</head>
+
+<body>
+  <div style="font-size: xx-large"><b>Intelligent Cooperation Tech Tree</b></div>
+  <div class="fright" id="cy"></div>
+
+  <div class="fleft">
+    <div class="menu-container">
+      <div class="accordion-container">
+        <div class="accordion">Nodes</div>
+        <div class="panel">
+          <button style="font-family: 'Courier New', Courier, monospace; font-size: smaller;" id="add-compound">Add compound for selected</button>
+          <button style="font-family: 'Courier New', Courier, monospace; font-size: smaller;" id="expandAll">Expand all nodes</button>
+          <button style="font-family: 'Courier New', Courier, monospace; font-size: smaller;" id="remove-compound">Remove selected compound</button>
+          <button style="font-family: 'Courier New', Courier, monospace; font-size: smaller;" id="collapseAll">Collapse all nodes</button>
+        </div>
+      </div>
+
+      <br><b>Legend:</b><br>
+      🟢 Core Technology <br>
+      🔵 Application <br>
+      🟡 Frontier Technology <br>
+      🔴 Challenge <br>
+
+    </div>
+  </div>
+
+  <div id="offcanvas-overlay" uk-offcanvas="flip: true; overlay: true">
+    <div class="uk-offcanvas-bar">
+        <b><span id="node-title" style="font-size: x-large"></span></b>
+
+        <br><br>
+        <b><span style="font-size: large">description:</span></b>
+        <br>
+        <span id="node-description"></span>
+
+        <br><br>
+        <b><span style="font-size: large">history:</span></b>
+        <br>
+        <span id="node-history"></span>
+
+        <br><br>
+        <b><span style="font-size: large">projects:</span></b>
+        <br>
+        <span id="node-projects"></span>
+
+        <br><br>
+        <b><span style="font-size: large">labs:</span></b>
+        <br>
+        <span id="node-labs"></span>
+
+        <br><br>
+        <b><span style="font-size: large">key opinion leaders:</span></b>
+        <br>
+        <span id="node-people"></span>
+
+        <br><br>
+        <b><span style="font-size: large">ways to get involved:</span></b>
+        <br>
+        <span id="node-involvement"></span>
+
+        <br><br>
+        <b><span style="font-size: large">resources:</span></b>
+        <br>
+        <span id="node-resources"></span>
+    </div>
+  </div>
+
+</body>
+
+</html>

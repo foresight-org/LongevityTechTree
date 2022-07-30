@@ -1,0 +1,2907 @@
+{
+  "items": [
+    {
+      "id": 102,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 7,
+      "toId": 4,
+      "shape": "straight"
+    },
+    {
+      "id": 197,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 12,
+      "toId": 69,
+      "shape": "straight"
+    },
+    {
+      "id": 219,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 111,
+      "toId": 28,
+      "shape": "straight"
+    },
+    {
+      "id": 220,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 111,
+      "toId": 26,
+      "shape": "straight"
+    },
+    {
+      "id": 51,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 34,
+      "toId": 7,
+      "shape": "straight"
+    },
+    {
+      "id": 52,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 34,
+      "toId": 7,
+      "shape": "straight"
+    },
+    {
+      "id": 141,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 140,
+      "toId": 111,
+      "shape": "straight"
+    },
+    {
+      "id": 142,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4,
+      "toId": 140,
+      "shape": "ortho"
+    },
+    {
+      "id": 159,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 11,
+      "toId": 4,
+      "shape": "straight"
+    },
+    {
+      "id": 158,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 11,
+      "toId": 4,
+      "shape": "straight"
+    },
+    {
+      "id": 7,
+      "kind": "node",
+      "label": "Neuropsychology ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 921.2993545532227,
+        "y": -403.80424785614014
+      },
+      "fill": "#6785b4ff"
+    },
+    {
+      "id": 19,
+      "kind": "node",
+      "label": "Personalized diagnostics",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 1924.7708740234375,
+        "y": 518.8828248977661
+      },
+      "fill": "#26a5b9ff"
+    },
+    {
+      "id": 24,
+      "kind": "node",
+      "label": "Future",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 1394.5756225585938,
+        "y": -1023.7217893600464
+      },
+      "fill": "#dfaa49ff"
+    },
+    {
+      "id": 26,
+      "kind": "node",
+      "label": "Treatment modulation",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -340.25022888183594,
+        "y": -1098.5069456100464
+      },
+      "fill": "#c4c4beff"
+    },
+    {
+      "id": 28,
+      "kind": "node",
+      "label": "Risk prediction",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -1249.6429443359375,
+        "y": -1118.7257566452026
+      },
+      "fill": "#c4c4beff"
+    },
+    {
+      "id": 111,
+      "kind": "node",
+      "label": "Neuroimaging markers",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -593.2062377929688,
+        "y": -388.7928342819214
+      },
+      "fill": "#26a5b9ff"
+    },
+    {
+      "id": 4,
+      "kind": "node",
+      "label": "Brain imaging ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 15.2862548828125,
+        "y": 899.8561372756958
+      },
+      "fill": "#6785b4ff"
+    },
+    {
+      "id": 5,
+      "kind": "node",
+      "label": "Enhancement of human performance ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -1478.5379638671875,
+        "y": -274.9324951171875
+      }
+    },
+    {
+      "id": 1,
+      "kind": "node",
+      "label": "Curing diseases ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -1455.263671875,
+        "y": 109.79840087890625
+      }
+    },
+    {
+      "id": 17,
+      "kind": "node",
+      "label": "Brain atlases & Imaging databases",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 558.3665771484375,
+        "y": 2044.248514175415
+      },
+      "fill": "#26a5b9ff"
+    },
+    {
+      "id": 69,
+      "kind": "node",
+      "label": "Fluid biomarkers",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 1066.396484375,
+        "y": 3131.2841396331787
+      },
+      "fill": "#26a5b9ff"
+    },
+    {
+      "id": 12,
+      "kind": "node",
+      "label": "Molecular neuroscience & Omics techniques",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": -556.7301330566406,
+        "y": 2814.166265487671
+      },
+      "fill": "#6785b4ff"
+    },
+    {
+      "id": 101,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 92,
+      "toId": 44,
+      "shape": "ortho"
+    },
+    {
+      "id": 46,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 42,
+      "toId": 45,
+      "shape": "straight"
+    },
+    {
+      "id": 57,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 49,
+      "toId": 45,
+      "shape": "straight"
+    },
+    {
+      "id": 67,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 59,
+      "toId": 66,
+      "shape": "straight"
+    },
+    {
+      "id": 146,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 31,
+      "toId": 90,
+      "shape": "ortho"
+    },
+    {
+      "id": 147,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 92,
+      "toId": 143,
+      "shape": "ortho"
+    },
+    {
+      "id": 152,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 150,
+      "toId": 143,
+      "shape": "ortho"
+    },
+    {
+      "id": 37,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 30,
+      "toId": 36,
+      "shape": "ortho"
+    },
+    {
+      "id": 38,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 36,
+      "toId": 34,
+      "shape": "straight"
+    },
+    {
+      "id": 39,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 36,
+      "toId": 31,
+      "shape": "straight"
+    },
+    {
+      "id": 56,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 36,
+      "toId": 40,
+      "shape": "straight"
+    },
+    {
+      "id": 33,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 9,
+      "toId": 32,
+      "shape": "ortho"
+    },
+    {
+      "id": 35,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 30,
+      "toId": 34,
+      "shape": "ortho"
+    },
+    {
+      "id": 41,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 32,
+      "toId": 40,
+      "shape": "straight"
+    },
+    {
+      "id": 43,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 40,
+      "toId": 42,
+      "shape": "straight"
+    },
+    {
+      "id": 50,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 31,
+      "toId": 49,
+      "shape": "straight"
+    },
+    {
+      "id": 54,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 32,
+      "toId": 31,
+      "shape": "straight"
+    },
+    {
+      "id": 55,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 34,
+      "toId": 40,
+      "shape": "straight"
+    },
+    {
+      "id": 58,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 45,
+      "toId": 44,
+      "shape": "straight"
+    },
+    {
+      "id": 62,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 44,
+      "toId": 61,
+      "shape": "straight"
+    },
+    {
+      "id": 65,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 44,
+      "toId": 59,
+      "shape": "straight"
+    },
+    {
+      "id": 48,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 45,
+      "toId": 47,
+      "shape": "straight"
+    },
+    {
+      "id": 60,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 47,
+      "toId": 59,
+      "shape": "straight"
+    },
+    {
+      "id": 68,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 61,
+      "toId": 59,
+      "shape": "straight"
+    },
+    {
+      "id": 156,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 11,
+      "toId": 154,
+      "shape": "ortho"
+    },
+    {
+      "id": 131,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 128,
+      "toId": 130,
+      "shape": "straight"
+    },
+    {
+      "id": 87,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 80,
+      "toId": 86,
+      "shape": "ortho"
+    },
+    {
+      "id": 93,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 84,
+      "toId": 92,
+      "shape": "ortho"
+    },
+    {
+      "id": 89,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 80,
+      "toId": 88,
+      "shape": "ortho"
+    },
+    {
+      "id": 94,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 70,
+      "toId": 80,
+      "shape": "ortho"
+    },
+    {
+      "id": 96,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 80,
+      "toId": 95,
+      "shape": "ortho"
+    },
+    {
+      "id": 71,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 11,
+      "toId": 70,
+      "shape": "ortho"
+    },
+    {
+      "id": 73,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 11,
+      "toId": 72,
+      "shape": "ortho"
+    },
+    {
+      "id": 75,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 11,
+      "toId": 74,
+      "shape": "ortho"
+    },
+    {
+      "id": 77,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 11,
+      "toId": 76,
+      "shape": "ortho"
+    },
+    {
+      "id": 79,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 70,
+      "toId": 78,
+      "shape": "ortho"
+    },
+    {
+      "id": 83,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 72,
+      "toId": 82,
+      "shape": "straight"
+    },
+    {
+      "id": 85,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 78,
+      "toId": 84,
+      "shape": "ortho"
+    },
+    {
+      "id": 91,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 82,
+      "toId": 90,
+      "shape": "straight"
+    },
+    {
+      "id": 98,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 88,
+      "toId": 97,
+      "shape": "ortho"
+    },
+    {
+      "id": 99,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 95,
+      "toId": 97,
+      "shape": "ortho"
+    },
+    {
+      "id": 100,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 86,
+      "toId": 97,
+      "shape": "ortho"
+    },
+    {
+      "id": 104,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 74,
+      "toId": 103,
+      "shape": "straight"
+    },
+    {
+      "id": 106,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 76,
+      "toId": 105,
+      "shape": "straight"
+    },
+    {
+      "id": 108,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 103,
+      "toId": 107,
+      "shape": "straight"
+    },
+    {
+      "id": 110,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 105,
+      "toId": 109,
+      "shape": "straight"
+    },
+    {
+      "id": 114,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 11,
+      "toId": 113,
+      "shape": "ortho"
+    },
+    {
+      "id": 116,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 11,
+      "toId": 115,
+      "shape": "ortho"
+    },
+    {
+      "id": 118,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 113,
+      "toId": 117,
+      "shape": "straight"
+    },
+    {
+      "id": 120,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 115,
+      "toId": 119,
+      "shape": "straight"
+    },
+    {
+      "id": 122,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 117,
+      "toId": 121,
+      "shape": "straight"
+    },
+    {
+      "id": 125,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 119,
+      "toId": 124,
+      "shape": "straight"
+    },
+    {
+      "id": 127,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 11,
+      "toId": 126,
+      "shape": "ortho"
+    },
+    {
+      "id": 129,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 126,
+      "toId": 128,
+      "shape": "straight"
+    },
+    {
+      "id": 149,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 11,
+      "toId": 148,
+      "shape": "straight"
+    },
+    {
+      "id": 151,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 148,
+      "toId": 150,
+      "shape": "straight"
+    },
+    {
+      "id": 161,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 11,
+      "toId": 160,
+      "shape": "ortho"
+    },
+    {
+      "id": 163,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 11,
+      "toId": 162,
+      "shape": "ortho"
+    },
+    {
+      "id": 165,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 154,
+      "toId": 164,
+      "shape": "straight"
+    },
+    {
+      "id": 167,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 164,
+      "toId": 166,
+      "shape": "straight"
+    },
+    {
+      "id": 169,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 160,
+      "toId": 168,
+      "shape": "straight"
+    },
+    {
+      "id": 171,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 162,
+      "toId": 170,
+      "shape": "straight"
+    },
+    {
+      "id": 195,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 181,
+      "toId": 194,
+      "shape": "straight"
+    },
+    {
+      "id": 183,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 16,
+      "toId": 182,
+      "shape": "straight"
+    },
+    {
+      "id": 185,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 15,
+      "toId": 184,
+      "shape": "straight"
+    },
+    {
+      "id": 187,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 13,
+      "toId": 186,
+      "shape": "straight"
+    },
+    {
+      "id": 189,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 20,
+      "toId": 188,
+      "shape": "straight"
+    },
+    {
+      "id": 191,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 179,
+      "toId": 190,
+      "shape": "straight"
+    },
+    {
+      "id": 193,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 180,
+      "toId": 192,
+      "shape": "straight"
+    },
+    {
+      "id": 9,
+      "kind": "node",
+      "label": "Cognition",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 7,
+      "pos": {
+        "x": 457.39798736572266,
+        "y": -482.50126934051514
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 30,
+      "kind": "node",
+      "label": "Emotion",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 7,
+      "pos": {
+        "x": 460.31497955322266,
+        "y": -353.0728635787964
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 34,
+      "kind": "node",
+      "label": "Basic emotions",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 7,
+      "pos": {
+        "x": 801.3698659077454,
+        "y": -382.3050413131714
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 32,
+      "kind": "node",
+      "label": "Cognitive domains",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 7,
+      "pos": {
+        "x": 785.4406740864979,
+        "y": -574.2981443405151
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 36,
+      "kind": "node",
+      "label": "Complex emotions",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 7,
+      "pos": {
+        "x": 801.839789067315,
+        "y": -165.4466428756714
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 40,
+      "kind": "node",
+      "label": "Standardized tests",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 7,
+      "pos": {
+        "x": 1093.430160421085,
+        "y": -456.38127422332764
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 42,
+      "kind": "node",
+      "label": "Population specific norms",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 7,
+      "pos": {
+        "x": 1390.8773048770527,
+        "y": -451.72331523895264
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 49,
+      "kind": "node",
+      "label": "Validation in clinical cohorts",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 7,
+      "pos": {
+        "x": 1467.7286636578574,
+        "y": -269.1845579147339
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 31,
+      "kind": "node",
+      "label": "Experimental approaches ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 7,
+      "pos": {
+        "x": 1096.6665420532227,
+        "y": -279.7812376022339
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 45,
+      "kind": "node",
+      "label": "Expert meetings ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 19,
+      "pos": {
+        "x": 1530.9553035705867,
+        "y": 512.6902589797974
+      },
+      "fill": "#0c9a64ff"
+    },
+    {
+      "id": 47,
+      "kind": "node",
+      "label": "Consensus criteria ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 19,
+      "pos": {
+        "x": 1781.9318553372286,
+        "y": 412.87641620635986
+      },
+      "fill": "#0c9a64ff"
+    },
+    {
+      "id": 44,
+      "kind": "node",
+      "label": "International classifications",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 19,
+      "pos": {
+        "x": 1826.3509521484375,
+        "y": 826.4914064407349
+      },
+      "fill": "#0c9a64ff"
+    },
+    {
+      "id": 61,
+      "kind": "node",
+      "label": "Comorbidities",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 19,
+      "pos": {
+        "x": 1873.5257878124685,
+        "y": 596.9814577102661
+      },
+      "fill": "#0c9a64ff"
+    },
+    {
+      "id": 59,
+      "kind": "node",
+      "label": "Diagnosis",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 19,
+      "pos": {
+        "x": 2276.698690248988,
+        "y": 625.0324220657349
+      },
+      "fill": "#0c9a64ff"
+    },
+    {
+      "id": 25,
+      "kind": "node",
+      "label": "New node 25",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 24,
+      "pos": {
+        "x": 1580.5448608398438,
+        "y": -954.5240354537964
+      }
+    },
+    {
+      "id": 27,
+      "kind": "node",
+      "label": "New node 27",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 26,
+      "pos": {
+        "x": -184.55540466308594,
+        "y": -1020.6594114303589
+      },
+      "fill": "#a9cecfff"
+    },
+    {
+      "id": 29,
+      "kind": "node",
+      "label": "New node 29",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 28,
+      "pos": {
+        "x": -1080.9730224609375,
+        "y": -1040.878161430359
+      },
+      "fill": "#a9cecfff"
+    },
+    {
+      "id": 140,
+      "kind": "node",
+      "label": "PET ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 111,
+      "pos": {
+        "x": -567.1417846679688,
+        "y": -242.50076961517334
+      }
+    },
+    {
+      "id": 143,
+      "kind": "node",
+      "label": "Structural changes",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 111,
+      "pos": {
+        "x": -578.3204956054688,
+        "y": -569.8475036621094
+      }
+    },
+    {
+      "id": 148,
+      "kind": "node",
+      "label": "fluid-attenuated inversion recovery (FLAIR) MRI",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": -226.27050577958653,
+        "y": 259.1537446975708
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 150,
+      "kind": "node",
+      "label": "White matter hyperintensities",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 719.2772282314982,
+        "y": 262.4634370803833
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 70,
+      "kind": "node",
+      "label": "Structural ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": -464.41611454754093,
+        "y": 388.40404987335205
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 78,
+      "kind": "node",
+      "label": "Intensity-based",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": -57.77406282127049,
+        "y": 387.4470796585083
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 80,
+      "kind": "node",
+      "label": "Surface-based",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": -47.61746984214551,
+        "y": 470.91232776641846
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 84,
+      "kind": "node",
+      "label": "Voxel-Based Morphometry (VBM)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 382.5082458961224,
+        "y": 386.6810884475708
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 88,
+      "kind": "node",
+      "label": "Cortical volume",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 358.4872613661937,
+        "y": 543.4482164382935
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 95,
+      "kind": "node",
+      "label": "Surface area",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 360.17858358893864,
+        "y": 598.3959398269653
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 92,
+      "kind": "node",
+      "label": "Measuring brain atropy ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 884.8058828917092,
+        "y": 385.74401569366455
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 97,
+      "kind": "node",
+      "label": "Measuring Neuroplasticity",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 867.1098180046683,
+        "y": 509.8406114578247
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 86,
+      "kind": "node",
+      "label": "Cortical Thickness",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 360.0424964038466,
+        "y": 466.4055528640747
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 90,
+      "kind": "node",
+      "label": "Localization of brain functions",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 903.2676577929305,
+        "y": 683.159420967102
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 74,
+      "kind": "node",
+      "label": "Resting state functional MRI",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": -465.50212533744707,
+        "y": 793.6796541213989
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 107,
+      "kind": "node",
+      "label": "Analysis of complex brain networks",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 787.756237018104,
+        "y": 814.2192049026489
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 76,
+      "kind": "node",
+      "label": "Diffusion-weighted imaging",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": -471.17644274696795,
+        "y": 894.1123781204224
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 105,
+      "kind": "node",
+      "label": "Functional connectivity",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 63.22509380698466,
+        "y": 907.8697175979614
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 109,
+      "kind": "node",
+      "label": "Analysis of white matter integrity",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 723.2284614701384,
+        "y": 905.3413362503052
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 113,
+      "kind": "node",
+      "label": "Positron-Emission Tomography ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": -466.4225304748761,
+        "y": 1024.491909980774
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 126,
+      "kind": "node",
+      "label": "Arterial spin labeling ",
+      "notes": "doi: 10.4329/wjr.v2.i10.384",
+      "desc": "Arterial spin labeling (ASL) is a non-ionizing and completely non-invasive MRI technique for measuring tissue perfusion (blood flow), which uses magnetically labeled arterial blood water protons as an endogenous tracer",
+      "link": "",
+      "tags": [
+        "Neuroimaging",
+        "Biomarkers"
+      ],
+      "parent": 4,
+      "pos": {
+        "x": -463.14405876773526,
+        "y": 1151.4135026931763
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 154,
+      "kind": "node",
+      "label": "Electro-encephalography  (EEG)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": -467.0355028817103,
+        "y": 1362.7425994873047
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 117,
+      "kind": "node",
+      "label": "Target-specific tracers",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 54.22299398835821,
+        "y": 1029.2788515090942
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 121,
+      "kind": "node",
+      "label": "Accumulation of brain proteins, receptor binding",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 721.6878377383582,
+        "y": 1030.2284944125813
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 160,
+      "kind": "node",
+      "label": "Magneto-Encephalography  (MEG)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": -465.1982029947285,
+        "y": 1469.1072053909302
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 168,
+      "kind": "node",
+      "label": "New node 168",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 30.153835285422247,
+        "y": 1469.1072053909302
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 164,
+      "kind": "node",
+      "label": "Power-spectral analysis ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 63.34674068910317,
+        "y": 1366.0771942138672
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 166,
+      "kind": "node",
+      "label": "Biomarkers with high temporal resolution",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 712.4949957693243,
+        "y": 1366.4339447021484
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 119,
+      "kind": "node",
+      "label": "Biomolecule spectra ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 53.92049315068289,
+        "y": 1252.7200899124146
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 124,
+      "kind": "node",
+      "label": "Measuring concentration of brain molecules/ metabolism",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 736.071144613954,
+        "y": 1254.9009218215942
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 170,
+      "kind": "node",
+      "label": "New node 170",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 31.933610525320546,
+        "y": 1575.5377473831177
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 115,
+      "kind": "node",
+      "label": "Magnetic resonance Spectroscopy ",
+      "notes": "https://doi.org/10.53347/rID-1630\n",
+      "desc": "The technique of magnetic resonance spectroscopy (usually shortened to MR spectroscopy or MRS) allows tissue to be interrogated for the presence and concentration of various metabolites.",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": -465.1942754238844,
+        "y": 1253.6048746109009
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 128,
+      "kind": "node",
+      "label": "magnetic labeling process",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 69.0271330469186,
+        "y": 1145.786732673645
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 130,
+      "kind": "node",
+      "label": "Brain perfusion ",
+      "notes": "",
+      "desc": "Perfusion refers to the delivery of oxygen and nutrients to tissue by means of blood flow.\n",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 729.6771029639276,
+        "y": 1150.1808061599731
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 72,
+      "kind": "node",
+      "label": "Functional MRI",
+      "notes": "https://doi.org/10.53347/rID-12364\n",
+      "desc": "Functional magnetic resonance imaging (fMRI) is a technique used to obtain functional information by visualizing cortical activity. fMRI detects subtle alteration in blood flow in response to stimuli or actions.\n",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": -464.74719044127414,
+        "y": 680.526852607727
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 82,
+      "kind": "node",
+      "label": "Brain activation, BOLD ",
+      "notes": "https://doi.org/10.53347/rID-958\n\nDOI: 10.1016/j.neuroimage.2016.12.018\n",
+      "desc": "Blood oxygenation level dependent (BOLD) imaging is the standard technique used to generate images in functional MRI (fMRI) studies, and relies on regional differences in cerebral blood flow to delineate regional activity. ",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 38.908758967067115,
+        "y": 683.7060823440552
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 103,
+      "kind": "node",
+      "label": "Functional connectivity",
+      "notes": " DOI: 10.1016/j.neuroimage.2013.05.079",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": 71.62893487810652,
+        "y": 808.9489107131958
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 162,
+      "kind": "node",
+      "label": "Near-Infrared spectroscopy (NIRS)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": -474.41195503520066,
+        "y": 1575.5377473831177
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 11,
+      "kind": "node",
+      "label": "Human Neuroimaging ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 4,
+      "pos": {
+        "x": -825.7396240234375,
+        "y": 250.8919038772583
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 6,
+      "kind": "node",
+      "label": "New node 6",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 5,
+      "pos": {
+        "x": -1366.0916748046875,
+        "y": -251.145751953125
+      }
+    },
+    {
+      "id": 2,
+      "kind": "node",
+      "label": "New node 2",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 1,
+      "pos": {
+        "x": -1378.0576171875,
+        "y": 130.43096923828125
+      }
+    },
+    {
+      "id": 18,
+      "kind": "node",
+      "label": "Brain atlases",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 17,
+      "pos": {
+        "x": 342.7093505859375,
+        "y": 1960.8914585113525
+      }
+    },
+    {
+      "id": 173,
+      "kind": "node",
+      "label": "Recources for meta-analyses ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 17,
+      "pos": {
+        "x": 807.8406982421875,
+        "y": 1974.9027404785156
+      }
+    },
+    {
+      "id": 175,
+      "kind": "node",
+      "label": "Online analysis tools",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 17,
+      "pos": {
+        "x": 329.4637451171875,
+        "y": 2166.2516174316406
+      }
+    },
+    {
+      "id": 177,
+      "kind": "node",
+      "label": "Imaging datasets",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 17,
+      "pos": {
+        "x": 815.4891357421875,
+        "y": 2173.9056091308594
+      }
+    },
+    {
+      "id": 196,
+      "kind": "node",
+      "label": "Cerebro-spinal fluid",
+      "notes": "doi: 10.3233/JAD-170680.\n",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 69,
+      "pos": {
+        "x": 896.994140625,
+        "y": 3003.140953063965
+      }
+    },
+    {
+      "id": 217,
+      "kind": "node",
+      "label": "Saliva",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 69,
+      "pos": {
+        "x": 836.33984375,
+        "y": 3594.268264770508
+      }
+    },
+    {
+      "id": 123,
+      "kind": "node",
+      "label": "Blood and its compartments",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 69,
+      "pos": {
+        "x": 359.1748046875,
+        "y": 3586.572802858427
+      }
+    },
+    {
+      "id": 182,
+      "kind": "node",
+      "label": "Genes, Polymorphisms, Polygenic risc scores",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 12,
+      "pos": {
+        "x": -440.54522006037223,
+        "y": 2661.8314876556396
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 184,
+      "kind": "node",
+      "label": "Methylation patterns, microRNAs ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 12,
+      "pos": {
+        "x": -447.63981703621175,
+        "y": 2771.899236679077
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 186,
+      "kind": "node",
+      "label": "mRNA expression ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 12,
+      "pos": {
+        "x": -499.60077176644336,
+        "y": 2837.5526638031006
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 188,
+      "kind": "node",
+      "label": "SIngle cell proteome, blood proteome, tissue proteome  ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 12,
+      "pos": {
+        "x": -341.18000716286406,
+        "y": 2891.9088191986084
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 192,
+      "kind": "node",
+      "label": "Various metabolites ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 12,
+      "pos": {
+        "x": -528.7952836263175,
+        "y": 3024.74080657959
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 194,
+      "kind": "node",
+      "label": "Single cell multiomics ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 12,
+      "pos": {
+        "x": -469.17630886693223,
+        "y": 3114.37308883667
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 190,
+      "kind": "node",
+      "label": "Lipid spectrum ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 12,
+      "pos": {
+        "x": -503.0494500832174,
+        "y": 2959.097183227539
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 181,
+      "kind": "node",
+      "label": "Multiomics",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 12,
+      "pos": {
+        "x": -976.3360900878906,
+        "y": 3120.3624153137207
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 16,
+      "kind": "node",
+      "label": "Genomics",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 12,
+      "pos": {
+        "x": -809.1012268066406,
+        "y": 2669.840154647827
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 15,
+      "kind": "node",
+      "label": "Epigenetics ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 12,
+      "pos": {
+        "x": -793.2911682128906,
+        "y": 2768.072240829468
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 13,
+      "kind": "node",
+      "label": "Transcriptomics ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 12,
+      "pos": {
+        "x": -774.4396057128906,
+        "y": 2840.511541366577
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 20,
+      "kind": "node",
+      "label": "Proteomics ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 12,
+      "pos": {
+        "x": -796.2911682128906,
+        "y": 2890.8634548187256
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 179,
+      "kind": "node",
+      "label": "Lipidomics ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 12,
+      "pos": {
+        "x": -798.9044494628906,
+        "y": 2952.1339721679688
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 180,
+      "kind": "node",
+      "label": "Metabolomics",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 12,
+      "pos": {
+        "x": -798.4981994628906,
+        "y": 3027.292137145996
+      },
+      "fill": "#4a90e2ff"
+    },
+    {
+      "id": 145,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 144,
+      "toId": 144,
+      "shape": "straight"
+    },
+    {
+      "id": 137,
+      "kind": "node",
+      "label": "Fluorodeoxyglucose PET",
+      "notes": " doi: 10.1016/S1474-4422(20)30314-8.",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 140,
+      "pos": {
+        "x": -720.8185424804688,
+        "y": -319.62076473236084
+      },
+      "fill": "#0c9a64ff"
+    },
+    {
+      "id": 136,
+      "kind": "node",
+      "label": "Dopaminergic transporter ",
+      "notes": "doi:10.1001/jamaneurol.2021.1312\n",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 140,
+      "pos": {
+        "x": -542.6730346679688,
+        "y": -141.8107671737671
+      },
+      "fill": "#0c9a64ff"
+    },
+    {
+      "id": 133,
+      "kind": "node",
+      "label": "Amyloid-PET",
+      "notes": " doi: 10.1016/S1474-4422(20)30314-8.",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 140,
+      "pos": {
+        "x": -722.5392456054688,
+        "y": -230.4453649520874
+      },
+      "fill": "#0c9a64ff"
+    },
+    {
+      "id": 132,
+      "kind": "node",
+      "label": "Tau PET",
+      "notes": "DOI: 10.1016/S1474-4422(22)00168-5",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 140,
+      "pos": {
+        "x": -384.75604248046875,
+        "y": -320.29010677337646
+      },
+      "fill": "#0c9a64ff"
+    },
+    {
+      "id": 138,
+      "kind": "node",
+      "label": "Serotonin transporter",
+      "notes": "doi: 10.1016/S2215-0366(15)00232-1.",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 140,
+      "pos": {
+        "x": -380.59393310546875,
+        "y": -229.67554378509521
+      },
+      "fill": "#0c9a64ff"
+    },
+    {
+      "id": 135,
+      "kind": "node",
+      "label": "Gray matter atrophy on MRI",
+      "notes": "doi: 10.1016/j.arr.2016.01.002. Epub 2016 Jan 28.",
+      "desc": " Patterns of cortical atrophy have been shown to accurately track disease progression and seem promising in distinguishing among AD subtypes",
+      "link": "",
+      "tags": [],
+      "parent": 143,
+      "pos": {
+        "x": -745.5695190429688,
+        "y": -550.9918794631958
+      },
+      "fill": "#0c9a64ff"
+    },
+    {
+      "id": 144,
+      "kind": "node",
+      "label": "White matter hyperintensities ",
+      "notes": "DOI: 10.1093/brain/aww008\n",
+      "desc": "White matter hyperintensities (WMH), which are typically detected on fluid-attenuated inversion recovery (FLAIR) brain MRI, are common findings in older adults.\n",
+      "link": "",
+      "tags": [],
+      "parent": 143,
+      "pos": {
+        "x": -409.73065185546875,
+        "y": -561.8523864746094
+      },
+      "fill": "#0c9a64ff"
+    },
+    {
+      "id": 172,
+      "kind": "node",
+      "label": "New node 172",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 18,
+      "pos": {
+        "x": 459.5809326171875,
+        "y": 1992.7618103027344
+      }
+    },
+    {
+      "id": 174,
+      "kind": "node",
+      "label": "New node 174",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 173,
+      "pos": {
+        "x": 941.7821044921875,
+        "y": 2027.2047424316406
+      }
+    },
+    {
+      "id": 176,
+      "kind": "node",
+      "label": "New node 176",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 175,
+      "pos": {
+        "x": 428.9637451171875,
+        "y": 2216.0023193359375
+      }
+    },
+    {
+      "id": 178,
+      "kind": "node",
+      "label": "New node 178",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 177,
+      "pos": {
+        "x": 953.2606201171875,
+        "y": 2216.0023803710938
+      }
+    },
+    {
+      "id": 218,
+      "kind": "node",
+      "label": "New node 218",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 217,
+      "pos": {
+        "x": 955.2333984375,
+        "y": 3653.715103149414
+      }
+    },
+    {
+      "id": 207,
+      "kind": "node",
+      "label": "Alzheimer's-related",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 196,
+      "pos": {
+        "x": 488.0205078125,
+        "y": 2757.382152557373
+      }
+    },
+    {
+      "id": 212,
+      "kind": "node",
+      "label": "Fronto-Temporal Lobar Degeneration (FTLD)-related",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 196,
+      "pos": {
+        "x": 1123.11328125,
+        "y": 2764.9462699890137
+      }
+    },
+    {
+      "id": 208,
+      "kind": "node",
+      "label": "Reflecting neuronal damage",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 196,
+      "pos": {
+        "x": 489.654296875,
+        "y": 3257.580669403076
+      }
+    },
+    {
+      "id": 203,
+      "kind": "node",
+      "label": "Brain-blood barrier disfunction ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 196,
+      "pos": {
+        "x": 520.4365234375,
+        "y": 3034.805757045746
+      }
+    },
+    {
+      "id": 210,
+      "kind": "node",
+      "label": "Parkinson's disease related ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 196,
+      "pos": {
+        "x": 1063.5859375,
+        "y": 3028.157569885254
+      }
+    },
+    {
+      "id": 202,
+      "kind": "node",
+      "label": "Serum ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 123,
+      "pos": {
+        "x": 200.1630859375,
+        "y": 3569.1485697794706
+      }
+    },
+    {
+      "id": 216,
+      "kind": "node",
+      "label": "Plasma",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 123,
+      "pos": {
+        "x": 455.5625,
+        "y": 3647.7279472351074
+      }
+    },
+    {
+      "id": 200,
+      "kind": "node",
+      "label": "Phospho-Tau",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 207,
+      "pos": {
+        "x": 283.8447265625,
+        "y": 2813.1542930603027
+      }
+    },
+    {
+      "id": 199,
+      "kind": "node",
+      "label": "Tau-protein",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 207,
+      "pos": {
+        "x": 282.0224609375,
+        "y": 2766.9195518493652
+      }
+    },
+    {
+      "id": 198,
+      "kind": "node",
+      "label": "Beta-amyloid",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 207,
+      "pos": {
+        "x": 285.7978515625,
+        "y": 2721.0578575134277
+      }
+    },
+    {
+      "id": 213,
+      "kind": "node",
+      "label": "TDP-43",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 212,
+      "pos": {
+        "x": 1187.494140625,
+        "y": 2829.3273887634277
+      }
+    },
+    {
+      "id": 214,
+      "kind": "node",
+      "label": "Progranulin",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 212,
+      "pos": {
+        "x": 1038.89453125,
+        "y": 2773.3578605651855
+      }
+    },
+    {
+      "id": 209,
+      "kind": "node",
+      "label": "Neurogranin ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 208,
+      "pos": {
+        "x": 387.390625,
+        "y": 3232.0592613220215
+      }
+    },
+    {
+      "id": 201,
+      "kind": "node",
+      "label": "Neurofilament light chain",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 208,
+      "pos": {
+        "x": 449.4365234375,
+        "y": 3279.2657432556152
+      }
+    },
+    {
+      "id": 215,
+      "kind": "node",
+      "label": "Myelin basic protein (MBP)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 208,
+      "pos": {
+        "x": 624.228515625,
+        "y": 3236.144115447998
+      }
+    },
+    {
+      "id": 206,
+      "kind": "node",
+      "label": "Tissue inhibitor of metalloproteinases 1 (TIMP-1) ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 203,
+      "pos": {
+        "x": 469.5537109375,
+        "y": 3101.5709738731384
+      }
+    },
+    {
+      "id": 204,
+      "kind": "node",
+      "label": "Albumin ratio",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 203,
+      "pos": {
+        "x": 305.3232421875,
+        "y": 3043.6023955345154
+      }
+    },
+    {
+      "id": 205,
+      "kind": "node",
+      "label": "Matrix Metaloproteinases (MMP-9)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 203,
+      "pos": {
+        "x": 391.6455078125,
+        "y": 2990.725495815277
+      }
+    },
+    {
+      "id": 211,
+      "kind": "node",
+      "label": "New node 211",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 210,
+      "pos": {
+        "x": 1147.28125,
+        "y": 3063.5671768188477
+      }
+    },
+    {
+      "id": 22,
+      "kind": "node",
+      "label": "Disease monitoring ",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": null,
+      "pos": {
+        "x": 2081.6220703125,
+        "y": 1235.8145418167114
+      },
+      "fill": "#c4c4beff"
+    },
+    {
+      "id": 66,
+      "kind": "node",
+      "label": "New node 66",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 22,
+      "pos": {
+        "x": 1992.2565247135135,
+        "y": 1213.220425605774
+      },
+      "fill": "#a9cecfff"
+    },
+    {
+      "id": 23,
+      "kind": "node",
+      "label": "New node 23",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "parent": 22,
+      "pos": {
+        "x": 2248.93115234375,
+        "y": 1374.9410066604614
+      },
+      "fill": "#a9cecfff"
+    }
+  ],
+  "grid": "false",
+  "theme": {
+    "name": "foresight",
+    "bgfill": "#1c170b",
+    "grid": false,
+    "selectionColor": "blue",
+    "nodefill": "#7b9ecb",
+    "nodelabelstroke": "black",
+    "nodeborder": "white",
+    "edgestroke": "#ccc",
+    "edgeshape": "ortho",
+    "edgestroketype": "solid",
+    "font": "Roboto Condensed",
+    "badges": [
+      "https://cdn.discordapp.com/attachments/987690735639875584/997881951534981203/hexbadge.png"
+    ]
+  },
+  "jsondownload": true,
+  "jsonupload": true,
+  "contextmenu": true,
+  "customjson": false,
+  "exportcytoscape": true,
+  "exportsvg": true
+}
