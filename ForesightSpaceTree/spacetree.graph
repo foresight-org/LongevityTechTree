@@ -2558,6 +2558,8 @@
     "font": "Balsamiq Sans",
     "nodefill": "#fbe6a3",
     "nodelabelstroke": "black",
+    "nodelabelfontsize": 16,
+    "nodenotesfontsize": 16,
     "nodeborder": "black",
     "edgestroke": "#4277dd",
     "edgeshape": "curved",

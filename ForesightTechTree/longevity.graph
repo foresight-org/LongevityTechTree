@@ -21494,6 +21494,8 @@
     "highlightColor": "red",
     "nodefill": "#7b9ecb",
     "nodelabelstroke": "black",
+    "nodelabelfontsize": 16,
+    "nodenotesfontsize": 16,
     "nodeborder": "white",
     "edgestroke": "#ccc",
     "edgeshape": "ortho",
