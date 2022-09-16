@@ -5,7 +5,7 @@ This is a build of the Tech Tree for Foresight Institute's Tech Tree Project. Th
 The current trees can be seen at:
 
 - [Longevity](https://foresight.org/ext/ForesightTechTree/) ([for editors](https://foresight.org/ext/ForesightTechTree/editor.html))
-- [Intelligent Cooperation](https://foresight.org/ext/ForesightIntcoopTree/) 
+- [Intelligent Cooperation](https://foresight.org/ext/ForesightIntcoopTree/) ([for editors](https://foresight.org/ext/ForesightIntcoopTree/editor.html))
 - [Nanotech](https://foresight.org/ext/ForesightNanotechTree/) ([for editors](https://foresight.org/ext/ForesightNanotechTree/editor.html))
 - [Neurotech](https://foresight.org/ext/ForesightNeurotechTree/) ([for editors](https://foresight.org/ext/ForesightNeurotechTree/editor.html))
 - [SpaceTech](https://foresight.org/ext/ForesightSpaceTree/) ([for editors](https://foresight.org/ext/ForesightSpaceTree/editor.html))
