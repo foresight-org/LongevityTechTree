@@ -3928,29 +3928,6 @@
       "fill": "#50e3c2"
     },
     {
-      "id": 128,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "shape": "straight",
-      "fromOrphan": {
-        "pos": {
-          "x": -492.7088696144011,
-          "y": 2855.864013671875
-        }
-      },
-      "toOrphan": {
-        "pos": {
-          "x": -492.7088696144011,
-          "y": 2855.864013671875
-        }
-      }
-    },
-    {
       "id": 228,
       "kind": "node",
       "label": "Bottom-Up Construction",
