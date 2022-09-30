@@ -326,6 +326,32 @@
       "shape": "straight"
     },
     {
+      "id": 979,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 947,
+      "toId": 978,
+      "shape": "straight"
+    },
+    {
+      "id": 980,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 170,
+      "toId": 978,
+      "shape": "straight"
+    },
+    {
       "id": 924,
       "kind": "edge",
       "label": "",
@@ -363,8 +389,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1487.1817391581822,
-        "y": -304.8306308884012
+        "x": 1464.9275887675572,
+        "y": -230.65021096652617
       },
       "nodelabelfontsize": 40
     },
@@ -397,8 +423,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -447.18947983369094,
-        "y": 738.1130794760188
+        "x": -442.08047104462844,
+        "y": 980.7900814291438
       },
       "nodelabelfontsize": 40
     },
@@ -448,8 +474,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1491.8945635262835,
-        "y": 718.7594916333819
+        "x": 1466.349519580971,
+        "y": 992.0904242505694
       },
       "nodelabelfontsize": 40
     },
@@ -465,28 +491,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 624.8587697127928,
-        "y": 721.500815116884
+        "x": 631.3399098495115,
+        "y": 991.350424491884
       },
       "nodelabelfontsize": 40
-    },
-    {
-      "id": 963,
-      "kind": "node",
-      "label": "security",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": null,
-      "pos": {
-        "x": 1899.3770751953125,
-        "y": 184.54684448242188
-      },
-      "nodelabelfontsize": null,
-      "nodenotesfontsize": null
     },
     {
       "id": 11,
@@ -1009,8 +1017,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1531.3457824358584,
-        "y": -173.3244061502328
+        "x": 1509.0916320452334,
+        "y": -99.14398622835779
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 22
@@ -1029,8 +1037,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1285.053469514136,
-        "y": 76.13088713750494
+        "x": 1262.799319123511,
+        "y": 150.31130705937994
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 22
@@ -1049,8 +1057,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1895.6862179002492,
-        "y": -307.3423562977164
+        "x": 1873.4320675096242,
+        "y": -233.16193637584138
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 22
@@ -1069,8 +1077,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1529.7083729878977,
-        "y": -374.4997786441181
+        "x": 1507.4542225972727,
+        "y": -300.3193587222431
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 22
@@ -1089,8 +1097,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1904.493086888121,
-        "y": 43.47533369811572
+        "x": 1882.238936497496,
+        "y": 117.65575361999072
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 22
@@ -1109,8 +1117,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1108.0596968220225,
-        "y": -290.8122715029458
+        "x": 1085.8055464313975,
+        "y": -216.6318515810708
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 22
@@ -1129,8 +1137,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1502.5822686840138,
-        "y": -656.1471736310941
+        "x": 1480.3281182933888,
+        "y": -581.9667537092191
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 22
@@ -1147,8 +1155,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1082.8372769531425,
-        "y": -661.9251294659261
+        "x": 1060.5831265625175,
+        "y": -587.7447095440511
       },
       "nodelabelfontsize": 22
     },
@@ -1166,11 +1174,29 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1891.6946306893906,
-        "y": -678.8517835186221
+        "x": 1869.4404802987656,
+        "y": -604.6713635967471
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 22
+    },
+    {
+      "id": 975,
+      "kind": "node",
+      "label": "security",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 50,
+      "pos": {
+        "x": 1930.9002685546875,
+        "y": 347.726806640625
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
     },
     {
       "id": 57,
@@ -1186,8 +1212,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 1558.7248229063389,
-        "y": 33.89814336713971
+        "x": 1536.4706725157139,
+        "y": 108.07856328901471
       },
       "fill": "#b8e986ff"
     },
@@ -1205,8 +1231,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 985.0322306051603,
-        "y": 25.564864961909734
+        "x": 962.7780802145353,
+        "y": 99.74528488378473
       },
       "fill": "#b8e986ff"
     },
@@ -1224,8 +1250,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 1258.3292171792646,
-        "y": 95.72683866307489
+        "x": 1236.0750667886396,
+        "y": 169.9072585849499
       },
       "fill": "#b8e986ff"
     },
@@ -1243,8 +1269,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 1007.3048493214119,
-        "y": 97.03007438676195
+        "x": 985.0506989307869,
+        "y": 171.21049430863695
       },
       "fill": "#b8e986ff"
     },
@@ -1262,8 +1288,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 1558.7335809092665,
-        "y": 97.65686057811354
+        "x": 1536.4794305186415,
+        "y": 171.83728049998854
       },
       "fill": "#b8e986ff"
     },
@@ -1281,8 +1307,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 1475.1745110395113,
-        "y": 158.83953779573403
+        "x": 1452.9203606488863,
+        "y": 233.01995771760903
       },
       "fill": "#b8e986ff"
     },
@@ -1300,8 +1326,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 1208.3603358164432,
-        "y": 160.46710173398787
+        "x": 1186.1061854258182,
+        "y": 234.64752165586287
       },
       "fill": "#b8e986ff"
     },
@@ -1319,8 +1345,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 979.6420498617481,
-        "y": 151.97170683210152
+        "x": 957.3878994711231,
+        "y": 226.15212675397652
       },
       "fill": "#b8e986ff"
     },
@@ -1338,8 +1364,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 1264.886425499466,
-        "y": 32.88101641134017
+        "x": 1242.632275108841,
+        "y": 107.06143633321517
       },
       "fill": "#cb5656ff"
     },
@@ -1355,8 +1381,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1198.653239751824,
-        "y": -321.9661142068153
+        "x": 1176.399089361199,
+        "y": -247.7856942849403
       },
       "nodelabelfontsize": 22
     },
@@ -1372,8 +1398,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1031.4882639886846,
-        "y": -149.2726184122821
+        "x": 1009.2341135980596,
+        "y": -75.0921984904071
       }
     },
     {
@@ -1388,8 +1414,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 989.9136275880946,
-        "y": -208.5949008798998
+        "x": 967.6594771974696,
+        "y": -134.4144809580248
       }
     },
     {
@@ -1404,8 +1430,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1213.4202305172012,
-        "y": -203.81927971206642
+        "x": 1191.1660801265762,
+        "y": -129.63885979019142
       }
     },
     {
@@ -1420,8 +1446,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1258.351834214507,
-        "y": -150.42760917767373
+        "x": 1236.097683823882,
+        "y": -76.24718925579873
       }
     },
     {
@@ -1436,8 +1462,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 974.4814753783485,
-        "y": -267.99119360705845
+        "x": 952.2273249877235,
+        "y": -193.81077368518345
       }
     },
     {
@@ -1452,8 +1478,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 973.5784078739944,
-        "y": -318.8469275382495
+        "x": 951.3242574833694,
+        "y": -244.66650761637447
       }
     },
     {
@@ -1468,8 +1494,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 971.2555802817706,
-        "y": -375.07247173825635
+        "x": 949.0014298911456,
+        "y": -300.89205181638135
       }
     },
     {
@@ -1484,8 +1510,8 @@
       "is_collapsed": false,
       "parent": 81,
       "pos": {
-        "x": 1197.718332055074,
-        "y": -314.0035446620386
+        "x": 1175.464181664449,
+        "y": -239.82312474016362
       }
     },
     {
@@ -1500,8 +1526,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1986.3308349639,
-        "y": -154.23728943314563
+        "x": 1964.076684573275,
+        "y": -80.05686951127063
       }
     },
     {
@@ -1518,8 +1544,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1949.983842807179,
-        "y": -255.88063943300858
+        "x": 1927.729692416554,
+        "y": -181.70021951113358
       },
       "fill": "#eccd2aff"
     },
@@ -1535,8 +1561,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1783.7220865207314,
-        "y": -254.81239476598967
+        "x": 1761.4679361301064,
+        "y": -180.63197484411467
       }
     },
     {
@@ -1551,8 +1577,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1820.6335089972554,
-        "y": -413.83806802104664
+        "x": 1798.3793586066304,
+        "y": -339.65764809917164
       }
     },
     {
@@ -1567,8 +1593,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1967.9067621181011,
-        "y": -357.41011894731855
+        "x": 1945.6526117274761,
+        "y": -283.22969902544355
       }
     },
     {
@@ -1585,8 +1611,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1836.1392984972808,
-        "y": -202.74837988814306
+        "x": 1813.8851481066558,
+        "y": -128.56795996626806
       },
       "fill": "#eccd2aff"
     },
@@ -1602,8 +1628,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1817.3296028804998,
-        "y": -152.40818475331798
+        "x": 1795.0754524898748,
+        "y": -78.22776483144298
       }
     },
     {
@@ -1620,8 +1646,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1890.8338572024986,
-        "y": -308.3993771281612
+        "x": 1868.5797068118736,
+        "y": -234.21895720628618
       },
       "fill": "#eccd2aff"
     },
@@ -1637,8 +1663,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1815.051962988241,
-        "y": -360.0581286803663
+        "x": 1792.797812597616,
+        "y": -285.8777087584913
       }
     },
     {
@@ -1655,8 +1681,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1987.5404613277515,
-        "y": -203.01319882044663
+        "x": 1965.2863109371265,
+        "y": -128.83277889857163
       },
       "fill": "#cb5656ff"
     },
@@ -1672,8 +1698,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1978.9959464271014,
-        "y": -413.2559223549306
+        "x": 1956.7417960364764,
+        "y": -339.0755024330556
       }
     },
     {
@@ -1690,8 +1716,8 @@
       "is_collapsed": false,
       "parent": 90,
       "pos": {
-        "x": 1540.4526635939874,
-        "y": -163.10995137444297
+        "x": 1518.1985132033624,
+        "y": -88.92953145256797
       },
       "fill": "#eccd2aff"
     },
@@ -1709,8 +1735,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 1111.2910908044087,
-        "y": -643.9825898222889
+        "x": 1089.0369404137837,
+        "y": -569.8021699004139
       },
       "fill": "#b8e986ff"
     },
@@ -1728,8 +1754,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 1219.4412917869486,
-        "y": -642.5099896251668
+        "x": 1197.1871413963236,
+        "y": -568.3295697032918
       },
       "fill": "#b8e986ff"
     },
@@ -1747,8 +1773,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 1082.1626381403748,
-        "y": -590.1185023355811
+        "x": 1059.9084877497498,
+        "y": -515.9380824137061
       },
       "fill": "#b8e986ff"
     },
@@ -1766,8 +1792,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 1211.9064544770717,
-        "y": -696.4730092605096
+        "x": 1189.6523040864467,
+        "y": -622.2925893386346
       },
       "fill": "#b8e986ff"
     },
@@ -1785,8 +1811,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 963.8963333567372,
-        "y": -697.3425616353061
+        "x": 941.6421829661122,
+        "y": -623.1621417134311
       },
       "fill": "#b8e986ff"
     },
@@ -1804,8 +1830,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 1084.255947324703,
-        "y": -698.432506183397
+        "x": 1062.001796934078,
+        "y": -624.252086261522
       },
       "fill": "#b8e986ff"
     },
@@ -1823,8 +1849,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 977.5535510590935,
-        "y": -643.1494631216428
+        "x": 955.2994006684685,
+        "y": -568.9690431997678
       },
       "fill": "#b8e986ff"
     },
@@ -1842,8 +1868,8 @@
       "is_collapsed": false,
       "parent": 124,
       "pos": {
-        "x": 1902.9962668347289,
-        "y": 39.55393358157744
+        "x": 1880.7421164441039,
+        "y": 113.73435350345244
       },
       "fill": "#eccd2aff"
     },
@@ -1861,8 +1887,8 @@
       "is_collapsed": false,
       "parent": 124,
       "pos": {
-        "x": 1850.0507813999202,
-        "y": 87.58262746809396
+        "x": 1827.7966310092952,
+        "y": 161.76304738996896
       },
       "fill": "#eccd2aff"
     },
@@ -1880,8 +1906,8 @@
       "is_collapsed": false,
       "parent": 124,
       "pos": {
-        "x": 1969.032927737634,
-        "y": 87.54983280666329
+        "x": 1946.778777347009,
+        "y": 161.7302527285383
       },
       "fill": "#144bf1ff"
     },
@@ -1897,8 +1923,8 @@
       "is_collapsed": false,
       "parent": 132,
       "pos": {
-        "x": 1498.1849550612642,
-        "y": -551.9456514970234
+        "x": 1475.9308046706392,
+        "y": -477.7652315751484
       }
     },
     {
@@ -1913,8 +1939,8 @@
       "is_collapsed": false,
       "parent": 132,
       "pos": {
-        "x": 1502.8043212890625,
-        "y": -668.8483486175537
+        "x": 1480.5501708984375,
+        "y": -594.6679286956787
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -1931,8 +1957,8 @@
       "is_collapsed": false,
       "parent": 141,
       "pos": {
-        "x": 1518.3722030292975,
-        "y": -327.6342810627648
+        "x": 1496.1180526386725,
+        "y": -253.45386114088979
       }
     },
     {
@@ -1949,8 +1975,8 @@
       "is_collapsed": false,
       "parent": 141,
       "pos": {
-        "x": 1527.8605599673283,
-        "y": -403.711744684555
+        "x": 1505.6064095767033,
+        "y": -329.53132476268
       },
       "fill": "#cb5656ff"
     },
@@ -1966,8 +1992,8 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": 1980.7493697567506,
-        "y": -672.8600444610129
+        "x": 1958.4952193661256,
+        "y": -598.6796245391379
       }
     },
     {
@@ -1984,8 +2010,8 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": 1895.4016613045947,
-        "y": -615.9698176772499
+        "x": 1873.1475109139697,
+        "y": -541.7893977553749
       },
       "fill": "#eccd2aff"
     },
@@ -2003,8 +2029,8 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": 1799.7625677567194,
-        "y": -729.0987655121462
+        "x": 1777.5084173660944,
+        "y": -654.9183455902712
       },
       "fill": "#eccd2aff"
     },
@@ -2022,8 +2048,8 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": 1976.4712523874045,
-        "y": -729.6394310738433
+        "x": 1954.2171019967795,
+        "y": -655.4590111519683
       },
       "fill": "#144bf1ff"
     },
@@ -2039,8 +2065,8 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": 1803.4113023489253,
-        "y": -675.0941060964997
+        "x": 1781.1571519583003,
+        "y": -600.9136861746247
       }
     },
     {
@@ -2048,15 +2074,15 @@
       "kind": "node",
       "label": "DSLs / IRs",
       "notes": "domain-specific languages and intermediate representations",
-      "desc": "",
+      "desc": "## Projects\n- [CirC](https://github.com/circify/circ)\n- [SnarkyJS](https://github.com/o1-labs/snarkyjs)\n- [Zokrates](https://zokrates.github.io/)\n- [circom](https://docs.circom.io/)",
       "link": "",
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 388.3880920410156,
-        "y": 862.9620971679688
+        "x": 398.60406494140625,
+        "y": 800.412841796875
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2075,8 +2101,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 870.2955322265625,
-        "y": 669.9797668457031
+        "x": 876.7766723632812,
+        "y": 939.8293762207031
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": null,
@@ -2094,8 +2120,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 301.49390168022296,
-        "y": 620.9621419768596
+        "x": 307.9750418169417,
+        "y": 890.8117513518596
       }
     },
     {
@@ -2112,8 +2138,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 919.54345703125,
-        "y": 794.6131896972656
+        "x": 377.00628662109375,
+        "y": 1109.2806091308594
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": null,
@@ -2133,8 +2159,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 652.0787703024657,
-        "y": 622.8105284308608
+        "x": 897.5882917868407,
+        "y": 870.2512022589858
       },
       "fill": "#144bf1ff"
     },
@@ -2152,8 +2178,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 859.6180422583061,
-        "y": 622.0647029815686
+        "x": 294.67193630127485,
+        "y": 1175.760564797975
       },
       "fill": "#144bf1ff"
     },
@@ -2171,8 +2197,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 653.3882806679999,
-        "y": 669.5500804427461
+        "x": 659.8694208047186,
+        "y": 939.3996898177461
       },
       "fill": "#eccd2aff"
     },
@@ -2190,8 +2216,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 437.4068718635276,
-        "y": 771.085965190236
+        "x": 443.88801200024636,
+        "y": 1040.935574565236
       },
       "fill": "#eccd2aff"
     },
@@ -2209,8 +2235,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 684.1290973896239,
-        "y": 719.9039082674981
+        "x": 690.6102375263426,
+        "y": 989.7535176424981
       },
       "fill": "#eccd2aff"
     },
@@ -2228,8 +2254,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 971.1339621861407,
-        "y": 719.4494003410409
+        "x": 977.6151023228595,
+        "y": 989.2990097160409
       },
       "fill": "#eccd2aff"
     },
@@ -2245,8 +2271,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 656.91604166665,
-        "y": 830.9715374694701
+        "x": 672.7498429361813,
+        "y": 831.9141644225951
       }
     },
     {
@@ -2263,8 +2289,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 915.8682861328125,
-        "y": 856.5438537597656
+        "x": 492.1315002441406,
+        "y": 1177.0874938964844
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": null,
@@ -2282,8 +2308,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 272.4416809082031,
-        "y": 678.2344055175781
+        "x": 278.9228210449219,
+        "y": 948.0840148925781
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2300,8 +2326,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 286.5049591064453,
-        "y": 771.0517883300781
+        "x": 292.98609924316406,
+        "y": 1040.9013977050781
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2318,8 +2344,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 427.1376037597656,
-        "y": 678.2344055175781
+        "x": 433.6187438964844,
+        "y": 948.0840148925781
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2336,8 +2362,80 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 448.80029296875,
-        "y": 616.1683959960938
+        "x": 313.8973083496094,
+        "y": 1296.1635131835938
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
+      "id": 967,
+      "kind": "node",
+      "label": "private retrieval",
+      "notes": "",
+      "desc": "## Resources\n\n\n-   [Express: Lowering the Cost of Metadata-hiding Communication with Cryptographic Privacy - Usenix Security 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/eskandarian) \n-   [Karaoke: Distributed Private Messaging Immune to Passive Traffic Analysis - OSDI 2018](https://www.usenix.org/conference/osdi18/presentation/lazar)\n-   [PIR-Tor: Scalable Anonymous Communication Using Private Information Retrieval](https://www.usenix.org/conference/usenix-security-11/pir-tor-scalable-anonymous-communication-using-private-information)\n-   [Oblivious DNS: Practical Privacy for DNS Queries](https://petsymposium.org/2019/files/papers/issue2/popets-2019-0028.pdf)\n-   [CryptDB: processing queries on an encrypted database](https://dl.acm.org/doi/abs/10.1145/2330667.2330691)",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 155,
+      "pos": {
+        "x": 825.7161254882812,
+        "y": 1132.0923461914062
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
+      "id": 971,
+      "kind": "node",
+      "label": "indistinguishability obfuscation",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 155,
+      "pos": {
+        "x": 896.5007629394531,
+        "y": 795.4056396484375
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
+      "id": 978,
+      "kind": "node",
+      "label": "zk-MPC",
+      "notes": "zero-knowledge multi-party computation",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 155,
+      "pos": {
+        "x": 820.2596435546875,
+        "y": 1356.800537109375
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
+      "id": 982,
+      "kind": "node",
+      "label": "distributed proving",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 155,
+      "pos": {
+        "x": 503.91448974609375,
+        "y": 1415.173828125
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2354,8 +2452,8 @@
       "is_collapsed": false,
       "parent": 170,
       "pos": {
-        "x": 659.3661346435547,
-        "y": 841.4376525878906
+        "x": 675.1999359130859,
+        "y": 842.3802795410156
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2365,7 +2463,7 @@
       "kind": "node",
       "label": "federated learning",
       "notes": "",
-      "desc": "A distributed machine learning technique that trains\ndata on local devices, then the local devices upload the local\nmodel updates, i. e., weights and gradients of the local models,\nto a central server and runs a predefined aggregation algorithm\nto obtain a global model\n\n## History\n- 2016 - Google introduces a novel distributed\nmachine learning framework termed \"federated learning\" [[\"Communication-Efficient Learning of Deep Networks from Decentralized Data\"]](https://arxiv.org/abs/1602.05629)\n\n## Resources\n- [Blockchain-based Federated Learning: A Comprehensive Survey (2021)](https://arxiv.org/abs/2110.02182)",
+      "desc": "A distributed machine learning technique that trains\ndata on local devices, then the local devices upload the local\nmodel updates, i. e., weights and gradients of the local models,\nto a central server and runs a predefined aggregation algorithm\nto obtain a global model\n\n## History\n- 2016 - Google introduces a novel distributed\nmachine learning framework termed \"federated learning\" [[\"Communication-Efficient Learning of Deep Networks from Decentralized Data\"]](https://arxiv.org/abs/1602.05629)\n\n## Resources\n- [Blockchain-based Federated Learning: A Comprehensive Survey (2021)](https://arxiv.org/abs/2110.02182)\n\n## Ways to get involved\n- [PETS Prize Challenges](https://petsprizechallenges.com/)",
       "link": "",
       "tags": [],
       "has_dynamic_notes": false,
@@ -2408,8 +2506,8 @@
       "is_collapsed": false,
       "parent": 185,
       "pos": {
-        "x": -378.8716125488281,
-        "y": 780.0090026855469
+        "x": -175.8171844482422,
+        "y": 1018.9512023925781
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2426,8 +2524,8 @@
       "is_collapsed": false,
       "parent": 185,
       "pos": {
-        "x": -582.9403076171875,
-        "y": 779.1922607421875
+        "x": -603.9750366210938,
+        "y": 1006.9299926757812
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2444,8 +2542,8 @@
       "is_collapsed": false,
       "parent": 185,
       "pos": {
-        "x": -443.3235778808594,
-        "y": 722.3188781738281
+        "x": -180.5120391845703,
+        "y": 935.1172790527344
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2462,8 +2560,8 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 1631.166748046875,
-        "y": 789.8105773925781
+        "x": 1605.6217041015625,
+        "y": 1063.1415100097656
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2480,8 +2578,8 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 1625.53857421875,
-        "y": 718.0873413085938
+        "x": 1599.9935302734375,
+        "y": 991.4182739257812
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2498,8 +2596,8 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 1348.8350830078125,
-        "y": 741.8897705078125
+        "x": 1323.2900390625,
+        "y": 1015.220703125
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2676,6 +2774,42 @@
       "fill": "#eccd2aff"
     },
     {
+      "id": 973,
+      "kind": "node",
+      "label": "DP-SGD",
+      "notes": "differentially private stochastic gradient descent",
+      "desc": "## Projects\n- [TensorFlow Privacy](https://github.com/tensorflow/privacy)\n- [Objax](https://github.com/google/objax)\n- [Opacus](https://github.com/pytorch/opacus)",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 932,
+      "pos": {
+        "x": -615.4986572265625,
+        "y": 993.1470947265625
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
+      "id": 974,
+      "kind": "node",
+      "label": "Model Agnostic Private Learning",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 932,
+      "pos": {
+        "x": -608.0289611816406,
+        "y": 1071.5782470703125
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
       "id": 134,
       "kind": "node",
       "label": "optimistic rollups",
@@ -2689,8 +2823,8 @@
       "is_collapsed": false,
       "parent": 952,
       "pos": {
-        "x": 1554.6006139740457,
-        "y": -655.4423365603343
+        "x": 1532.3464635834207,
+        "y": -581.2619166384593
       },
       "fill": "#144bf1ff"
     },
@@ -2708,8 +2842,8 @@
       "is_collapsed": false,
       "parent": 952,
       "pos": {
-        "x": 1432.038570086128,
-        "y": -653.7987418293824
+        "x": 1409.784419695503,
+        "y": -579.6183219075074
       },
       "fill": "#144bf1ff"
     },
@@ -2725,8 +2859,26 @@
       "is_collapsed": false,
       "parent": 959,
       "pos": {
-        "x": 1348.8350830078125,
-        "y": 756.7662963867188
+        "x": 1323.2900390625,
+        "y": 1030.0972290039062
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
+      "id": 977,
+      "kind": "node",
+      "label": "formal verification",
+      "notes": "",
+      "desc": "## Projects\n- [Ecne](https://github.com/franklynwang/EcneProject)",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 961,
+      "pos": {
+        "x": 318.1672058105469,
+        "y": 1303.3040771484375
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2763,6 +2915,114 @@
       "pos": {
         "x": 282.4588928222656,
         "y": -282.3682556152344
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
+      "id": 968,
+      "kind": "node",
+      "label": "private information retrieval (PIR)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 967,
+      "pos": {
+        "x": 769.298095703125,
+        "y": 1182.4649047851562
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
+      "id": 969,
+      "kind": "node",
+      "label": "oblivious message retrieval",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 967,
+      "pos": {
+        "x": 754.7479248046875,
+        "y": 1119.8990478515625
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
+      "id": 970,
+      "kind": "node",
+      "label": "mixnets",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 967,
+      "pos": {
+        "x": 943.2702026367188,
+        "y": 1184.021240234375
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
+      "id": 972,
+      "kind": "node",
+      "label": "oblivious RAM",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 967,
+      "pos": {
+        "x": 924.6190795898438,
+        "y": 1121.1594848632812
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
+      "id": 976,
+      "kind": "node",
+      "label": "formal verification",
+      "notes": "",
+      "desc": "### Specification languages for creating formal specifications \n\n**Act**: _*Act allows specification of storage updates, pre/post conditions and contract invariants. Its tool suite also has proof backends able to prove many properties via Coq, SMT solvers, or hevm.*_\n\n- [GitHub](https://github.com/ethereum/act)\n- [Documentation](https://ethereum.github.io/act/)\n\n**Scribble** - _*Scribble transforms code annotations in the Scribble specification language into concrete assertions that check the specification.*_\n\n- [Documentation](https://docs.scribble.codes/)\n\n**Dafny** - _*Dafny is a verification-ready programming language that relies on high-level annotations to reason about and prove correctness of code.*_\n\n- [GitHub](https://github.com/dafny-lang/dafny)\n\n### Program verifiers for checking correctness {#program-verifiers}\n\n**Solidity SMTChecker** - _*Solidity’s SMTChecker is a built-in model checker based on SMT (Satisfiability Modulo Theories) and Horn solving. It confirms if a contract’s source code matches specifications during compilation and statically checks for violations of safety properties.*_\n\n- [GitHub](https://github.com/ethereum/solidity)\n\n**solc-verify** - _*solc-verify is an extended version of the Solidity compiler that can perform automated formal verification on Solidity code using annotations and modular program verification.*_\n\n- [GitHub](https://github.com/SRI-CSL/solidity)\n\n**KEVM** - _*KEVM is a formal semantics of the Ethereum Virtual Machine (EVM) written in the K framework. KEVM is executable and can prove certain property-related assertions using reachability logic.*_\n\n- [GitHub](https://github.com/runtimeverification/evm-semantics)\n- [Documentation](https://jellopaper.org/)\n\n### Logical frameworks for theorem proving {#theorem-provers}\n\n**Isabelle** - _Isabelle/HOL is a proof assistant that allows mathematical formulas to be expressed in a formal language and provides tools for proving those formulas. The main application is the formalization of mathematical proofs and in particular formal verification, which includes proving the correctness of computer hardware or software and proving properties of computer languages and protocols._\n\n- [GitHub](https://github.com/isabelle-prover)\n- [Documentation](https://isabelle.in.tum.de/documentation.html)\n\n**Coq** - _Coq is an interactive theorem prover that lets you define programs using theorems and interactively generate machine-checked proofs of correctness._\n\n- [GitHub](https://github.com/coq/coq)\n- [Documentation](https://coq.github.io/doc/v8.13/refman/index.html)\n\n### Symbolic execution-based tools for detecting vulnerable patterns in smart contracts {#symbolic-execution-tools}\n\n**Manticore** - _*A tool for analyzing EVM bytecode analysis tool based on symbolic execution*._\n\n- [GitHub](https://github.com/trailofbits/manticore)\n- [Documentation](https://github.com/trailofbits/manticore/wiki)\n\n**hevm** - _*hevm is a symbolic execution engine and equivalence checker for EVM bytecode.*_\n\n- [GitHub](https://github.com/dapphub/dapptools/tree/master/src/hevm)\n\n## Further reading\n\n- [How Formal Verification of Smart Contracts Works](https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/)\n- [How Formal Verification Can Ensure Flawless Smart Contracts](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1)\n- [An Overview of Formal Verification Projects in the Ethereum Ecosystem](https://github.com/leonardoalt/ethereum_formal_verification_overview)\n- [End-to-End Formal Verification of Ethereum 2.0 Deposit Smart Contract](https://runtimeverification.com/blog/end-to-end-formal-verification-of-ethereum-2-0-deposit-smart-contract/)\n- [SMTChecker and Formal Verification](https://docs.soliditylang.org/en/v0.8.15/smtchecker.html)\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 975,
+      "pos": {
+        "x": 1937.8209228515625,
+        "y": 348.250732421875
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
+      "id": 981,
+      "kind": "node",
+      "label": "collaborative zk-SNARKS",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 978,
+      "pos": {
+        "x": 735.5242919921875,
+        "y": 1390.69482421875
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
