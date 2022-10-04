@@ -92,19 +92,6 @@
       "shape": "straight"
     },
     {
-      "id": 926,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 187,
-      "toId": 168,
-      "shape": "straight"
-    },
-    {
       "id": 943,
       "kind": "edge",
       "label": "",
@@ -115,6 +102,19 @@
       "weight": 5,
       "fromId": 170,
       "toId": 185,
+      "shape": "straight"
+    },
+    {
+      "id": 926,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 187,
+      "toId": 168,
       "shape": "straight"
     },
     {
@@ -144,7 +144,7 @@
       "shape": "straight"
     },
     {
-      "id": 934,
+      "id": 980,
       "kind": "edge",
       "label": "",
       "desc": "",
@@ -152,12 +152,12 @@
       "tags": [],
       "directed": true,
       "weight": 5,
-      "fromId": 168,
-      "toId": 933,
+      "fromId": 170,
+      "toId": 978,
       "shape": "straight"
     },
     {
-      "id": 940,
+      "id": 979,
       "kind": "edge",
       "label": "",
       "desc": "",
@@ -165,8 +165,8 @@
       "tags": [],
       "directed": true,
       "weight": 5,
-      "fromId": 175,
-      "toId": 81,
+      "fromId": 947,
+      "toId": 978,
       "shape": "straight"
     },
     {
@@ -196,7 +196,7 @@
       "shape": "straight"
     },
     {
-      "id": 957,
+      "id": 922,
       "kind": "edge",
       "label": "",
       "desc": "",
@@ -204,34 +204,8 @@
       "tags": [],
       "directed": true,
       "weight": 5,
-      "fromId": 51,
-      "toId": 51,
-      "shape": "straight"
-    },
-    {
-      "id": 958,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 51,
-      "toId": 59,
-      "shape": "straight"
-    },
-    {
-      "id": 925,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 157,
-      "toId": 135,
+      "fromId": 170,
+      "toId": 170,
       "shape": "straight"
     },
     {
@@ -274,7 +248,7 @@
       "shape": "straight"
     },
     {
-      "id": 922,
+      "id": 934,
       "kind": "edge",
       "label": "",
       "desc": "",
@@ -282,8 +256,60 @@
       "tags": [],
       "directed": true,
       "weight": 5,
-      "fromId": 170,
-      "toId": 170,
+      "fromId": 168,
+      "toId": 933,
+      "shape": "straight"
+    },
+    {
+      "id": 957,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 51,
+      "toId": 51,
+      "shape": "straight"
+    },
+    {
+      "id": 958,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 51,
+      "toId": 59,
+      "shape": "straight"
+    },
+    {
+      "id": 940,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 175,
+      "toId": 81,
+      "shape": "straight"
+    },
+    {
+      "id": 925,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 157,
+      "toId": 135,
       "shape": "straight"
     },
     {
@@ -326,32 +352,6 @@
       "shape": "straight"
     },
     {
-      "id": 979,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 947,
-      "toId": 978,
-      "shape": "straight"
-    },
-    {
-      "id": 980,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 170,
-      "toId": 978,
-      "shape": "straight"
-    },
-    {
       "id": 924,
       "kind": "edge",
       "label": "",
@@ -380,18 +380,21 @@
     {
       "id": 50,
       "kind": "node",
-      "label": "decentralised infrastructure",
+      "label": "decentralised consensus systems",
       "notes": "",
       "desc": "",
       "link": "",
-      "tags": [],
+      "tags": [
+        "core"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1464.9275887675572,
-        "y": -230.65021096652617
+        "x": 2443.457862205057,
+        "y": -6.265262236057424
       },
+      "fill": "#144bf1ff",
       "nodelabelfontsize": 40
     },
     {
@@ -401,14 +404,17 @@
       "notes": "",
       "desc": "",
       "link": "",
-      "tags": [],
+      "tags": [
+        "core"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -444.11075080270894,
-        "y": -317.98636659342174
+        "x": -609.1451746308339,
+        "y": -30.98864206034068
       },
+      "fill": "#144bf1ff",
       "nodelabelfontsize": 40
     },
     {
@@ -418,14 +424,17 @@
       "notes": "",
       "desc": "",
       "link": "",
-      "tags": [],
+      "tags": [
+        "frontier"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -442.08047104462844,
-        "y": 980.7900814291438
+        "x": -645.0367393551753,
+        "y": 1065.5512508627376
       },
+      "fill": "#eccd2aff",
       "nodelabelfontsize": 40
     },
     {
@@ -435,31 +444,17 @@
       "notes": "",
       "desc": "",
       "link": "",
-      "tags": [],
+      "tags": [
+        "frontier"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 444.0995374405486,
-        "y": -311.83971203691294
+        "x": 816.3816858017547,
+        "y": -505.87257946855357
       },
-      "nodelabelfontsize": 40
-    },
-    {
-      "id": 187,
-      "kind": "node",
-      "label": "decentralised data governance",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": null,
-      "pos": {
-        "x": 440.5801708473085,
-        "y": 168.13860878472724
-      },
+      "fill": "#eccd2aff",
       "nodelabelfontsize": 40
     },
     {
@@ -469,14 +464,37 @@
       "notes": "",
       "desc": "## Projects\n- [Aleo](https://www.aleo.org/)\n- [DarkFi](https://dark.fi/)\n\n## Resources\n- [ZEXE (2018)](https://eprint.iacr.org/2018/962.pdf)\n- [VERI-ZEXE (2022)](https://eprint.iacr.org/2022/802)",
       "link": "",
-      "tags": [],
+      "tags": [
+        "frontier"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1466.349519580971,
-        "y": 992.0904242505694
+        "x": 2952.273835987221,
+        "y": 1031.5920721997882
       },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 40
+    },
+    {
+      "id": 187,
+      "kind": "node",
+      "label": "decentralised data governance",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 777.864815927875,
+        "y": 382.4064691973249
+      },
+      "fill": "#144bf1ff",
       "nodelabelfontsize": 40
     },
     {
@@ -486,14 +504,17 @@
       "notes": "",
       "desc": "",
       "link": "",
-      "tags": [],
+      "tags": [
+        "core"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 631.3399098495115,
-        "y": 991.350424491884
+        "x": 1403.0622456649412,
+        "y": 1599.6092745895403
       },
+      "fill": "#144bf1ff",
       "nodelabelfontsize": 40
     },
     {
@@ -508,8 +529,8 @@
       "is_collapsed": false,
       "parent": 4,
       "pos": {
-        "x": -842.0760410802291,
-        "y": -513.3293903792992
+        "x": -1007.1104649083541,
+        "y": -226.33166584621813
       }
     },
     {
@@ -526,8 +547,8 @@
       "is_collapsed": false,
       "parent": 4,
       "pos": {
-        "x": -878.6334168176363,
-        "y": -455.01574168357547
+        "x": -1043.6678406457613,
+        "y": -168.01801715049442
       },
       "fill": "#eccd2aff"
     },
@@ -543,8 +564,8 @@
       "is_collapsed": false,
       "parent": 4,
       "pos": {
-        "x": -745.8057244164866,
-        "y": -456.0479752788933
+        "x": -910.8401482446116,
+        "y": -169.05025074581226
       }
     },
     {
@@ -561,8 +582,8 @@
       "is_collapsed": false,
       "parent": 4,
       "pos": {
-        "x": -823.509458566009,
-        "y": -396.4133774916054
+        "x": -988.543882394134,
+        "y": -109.41565295852433
       },
       "fill": "#eccd2aff"
     },
@@ -578,8 +599,8 @@
       "is_collapsed": false,
       "parent": 4,
       "pos": {
-        "x": -749.0771771070549,
-        "y": -334.27563794779235
+        "x": -914.1116009351799,
+        "y": -47.27791341471129
       }
     },
     {
@@ -594,8 +615,8 @@
       "is_collapsed": false,
       "parent": 4,
       "pos": {
-        "x": -868.0315459037774,
-        "y": -338.3536411732657
+        "x": -1033.0659697319024,
+        "y": -51.35591664018466
       }
     },
     {
@@ -610,8 +631,8 @@
       "is_collapsed": false,
       "parent": 14,
       "pos": {
-        "x": -427.67021093573567,
-        "y": -115.63456984145887
+        "x": -592.7046347638607,
+        "y": 171.36315469162219
       }
     },
     {
@@ -626,8 +647,8 @@
       "is_collapsed": false,
       "parent": 14,
       "pos": {
-        "x": -357.7940468246579,
-        "y": -170.543233421251
+        "x": -522.8284706527829,
+        "y": 116.45449111183007
       }
     },
     {
@@ -642,8 +663,8 @@
       "is_collapsed": false,
       "parent": 14,
       "pos": {
-        "x": -279.7260051068997,
-        "y": -170.40146317690414
+        "x": -444.7604289350247,
+        "y": 116.59626135617691
       }
     },
     {
@@ -658,8 +679,8 @@
       "is_collapsed": false,
       "parent": 14,
       "pos": {
-        "x": -199.15433111990933,
-        "y": -167.5392860792481
+        "x": -364.18875494803433,
+        "y": 119.45843845383297
       }
     },
     {
@@ -674,8 +695,8 @@
       "is_collapsed": false,
       "parent": 14,
       "pos": {
-        "x": -470.30888587061963,
-        "y": -170.30067773560586
+        "x": -635.3433096987446,
+        "y": 116.6970467974752
       }
     },
     {
@@ -690,8 +711,8 @@
       "is_collapsed": false,
       "parent": 14,
       "pos": {
-        "x": -511.7479908229625,
-        "y": -116.50602594628435
+        "x": -676.7824146510875,
+        "y": 170.4916985867967
       }
     },
     {
@@ -708,8 +729,8 @@
       "is_collapsed": false,
       "parent": 14,
       "pos": {
-        "x": -307.64130784382724,
-        "y": -111.21343524700569
+        "x": -472.67573167195224,
+        "y": 175.78428928607536
       },
       "fill": "#144bf1ff"
     },
@@ -725,8 +746,8 @@
       "is_collapsed": false,
       "parent": 14,
       "pos": {
-        "x": -194.98318863863096,
-        "y": -113.39677914904405
+        "x": -360.01761246675596,
+        "y": 173.600945384037
       }
     },
     {
@@ -741,8 +762,8 @@
       "is_collapsed": false,
       "parent": 29,
       "pos": {
-        "x": -200.22697634693031,
-        "y": -489.56843940835915
+        "x": -365.2614001750553,
+        "y": -202.5707148752781
       }
     },
     {
@@ -757,8 +778,8 @@
       "is_collapsed": false,
       "parent": 29,
       "pos": {
-        "x": -48.13847619857006,
-        "y": -489.5282936331869
+        "x": -213.17290002669506,
+        "y": -202.53056910010582
       }
     },
     {
@@ -773,8 +794,8 @@
       "is_collapsed": false,
       "parent": 29,
       "pos": {
-        "x": -54.508000480031114,
-        "y": -339.76076751834444
+        "x": -219.54242430815611,
+        "y": -52.76304298526338
       }
     },
     {
@@ -789,8 +810,8 @@
       "is_collapsed": false,
       "parent": 29,
       "pos": {
-        "x": -57.6252531109003,
-        "y": -387.36589211895625
+        "x": -222.6596769390253,
+        "y": -100.3681675858752
       }
     },
     {
@@ -805,8 +826,8 @@
       "is_collapsed": false,
       "parent": 29,
       "pos": {
-        "x": -53.03756796028574,
-        "y": -437.0894953891411
+        "x": -218.07199178841074,
+        "y": -150.09177085606007
       }
     },
     {
@@ -821,8 +842,8 @@
       "is_collapsed": false,
       "parent": 29,
       "pos": {
-        "x": -196.71129594541526,
-        "y": -436.60779997030113
+        "x": -361.74571977354026,
+        "y": -149.61007543722008
       }
     },
     {
@@ -837,8 +858,8 @@
       "is_collapsed": false,
       "parent": 29,
       "pos": {
-        "x": -203.40605003842393,
-        "y": -380.4264194285106
+        "x": -368.4404738665489,
+        "y": -93.42869489542954
       }
     },
     {
@@ -855,8 +876,8 @@
       "is_collapsed": false,
       "parent": 42,
       "pos": {
-        "x": -443.9710871317111,
-        "y": -420.242049685392
+        "x": -609.0055109598361,
+        "y": -133.24432515231092
       },
       "fill": "#cb5656ff",
       "nodelabelfontsize": 22
@@ -873,8 +894,8 @@
       "is_collapsed": false,
       "parent": 42,
       "pos": {
-        "x": -122.82515395608334,
-        "y": -424.73526285858225
+        "x": -287.85957778420834,
+        "y": -137.7375383255012
       },
       "nodelabelfontsize": 22
     },
@@ -890,8 +911,8 @@
       "is_collapsed": false,
       "parent": 42,
       "pos": {
-        "x": -349.2419754484781,
-        "y": -153.49610390584166
+        "x": -514.2763992766031,
+        "y": 133.5016206272394
       },
       "nodelabelfontsize": 22
     },
@@ -907,8 +928,8 @@
       "is_collapsed": false,
       "parent": 42,
       "pos": {
-        "x": -33.71724131059818,
-        "y": -222.03269891634318
+        "x": -198.75166513872318,
+        "y": 64.96502561673788
       }
     },
     {
@@ -923,8 +944,8 @@
       "is_collapsed": false,
       "parent": 42,
       "pos": {
-        "x": -62.20536164436817,
-        "y": -162.353673790617
+        "x": -227.23978547249317,
+        "y": 124.64405074246406
       }
     },
     {
@@ -941,8 +962,8 @@
       "is_collapsed": false,
       "parent": 44,
       "pos": {
-        "x": -452.55518120543456,
-        "y": -443.6572523329887
+        "x": -617.5896050335596,
+        "y": -156.65952779990766
       },
       "fill": "#cb5656ff"
     },
@@ -960,8 +981,8 @@
       "is_collapsed": false,
       "parent": 44,
       "pos": {
-        "x": -460.8357221610222,
-        "y": -382.5158122629264
+        "x": -625.8701459891472,
+        "y": -95.51808772984532
       },
       "fill": "#cb5656ff"
     },
@@ -979,8 +1000,8 @@
       "is_collapsed": false,
       "parent": 44,
       "pos": {
-        "x": -460.17605781420207,
-        "y": -334.31052287190323
+        "x": -625.2104816423271,
+        "y": -47.312798338822176
       },
       "fill": "#cb5656ff"
     },
@@ -998,8 +1019,8 @@
       "is_collapsed": false,
       "parent": 44,
       "pos": {
-        "x": -450.70707996447254,
-        "y": -493.0092168499905
+        "x": -615.7415037925975,
+        "y": -206.01149231690943
       },
       "fill": "#cb5656ff"
     },
@@ -1017,8 +1038,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1509.0916320452334,
-        "y": -99.14398622835779
+        "x": 2487.6219054827334,
+        "y": 125.24096250211096
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 22
@@ -1037,8 +1058,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1262.799319123511,
-        "y": 150.31130705937994
+        "x": 2728.000490998511,
+        "y": -350.50038422479975
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 22
@@ -1057,8 +1078,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1873.4320675096242,
-        "y": -233.16193637584138
+        "x": 2956.4234005174367,
+        "y": 15.963796046033622
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 22
@@ -1077,8 +1098,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1507.4542225972727,
-        "y": -300.3193587222431
+        "x": 2485.9844960347727,
+        "y": -75.93440999177437
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 22
@@ -1086,7 +1107,7 @@
     {
       "id": 124,
       "kind": "node",
-      "label": "consensus systems",
+      "label": "consensus protocols",
       "notes": "",
       "desc": "A mechanism for nodes to reach an agreement on the network's current state.",
       "link": "",
@@ -1097,8 +1118,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1882.238936497496,
-        "y": 117.65575361999072
+        "x": 2596.867598606871,
+        "y": 344.7896647528032
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 22
@@ -1117,28 +1138,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1085.8055464313975,
-        "y": -216.6318515810708
-      },
-      "fill": "#eccd2aff",
-      "nodelabelfontsize": 22
-    },
-    {
-      "id": 132,
-      "kind": "node",
-      "label": "scaling",
-      "notes": "",
-      "desc": "Mechanisms to increase throughput on resource-constrained execution environments.",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 50,
-      "pos": {
-        "x": 1480.3281182933888,
-        "y": -581.9667537092191
+        "x": 2064.3358198688975,
+        "y": 7.753097149397945
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 22
@@ -1155,29 +1156,9 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1060.5831265625175,
-        "y": -587.7447095440511
+        "x": 2039.1134000000175,
+        "y": -363.3597608135824
       },
-      "nodelabelfontsize": 22
-    },
-    {
-      "id": 146,
-      "kind": "node",
-      "label": "interoperability",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 50,
-      "pos": {
-        "x": 1869.4404802987656,
-        "y": -604.6713635967471
-      },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 22
     },
     {
@@ -1187,14 +1168,17 @@
       "notes": "",
       "desc": "",
       "link": "",
-      "tags": [],
+      "tags": [
+        "risk"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1930.9002685546875,
-        "y": 347.726806640625
+        "x": 2260.6724853515625,
+        "y": 341.19786071777344
       },
+      "fill": "#cb5656ff",
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
     },
@@ -1212,8 +1196,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 1536.4706725157139,
-        "y": 108.07856328901471
+        "x": 3001.671844390714,
+        "y": -392.733127995165
       },
       "fill": "#b8e986ff"
     },
@@ -1231,8 +1215,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 962.7780802145353,
-        "y": 99.74528488378473
+        "x": 2427.9792520895353,
+        "y": -401.06640640039495
       },
       "fill": "#b8e986ff"
     },
@@ -1250,8 +1234,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 1236.0750667886396,
-        "y": 169.9072585849499
+        "x": 2701.2762386636396,
+        "y": -330.9044326992298
       },
       "fill": "#b8e986ff"
     },
@@ -1269,8 +1253,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 985.0506989307869,
-        "y": 171.21049430863695
+        "x": 2450.251870805787,
+        "y": -329.60119697554273
       },
       "fill": "#b8e986ff"
     },
@@ -1288,8 +1272,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 1536.4794305186415,
-        "y": 171.83728049998854
+        "x": 3001.6806023936415,
+        "y": -328.97441078419115
       },
       "fill": "#b8e986ff"
     },
@@ -1307,8 +1291,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 1452.9203606488863,
-        "y": 233.01995771760903
+        "x": 2918.1215325238863,
+        "y": -267.79173356657066
       },
       "fill": "#b8e986ff"
     },
@@ -1326,8 +1310,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 1186.1061854258182,
-        "y": 234.64752165586287
+        "x": 2651.3073573008182,
+        "y": -266.1641696283168
       },
       "fill": "#b8e986ff"
     },
@@ -1345,8 +1329,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 957.3878994711231,
-        "y": 226.15212675397652
+        "x": 2422.589071346123,
+        "y": -274.65956453020317
       },
       "fill": "#b8e986ff"
     },
@@ -1364,8 +1348,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 1242.632275108841,
-        "y": 107.06143633321517
+        "x": 2707.833446983841,
+        "y": -393.7502549509645
       },
       "fill": "#cb5656ff"
     },
@@ -1381,8 +1365,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1176.399089361199,
-        "y": -247.7856942849403
+        "x": 2154.929362798699,
+        "y": -23.40074555447154
       },
       "nodelabelfontsize": 22
     },
@@ -1398,8 +1382,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1009.2341135980596,
-        "y": -75.0921984904071
+        "x": 1987.7643870355596,
+        "y": 149.29275024006165
       }
     },
     {
@@ -1414,8 +1398,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 967.6594771974696,
-        "y": -134.4144809580248
+        "x": 1946.1897506349696,
+        "y": 89.97046777244395
       }
     },
     {
@@ -1430,8 +1414,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1191.1660801265762,
-        "y": -129.63885979019142
+        "x": 2169.696353564076,
+        "y": 94.74608894027733
       }
     },
     {
@@ -1446,8 +1430,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1236.097683823882,
-        "y": -76.24718925579873
+        "x": 2214.627957261382,
+        "y": 148.13775947467002
       }
     },
     {
@@ -1462,8 +1446,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 952.2273249877235,
-        "y": -193.81077368518345
+        "x": 1930.7575984252235,
+        "y": 30.5741750452853
       }
     },
     {
@@ -1478,8 +1462,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 951.3242574833694,
-        "y": -244.66650761637447
+        "x": 1929.8545309208694,
+        "y": -20.281558885905724
       }
     },
     {
@@ -1494,8 +1478,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 949.0014298911456,
-        "y": -300.89205181638135
+        "x": 1927.5317033286456,
+        "y": -76.5071030859126
       }
     },
     {
@@ -1510,8 +1494,8 @@
       "is_collapsed": false,
       "parent": 81,
       "pos": {
-        "x": 1175.464181664449,
-        "y": -239.82312474016362
+        "x": 2153.994455101949,
+        "y": -15.438176009694871
       }
     },
     {
@@ -1526,8 +1510,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1964.076684573275,
-        "y": -80.05686951127063
+        "x": 3047.0680175810876,
+        "y": 169.06886291060437
       }
     },
     {
@@ -1544,8 +1528,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1927.729692416554,
-        "y": -181.70021951113358
+        "x": 3010.7210254243664,
+        "y": 67.42551291074142
       },
       "fill": "#eccd2aff"
     },
@@ -1561,8 +1545,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1761.4679361301064,
-        "y": -180.63197484411467
+        "x": 2844.459269137919,
+        "y": 68.49375757776033
       }
     },
     {
@@ -1577,8 +1561,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1798.3793586066304,
-        "y": -339.65764809917164
+        "x": 2881.370691614443,
+        "y": -90.53191567729664
       }
     },
     {
@@ -1593,8 +1577,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1945.6526117274761,
-        "y": -283.22969902544355
+        "x": 3028.6439447352886,
+        "y": -34.10396660356855
       }
     },
     {
@@ -1611,8 +1595,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1813.8851481066558,
-        "y": -128.56795996626806
+        "x": 2896.8764811144683,
+        "y": 120.55777245560694
       },
       "fill": "#eccd2aff"
     },
@@ -1628,8 +1612,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1795.0754524898748,
-        "y": -78.22776483144298
+        "x": 2878.0667854976873,
+        "y": 170.89796759043202
       }
     },
     {
@@ -1646,8 +1630,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1868.5797068118736,
-        "y": -234.21895720628618
+        "x": 2951.571039819686,
+        "y": 14.906775215588823
       },
       "fill": "#eccd2aff"
     },
@@ -1663,8 +1647,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1792.797812597616,
-        "y": -285.8777087584913
+        "x": 2875.7891456054285,
+        "y": -36.75197633661628
       }
     },
     {
@@ -1681,8 +1665,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1965.2863109371265,
-        "y": -128.83277889857163
+        "x": 3048.277643944939,
+        "y": 120.29295352330337
       },
       "fill": "#cb5656ff"
     },
@@ -1698,8 +1682,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 1956.7417960364764,
-        "y": -339.0755024330556
+        "x": 3039.733129044289,
+        "y": -89.94977001118059
       }
     },
     {
@@ -1716,8 +1700,8 @@
       "is_collapsed": false,
       "parent": 90,
       "pos": {
-        "x": 1518.1985132033624,
-        "y": -88.92953145256797
+        "x": 2496.7287866408624,
+        "y": 135.45541727790078
       },
       "fill": "#eccd2aff"
     },
@@ -1735,8 +1719,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 1089.0369404137837,
-        "y": -569.8021699004139
+        "x": 2067.5672138512837,
+        "y": -345.41722116994515
       },
       "fill": "#b8e986ff"
     },
@@ -1754,8 +1738,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 1197.1871413963236,
-        "y": -568.3295697032918
+        "x": 2175.7174148338236,
+        "y": -343.94462097282303
       },
       "fill": "#b8e986ff"
     },
@@ -1773,8 +1757,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 1059.9084877497498,
-        "y": -515.9380824137061
+        "x": 2038.4387611872498,
+        "y": -291.5531336832373
       },
       "fill": "#b8e986ff"
     },
@@ -1792,8 +1776,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 1189.6523040864467,
-        "y": -622.2925893386346
+        "x": 2168.1825775239467,
+        "y": -397.9076406081658
       },
       "fill": "#b8e986ff"
     },
@@ -1811,8 +1795,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 941.6421829661122,
-        "y": -623.1621417134311
+        "x": 1920.1724564036122,
+        "y": -398.77719298296233
       },
       "fill": "#b8e986ff"
     },
@@ -1830,8 +1814,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 1062.001796934078,
-        "y": -624.252086261522
+        "x": 2040.532070371578,
+        "y": -399.86713753105323
       },
       "fill": "#b8e986ff"
     },
@@ -1849,8 +1833,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 955.2994006684685,
-        "y": -568.9690431997678
+        "x": 1933.8296741059685,
+        "y": -344.5840944692991
       },
       "fill": "#b8e986ff"
     },
@@ -1868,8 +1852,8 @@
       "is_collapsed": false,
       "parent": 124,
       "pos": {
-        "x": 1880.7421164441039,
-        "y": 113.73435350345244
+        "x": 2595.370778553479,
+        "y": 340.86826463626494
       },
       "fill": "#eccd2aff"
     },
@@ -1887,8 +1871,8 @@
       "is_collapsed": false,
       "parent": 124,
       "pos": {
-        "x": 1827.7966310092952,
-        "y": 161.76304738996896
+        "x": 2542.42529311867,
+        "y": 388.89695852278146
       },
       "fill": "#eccd2aff"
     },
@@ -1906,8 +1890,8 @@
       "is_collapsed": false,
       "parent": 124,
       "pos": {
-        "x": 1946.778777347009,
-        "y": 161.7302527285383
+        "x": 2661.407439456384,
+        "y": 388.8641638613508
       },
       "fill": "#144bf1ff"
     },
@@ -1923,8 +1907,8 @@
       "is_collapsed": false,
       "parent": 132,
       "pos": {
-        "x": 1475.9308046706392,
-        "y": -477.7652315751484
+        "x": 553.8268389113618,
+        "y": 426.7744946821758
       }
     },
     {
@@ -1939,8 +1923,8 @@
       "is_collapsed": false,
       "parent": 132,
       "pos": {
-        "x": 1480.5501708984375,
-        "y": -594.6679286956787
+        "x": 558.4462051391602,
+        "y": 309.8717975616455
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -1957,8 +1941,8 @@
       "is_collapsed": false,
       "parent": 141,
       "pos": {
-        "x": 1496.1180526386725,
-        "y": -253.45386114088979
+        "x": 2474.6483260761725,
+        "y": -29.068912410421035
       }
     },
     {
@@ -1975,8 +1959,8 @@
       "is_collapsed": false,
       "parent": 141,
       "pos": {
-        "x": 1505.6064095767033,
-        "y": -329.53132476268
+        "x": 2484.1366830142033,
+        "y": -105.14637603221126
       },
       "fill": "#cb5656ff"
     },
@@ -1992,8 +1976,8 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": 1958.4952193661256,
-        "y": -598.6796245391379
+        "x": 1040.5400420589967,
+        "y": 338.844222563981
       }
     },
     {
@@ -2010,8 +1994,8 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": 1873.1475109139697,
-        "y": -541.7893977553749
+        "x": 955.1923336068407,
+        "y": 395.734449347744
       },
       "fill": "#eccd2aff"
     },
@@ -2029,8 +2013,8 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": 1777.5084173660944,
-        "y": -654.9183455902712
+        "x": 859.5532400589655,
+        "y": 282.6055015128477
       },
       "fill": "#eccd2aff"
     },
@@ -2048,8 +2032,8 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": 1954.2171019967795,
-        "y": -655.4590111519683
+        "x": 1036.2619246896506,
+        "y": 282.0648359511506
       },
       "fill": "#144bf1ff"
     },
@@ -2065,27 +2049,47 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": 1781.1571519583003,
-        "y": -600.9136861746247
+        "x": 863.2019746511714,
+        "y": 336.6101609284942
       }
     },
     {
-      "id": 962,
+      "id": 158,
       "kind": "node",
-      "label": "DSLs / IRs",
-      "notes": "domain-specific languages and intermediate representations",
-      "desc": "## Projects\n- [CirC](https://github.com/circify/circ)\n- [SnarkyJS](https://github.com/o1-labs/snarkyjs)\n- [Zokrates](https://zokrates.github.io/)\n- [circom](https://docs.circom.io/)",
+      "label": "zero-knowledge virtual machines",
+      "notes": "",
+      "desc": "The encoding of a virtual machine (state transition function) in a zero-knowledge circuit. This enables any general-purpose program which can be compiled down to a reduced instruction set, to be verifiably computed in a zero-knowledge proof.\n\n ## Projects\n- <a target=_blank href=https://www.risczero.com/>Risc Zero</a>\n- <a target=_blank href=https://polygon.technology/solutions/polygon-miden/>Polygon Miden (Miden VM)</a>\n- <a target=_blank href=https://starkware.co/tech-stack/>Starkware (Cairo VM)</a>\n",
       "link": "",
-      "tags": [],
+      "tags": [
+        "frontier"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 398.60406494140625,
-        "y": 800.412841796875
+        "x": 1408.5860040566718,
+        "y": 1401.0935985091523
       },
-      "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "fill": "#eccd2aff"
+    },
+    {
+      "id": 159,
+      "kind": "node",
+      "label": "zero-knowledge set membership",
+      "notes": "",
+      "desc": "A scheme to prove inclusion in a set, without revealing which member of the set it is.\n\n ## Projects\n- <a target=_blank href=https://github.com/semaphore-protocol/semaphore/>Semaphore</a>\n",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 155,
+      "pos": {
+        "x": 1673.1763502585204,
+        "y": 1407.0870787238296
+      },
+      "fill": "#144bf1ff"
     },
     {
       "id": 945,
@@ -2101,10 +2105,68 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 876.7766723632812,
-        "y": 939.8293762207031
+        "x": 1389.7108535766602,
+        "y": 1882.1614074707031
       },
       "fill": "#144bf1ff",
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
+      "id": 160,
+      "kind": "node",
+      "label": "incrementally verifiable computation (IVC)",
+      "notes": "",
+      "desc": "An efficient verifiable computation that can be verified at any intermediate point in the computation. The proof at each step is generated efficiently by updating the previous proof, without recomputing the entire proof from scratch. \n ## Resources\n- <a target=_blank href=https://link.springer.com/chapter/10.1007/978-3-540-78524-8_1>Incrementally Verifiable Computation or Proofs of Knowledge Imply Time/Space Efficiency</a>\n",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 155,
+      "pos": {
+        "x": 1660.8735431904051,
+        "y": 1838.9747700839043
+      },
+      "fill": "#eccd2aff"
+    },
+    {
+      "id": 961,
+      "kind": "node",
+      "label": "security",
+      "notes": "",
+      "desc": "## Projects\n- [circomspect](https://github.com/trailofbits/circomspect)",
+      "link": "",
+      "tags": [
+        "risk"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 155,
+      "pos": {
+        "x": 1463.4379119873047,
+        "y": 1733.79833984375
+      },
+      "fill": "#cb5656ff",
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
+      "id": 962,
+      "kind": "node",
+      "label": "DSLs / IRs",
+      "notes": "domain-specific languages and intermediate representations",
+      "desc": "## Projects\n- [CirC](https://github.com/circify/circ)\n- [SnarkyJS](https://github.com/o1-labs/snarkyjs)\n- [Zokrates](https://zokrates.github.io/)\n- [circom](https://docs.circom.io/)",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 155,
+      "pos": {
+        "x": 1388.255111694336,
+        "y": 1524.900390625
+      },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
     },
@@ -2120,8 +2182,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 307.9750418169417,
-        "y": 890.8117513518596
+        "x": 1079.6973776323714,
+        "y": 1499.0706014495158
       }
     },
     {
@@ -2138,31 +2200,12 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 377.00628662109375,
-        "y": 1109.2806091308594
+        "x": 1148.7286224365234,
+        "y": 1717.5394592285156
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
-    },
-    {
-      "id": 159,
-      "kind": "node",
-      "label": "zero-knowledge set membership",
-      "notes": "",
-      "desc": "A scheme to prove inclusion in a set, without revealing which member of the set it is.\n\n ## Projects\n- <a target=_blank href=https://github.com/semaphore-protocol/semaphore/>Semaphore</a>\n",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": 897.5882917868407,
-        "y": 870.2512022589858
-      },
-      "fill": "#144bf1ff"
     },
     {
       "id": 125,
@@ -2178,29 +2221,10 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 294.67193630127485,
-        "y": 1175.760564797975
+        "x": 1066.3942721167045,
+        "y": 1784.0194148956311
       },
       "fill": "#144bf1ff"
-    },
-    {
-      "id": 158,
-      "kind": "node",
-      "label": "zero-knowledge virtual machines",
-      "notes": "",
-      "desc": "The encoding of a virtual machine (state transition function) in a zero-knowledge circuit. This enables any general-purpose program which can be compiled down to a reduced instruction set, to be verifiably computed in a zero-knowledge proof.\n\n ## Projects\n- <a target=_blank href=https://www.risczero.com/>Risc Zero</a>\n- <a target=_blank href=https://polygon.technology/solutions/polygon-miden/>Polygon Miden (Miden VM)</a>\n- <a target=_blank href=https://starkware.co/tech-stack/>Starkware (Cairo VM)</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": 659.8694208047186,
-        "y": 939.3996898177461
-      },
-      "fill": "#eccd2aff"
     },
     {
       "id": 168,
@@ -2216,27 +2240,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 443.88801200024636,
-        "y": 1040.935574565236
-      },
-      "fill": "#eccd2aff"
-    },
-    {
-      "id": 160,
-      "kind": "node",
-      "label": "incrementally verifiable computation (IVC)",
-      "notes": "",
-      "desc": "An efficient verifiable computation that can be verified at any intermediate point in the computation. The proof at each step is generated efficiently by updating the previous proof, without recomputing the entire proof from scratch. \n ## Resources\n- <a target=_blank href=https://link.springer.com/chapter/10.1007/978-3-540-78524-8_1>Incrementally Verifiable Computation or Proofs of Knowledge Imply Time/Space Efficiency</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": 690.6102375263426,
-        "y": 989.7535176424981
+        "x": 1215.610347815676,
+        "y": 1649.1944246628923
       },
       "fill": "#eccd2aff"
     },
@@ -2254,26 +2259,10 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 977.6151023228595,
-        "y": 989.2990097160409
+        "x": 1672.3359732945391,
+        "y": 1729.7679428215097
       },
       "fill": "#eccd2aff"
-    },
-    {
-      "id": 170,
-      "kind": "node",
-      "label": "multi-party computation",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": 672.7498429361813,
-        "y": 831.9141644225951
-      }
     },
     {
       "id": 944,
@@ -2289,8 +2278,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 492.1315002441406,
-        "y": 1177.0874938964844
+        "x": 1263.8538360595703,
+        "y": 1785.3463439941406
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": null,
@@ -2308,8 +2297,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 278.9228210449219,
-        "y": 948.0840148925781
+        "x": 1050.6451568603516,
+        "y": 1556.3428649902344
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2326,8 +2315,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 292.98609924316406,
-        "y": 1040.9013977050781
+        "x": 1064.7084350585938,
+        "y": 1649.1602478027344
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2344,44 +2333,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 433.6187438964844,
-        "y": 948.0840148925781
-      },
-      "nodelabelfontsize": null,
-      "nodenotesfontsize": null
-    },
-    {
-      "id": 961,
-      "kind": "node",
-      "label": "security",
-      "notes": "",
-      "desc": "## Projects\n- [circomspect](https://github.com/trailofbits/circomspect)",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": 313.8973083496094,
-        "y": 1296.1635131835938
-      },
-      "nodelabelfontsize": null,
-      "nodenotesfontsize": null
-    },
-    {
-      "id": 967,
-      "kind": "node",
-      "label": "private retrieval",
-      "notes": "",
-      "desc": "## Resources\n\n\n-   [Express: Lowering the Cost of Metadata-hiding Communication with Cryptographic Privacy - Usenix Security 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/eskandarian) \n-   [Karaoke: Distributed Private Messaging Immune to Passive Traffic Analysis - OSDI 2018](https://www.usenix.org/conference/osdi18/presentation/lazar)\n-   [PIR-Tor: Scalable Anonymous Communication Using Private Information Retrieval](https://www.usenix.org/conference/usenix-security-11/pir-tor-scalable-anonymous-communication-using-private-information)\n-   [Oblivious DNS: Practical Privacy for DNS Queries](https://petsymposium.org/2019/files/papers/issue2/popets-2019-0028.pdf)\n-   [CryptDB: processing queries on an encrypted database](https://dl.acm.org/doi/abs/10.1145/2330667.2330691)",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": 825.7161254882812,
-        "y": 1132.0923461914062
+        "x": 1186.4539337158203,
+        "y": 1591.2114562988281
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2398,26 +2351,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 896.5007629394531,
-        "y": 795.4056396484375
-      },
-      "nodelabelfontsize": null,
-      "nodenotesfontsize": null
-    },
-    {
-      "id": 978,
-      "kind": "node",
-      "label": "zk-MPC",
-      "notes": "zero-knowledge multi-party computation",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": 820.2596435546875,
-        "y": 1356.800537109375
+        "x": 1690.0159454345703,
+        "y": 1499.5531005859375
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2434,8 +2369,8 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 503.91448974609375,
-        "y": 1415.173828125
+        "x": 1650.2147674560547,
+        "y": 1788.2257690429688
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2452,8 +2387,8 @@
       "is_collapsed": false,
       "parent": 170,
       "pos": {
-        "x": 675.1999359130859,
-        "y": 842.3802795410156
+        "x": 3150.608444213867,
+        "y": 1081.0706787109375
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2470,8 +2405,8 @@
       "is_collapsed": false,
       "parent": 184,
       "pos": {
-        "x": 633.834716796875,
-        "y": -283.4515075683594
+        "x": 1006.116865158081,
+        "y": -477.484375
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2488,8 +2423,8 @@
       "is_collapsed": false,
       "parent": 184,
       "pos": {
-        "x": 358.9617614746094,
-        "y": -287.2859802246094
+        "x": 731.2439098358154,
+        "y": -481.31884765625
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2506,8 +2441,8 @@
       "is_collapsed": false,
       "parent": 185,
       "pos": {
-        "x": -175.8171844482422,
-        "y": 1018.9512023925781
+        "x": -378.77345275878906,
+        "y": 1103.7123718261719
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2524,8 +2459,8 @@
       "is_collapsed": false,
       "parent": 185,
       "pos": {
-        "x": -603.9750366210938,
-        "y": 1006.9299926757812
+        "x": -806.9313049316406,
+        "y": 1091.691162109375
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2542,8 +2477,26 @@
       "is_collapsed": false,
       "parent": 185,
       "pos": {
-        "x": -180.5120391845703,
-        "y": 935.1172790527344
+        "x": -383.4683074951172,
+        "y": 1019.8784484863281
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
+      "id": 978,
+      "kind": "node",
+      "label": "zk-MPC",
+      "notes": "zero-knowledge multi-party computation",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 186,
+      "pos": {
+        "x": 2831.859375,
+        "y": 936.9837036132812
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2560,8 +2513,42 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 1605.6217041015625,
-        "y": 1063.1415100097656
+        "x": 3119.061767578125,
+        "y": 1179.0014343261719
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null
+    },
+    {
+      "id": 170,
+      "kind": "node",
+      "label": "multi-party computation",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 186,
+      "pos": {
+        "x": 3148.1583512369625,
+        "y": 1070.604563592517
+      }
+    },
+    {
+      "id": 967,
+      "kind": "node",
+      "label": "private retrieval",
+      "notes": "",
+      "desc": "## Resources\n\n\n-   [Express: Lowering the Cost of Metadata-hiding Communication with Cryptographic Privacy - Usenix Security 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/eskandarian) \n-   [Karaoke: Distributed Private Messaging Immune to Passive Traffic Analysis - OSDI 2018](https://www.usenix.org/conference/osdi18/presentation/lazar)\n-   [PIR-Tor: Scalable Anonymous Communication Using Private Information Retrieval](https://www.usenix.org/conference/usenix-security-11/pir-tor-scalable-anonymous-communication-using-private-information)\n-   [Oblivious DNS: Practical Privacy for DNS Queries](https://petsymposium.org/2019/files/papers/issue2/popets-2019-0028.pdf)\n-   [CryptDB: processing queries on an encrypted database](https://dl.acm.org/doi/abs/10.1145/2330667.2330691)",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 186,
+      "pos": {
+        "x": 2825.2763671875,
+        "y": 1154.698974609375
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2578,8 +2565,8 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 1599.9935302734375,
-        "y": 991.4182739257812
+        "x": 3108.7918701171875,
+        "y": 1237.76220703125
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2596,77 +2583,26 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 1323.2900390625,
-        "y": 1015.220703125
+        "x": 3136.9327392578125,
+        "y": 916.30029296875
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
     },
     {
-      "id": 183,
+      "id": 181,
       "kind": "node",
-      "label": "decentralised data storage",
+      "label": "data mining",
       "notes": "",
-      "desc": "Data is encrypted and stored across multiple locations, or nodes, that are run by individuals or organizations that share their extra disk space for a fee. Only the data's owner holds the private encryption key; storage providers cannot access the data. In many cases, the files are also sharded and spread across multiple locations, providing yet another layer of storage security.\n\n ## Projects\n- <a target=_blank href=https://filecoin.io>Filecoin</a>\n- <a target=_blank href=https://arweave.org>Arweave</a>\n- <a target=_blank href=https://maidsafe.net>MaidSafe</a>\n- <a target=_blank href=https://sia.tech>Sia</a>\n\n ## Resources\n- <a target=_blank href=https://www.techtarget.com/searchstorage/tip/Comparing-4-decentralized-data-storage-offerings>7 dece##Ped data\nrage networks compared (2022) - Brien Posey</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 187,
-      "pos": {
-        "x": 305.54915368090576,
-        "y": 208.0466508207137
-      },
-      "fill": "#eccd2aff"
-    },
-    {
-      "id": 175,
-      "kind": "node",
-      "label": "open data",
-      "notes": "",
-      "desc": "Data which is openly accessible, exploitable and shared by anyone for any purpose.\n\n## History\n- 1942 - Robert King Merton explained importance that result of research should be open\n- 1995 - Term open data appeared first time\n- 2007 - While meeting of thirty thinkers aim to define concept of open public data \n- 2009 - Nobel prize to Elinor Orstrom who showed the specificity of information commons\n\n ## Projects\n- <a target=_blank href=https://github.com/>GitHub: Where the world builds software · GitHub</a>\n- <a target=_blank href=https://abc.xyz/>Alphabet</a>\n- <a target=_blank href=https://www.kaggle.com/>Kaggle: Your Machine Learning and Data Science Community</a>\n- <a target=_blank href=https://dev.socrata.com/>dev.socrata.com/</a>\n\n ## Labs\n- <a target=_blank href=http://linkedscience.org/data>LinkedScience</a>\n- <a target=_blank href=https://www.systemanaturae.org/>www.systemanaturae.org/</a>\n- <a target=_blank href=https://dataverse.org/>The Dataverse Project - Dataverse.org</a>\n- <a target=_blank href=https://www.genome.gov/human-genome-project>The Human Genome Project</a>\n- <a target=_blank href=https://data.gov/open-gov/>Open Government - Data.gov</a>\n\n ## People\n- <a target=_blank href=https://www.maxroser.com/>Max Roser – Researcher, Founder Our World in Data</a>\n- <a target=_blank href=https://jimmywales.com/)>Jimmy Wales | Free knowledge for free minds</a>\n- <a target=_blank href=https://www.w3.org/People/Berners-Lee/>Tim Berners-Lee</a>\n\n## How to get involved\n- <a target=_blank href=https://blog.ldodds.com/2017/05/25/where-can-you-contribute-to-open-data-yes-you/>Where can you contribute to open data? Yes, you! – Lost Boy</a>\n- <a target=_blank href=http://opendatatoolkit.worldbank.org/en/starting.html>Starting an open data Initiative | Data</a>\n\n ## Resources\n- <a target=_blank href=https://digitalscience.figshare.com/articles/report/The_State_of_Open_Data_2021/17061347>The State of Open Data 2021</a>\n",
+      "desc": "Extracting and discovering patterns in large data sets.\n\n## History\n- 1960s - Economists used terms like data fishing or data dredging to refer what they considered bad practice of analyzing data without an a-priori hypothesis.\n- 1990 - Term data mining appeared in database community generally with positive connotations.\n- 1996 - Usama Fayyad launched journal by Kluwer called Data Mining and Knowledge Discovery\n\n ## Projects\n- <a target=_blank href=https://www.wckdrzr.com/>WCKD RZR - Unlocking the potential of the world’s data</a>\n- <a target=_blank href=https://www.dayta.ai/>The New Era of Shopper Analytics | Dayta AI</a>\n- <a target=_blank href=https://cannerdata.com/>Canner - Data Access Workflow Simplified.</a>\n- <a target=_blank href=https://emergeiq.co/>EMERGEiQ – Data Science as a Service</a>\n- <a target=_blank href=https://www.hoodieanalytics.com/)>Real-time Cannabis Pricing & Sales Analytics & Intelligence - Hoodie Analytics</a>\n\n ## Labs\n- <a target=_blank href=https://sciences.ucf.edu/statistics/dms/data-mining-lab/)>Data Mining Lab – DATA SCIENCE PROGRAM</a>\n- <a target=_blank href=https://www.cs.utexas.edu/users/dml/)>www.cs.utexas.edu/users/dml/</a>\n- <a target=_blank href=http://dml.cs.byu.edu/)>BYU Data Mining Lab</a>\n- <a target=_blank href=http://web.cse.ohio-state.edu/dmrl/)>Data Mining Research at The Ohio State University</a>\n- <a target=_blank href=http://dml.cs.byu.edu/)>BYU Data Mining Lab</a>\n\n ## People\n- <a target=_blank href=https://www.dbs.ifi.lmu.de/cms/personen/professoren/kriegel/index.html)>Hans-Peter Kriegel - Lehr- und Forschungseinheit für Datenbanksysteme - LMU Munich</a>\n- <a target=_blank href=https://www.cs.cmu.edu/~christos/)>Christos Faloutsos</a>\n- <a target=_blank href=https://hanj.cs.illinois.edu/)>Jiawei Han</a>\n- <a target=_blank href=http://www.cs.cornell.edu/johannes/)>Johannes Gehrke's Homepage</a>\n- <a target=_blank href=http://infolab.stanford.edu/people/hector.html)>Hector Garcia-Molina</a>\n\n## How to get involved\n- <a target=_blank href=https://www.meetup.com/de-DE/topics/data-mining/>Data Mining Gruppen in Deutschland | Meetup</a>\n- <a target=_blank href=https://favtutor.com/blogs/data-mining-projects>13 Interesting Data Mining Projects in 2022 (for Students) | FavTutor</a>\n\n ## Resources\n- <a target=_blank href=https://dataminingbook.info/>Main Page | Data Mining and Machine Learning</a>\n- <a target=_blank href=https://www.edx.org/course/learning-from-data-introductory-machine-learning>Learning From Data (Introductory Machine Learning) | edX</a>\n- <a target=_blank href=https://www.kdnuggets.com/faq/learning-data-mining-data-science.html)>Where to start with Data Mining and Data Science - KDnuggets</a>\n",
       "link": "",
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": 187,
       "pos": {
-        "x": 463.9727877320033,
-        "y": 209.55085006996705
-      }
-    },
-    {
-      "id": 177,
-      "kind": "node",
-      "label": "data curation",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 187,
-      "pos": {
-        "x": 583.7595561836631,
-        "y": 208.92739359191955
-      }
-    },
-    {
-      "id": 180,
-      "kind": "node",
-      "label": "data analysis",
-      "notes": "",
-      "desc": "Process of inspecting, cleansing, transforming and modelling data with the goal of useful information, informing conclusions and supporting decision-making.\n\n ## History\n- C 18000 BCE - Humans using tally sticks for analyzing data\n- C 2400 BCE - Invention of abacus\n- 300 BC - 48 AD - Library of Alexandria\n- C 100 - 200 AD - Use of Antikythera mechanism\n- 1663 - First experiment in statistical data analysis\n- 1865 - Term 'business intelligence' is termed\n- 1880 - Hollerith Tabulating Machine\n- 1926 - Method for storing information magnetically on tape gets innovated\n- 1958 - New definition of business intelligence\n- 1965 - US plans worlds first data center\n- 1970 - First time used the term 'Big Data'\n- 1999 - First use of term 'IoT'\n\n ## Projects\n- <a target=_blank href=https://www.itechart.com/solutions/big-data>www.itechart.com/solutions/big data</a>\n- <a target=_blank href=https://dhiva.ai/>dhiva.ai/</a>\n- <a target=_blank href=https://databricks.com/>Databricks - The Data and AI Company</a>\n- <a target=_blank href=https://craft.co/>Just a moment...</a>\n- <a target=_blank href=https://www.civisanalytics.com/>Empowered Data Solutions - Data Science | Civis Analytics</a>\n\n ## Labs\n- <a target=_blank href=https://ed.buffalo.edu/dal>Quantitative and Qualitative Data Analysis Lab - Graduate School of Education - University at Buffalo</a>\n- <a target=_blank href=http://www.da.inf.ethz.ch/>Data Analytics Lab</a>\n- <a target=_blank href=https://www.fhsu.edu/psych/data-analysis-lab>     Data Analysis Lab -  Fort Hays State University</a>\n- <a target=_blank href=https://chemlab.truman.edu/data-analysis/>Data Analysis  |  Chem Lab</a>\n- <a target=_blank href=https://sites.usc.edu/dslab/>DATA SCIENCE LAB – Led by Dr. Viktor K. Prasanna</a>\n\n ## People\n- <a target=_blank href=https://www.dkriesel.com/)>David Kriesel</a>\n- <a target=_blank href=https://en.wikipedia.org/wiki/Christopher_Wylie>Christoper Wylie - Author of [Mindf*ck: Cambridge Analytica and the Plot to Break America</a>\n- <a target=_blank href=http://www.abbottanalytics.com/data-mining-consulting-services-about.php>About Abbott Analytics - Abbott Analytics: Data Mining Services in San Diego</a>\n- <a target=_blank href=https://www.linkedin.com/in/mjaberry/>Michael Berry</a>\n- <a target=_blank href=https://www.tomdavenport.com/>Home - Tom Davenport</a>\n\n## How to get involved\n- <a target=_blank href=https://www.youtube.com/watch?v=-YpwsdRKt8Q>Try to find a project like him and collect data over periods of time which you will analyze</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 187,
-      "pos": {
-        "x": 263.1222087059351,
-        "y": 155.44430680556752
+        "x": 729.2500276468315,
+        "y": 622.3446404744413
       }
     },
     {
@@ -2683,26 +2619,49 @@
       "is_collapsed": false,
       "parent": 187,
       "pos": {
-        "x": 366.8713558864047,
-        "y": 155.12070276025406
+        "x": 1021.8302029323031,
+        "y": 534.1338024306642
       },
       "fill": "#144bf1ff"
     },
     {
-      "id": 181,
+      "id": 183,
       "kind": "node",
-      "label": "data mining",
+      "label": "decentralised data storage",
       "notes": "",
-      "desc": "Extracting and discovering patterns in large data sets.\n\n## History\n- 1960s - Economists used terms like data fishing or data dredging to refer what they considered bad practice of analyzing data without an a-priori hypothesis.\n- 1990 - Term data mining appeared in database community generally with positive connotations.\n- 1996 - Usama Fayyad launched journal by Kluwer called Data Mining and Knowledge Discovery\n\n ## Projects\n- <a target=_blank href=https://www.wckdrzr.com/>WCKD RZR - Unlocking the potential of the world’s data</a>\n- <a target=_blank href=https://www.dayta.ai/>The New Era of Shopper Analytics | Dayta AI</a>\n- <a target=_blank href=https://cannerdata.com/>Canner - Data Access Workflow Simplified.</a>\n- <a target=_blank href=https://emergeiq.co/>EMERGEiQ – Data Science as a Service</a>\n- <a target=_blank href=https://www.hoodieanalytics.com/)>Real-time Cannabis Pricing & Sales Analytics & Intelligence - Hoodie Analytics</a>\n\n ## Labs\n- <a target=_blank href=https://sciences.ucf.edu/statistics/dms/data-mining-lab/)>Data Mining Lab – DATA SCIENCE PROGRAM</a>\n- <a target=_blank href=https://www.cs.utexas.edu/users/dml/)>www.cs.utexas.edu/users/dml/</a>\n- <a target=_blank href=http://dml.cs.byu.edu/)>BYU Data Mining Lab</a>\n- <a target=_blank href=http://web.cse.ohio-state.edu/dmrl/)>Data Mining Research at The Ohio State University</a>\n- <a target=_blank href=http://dml.cs.byu.edu/)>BYU Data Mining Lab</a>\n\n ## People\n- <a target=_blank href=https://www.dbs.ifi.lmu.de/cms/personen/professoren/kriegel/index.html)>Hans-Peter Kriegel - Lehr- und Forschungseinheit für Datenbanksysteme - LMU Munich</a>\n- <a target=_blank href=https://www.cs.cmu.edu/~christos/)>Christos Faloutsos</a>\n- <a target=_blank href=https://hanj.cs.illinois.edu/)>Jiawei Han</a>\n- <a target=_blank href=http://www.cs.cornell.edu/johannes/)>Johannes Gehrke's Homepage</a>\n- <a target=_blank href=http://infolab.stanford.edu/people/hector.html)>Hector Garcia-Molina</a>\n\n## How to get involved\n- <a target=_blank href=https://www.meetup.com/de-DE/topics/data-mining/>Data Mining Gruppen in Deutschland | Meetup</a>\n- <a target=_blank href=https://favtutor.com/blogs/data-mining-projects>13 Interesting Data Mining Projects in 2022 (for Students) | FavTutor</a>\n\n ## Resources\n- <a target=_blank href=https://dataminingbook.info/>Main Page | Data Mining and Machine Learning</a>\n- <a target=_blank href=https://www.edx.org/course/learning-from-data-introductory-machine-learning>Learning From Data (Introductory Machine Learning) | edX</a>\n- <a target=_blank href=https://www.kdnuggets.com/faq/learning-data-mining-data-science.html)>Where to start with Data Mining and Data Science - KDnuggets</a>\n",
+      "desc": "Data is encrypted and stored across multiple locations, or nodes, that are run by individuals or organizations that share their extra disk space for a fee. Only the data's owner holds the private encryption key; storage providers cannot access the data. In many cases, the files are also sharded and spread across multiple locations, providing yet another layer of storage security.\n\n ## Projects\n- <a target=_blank href=https://filecoin.io>Filecoin</a>\n- <a target=_blank href=https://arweave.org>Arweave</a>\n- <a target=_blank href=https://maidsafe.net>MaidSafe</a>\n- <a target=_blank href=https://sia.tech>Sia</a>\n\n ## Resources\n- <a target=_blank href=https://www.techtarget.com/searchstorage/tip/Comparing-4-decentralized-data-storage-offerings>7 dece##Ped data\nrage networks compared (2022) - Brien Posey</a>\n",
       "link": "",
-      "tags": [],
+      "tags": [
+        "frontier"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": 187,
       "pos": {
-        "x": 601.7377824686089,
-        "y": 155.53372738850385
-      }
+        "x": 635.5347722722145,
+        "y": 526.8560437497908
+      },
+      "fill": "#eccd2aff"
+    },
+    {
+      "id": 132,
+      "kind": "node",
+      "label": "scaling",
+      "notes": "",
+      "desc": "Mechanisms to increase throughput on resource-constrained execution environments.",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 187,
+      "pos": {
+        "x": 558.2241525341115,
+        "y": 322.5729725481051
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 22
     },
     {
       "id": 176,
@@ -2716,8 +2675,76 @@
       "is_collapsed": false,
       "parent": 187,
       "pos": {
-        "x": 480.91632848526,
-        "y": 156.38862714509924
+        "x": 458.38999944473267,
+        "y": 525.5875330899235
+      }
+    },
+    {
+      "id": 146,
+      "kind": "node",
+      "label": "interoperability",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 187,
+      "pos": {
+        "x": 951.4853029916367,
+        "y": 332.85248350637175
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 22
+    },
+    {
+      "id": 175,
+      "kind": "node",
+      "label": "open data",
+      "notes": "",
+      "desc": "Data which is openly accessible, exploitable and shared by anyone for any purpose.\n\n## History\n- 1942 - Robert King Merton explained importance that result of research should be open\n- 1995 - Term open data appeared first time\n- 2007 - While meeting of thirty thinkers aim to define concept of open public data \n- 2009 - Nobel prize to Elinor Orstrom who showed the specificity of information commons\n\n ## Projects\n- <a target=_blank href=https://github.com/>GitHub: Where the world builds software · GitHub</a>\n- <a target=_blank href=https://abc.xyz/>Alphabet</a>\n- <a target=_blank href=https://www.kaggle.com/>Kaggle: Your Machine Learning and Data Science Community</a>\n- <a target=_blank href=https://dev.socrata.com/>dev.socrata.com/</a>\n\n ## Labs\n- <a target=_blank href=http://linkedscience.org/data>LinkedScience</a>\n- <a target=_blank href=https://www.systemanaturae.org/>www.systemanaturae.org/</a>\n- <a target=_blank href=https://dataverse.org/>The Dataverse Project - Dataverse.org</a>\n- <a target=_blank href=https://www.genome.gov/human-genome-project>The Human Genome Project</a>\n- <a target=_blank href=https://data.gov/open-gov/>Open Government - Data.gov</a>\n\n ## People\n- <a target=_blank href=https://www.maxroser.com/>Max Roser – Researcher, Founder Our World in Data</a>\n- <a target=_blank href=https://jimmywales.com/)>Jimmy Wales | Free knowledge for free minds</a>\n- <a target=_blank href=https://www.w3.org/People/Berners-Lee/>Tim Berners-Lee</a>\n\n## How to get involved\n- <a target=_blank href=https://blog.ldodds.com/2017/05/25/where-can-you-contribute-to-open-data-yes-you/>Where can you contribute to open data? Yes, you! – Lost Boy</a>\n- <a target=_blank href=http://opendatatoolkit.worldbank.org/en/starting.html>Starting an open data Initiative | Data</a>\n\n ## Resources\n- <a target=_blank href=https://digitalscience.figshare.com/articles/report/The_State_of_Open_Data_2021/17061347>The State of Open Data 2021</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 187,
+      "pos": {
+        "x": 922.3346728028041,
+        "y": 530.0268403653772
+      }
+    },
+    {
+      "id": 177,
+      "kind": "node",
+      "label": "data curation",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 187,
+      "pos": {
+        "x": 1059.1147312019737,
+        "y": 622.8664576177985
+      }
+    },
+    {
+      "id": 180,
+      "kind": "node",
+      "label": "data analysis",
+      "notes": "",
+      "desc": "Process of inspecting, cleansing, transforming and modelling data with the goal of useful information, informing conclusions and supporting decision-making.\n\n ## History\n- C 18000 BCE - Humans using tally sticks for analyzing data\n- C 2400 BCE - Invention of abacus\n- 300 BC - 48 AD - Library of Alexandria\n- C 100 - 200 AD - Use of Antikythera mechanism\n- 1663 - First experiment in statistical data analysis\n- 1865 - Term 'business intelligence' is termed\n- 1880 - Hollerith Tabulating Machine\n- 1926 - Method for storing information magnetically on tape gets innovated\n- 1958 - New definition of business intelligence\n- 1965 - US plans worlds first data center\n- 1970 - First time used the term 'Big Data'\n- 1999 - First use of term 'IoT'\n\n ## Projects\n- <a target=_blank href=https://www.itechart.com/solutions/big-data>www.itechart.com/solutions/big data</a>\n- <a target=_blank href=https://dhiva.ai/>dhiva.ai/</a>\n- <a target=_blank href=https://databricks.com/>Databricks - The Data and AI Company</a>\n- <a target=_blank href=https://craft.co/>Just a moment...</a>\n- <a target=_blank href=https://www.civisanalytics.com/>Empowered Data Solutions - Data Science | Civis Analytics</a>\n\n ## Labs\n- <a target=_blank href=https://ed.buffalo.edu/dal>Quantitative and Qualitative Data Analysis Lab - Graduate School of Education - University at Buffalo</a>\n- <a target=_blank href=http://www.da.inf.ethz.ch/>Data Analytics Lab</a>\n- <a target=_blank href=https://www.fhsu.edu/psych/data-analysis-lab>     Data Analysis Lab -  Fort Hays State University</a>\n- <a target=_blank href=https://chemlab.truman.edu/data-analysis/>Data Analysis  |  Chem Lab</a>\n- <a target=_blank href=https://sites.usc.edu/dslab/>DATA SCIENCE LAB – Led by Dr. Viktor K. Prasanna</a>\n\n ## People\n- <a target=_blank href=https://www.dkriesel.com/)>David Kriesel</a>\n- <a target=_blank href=https://en.wikipedia.org/wiki/Christopher_Wylie>Christoper Wylie - Author of [Mindf*ck: Cambridge Analytica and the Plot to Break America</a>\n- <a target=_blank href=http://www.abbottanalytics.com/data-mining-consulting-services-about.php>About Abbott Analytics - Abbott Analytics: Data Mining Services in San Diego</a>\n- <a target=_blank href=https://www.linkedin.com/in/mjaberry/>Michael Berry</a>\n- <a target=_blank href=https://www.tomdavenport.com/>Home - Tom Davenport</a>\n\n## How to get involved\n- <a target=_blank href=https://www.youtube.com/watch?v=-YpwsdRKt8Q>Try to find a project like him and collect data over periods of time which you will analyze</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 187,
+      "pos": {
+        "x": 800.8097468529077,
+        "y": 529.9846891908214
       }
     },
     {
@@ -2732,8 +2759,8 @@
       "is_collapsed": false,
       "parent": 914,
       "pos": {
-        "x": -268.71210170541235,
-        "y": -313.6259991193856
+        "x": -433.74652553353735,
+        "y": -26.628274586304542
       },
       "nodelabelfontsize": 22
     },
@@ -2749,8 +2776,8 @@
       "is_collapsed": false,
       "parent": 914,
       "pos": {
-        "x": -809.9516915599293,
-        "y": -424.7184344478301
+        "x": -974.9861153880543,
+        "y": -137.72070991474902
       },
       "nodelabelfontsize": 22
     },
@@ -2768,8 +2795,8 @@
       "is_collapsed": false,
       "parent": 914,
       "pos": {
-        "x": -824.5168837540868,
-        "y": -170.15906232083398
+        "x": -989.5513075822118,
+        "y": 116.83866221224707
       },
       "fill": "#eccd2aff"
     },
@@ -2785,8 +2812,8 @@
       "is_collapsed": false,
       "parent": 932,
       "pos": {
-        "x": -615.4986572265625,
-        "y": 993.1470947265625
+        "x": -818.4549255371094,
+        "y": 1077.9082641601562
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2803,8 +2830,8 @@
       "is_collapsed": false,
       "parent": 932,
       "pos": {
-        "x": -608.0289611816406,
-        "y": 1071.5782470703125
+        "x": -810.9852294921875,
+        "y": 1156.3394165039062
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2823,8 +2850,8 @@
       "is_collapsed": false,
       "parent": 952,
       "pos": {
-        "x": 1532.3464635834207,
-        "y": -581.2619166384593
+        "x": 610.2424978241434,
+        "y": 323.2778096188649
       },
       "fill": "#144bf1ff"
     },
@@ -2842,8 +2869,8 @@
       "is_collapsed": false,
       "parent": 952,
       "pos": {
-        "x": 1409.784419695503,
-        "y": -579.6183219075074
+        "x": 487.6804539362256,
+        "y": 324.92140434981684
       },
       "fill": "#144bf1ff"
     },
@@ -2859,8 +2886,8 @@
       "is_collapsed": false,
       "parent": 959,
       "pos": {
-        "x": 1323.2900390625,
-        "y": 1030.0972290039062
+        "x": 3136.9327392578125,
+        "y": 931.1768188476562
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2877,8 +2904,8 @@
       "is_collapsed": false,
       "parent": 961,
       "pos": {
-        "x": 318.1672058105469,
-        "y": 1303.3040771484375
+        "x": 1467.7078094482422,
+        "y": 1740.9389038085938
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2895,8 +2922,8 @@
       "is_collapsed": false,
       "parent": 964,
       "pos": {
-        "x": 435.2706756591797,
-        "y": -280.8981018066406
+        "x": 807.5528240203857,
+        "y": -474.93096923828125
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2913,8 +2940,8 @@
       "is_collapsed": false,
       "parent": 964,
       "pos": {
-        "x": 282.4588928222656,
-        "y": -282.3682556152344
+        "x": 654.7410411834717,
+        "y": -476.401123046875
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2931,8 +2958,8 @@
       "is_collapsed": false,
       "parent": 967,
       "pos": {
-        "x": 769.298095703125,
-        "y": 1182.4649047851562
+        "x": 2768.8583374023438,
+        "y": 1205.071533203125
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2949,8 +2976,8 @@
       "is_collapsed": false,
       "parent": 967,
       "pos": {
-        "x": 754.7479248046875,
-        "y": 1119.8990478515625
+        "x": 2754.3081665039062,
+        "y": 1142.5056762695312
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2967,8 +2994,8 @@
       "is_collapsed": false,
       "parent": 967,
       "pos": {
-        "x": 943.2702026367188,
-        "y": 1184.021240234375
+        "x": 2942.8304443359375,
+        "y": 1206.6278686523438
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -2985,8 +3012,8 @@
       "is_collapsed": false,
       "parent": 967,
       "pos": {
-        "x": 924.6190795898438,
-        "y": 1121.1594848632812
+        "x": 2924.1793212890625,
+        "y": 1143.76611328125
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -3003,8 +3030,8 @@
       "is_collapsed": false,
       "parent": 975,
       "pos": {
-        "x": 1937.8209228515625,
-        "y": 348.250732421875
+        "x": 2267.5931396484375,
+        "y": 341.72178649902344
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
@@ -3021,8 +3048,8 @@
       "is_collapsed": false,
       "parent": 978,
       "pos": {
-        "x": 735.5242919921875,
-        "y": 1390.69482421875
+        "x": 2747.1240234375,
+        "y": 970.8779907226562
       },
       "nodelabelfontsize": null,
       "nodenotesfontsize": null
