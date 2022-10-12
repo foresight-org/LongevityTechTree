@@ -3954,6 +3954,7 @@
     "nodelabelfontsize": 16,
     "nodenotesfontsize": 16,
     "nodeborder": "white",
+	"nodeBackgroundImageURL": null,
     "edgestroke": "#ccc",
     "edgeshape": "ortho",
     "edgestroketype": "solid",
@@ -3967,5 +3968,8 @@
   "contextmenu": true,
   "customjson": false,
   "exportcytoscape": true,
-  "exportsvg": true
+  "exportsvg": true,
+  "title": "NanoTech: Molecular Machines",
+  "description": "A Foresight project",
+  "contact": "https://foresight.org/technologies/nanotech-molecular-machines/"
 }

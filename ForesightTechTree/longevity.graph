@@ -21497,6 +21497,7 @@
     "nodelabelfontsize": 16,
     "nodenotesfontsize": 16,
     "nodeborder": "white",
+	"nodeBackgroundImageURL": null,
     "edgestroke": "#ccc",
     "edgeshape": "ortho",
     "edgestroketype": "solid",
@@ -21510,5 +21511,8 @@
   "contextmenu": true,
   "customjson": false,
   "exportcytoscape": true,
-  "exportsvg": true
+  "exportsvg": true,
+  "title": "Longevity",
+  "description": "A Foresight project",
+  "contact": "mailto:aaron@foresight.org?subject=my changes&body=Hi Aaron,I have attached the new .graph file with some changes"
 }

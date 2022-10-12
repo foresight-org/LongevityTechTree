@@ -8627,6 +8627,7 @@
     "nodefill": "#7b9ecb",
     "nodelabelstroke": "black",
     "nodeborder": "white",
+	"nodeBackgroundImageURL": null,
     "edgestroke": "#ccc",
     "edgeshape": "ortho",
     "edgestroketype": "solid",
@@ -8644,5 +8645,8 @@
   "contextmenu": true,
   "customjson": false,
   "exportcytoscape": true,
-  "exportsvg": true
+  "exportsvg": true,
+  "title": "SpaceTech: Expanding Outward",
+  "description": "A Foresight project",
+  "contact": "https://foresight.org/technologies/space-expanding-outward/"
 }
