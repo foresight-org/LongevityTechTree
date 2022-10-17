@@ -21490,6 +21490,7 @@
     "name": "foresight",
     "bgfill": "#1c170b",
     "grid": false,
+	"snapdist": {"x": 100, "y": 100},
     "selectionColor": "blue",
     "highlightColor": "red",
     "nodefill": "#7b9ecb",
