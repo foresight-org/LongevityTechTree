@@ -11,33 +11,7 @@
       "weight": 5,
       "fromId": 50,
       "toId": 186,
-      "shape": "straight"
-    },
-    {
-      "id": 916,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 155,
-      "toId": 186,
-      "shape": "straight"
-    },
-    {
-      "id": 917,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 914,
-      "toId": 184,
-      "shape": "straight"
+      "shape": "ortho"
     },
     {
       "id": 918,
@@ -50,46 +24,7 @@
       "weight": 5,
       "fromId": 50,
       "toId": 184,
-      "shape": "straight"
-    },
-    {
-      "id": 919,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 914,
-      "toId": 185,
-      "shape": "straight"
-    },
-    {
-      "id": 920,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 155,
-      "toId": 185,
-      "shape": "straight"
-    },
-    {
-      "id": 921,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 187,
-      "toId": 184,
-      "shape": "straight"
+      "shape": "ortho"
     },
     {
       "id": 943,
@@ -102,7 +37,7 @@
       "weight": 5,
       "fromId": 170,
       "toId": 185,
-      "shape": "straight"
+      "shape": "ortho"
     },
     {
       "id": 926,
@@ -115,10 +50,10 @@
       "weight": 5,
       "fromId": 187,
       "toId": 168,
-      "shape": "straight"
+      "shape": "ortho"
     },
     {
-      "id": 938,
+      "id": 985,
       "kind": "edge",
       "label": "",
       "desc": "",
@@ -126,12 +61,12 @@
       "tags": [],
       "directed": true,
       "weight": 5,
-      "fromId": 155,
-      "toId": 935,
+      "fromId": 4,
+      "toId": 914,
       "shape": "straight"
     },
     {
-      "id": 923,
+      "id": 999,
       "kind": "edge",
       "label": "",
       "desc": "",
@@ -139,9 +74,35 @@
       "tags": [],
       "directed": true,
       "weight": 5,
-      "fromId": 155,
-      "toId": 128,
-      "shape": "straight"
+      "fromId": 187,
+      "toId": 914,
+      "shape": "ortho"
+    },
+    {
+      "id": 1000,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 914,
+      "toId": 184,
+      "shape": "ortho"
+    },
+    {
+      "id": 1001,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 184,
+      "toId": 185,
+      "shape": "ortho"
     },
     {
       "id": 980,
@@ -154,20 +115,7 @@
       "weight": 5,
       "fromId": 170,
       "toId": 978,
-      "shape": "straight"
-    },
-    {
-      "id": 979,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 947,
-      "toId": 978,
-      "shape": "straight"
+      "shape": "ortho"
     },
     {
       "id": 954,
@@ -180,7 +128,7 @@
       "weight": 5,
       "fromId": 170,
       "toId": 953,
-      "shape": "straight"
+      "shape": "ortho"
     },
     {
       "id": 955,
@@ -193,7 +141,7 @@
       "weight": 5,
       "fromId": 168,
       "toId": 953,
-      "shape": "straight"
+      "shape": "ortho"
     },
     {
       "id": 922,
@@ -206,59 +154,7 @@
       "weight": 5,
       "fromId": 170,
       "toId": 170,
-      "shape": "straight"
-    },
-    {
-      "id": 936,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 159,
-      "toId": 143,
-      "shape": "straight"
-    },
-    {
-      "id": 927,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 160,
-      "toId": 161,
-      "shape": "straight"
-    },
-    {
-      "id": 928,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 160,
-      "toId": 161,
-      "shape": "straight"
-    },
-    {
-      "id": 934,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 168,
-      "toId": 933,
-      "shape": "straight"
+      "shape": "ortho"
     },
     {
       "id": 957,
@@ -271,7 +167,7 @@
       "weight": 5,
       "fromId": 51,
       "toId": 51,
-      "shape": "straight"
+      "shape": "ortho"
     },
     {
       "id": 958,
@@ -284,10 +180,10 @@
       "weight": 5,
       "fromId": 51,
       "toId": 59,
-      "shape": "straight"
+      "shape": "ortho"
     },
     {
-      "id": 940,
+      "id": 983,
       "kind": "edge",
       "label": "",
       "desc": "",
@@ -295,12 +191,12 @@
       "tags": [],
       "directed": true,
       "weight": 5,
-      "fromId": 175,
-      "toId": 81,
-      "shape": "straight"
+      "fromId": 42,
+      "toId": 4,
+      "shape": "ortho"
     },
     {
-      "id": 925,
+      "id": 984,
       "kind": "edge",
       "label": "",
       "desc": "",
@@ -308,9 +204,100 @@
       "tags": [],
       "directed": true,
       "weight": 5,
-      "fromId": 157,
-      "toId": 135,
-      "shape": "straight"
+      "fromId": 14,
+      "toId": 4,
+      "shape": "ortho"
+    },
+    {
+      "id": 986,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 4,
+      "toId": 44,
+      "shape": "ortho"
+    },
+    {
+      "id": 987,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 132,
+      "toId": 183,
+      "shape": "ortho"
+    },
+    {
+      "id": 988,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 181,
+      "toId": 132,
+      "shape": "ortho"
+    },
+    {
+      "id": 989,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 124,
+      "toId": 141,
+      "shape": "ortho"
+    },
+    {
+      "id": 990,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 141,
+      "toId": 85,
+      "shape": "ortho"
+    },
+    {
+      "id": 991,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 115,
+      "toId": 90,
+      "shape": "ortho"
+    },
+    {
+      "id": 992,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 975,
+      "toId": 51,
+      "shape": "ortho"
     },
     {
       "id": 948,
@@ -323,10 +310,49 @@
       "weight": 5,
       "fromId": 946,
       "toId": 947,
-      "shape": "straight"
+      "shape": "ortho"
     },
     {
-      "id": 949,
+      "id": 993,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 962,
+      "toId": 158,
+      "shape": "ortho"
+    },
+    {
+      "id": 994,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 160,
+      "toId": 161,
+      "shape": "ortho"
+    },
+    {
+      "id": 995,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 161,
+      "toId": 982,
+      "shape": "ortho"
+    },
+    {
+      "id": 996,
       "kind": "edge",
       "label": "",
       "desc": "",
@@ -336,10 +362,10 @@
       "weight": 5,
       "fromId": 946,
       "toId": 157,
-      "shape": "straight"
+      "shape": "ortho"
     },
     {
-      "id": 951,
+      "id": 997,
       "kind": "edge",
       "label": "",
       "desc": "",
@@ -347,9 +373,35 @@
       "tags": [],
       "directed": true,
       "weight": 5,
-      "fromId": 950,
-      "toId": 157,
-      "shape": "straight"
+      "fromId": 157,
+      "toId": 160,
+      "shape": "ortho"
+    },
+    {
+      "id": 998,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 946,
+      "toId": 159,
+      "shape": "ortho"
+    },
+    {
+      "id": 1002,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 115,
+      "toId": 66,
+      "shape": "ortho"
     },
     {
       "id": 924,
@@ -362,7 +414,7 @@
       "weight": 5,
       "fromId": 126,
       "toId": 128,
-      "shape": "straight"
+      "shape": "ortho"
     },
     {
       "id": 937,
@@ -375,7 +427,7 @@
       "weight": 5,
       "fromId": 143,
       "toId": 142,
-      "shape": "straight"
+      "shape": "ortho"
     },
     {
       "id": 50,
@@ -391,11 +443,12 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 2443.457862205057,
-        "y": -6.265262236057424
+        "x": 1686.8452788166942,
+        "y": -1571.6626258700044
       },
       "fill": "#144bf1ff",
-      "nodelabelfontsize": 40
+      "nodelabelfontsize": 40,
+      "backgroundImageURL": null
     },
     {
       "id": 914,
@@ -411,11 +464,12 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -609.1451746308339,
-        "y": -30.98864206034068
+        "x": -1147.7450143210935,
+        "y": -452.07615104409797
       },
       "fill": "#144bf1ff",
-      "nodelabelfontsize": 40
+      "nodelabelfontsize": 40,
+      "backgroundImageURL": null
     },
     {
       "id": 185,
@@ -431,11 +485,12 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -645.0367393551753,
-        "y": 1065.5512508627376
+        "x": 4090.095218664257,
+        "y": -420.57719080414427
       },
       "fill": "#eccd2aff",
-      "nodelabelfontsize": 40
+      "nodelabelfontsize": 40,
+      "backgroundImageURL": null
     },
     {
       "id": 184,
@@ -451,11 +506,12 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 816.3816858017547,
-        "y": -505.87257946855357
+        "x": 620.1333312988281,
+        "y": -437.37548828125
       },
       "fill": "#eccd2aff",
-      "nodelabelfontsize": 40
+      "nodelabelfontsize": 40,
+      "backgroundImageURL": null
     },
     {
       "id": 186,
@@ -471,16 +527,17 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 2952.273835987221,
-        "y": 1031.5920721997882
+        "x": 4077.0154970589974,
+        "y": -1239.785918522868
       },
       "fill": "#eccd2aff",
-      "nodelabelfontsize": 40
+      "nodelabelfontsize": 40,
+      "backgroundImageURL": null
     },
     {
       "id": 187,
       "kind": "node",
-      "label": "decentralised data governance",
+      "label": "open data",
       "notes": "",
       "desc": "",
       "link": "",
@@ -491,11 +548,12 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 777.864815927875,
-        "y": 382.4064691973249
+        "x": -3346.650801603686,
+        "y": -973.3753792105299
       },
       "fill": "#144bf1ff",
-      "nodelabelfontsize": 40
+      "nodelabelfontsize": 40,
+      "backgroundImageURL": null
     },
     {
       "id": 155,
@@ -511,11 +569,32 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1403.0622456649412,
-        "y": 1599.6092745895403
+        "x": -980.3787355721624,
+        "y": -1735.173761059461
       },
       "fill": "#144bf1ff",
-      "nodelabelfontsize": 40
+      "nodelabelfontsize": 40,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1,
+      "kind": "node",
+      "label": "Artificial General Intelligence",
+      "notes": "",
+      "desc": "Ability of an intelligent agent to understand or learn any intellectual task that a human being can.\n\n ## History\n- 1950s - First generation of AI researcher were convinced that artificial intelligence was possible\n- 1970s - AI winter\n- 1980s - Knowledge became focus of mainstream AI\n- 1987 - 1993 - AI winter\n- 1993 - 2011 - Used successfully throughout the technology industry\n- 2011 - present Deep learning, big data and artificial general intelligence\n\n ## Projects\n- <a target=_blank href=https://www.vicarious.com>Vicarious</a>\n- <a target=_blank href=https://numenta.com>Numenta</a>\n- <a target=_blank href=https://vast.ai>Vast.ai</a>\n- <a target=_blank href=https://www.deepmind.com>DeepMind</a>\n- <a target=_blank href=https://aibrain.com/about>AIBrain</a>\n- <a target=_blank href=https://openai.com/about/>OpenAI</a>\n- <a target=_blank href=http://olbrain.com>Olbrain - The AGI Brain</a>\n- <a target=_blank href=https://generallyintelligent.ai/>generallyintelligent.ai/</a>\n\n ## Labs\n- <a target=_blank href=https://web.archive.org/web/20050405071221/http://genesis.csail.mit.edu/index.html>Genesis</a>\n- <a target=_blank href=https://ccrg.cs.memphis.edu/projects.html>CCRG - Cognitive Computing Research Group - Projects</a>\n- <a target=_blank href=https://www.eleuther.ai/>EleutherAI</a>\n- <a target=_blank href=https://cse.buffalo.edu/sneps/>SNePS Research Group Home Page</a>\n- <a target=_blank href=https://www.epfl.ch/research/domains/bluebrain/>Blue Brain Project ‐ EPFL</a>\n\n ## People\n- <a target=_blank href=https://people.idsia.ch/~juergen/>people.idsia.ch/~juergen/</a>\n- <a target=_blank href=https://cis.temple.edu/~wangp>cis.temple.edu/~wangp/</a>\n- <a target=_blank href=https://www.linkedin.com/in/bengoertzel/>Ben Goertzel</a>\n\n## How to get involved\n- <a target=_blank href=https://github.com/SoarGroup>Open-NARS, University of Michigan Soar Group · GitHub, Contribute to open source projects</a>\n- <a target=_blank href=https://opencog.org/donate/>OpenCog Foundation | Donate, Donate to openCog</a>\n- <a target=_blank href=http://goertzel.org/agi-curriculum/>Theoretical Foundations of Artificial General Intelligence | SpringerLink, Start with creating a reading list or join existing curriculum AGI Curriculum – goertzel.org</a>\n- <a target=_blank href=https://www.eleuther.ai/>EleutherAI, Join a AI community</a>\n",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 4,
+      "pos": {
+        "x": -904.5810817263991,
+        "y": -288.78703637465696
+      },
+      "fill": "#eccd2aff",
+      "backgroundImageURL": null
     },
     {
       "id": 11,
@@ -529,9 +608,10 @@
       "is_collapsed": false,
       "parent": 4,
       "pos": {
-        "x": -1007.1104649083541,
-        "y": -226.33166584621813
-      }
+        "x": -873.6887248538405,
+        "y": -613.7262758766101
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 6,
@@ -547,10 +627,11 @@
       "is_collapsed": false,
       "parent": 4,
       "pos": {
-        "x": -1043.6678406457613,
-        "y": -168.01801715049442
+        "x": -981.297981262207,
+        "y": -540.7505178058864
       },
-      "fill": "#eccd2aff"
+      "fill": "#eccd2aff",
+      "backgroundImageURL": null
     },
     {
       "id": 5,
@@ -564,9 +645,10 @@
       "is_collapsed": false,
       "parent": 4,
       "pos": {
-        "x": -910.8401482446116,
-        "y": -169.05025074581226
-      }
+        "x": -836.7284816287429,
+        "y": -350.24452538832884
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 8,
@@ -582,10 +664,11 @@
       "is_collapsed": false,
       "parent": 4,
       "pos": {
-        "x": -988.543882394134,
-        "y": -109.41565295852433
+        "x": -874.6618159793288,
+        "y": -470.6493715797351
       },
-      "fill": "#eccd2aff"
+      "fill": "#eccd2aff",
+      "backgroundImageURL": null
     },
     {
       "id": 12,
@@ -599,9 +682,10 @@
       "is_collapsed": false,
       "parent": 4,
       "pos": {
-        "x": -914.1116009351799,
-        "y": -47.27791341471129
-      }
+        "x": -1005.9114192859997,
+        "y": -347.4598464431501
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 10,
@@ -615,9 +699,10 @@
       "is_collapsed": false,
       "parent": 4,
       "pos": {
-        "x": -1033.0659697319024,
-        "y": -51.35591664018466
-      }
+        "x": -915.9768451236159,
+        "y": -409.19182153090696
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 26,
@@ -631,9 +716,10 @@
       "is_collapsed": false,
       "parent": 14,
       "pos": {
-        "x": -592.7046347638607,
-        "y": 171.36315469162219
-      }
+        "x": -1781.644915533292,
+        "y": -68.60390949249268
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 15,
@@ -647,9 +733,10 @@
       "is_collapsed": false,
       "parent": 14,
       "pos": {
-        "x": -522.8284706527829,
-        "y": 116.45449111183007
-      }
+        "x": -1641.4915476178394,
+        "y": -220.5
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 23,
@@ -663,9 +750,10 @@
       "is_collapsed": false,
       "parent": 14,
       "pos": {
-        "x": -444.7604289350247,
-        "y": 116.59626135617691
-      }
+        "x": -1777.8533640240894,
+        "y": -220.5
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 24,
@@ -679,9 +767,10 @@
       "is_collapsed": false,
       "parent": 14,
       "pos": {
-        "x": -364.18875494803433,
-        "y": 119.45843845383297
-      }
+        "x": -1936.2082147931324,
+        "y": -220.5
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 19,
@@ -695,9 +784,10 @@
       "is_collapsed": false,
       "parent": 14,
       "pos": {
-        "x": -635.3433096987446,
-        "y": 116.6970467974752
-      }
+        "x": -1892.9499121045337,
+        "y": -144.08631134033203
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 17,
@@ -711,9 +801,10 @@
       "is_collapsed": false,
       "parent": 14,
       "pos": {
-        "x": -676.7824146510875,
-        "y": 170.4916985867967
-      }
+        "x": -1937.0434026243565,
+        "y": -68.36210346221924
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 21,
@@ -729,10 +820,11 @@
       "is_collapsed": false,
       "parent": 14,
       "pos": {
-        "x": -472.67573167195224,
-        "y": 175.78428928607536
+        "x": -1663.7799101208911,
+        "y": -144.08631134033203
       },
-      "fill": "#144bf1ff"
+      "fill": "#144bf1ff",
+      "backgroundImageURL": null
     },
     {
       "id": 28,
@@ -746,9 +838,10 @@
       "is_collapsed": false,
       "parent": 14,
       "pos": {
-        "x": -360.01761246675596,
-        "y": 173.600945384037
-      }
+        "x": -1637.1207952024815,
+        "y": -70.32762908935547
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 39,
@@ -762,9 +855,10 @@
       "is_collapsed": false,
       "parent": 29,
       "pos": {
-        "x": -365.2614001750553,
-        "y": -202.5707148752781
-      }
+        "x": -1845.2696904731547,
+        "y": -760.5
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 33,
@@ -778,9 +872,10 @@
       "is_collapsed": false,
       "parent": 29,
       "pos": {
-        "x": -213.17290002669506,
-        "y": -202.53056910010582
-      }
+        "x": -1622.4224012622944,
+        "y": -760.4598542248277
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 34,
@@ -794,9 +889,10 @@
       "is_collapsed": false,
       "parent": 29,
       "pos": {
-        "x": -219.54242430815611,
-        "y": -52.76304298526338
-      }
+        "x": -1705.5745592062576,
+        "y": -595.3105223800412
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 36,
@@ -810,9 +906,10 @@
       "is_collapsed": false,
       "parent": 29,
       "pos": {
-        "x": -222.6596769390253,
-        "y": -100.3681675858752
-      }
+        "x": -1706.5991195808747,
+        "y": -646.5043008551283
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 30,
@@ -826,9 +923,10 @@
       "is_collapsed": false,
       "parent": 29,
       "pos": {
-        "x": -218.07199178841074,
-        "y": -150.09177085606007
-      }
+        "x": -1629.331170076619,
+        "y": -709.0691893722287
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 38,
@@ -842,9 +940,10 @@
       "is_collapsed": false,
       "parent": 29,
       "pos": {
-        "x": -361.74571977354026,
-        "y": -149.61007543722008
-      }
+        "x": -1841.7540100716396,
+        "y": -707.539360561942
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 31,
@@ -858,29 +957,10 @@
       "is_collapsed": false,
       "parent": 29,
       "pos": {
-        "x": -368.4404738665489,
-        "y": -93.42869489542954
-      }
-    },
-    {
-      "id": 44,
-      "kind": "node",
-      "label": "security / alignment",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "risk"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 42,
-      "pos": {
-        "x": -609.0055109598361,
-        "y": -133.24432515231092
+        "x": -1911.3454926802733,
+        "y": -643.4959194732764
       },
-      "fill": "#cb5656ff",
-      "nodelabelfontsize": 22
+      "backgroundImageURL": null
     },
     {
       "id": 29,
@@ -894,27 +974,11 @@
       "is_collapsed": false,
       "parent": 42,
       "pos": {
-        "x": -287.85957778420834,
-        "y": -137.7375383255012
+        "x": -1767.8678680823086,
+        "y": -695.6668234502231
       },
-      "nodelabelfontsize": 22
-    },
-    {
-      "id": 14,
-      "kind": "node",
-      "label": "algorithms & architectures",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 42,
-      "pos": {
-        "x": -514.2763992766031,
-        "y": 133.5016206272394
-      },
-      "nodelabelfontsize": 22
+      "nodelabelfontsize": 22,
+      "backgroundImageURL": null
     },
     {
       "id": 43,
@@ -928,9 +992,10 @@
       "is_collapsed": false,
       "parent": 42,
       "pos": {
-        "x": -198.75166513872318,
-        "y": 64.96502561673788
-      }
+        "x": -1882.3412256186111,
+        "y": -495.3105223800412
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 41,
@@ -944,9 +1009,10 @@
       "is_collapsed": false,
       "parent": 42,
       "pos": {
-        "x": -227.23978547249317,
-        "y": 124.64405074246406
-      }
+        "x": -1612.74122714449,
+        "y": -495.3105223800412
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 45,
@@ -962,10 +1028,11 @@
       "is_collapsed": false,
       "parent": 44,
       "pos": {
-        "x": -617.5896050335596,
-        "y": -156.65952779990766
+        "x": -383.7790933984015,
+        "y": -494.128687338467
       },
-      "fill": "#cb5656ff"
+      "fill": "#cb5656ff",
+      "backgroundImageURL": null
     },
     {
       "id": 48,
@@ -981,10 +1048,11 @@
       "is_collapsed": false,
       "parent": 44,
       "pos": {
-        "x": -625.8701459891472,
-        "y": -95.51808772984532
+        "x": -392.05963435398917,
+        "y": -432.98724726840464
       },
-      "fill": "#cb5656ff"
+      "fill": "#cb5656ff",
+      "backgroundImageURL": null
     },
     {
       "id": 46,
@@ -1000,10 +1068,11 @@
       "is_collapsed": false,
       "parent": 44,
       "pos": {
-        "x": -625.2104816423271,
-        "y": -47.312798338822176
+        "x": -391.39997000716903,
+        "y": -384.7819578773815
       },
-      "fill": "#cb5656ff"
+      "fill": "#cb5656ff",
+      "backgroundImageURL": null
     },
     {
       "id": 49,
@@ -1019,10 +1088,11 @@
       "is_collapsed": false,
       "parent": 44,
       "pos": {
-        "x": -615.7415037925975,
-        "y": -206.01149231690943
+        "x": -381.9309921574386,
+        "y": -543.4806518554688
       },
-      "fill": "#cb5656ff"
+      "fill": "#cb5656ff",
+      "backgroundImageURL": null
     },
     {
       "id": 90,
@@ -1038,11 +1108,12 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 2487.6219054827334,
-        "y": 125.24096250211096
+        "x": 774.7735452816632,
+        "y": -1512.9080496045945
       },
       "fill": "#b8e986ff",
-      "nodelabelfontsize": 22
+      "nodelabelfontsize": 22,
+      "backgroundImageURL": null
     },
     {
       "id": 51,
@@ -1058,11 +1129,12 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 2728.000490998511,
-        "y": -350.50038422479975
+        "x": 2577.302650023241,
+        "y": -1876.2275369813915
       },
       "fill": "#b8e986ff",
-      "nodelabelfontsize": 22
+      "nodelabelfontsize": 22,
+      "backgroundImageURL": null
     },
     {
       "id": 85,
@@ -1078,11 +1150,12 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 2956.4234005174367,
-        "y": 15.963796046033622
+        "x": 2670.371125577716,
+        "y": -1277.7594232844067
       },
       "fill": "#eccd2aff",
-      "nodelabelfontsize": 22
+      "nodelabelfontsize": 22,
+      "backgroundImageURL": null
     },
     {
       "id": 141,
@@ -1098,11 +1171,12 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 2485.9844960347727,
-        "y": -75.93440999177437
+        "x": 1454.3666687011719,
+        "y": -1273.4816287883677
       },
       "fill": "#eccd2aff",
-      "nodelabelfontsize": 22
+      "nodelabelfontsize": 22,
+      "backgroundImageURL": null
     },
     {
       "id": 124,
@@ -1118,11 +1192,12 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 2596.867598606871,
-        "y": 344.7896647528032
+        "x": 617.9101599134265,
+        "y": -1272.7275474954695
       },
       "fill": "#144bf1ff",
-      "nodelabelfontsize": 22
+      "nodelabelfontsize": 22,
+      "backgroundImageURL": null
     },
     {
       "id": 66,
@@ -1138,11 +1213,12 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 2064.3358198688975,
-        "y": 7.753097149397945
+        "x": 1677.913003259002,
+        "y": -1849.7343860740784
       },
       "fill": "#eccd2aff",
-      "nodelabelfontsize": 22
+      "nodelabelfontsize": 22,
+      "backgroundImageURL": null
     },
     {
       "id": 115,
@@ -1156,10 +1232,11 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 2039.1134000000175,
-        "y": -363.3597608135824
+        "x": 747.955322265625,
+        "y": -1852.306627130345
       },
-      "nodelabelfontsize": 22
+      "nodelabelfontsize": 22,
+      "backgroundImageURL": null
     },
     {
       "id": 975,
@@ -1175,12 +1252,13 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 2260.6724853515625,
-        "y": 341.19786071777344
+        "x": 1969.5057525634766,
+        "y": -1451.7970861351096
       },
       "fill": "#cb5656ff",
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 57,
@@ -1196,10 +1274,11 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 3001.671844390714,
-        "y": -392.733127995165
+        "x": 2850.974003415444,
+        "y": -1918.4602807517567
       },
-      "fill": "#b8e986ff"
+      "fill": "#b8e986ff",
+      "backgroundImageURL": null
     },
     {
       "id": 58,
@@ -1215,10 +1294,11 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 2427.9792520895353,
-        "y": -401.06640640039495
+        "x": 2277.281411114265,
+        "y": -1926.7935591569867
       },
-      "fill": "#b8e986ff"
+      "fill": "#b8e986ff",
+      "backgroundImageURL": null
     },
     {
       "id": 56,
@@ -1234,10 +1314,11 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 2701.2762386636396,
-        "y": -330.9044326992298
+        "x": 2550.5783976883704,
+        "y": -1856.6315854558216
       },
-      "fill": "#b8e986ff"
+      "fill": "#b8e986ff",
+      "backgroundImageURL": null
     },
     {
       "id": 54,
@@ -1253,10 +1334,11 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 2450.251870805787,
-        "y": -329.60119697554273
+        "x": 2299.554029830517,
+        "y": -1855.3283497321345
       },
-      "fill": "#b8e986ff"
+      "fill": "#b8e986ff",
+      "backgroundImageURL": null
     },
     {
       "id": 52,
@@ -1272,10 +1354,11 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 3001.6806023936415,
-        "y": -328.97441078419115
+        "x": 2850.9827614183723,
+        "y": -1854.7015635407834
       },
-      "fill": "#b8e986ff"
+      "fill": "#b8e986ff",
+      "backgroundImageURL": null
     },
     {
       "id": 55,
@@ -1291,10 +1374,11 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 2918.1215325238863,
-        "y": -267.79173356657066
+        "x": 2767.4236915486163,
+        "y": -1793.5188863231624
       },
-      "fill": "#b8e986ff"
+      "fill": "#b8e986ff",
+      "backgroundImageURL": null
     },
     {
       "id": 59,
@@ -1310,10 +1394,11 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 2651.3073573008182,
-        "y": -266.1641696283168
+        "x": 2500.6095163255486,
+        "y": -1791.8913223849086
       },
-      "fill": "#b8e986ff"
+      "fill": "#b8e986ff",
+      "backgroundImageURL": null
     },
     {
       "id": 53,
@@ -1329,10 +1414,11 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 2422.589071346123,
-        "y": -274.65956453020317
+        "x": 2271.891230370853,
+        "y": -1800.386717286795
       },
-      "fill": "#b8e986ff"
+      "fill": "#b8e986ff",
+      "backgroundImageURL": null
     },
     {
       "id": 60,
@@ -1348,10 +1434,11 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 2707.833446983841,
-        "y": -393.7502549509645
+        "x": 2557.135606008571,
+        "y": -1919.4774077075563
       },
-      "fill": "#cb5656ff"
+      "fill": "#cb5656ff",
+      "backgroundImageURL": null
     },
     {
       "id": 81,
@@ -1365,10 +1452,11 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 2154.929362798699,
-        "y": -23.40074555447154
+        "x": 1768.5065461888025,
+        "y": -1880.888228777948
       },
-      "nodelabelfontsize": 22
+      "nodelabelfontsize": 22,
+      "backgroundImageURL": null
     },
     {
       "id": 74,
@@ -1382,9 +1470,10 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1987.7643870355596,
-        "y": 149.29275024006165
-      }
+        "x": 1601.341570425664,
+        "y": -1708.1947329834147
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 70,
@@ -1398,9 +1487,10 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1946.1897506349696,
-        "y": 89.97046777244395
-      }
+        "x": 1559.766934025074,
+        "y": -1767.5170154510324
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 71,
@@ -1414,9 +1504,10 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 2169.696353564076,
-        "y": 94.74608894027733
-      }
+        "x": 1783.2735369541806,
+        "y": -1762.741394283199
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 67,
@@ -1430,9 +1521,10 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 2214.627957261382,
-        "y": 148.13775947467002
-      }
+        "x": 1828.2051406514856,
+        "y": -1709.3497237488064
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 73,
@@ -1446,9 +1538,10 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1930.7575984252235,
-        "y": 30.5741750452853
-      }
+        "x": 1544.334781815327,
+        "y": -1826.913308178191
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 69,
@@ -1462,9 +1555,10 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1929.8545309208694,
-        "y": -20.281558885905724
-      }
+        "x": 1543.431714310973,
+        "y": -1877.769042109382
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 68,
@@ -1478,9 +1572,10 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1927.5317033286456,
-        "y": -76.5071030859126
-      }
+        "x": 1541.10888671875,
+        "y": -1933.994586309389
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 82,
@@ -1494,9 +1589,10 @@
       "is_collapsed": false,
       "parent": 81,
       "pos": {
-        "x": 2153.994455101949,
-        "y": -15.438176009694871
-      }
+        "x": 1767.5716384920524,
+        "y": -1872.9256592331712
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 95,
@@ -1510,9 +1606,10 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 3047.0680175810876,
-        "y": 169.06886291060437
-      }
+        "x": 2826.1273759421492,
+        "y": -1124.6543564198364
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 93,
@@ -1528,10 +1625,11 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 3010.7210254243664,
-        "y": 67.42551291074142
+        "x": 2578.167621334256,
+        "y": -1226.2977064196994
       },
-      "fill": "#eccd2aff"
+      "fill": "#eccd2aff",
+      "backgroundImageURL": null
     },
     {
       "id": 98,
@@ -1545,9 +1643,10 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2844.459269137919,
-        "y": 68.49375757776033
-      }
+        "x": 2823.864512846785,
+        "y": -1262.6935948288046
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 94,
@@ -1561,9 +1660,10 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2881.370691614443,
-        "y": -90.53191567729664
-      }
+        "x": 2595.3184166747233,
+        "y": -1384.2551350077374
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 92,
@@ -1577,9 +1677,10 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 3028.6439447352886,
-        "y": -34.10396660356855
-      }
+        "x": 2810.9589183307253,
+        "y": -1331.082766836109
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 86,
@@ -1595,10 +1696,11 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2896.8764811144683,
-        "y": 120.55777245560694
+        "x": 2610.824206174748,
+        "y": -1173.1654468748338
       },
-      "fill": "#eccd2aff"
+      "fill": "#eccd2aff",
+      "backgroundImageURL": null
     },
     {
       "id": 97,
@@ -1612,9 +1714,10 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2878.0667854976873,
-        "y": 170.89796759043202
-      }
+        "x": 2592.014510557967,
+        "y": -1122.8252517400088
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 89,
@@ -1630,10 +1733,11 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2951.571039819686,
-        "y": 14.906775215588823
+        "x": 2564.595760729575,
+        "y": -1282.0720254937887
       },
-      "fill": "#eccd2aff"
+      "fill": "#eccd2aff",
+      "backgroundImageURL": null
     },
     {
       "id": 96,
@@ -1647,9 +1751,10 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2875.7891456054285,
-        "y": -36.75197633661628
-      }
+        "x": 2589.736870665709,
+        "y": -1330.475195667057
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 88,
@@ -1665,10 +1770,11 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 3048.277643944939,
-        "y": 120.29295352330337
+        "x": 2820.825832872406,
+        "y": -1192.963751219735
       },
-      "fill": "#cb5656ff"
+      "fill": "#cb5656ff",
+      "backgroundImageURL": null
     },
     {
       "id": 87,
@@ -1682,9 +1788,10 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 3039.733129044289,
-        "y": -89.94977001118059
-      }
+        "x": 2818.603225157576,
+        "y": -1401.760565654
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 91,
@@ -1700,10 +1807,11 @@
       "is_collapsed": false,
       "parent": 90,
       "pos": {
-        "x": 2496.7287866408624,
-        "y": 135.45541727790078
+        "x": 783.8804264397913,
+        "y": -1502.6935948288046
       },
-      "fill": "#eccd2aff"
+      "fill": "#eccd2aff",
+      "backgroundImageURL": null
     },
     {
       "id": 118,
@@ -1719,10 +1827,11 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 2067.5672138512837,
-        "y": -345.41722116994515
+        "x": 677.1386566162109,
+        "y": -1754.1132542606902
       },
-      "fill": "#b8e986ff"
+      "fill": "#b8e986ff",
+      "backgroundImageURL": null
     },
     {
       "id": 117,
@@ -1738,10 +1847,11 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 2175.7174148338236,
-        "y": -343.94462097282303
+        "x": 940.0669555664062,
+        "y": -1822.4804417606902
       },
-      "fill": "#b8e986ff"
+      "fill": "#b8e986ff",
+      "backgroundImageURL": null
     },
     {
       "id": 120,
@@ -1757,10 +1867,11 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 2038.4387611872498,
-        "y": -291.5531336832373
+        "x": 735.5612869262695,
+        "y": -1828.991611194284
       },
-      "fill": "#b8e986ff"
+      "fill": "#b8e986ff",
+      "backgroundImageURL": null
     },
     {
       "id": 116,
@@ -1776,10 +1887,11 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 2168.1825775239467,
-        "y": -397.9076406081658
+        "x": 916.088134765625,
+        "y": -1892.257236194284
       },
-      "fill": "#b8e986ff"
+      "fill": "#b8e986ff",
+      "backgroundImageURL": null
     },
     {
       "id": 122,
@@ -1795,10 +1907,11 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 1920.1724564036122,
-        "y": -398.77719298296233
+        "x": 509.55561447143555,
+        "y": -1905.2795140263152
       },
-      "fill": "#b8e986ff"
+      "fill": "#b8e986ff",
+      "backgroundImageURL": null
     },
     {
       "id": 121,
@@ -1814,10 +1927,11 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 2040.532070371578,
-        "y": -399.86713753105323
+        "x": 720.59375,
+        "y": -1902.0239598270964
       },
-      "fill": "#b8e986ff"
+      "fill": "#b8e986ff",
+      "backgroundImageURL": null
     },
     {
       "id": 119,
@@ -1833,10 +1947,11 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 1933.8296741059685,
-        "y": -344.5840944692991
+        "x": 523.0999984741211,
+        "y": -1837.8353306767058
       },
-      "fill": "#b8e986ff"
+      "fill": "#b8e986ff",
+      "backgroundImageURL": null
     },
     {
       "id": 128,
@@ -1852,10 +1967,11 @@
       "is_collapsed": false,
       "parent": 124,
       "pos": {
-        "x": 2595.370778553479,
-        "y": 340.86826463626494
+        "x": 535.0238134928459,
+        "y": -1302.6935948288046
       },
-      "fill": "#eccd2aff"
+      "fill": "#eccd2aff",
+      "backgroundImageURL": null
     },
     {
       "id": 126,
@@ -1871,10 +1987,11 @@
       "is_collapsed": false,
       "parent": 124,
       "pos": {
-        "x": 2542.42529311867,
-        "y": 388.89695852278146
+        "x": 540.6787308900693,
+        "y": -1225.3646690086944
       },
-      "fill": "#eccd2aff"
+      "fill": "#eccd2aff",
+      "backgroundImageURL": null
     },
     {
       "id": 127,
@@ -1890,10 +2007,11 @@
       "is_collapsed": false,
       "parent": 124,
       "pos": {
-        "x": 2661.407439456384,
-        "y": 388.8641638613508
+        "x": 728.3703190639135,
+        "y": -1246.8348412654477
       },
-      "fill": "#144bf1ff"
+      "fill": "#144bf1ff",
+      "backgroundImageURL": null
     },
     {
       "id": 135,
@@ -1907,9 +2025,10 @@
       "is_collapsed": false,
       "parent": 132,
       "pos": {
-        "x": 553.8268389113618,
-        "y": 426.7744946821758
-      }
+        "x": -3482.845635508009,
+        "y": -1042.0969557318567
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 952,
@@ -1923,11 +2042,12 @@
       "is_collapsed": false,
       "parent": 132,
       "pos": {
-        "x": 558.4462051391602,
-        "y": 309.8717975616455
+        "x": -3478.2262692802105,
+        "y": -1158.999652852388
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 142,
@@ -1941,9 +2061,10 @@
       "is_collapsed": false,
       "parent": 141,
       "pos": {
-        "x": 2474.6483260761725,
-        "y": -29.068912410421035
-      }
+        "x": 1443.0304987425716,
+        "y": -1226.6161312070144
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 143,
@@ -1959,10 +2080,11 @@
       "is_collapsed": false,
       "parent": 141,
       "pos": {
-        "x": 2484.1366830142033,
-        "y": -105.14637603221126
+        "x": 1452.5188556806024,
+        "y": -1302.6935948288046
       },
-      "fill": "#cb5656ff"
+      "fill": "#cb5656ff",
+      "backgroundImageURL": null
     },
     {
       "id": 149,
@@ -1976,9 +2098,10 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": 1040.5400420589967,
-        "y": 338.844222563981
-      }
+        "x": -3327.8945837536685,
+        "y": -691.442823502739
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 150,
@@ -1994,10 +2117,11 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": 955.1923336068407,
-        "y": 395.734449347744
+        "x": -3469.699996948242,
+        "y": -626.2507584210598
       },
-      "fill": "#eccd2aff"
+      "fill": "#eccd2aff",
+      "backgroundImageURL": null
     },
     {
       "id": 151,
@@ -2013,10 +2137,11 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": 859.5532400589655,
-        "y": 282.6055015128477
+        "x": -3523.736610363074,
+        "y": -766.2507584210598
       },
-      "fill": "#eccd2aff"
+      "fill": "#eccd2aff",
+      "backgroundImageURL": null
     },
     {
       "id": 148,
@@ -2032,10 +2157,11 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": 1036.2619246896506,
-        "y": 282.0648359511506
+        "x": -3283.892427685514,
+        "y": -763.0775567952569
       },
-      "fill": "#144bf1ff"
+      "fill": "#144bf1ff",
+      "backgroundImageURL": null
     },
     {
       "id": 147,
@@ -2049,68 +2175,10 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": 863.2019746511714,
-        "y": 336.6101609284942
-      }
-    },
-    {
-      "id": 158,
-      "kind": "node",
-      "label": "zero-knowledge virtual machines",
-      "notes": "",
-      "desc": "The encoding of a virtual machine (state transition function) in a zero-knowledge circuit. This enables any general-purpose program which can be compiled down to a reduced instruction set, to be verifiably computed in a zero-knowledge proof.\n\n ## Projects\n- <a target=_blank href=https://www.risczero.com/>Risc Zero</a>\n- <a target=_blank href=https://polygon.technology/solutions/polygon-miden/>Polygon Miden (Miden VM)</a>\n- <a target=_blank href=https://starkware.co/tech-stack/>Starkware (Cairo VM)</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": 1408.5860040566718,
-        "y": 1401.0935985091523
+        "x": -3614.599998474121,
+        "y": -692.8260758038723
       },
-      "fill": "#eccd2aff"
-    },
-    {
-      "id": 159,
-      "kind": "node",
-      "label": "zero-knowledge set membership",
-      "notes": "",
-      "desc": "A scheme to prove inclusion in a set, without revealing which member of the set it is.\n\n ## Projects\n- <a target=_blank href=https://github.com/semaphore-protocol/semaphore/>Semaphore</a>\n",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": 1673.1763502585204,
-        "y": 1407.0870787238296
-      },
-      "fill": "#144bf1ff"
-    },
-    {
-      "id": 945,
-      "kind": "node",
-      "label": "verifiable random function",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": 1389.7108535766602,
-        "y": 1882.1614074707031
-      },
-      "fill": "#144bf1ff",
-      "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "backgroundImageURL": null
     },
     {
       "id": 160,
@@ -2126,31 +2194,51 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 1660.8735431904051,
-        "y": 1838.9747700839043
+        "x": -839.6257934570312,
+        "y": -1733.3361234328113
       },
-      "fill": "#eccd2aff"
+      "fill": "#eccd2aff",
+      "backgroundImageURL": null
     },
     {
-      "id": 961,
+      "id": 158,
       "kind": "node",
-      "label": "security",
+      "label": "zero-knowledge virtual machines",
       "notes": "",
-      "desc": "## Projects\n- [circomspect](https://github.com/trailofbits/circomspect)",
+      "desc": "The encoding of a virtual machine (state transition function) in a zero-knowledge circuit. This enables any general-purpose program which can be compiled down to a reduced instruction set, to be verifiably computed in a zero-knowledge proof.\n\n ## Projects\n- <a target=_blank href=https://www.risczero.com/>Risc Zero</a>\n- <a target=_blank href=https://polygon.technology/solutions/polygon-miden/>Polygon Miden (Miden VM)</a>\n- <a target=_blank href=https://starkware.co/tech-stack/>Starkware (Cairo VM)</a>\n",
       "link": "",
       "tags": [
-        "risk"
+        "frontier"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 1463.4379119873047,
-        "y": 1733.79833984375
+        "x": -473.0670033098522,
+        "y": -1868.2688626906238
       },
-      "fill": "#cb5656ff",
-      "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "fill": "#eccd2aff",
+      "backgroundImageURL": null
+    },
+    {
+      "id": 159,
+      "kind": "node",
+      "label": "zero-knowledge set membership",
+      "notes": "",
+      "desc": "A scheme to prove inclusion in a set, without revealing which member of the set it is.\n\n ## Projects\n- <a target=_blank href=https://github.com/semaphore-protocol/semaphore/>Semaphore</a>\n",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 155,
+      "pos": {
+        "x": -1658.3833312988281,
+        "y": -1497.5524320265613
+      },
+      "fill": "#144bf1ff",
+      "backgroundImageURL": null
     },
     {
       "id": 962,
@@ -2164,11 +2252,12 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 1388.255111694336,
-        "y": 1524.900390625
+        "x": -840,
+        "y": -1867.5524320265613
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 157,
@@ -2182,9 +2271,10 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 1079.6973776323714,
-        "y": 1499.0706014495158
-      }
+        "x": -1370.4213333129883,
+        "y": -1772.5778226515613
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 941,
@@ -2200,31 +2290,13 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 1148.7286224365234,
-        "y": 1717.5394592285156
+        "x": -1043.9166641235352,
+        "y": -1997.5524320265613
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
-    },
-    {
-      "id": 125,
-      "kind": "node",
-      "label": "verifiable delay function",
-      "notes": "",
-      "desc": "A serial function that takes a verifiably long time to compute, but is quick to verify.\n\n## Resources\n- <a target=_blank href=https://vdfresearch.org/>VDF Research (VDF Alliance)</a>\n- <a target=_blank href=https://reading.supply/@whyrusleeping/a-vdf-explainer-5S6Ect>A VDF Explainer (2018) - Jeromy Johnson (whyrusleeping)</a>\n",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": 1066.3942721167045,
-        "y": 1784.0194148956311
-      },
-      "fill": "#144bf1ff"
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 168,
@@ -2240,29 +2312,11 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 1215.610347815676,
-        "y": 1649.1944246628923
+        "x": -1167.8306334214276,
+        "y": -1419.847522118922
       },
-      "fill": "#eccd2aff"
-    },
-    {
-      "id": 161,
-      "kind": "node",
-      "label": "proof-carrying data (PCD)",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": 1672.3359732945391,
-        "y": 1729.7679428215097
-      },
-      "fill": "#eccd2aff"
+      "fill": "#eccd2aff",
+      "backgroundImageURL": null
     },
     {
       "id": 944,
@@ -2278,66 +2332,13 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 1263.8538360595703,
-        "y": 1785.3463439941406
+        "x": -293.9436188341442,
+        "y": -1729.6674222609363
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
-    },
-    {
-      "id": 946,
-      "kind": "node",
-      "label": "SNARKs",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": 1050.6451568603516,
-        "y": 1556.3428649902344
-      },
-      "nodelabelfontsize": null,
-      "nodenotesfontsize": null
-    },
-    {
-      "id": 947,
-      "kind": "node",
-      "label": "zk-SNARKs",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": 1064.7084350585938,
-        "y": 1649.1602478027344
-      },
-      "nodelabelfontsize": null,
-      "nodenotesfontsize": null
-    },
-    {
-      "id": 950,
-      "kind": "node",
-      "label": "accumulation schemes",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": 1186.4539337158203,
-        "y": 1591.2114562988281
-      },
-      "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 971,
@@ -2351,11 +2352,12 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 1690.0159454345703,
-        "y": 1499.5531005859375
+        "x": -1146.1741428972546,
+        "y": -1597.5524320265613
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 982,
@@ -2369,11 +2371,70 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": 1650.2147674560547,
-        "y": 1788.2257690429688
+        "x": -184.64080625785027,
+        "y": -1597.5524320265613
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 946,
+      "kind": "node",
+      "label": "SNARKs",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 155,
+      "pos": {
+        "x": -1694.5658642968692,
+        "y": -1948.3930515181419
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 161,
+      "kind": "node",
+      "label": "proof-carrying data (PCD)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 155,
+      "pos": {
+        "x": -779.9333343505859,
+        "y": -1597.5524320265613
+      },
+      "fill": "#eccd2aff",
+      "backgroundImageURL": null
+    },
+    {
+      "id": 950,
+      "kind": "node",
+      "label": "accumulation schemes",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 157,
+      "pos": {
+        "x": -1361.0280075073242,
+        "y": -1778.6867093703113
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 939,
@@ -2387,11 +2448,63 @@
       "is_collapsed": false,
       "parent": 170,
       "pos": {
-        "x": 3150.608444213867,
-        "y": 1081.0706787109375
+        "x": 4275.3501052856445,
+        "y": -1190.3073120117188
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 180,
+      "kind": "node",
+      "label": "data analysis",
+      "notes": "",
+      "desc": "Process of inspecting, cleansing, transforming and modelling data with the goal of useful information, informing conclusions and supporting decision-making.\n\n ## History\n- C 18000 BCE - Humans using tally sticks for analyzing data\n- C 2400 BCE - Invention of abacus\n- 300 BC - 48 AD - Library of Alexandria\n- C 100 - 200 AD - Use of Antikythera mechanism\n- 1663 - First experiment in statistical data analysis\n- 1865 - Term 'business intelligence' is termed\n- 1880 - Hollerith Tabulating Machine\n- 1926 - Method for storing information magnetically on tape gets innovated\n- 1958 - New definition of business intelligence\n- 1965 - US plans worlds first data center\n- 1970 - First time used the term 'Big Data'\n- 1999 - First use of term 'IoT'\n\n ## Projects\n- <a target=_blank href=https://www.itechart.com/solutions/big-data>www.itechart.com/solutions/big data</a>\n- <a target=_blank href=https://dhiva.ai/>dhiva.ai/</a>\n- <a target=_blank href=https://databricks.com/>Databricks - The Data and AI Company</a>\n- <a target=_blank href=https://craft.co/>Just a moment...</a>\n- <a target=_blank href=https://www.civisanalytics.com/>Empowered Data Solutions - Data Science | Civis Analytics</a>\n\n ## Labs\n- <a target=_blank href=https://ed.buffalo.edu/dal>Quantitative and Qualitative Data Analysis Lab - Graduate School of Education - University at Buffalo</a>\n- <a target=_blank href=http://www.da.inf.ethz.ch/>Data Analytics Lab</a>\n- <a target=_blank href=https://www.fhsu.edu/psych/data-analysis-lab>     Data Analysis Lab -  Fort Hays State University</a>\n- <a target=_blank href=https://chemlab.truman.edu/data-analysis/>Data Analysis  |  Chem Lab</a>\n- <a target=_blank href=https://sites.usc.edu/dslab/>DATA SCIENCE LAB – Led by Dr. Viktor K. Prasanna</a>\n\n ## People\n- <a target=_blank href=https://www.dkriesel.com/)>David Kriesel</a>\n- <a target=_blank href=https://en.wikipedia.org/wiki/Christopher_Wylie>Christoper Wylie - Author of [Mindf*ck: Cambridge Analytica and the Plot to Break America</a>\n- <a target=_blank href=http://www.abbottanalytics.com/data-mining-consulting-services-about.php>About Abbott Analytics - Abbott Analytics: Data Mining Services in San Diego</a>\n- <a target=_blank href=https://www.linkedin.com/in/mjaberry/>Michael Berry</a>\n- <a target=_blank href=https://www.tomdavenport.com/>Home - Tom Davenport</a>\n\n## How to get involved\n- <a target=_blank href=https://www.youtube.com/watch?v=-YpwsdRKt8Q>Try to find a project like him and collect data over periods of time which you will analyze</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 181,
+      "pos": {
+        "x": -3958.795470950641,
+        "y": -1104.9614797156773
+      },
+      "backgroundImageURL": null
+    },
+    {
+      "id": 177,
+      "kind": "node",
+      "label": "data curation",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 181,
+      "pos": {
+        "x": -3960.460213164075,
+        "y": -1153.205870956669
+      },
+      "backgroundImageURL": null
+    },
+    {
+      "id": 176,
+      "kind": "node",
+      "label": "data availability",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 183,
+      "pos": {
+        "x": -2840.2357228396886,
+        "y": -1142.7830810546875
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 930,
@@ -2405,11 +2518,12 @@
       "is_collapsed": false,
       "parent": 184,
       "pos": {
-        "x": 1006.116865158081,
-        "y": -477.484375
+        "x": 620.4638824462891,
+        "y": -224.2509765625
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 964,
@@ -2423,11 +2537,12 @@
       "is_collapsed": false,
       "parent": 184,
       "pos": {
-        "x": 731.2439098358154,
-        "y": -481.31884765625
+        "x": 534.9955553328891,
+        "y": -412.82175646894666
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 935,
@@ -2441,11 +2556,12 @@
       "is_collapsed": false,
       "parent": 185,
       "pos": {
-        "x": -378.77345275878906,
-        "y": 1103.7123718261719
+        "x": 4310.590438854393,
+        "y": -362.8010796063354
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 932,
@@ -2459,11 +2575,12 @@
       "is_collapsed": false,
       "parent": 185,
       "pos": {
-        "x": -806.9313049316406,
-        "y": 1091.691162109375
+        "x": 3928.2006530877916,
+        "y": -394.4372795575073
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 933,
@@ -2477,11 +2594,12 @@
       "is_collapsed": false,
       "parent": 185,
       "pos": {
-        "x": -383.4683074951172,
-        "y": 1019.8784484863281
+        "x": 4351.663650524315,
+        "y": -466.24999318055416
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 978,
@@ -2495,11 +2613,12 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 2831.859375,
-        "y": 936.9837036132812
+        "x": 3956.6010360717773,
+        "y": -1334.394287109375
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 953,
@@ -2513,11 +2632,12 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 3119.061767578125,
-        "y": 1179.0014343261719
+        "x": 4243.803428649902,
+        "y": -1092.3765563964844
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 170,
@@ -2531,9 +2651,10 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 3148.1583512369625,
-        "y": 1070.604563592517
-      }
+        "x": 4272.900012308739,
+        "y": -1200.7734271301397
+      },
+      "backgroundImageURL": null
     },
     {
       "id": 967,
@@ -2547,11 +2668,12 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 2825.2763671875,
-        "y": 1154.698974609375
+        "x": 3950.0180282592773,
+        "y": -1116.6790161132812
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 956,
@@ -2565,11 +2687,12 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 3108.7918701171875,
-        "y": 1237.76220703125
+        "x": 4233.533531188965,
+        "y": -1033.6157836914062
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 959,
@@ -2583,11 +2706,12 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 3136.9327392578125,
-        "y": 916.30029296875
+        "x": 4261.67440032959,
+        "y": -1355.0776977539062
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 181,
@@ -2601,28 +2725,10 @@
       "is_collapsed": false,
       "parent": 187,
       "pos": {
-        "x": 729.2500276468315,
-        "y": 622.3446404744413
-      }
-    },
-    {
-      "id": 182,
-      "kind": "node",
-      "label": "datasets",
-      "notes": "",
-      "desc": "Collection of data.",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 187,
-      "pos": {
-        "x": 1021.8302029323031,
-        "y": 534.1338024306642
+        "x": -3963.506069062967,
+        "y": -1146.2999537250262
       },
-      "fill": "#144bf1ff"
+      "backgroundImageURL": null
     },
     {
       "id": 183,
@@ -2638,46 +2744,11 @@
       "is_collapsed": false,
       "parent": 187,
       "pos": {
-        "x": 635.5347722722145,
-        "y": 526.8560437497908
-      },
-      "fill": "#eccd2aff"
-    },
-    {
-      "id": 132,
-      "kind": "node",
-      "label": "scaling",
-      "notes": "",
-      "desc": "Mechanisms to increase throughput on resource-constrained execution environments.",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 187,
-      "pos": {
-        "x": 558.2241525341115,
-        "y": 322.5729725481051
+        "x": -2841.355598449707,
+        "y": -1148.94230476982
       },
       "fill": "#eccd2aff",
-      "nodelabelfontsize": 22
-    },
-    {
-      "id": 176,
-      "kind": "node",
-      "label": "data availability",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 187,
-      "pos": {
-        "x": 458.38999944473267,
-        "y": 525.5875330899235
-      }
+      "backgroundImageURL": null
     },
     {
       "id": 146,
@@ -2693,59 +2764,33 @@
       "is_collapsed": false,
       "parent": 187,
       "pos": {
-        "x": 951.4853029916367,
-        "y": 332.85248350637175
+        "x": -3431.8045474304035,
+        "y": -716.0037764275348
       },
       "fill": "#144bf1ff",
-      "nodelabelfontsize": 22
+      "nodelabelfontsize": 22,
+      "backgroundImageURL": null
     },
     {
-      "id": 175,
+      "id": 132,
       "kind": "node",
-      "label": "open data",
+      "label": "scalable data storage",
       "notes": "",
-      "desc": "Data which is openly accessible, exploitable and shared by anyone for any purpose.\n\n## History\n- 1942 - Robert King Merton explained importance that result of research should be open\n- 1995 - Term open data appeared first time\n- 2007 - While meeting of thirty thinkers aim to define concept of open public data \n- 2009 - Nobel prize to Elinor Orstrom who showed the specificity of information commons\n\n ## Projects\n- <a target=_blank href=https://github.com/>GitHub: Where the world builds software · GitHub</a>\n- <a target=_blank href=https://abc.xyz/>Alphabet</a>\n- <a target=_blank href=https://www.kaggle.com/>Kaggle: Your Machine Learning and Data Science Community</a>\n- <a target=_blank href=https://dev.socrata.com/>dev.socrata.com/</a>\n\n ## Labs\n- <a target=_blank href=http://linkedscience.org/data>LinkedScience</a>\n- <a target=_blank href=https://www.systemanaturae.org/>www.systemanaturae.org/</a>\n- <a target=_blank href=https://dataverse.org/>The Dataverse Project - Dataverse.org</a>\n- <a target=_blank href=https://www.genome.gov/human-genome-project>The Human Genome Project</a>\n- <a target=_blank href=https://data.gov/open-gov/>Open Government - Data.gov</a>\n\n ## People\n- <a target=_blank href=https://www.maxroser.com/>Max Roser – Researcher, Founder Our World in Data</a>\n- <a target=_blank href=https://jimmywales.com/)>Jimmy Wales | Free knowledge for free minds</a>\n- <a target=_blank href=https://www.w3.org/People/Berners-Lee/>Tim Berners-Lee</a>\n\n## How to get involved\n- <a target=_blank href=https://blog.ldodds.com/2017/05/25/where-can-you-contribute-to-open-data-yes-you/>Where can you contribute to open data? Yes, you! – Lost Boy</a>\n- <a target=_blank href=http://opendatatoolkit.worldbank.org/en/starting.html>Starting an open data Initiative | Data</a>\n\n ## Resources\n- <a target=_blank href=https://digitalscience.figshare.com/articles/report/The_State_of_Open_Data_2021/17061347>The State of Open Data 2021</a>\n",
+      "desc": "Mechanisms to increase throughput on resource-constrained execution environments.",
       "link": "",
-      "tags": [],
+      "tags": [
+        "frontier"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": 187,
       "pos": {
-        "x": 922.3346728028041,
-        "y": 530.0268403653772
-      }
-    },
-    {
-      "id": 177,
-      "kind": "node",
-      "label": "data curation",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 187,
-      "pos": {
-        "x": 1059.1147312019737,
-        "y": 622.8664576177985
-      }
-    },
-    {
-      "id": 180,
-      "kind": "node",
-      "label": "data analysis",
-      "notes": "",
-      "desc": "Process of inspecting, cleansing, transforming and modelling data with the goal of useful information, informing conclusions and supporting decision-making.\n\n ## History\n- C 18000 BCE - Humans using tally sticks for analyzing data\n- C 2400 BCE - Invention of abacus\n- 300 BC - 48 AD - Library of Alexandria\n- C 100 - 200 AD - Use of Antikythera mechanism\n- 1663 - First experiment in statistical data analysis\n- 1865 - Term 'business intelligence' is termed\n- 1880 - Hollerith Tabulating Machine\n- 1926 - Method for storing information magnetically on tape gets innovated\n- 1958 - New definition of business intelligence\n- 1965 - US plans worlds first data center\n- 1970 - First time used the term 'Big Data'\n- 1999 - First use of term 'IoT'\n\n ## Projects\n- <a target=_blank href=https://www.itechart.com/solutions/big-data>www.itechart.com/solutions/big data</a>\n- <a target=_blank href=https://dhiva.ai/>dhiva.ai/</a>\n- <a target=_blank href=https://databricks.com/>Databricks - The Data and AI Company</a>\n- <a target=_blank href=https://craft.co/>Just a moment...</a>\n- <a target=_blank href=https://www.civisanalytics.com/>Empowered Data Solutions - Data Science | Civis Analytics</a>\n\n ## Labs\n- <a target=_blank href=https://ed.buffalo.edu/dal>Quantitative and Qualitative Data Analysis Lab - Graduate School of Education - University at Buffalo</a>\n- <a target=_blank href=http://www.da.inf.ethz.ch/>Data Analytics Lab</a>\n- <a target=_blank href=https://www.fhsu.edu/psych/data-analysis-lab>     Data Analysis Lab -  Fort Hays State University</a>\n- <a target=_blank href=https://chemlab.truman.edu/data-analysis/>Data Analysis  |  Chem Lab</a>\n- <a target=_blank href=https://sites.usc.edu/dslab/>DATA SCIENCE LAB – Led by Dr. Viktor K. Prasanna</a>\n\n ## People\n- <a target=_blank href=https://www.dkriesel.com/)>David Kriesel</a>\n- <a target=_blank href=https://en.wikipedia.org/wiki/Christopher_Wylie>Christoper Wylie - Author of [Mindf*ck: Cambridge Analytica and the Plot to Break America</a>\n- <a target=_blank href=http://www.abbottanalytics.com/data-mining-consulting-services-about.php>About Abbott Analytics - Abbott Analytics: Data Mining Services in San Diego</a>\n- <a target=_blank href=https://www.linkedin.com/in/mjaberry/>Michael Berry</a>\n- <a target=_blank href=https://www.tomdavenport.com/>Home - Tom Davenport</a>\n\n## How to get involved\n- <a target=_blank href=https://www.youtube.com/watch?v=-YpwsdRKt8Q>Try to find a project like him and collect data over periods of time which you will analyze</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 187,
-      "pos": {
-        "x": 800.8097468529077,
-        "y": 529.9846891908214
-      }
+        "x": -3478.44832188526,
+        "y": -1146.2984778659284
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 22,
+      "backgroundImageURL": null
     },
     {
       "id": 42,
@@ -2759,10 +2804,11 @@
       "is_collapsed": false,
       "parent": 914,
       "pos": {
-        "x": -433.74652553353735,
-        "y": -26.628274586304542
+        "x": -1777.33879087059,
+        "y": -692.9052611900206
       },
-      "nodelabelfontsize": 22
+      "nodelabelfontsize": 22,
+      "backgroundImageURL": null
     },
     {
       "id": 4,
@@ -2776,29 +2822,50 @@
       "is_collapsed": false,
       "parent": 914,
       "pos": {
-        "x": -974.9861153880543,
-        "y": -137.72070991474902
+        "x": -899.0129845201245,
+        "y": -469.6435181873285
       },
-      "nodelabelfontsize": 22
+      "nodelabelfontsize": 22,
+      "backgroundImageURL": null
     },
     {
-      "id": 1,
+      "id": 44,
       "kind": "node",
-      "label": "Artificial General Intelligence",
+      "label": "security / alignment",
       "notes": "",
-      "desc": "Ability of an intelligent agent to understand or learn any intellectual task that a human being can.\n\n ## History\n- 1950s - First generation of AI researcher were convinced that artificial intelligence was possible\n- 1970s - AI winter\n- 1980s - Knowledge became focus of mainstream AI\n- 1987 - 1993 - AI winter\n- 1993 - 2011 - Used successfully throughout the technology industry\n- 2011 - present Deep learning, big data and artificial general intelligence\n\n ## Projects\n- <a target=_blank href=https://www.vicarious.com>Vicarious</a>\n- <a target=_blank href=https://numenta.com>Numenta</a>\n- <a target=_blank href=https://vast.ai>Vast.ai</a>\n- <a target=_blank href=https://www.deepmind.com>DeepMind</a>\n- <a target=_blank href=https://aibrain.com/about>AIBrain</a>\n- <a target=_blank href=https://openai.com/about/>OpenAI</a>\n- <a target=_blank href=http://olbrain.com>Olbrain - The AGI Brain</a>\n- <a target=_blank href=https://generallyintelligent.ai/>generallyintelligent.ai/</a>\n\n ## Labs\n- <a target=_blank href=https://web.archive.org/web/20050405071221/http://genesis.csail.mit.edu/index.html>Genesis</a>\n- <a target=_blank href=https://ccrg.cs.memphis.edu/projects.html>CCRG - Cognitive Computing Research Group - Projects</a>\n- <a target=_blank href=https://www.eleuther.ai/>EleutherAI</a>\n- <a target=_blank href=https://cse.buffalo.edu/sneps/>SNePS Research Group Home Page</a>\n- <a target=_blank href=https://www.epfl.ch/research/domains/bluebrain/>Blue Brain Project ‐ EPFL</a>\n\n ## People\n- <a target=_blank href=https://people.idsia.ch/~juergen/>people.idsia.ch/~juergen/</a>\n- <a target=_blank href=https://cis.temple.edu/~wangp>cis.temple.edu/~wangp/</a>\n- <a target=_blank href=https://www.linkedin.com/in/bengoertzel/>Ben Goertzel</a>\n\n## How to get involved\n- <a target=_blank href=https://github.com/SoarGroup>Open-NARS, University of Michigan Soar Group · GitHub, Contribute to open source projects</a>\n- <a target=_blank href=https://opencog.org/donate/>OpenCog Foundation | Donate, Donate to openCog</a>\n- <a target=_blank href=http://goertzel.org/agi-curriculum/>Theoretical Foundations of Artificial General Intelligence | SpringerLink, Start with creating a reading list or join existing curriculum AGI Curriculum – goertzel.org</a>\n- <a target=_blank href=https://www.eleuther.ai/>EleutherAI, Join a AI community</a>\n",
+      "desc": "",
       "link": "",
       "tags": [
-        "frontier"
+        "risk"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": 914,
       "pos": {
-        "x": -989.5513075822118,
-        "y": 116.83866221224707
+        "x": -375.19499932467807,
+        "y": -470.71348469087025
       },
-      "fill": "#eccd2aff"
+      "fill": "#cb5656ff",
+      "nodelabelfontsize": 22,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 14,
+      "kind": "node",
+      "label": "algorithms & architectures",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -1771.6445665288738,
+        "y": -129.32116180690173
+      },
+      "nodelabelfontsize": 22,
+      "backgroundImageURL": null
     },
     {
       "id": 973,
@@ -2812,11 +2879,12 @@
       "is_collapsed": false,
       "parent": 932,
       "pos": {
-        "x": -818.4549255371094,
-        "y": 1077.9082641601562
+        "x": 3916.677032482323,
+        "y": -408.22017750672603
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 974,
@@ -2830,11 +2898,31 @@
       "is_collapsed": false,
       "parent": 932,
       "pos": {
-        "x": -810.9852294921875,
-        "y": 1156.3394165039062
+        "x": 3924.1467285272447,
+        "y": -329.78902516297603
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 947,
+      "kind": "node",
+      "label": "zk-SNARKs",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 946,
+      "pos": {
+        "x": -1689.965060655506,
+        "y": -1937.5524320265613
+      },
+      "nodelabelfontsize": null,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 134,
@@ -2850,10 +2938,11 @@
       "is_collapsed": false,
       "parent": 952,
       "pos": {
-        "x": 610.2424978241434,
-        "y": 323.2778096188649
+        "x": -3426.4299765952273,
+        "y": -1145.5936407951685
       },
-      "fill": "#144bf1ff"
+      "fill": "#144bf1ff",
+      "backgroundImageURL": null
     },
     {
       "id": 133,
@@ -2869,10 +2958,11 @@
       "is_collapsed": false,
       "parent": 952,
       "pos": {
-        "x": 487.6804539362256,
-        "y": 324.92140434981684
+        "x": -3548.992020483145,
+        "y": -1143.9500460642157
       },
-      "fill": "#144bf1ff"
+      "fill": "#144bf1ff",
+      "backgroundImageURL": null
     },
     {
       "id": 960,
@@ -2886,29 +2976,12 @@
       "is_collapsed": false,
       "parent": 959,
       "pos": {
-        "x": 3136.9327392578125,
-        "y": 931.1768188476562
+        "x": 4261.67440032959,
+        "y": -1340.201171875
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
-    },
-    {
-      "id": 977,
-      "kind": "node",
-      "label": "formal verification",
-      "notes": "",
-      "desc": "## Projects\n- [Ecne](https://github.com/franklynwang/EcneProject)",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 961,
-      "pos": {
-        "x": 1467.7078094482422,
-        "y": 1740.9389038085938
-      },
-      "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 965,
@@ -2922,11 +2995,12 @@
       "is_collapsed": false,
       "parent": 964,
       "pos": {
-        "x": 807.5528240203857,
-        "y": -474.93096923828125
+        "x": 490.29999923706055,
+        "y": -380.5
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 966,
@@ -2940,11 +3014,12 @@
       "is_collapsed": false,
       "parent": 964,
       "pos": {
-        "x": 654.7410411834717,
-        "y": -476.401123046875
+        "x": 536.9521593367954,
+        "y": -440.59543810957166
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 968,
@@ -2958,11 +3033,12 @@
       "is_collapsed": false,
       "parent": 967,
       "pos": {
-        "x": 2768.8583374023438,
-        "y": 1205.071533203125
+        "x": 3893.599998474121,
+        "y": -1066.3064575195312
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 969,
@@ -2976,11 +3052,12 @@
       "is_collapsed": false,
       "parent": 967,
       "pos": {
-        "x": 2754.3081665039062,
-        "y": 1142.5056762695312
+        "x": 3879.0498275756836,
+        "y": -1128.872314453125
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 970,
@@ -2994,11 +3071,12 @@
       "is_collapsed": false,
       "parent": 967,
       "pos": {
-        "x": 2942.8304443359375,
-        "y": 1206.6278686523438
+        "x": 4067.572105407715,
+        "y": -1064.7501220703125
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 972,
@@ -3012,11 +3090,12 @@
       "is_collapsed": false,
       "parent": 967,
       "pos": {
-        "x": 2924.1793212890625,
-        "y": 1143.76611328125
+        "x": 4048.92098236084,
+        "y": -1127.6118774414062
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 976,
@@ -3030,11 +3109,12 @@
       "is_collapsed": false,
       "parent": 975,
       "pos": {
-        "x": 2267.5931396484375,
-        "y": 341.72178649902344
+        "x": 1976.4264068603516,
+        "y": -1451.2731603538596
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     },
     {
       "id": 981,
@@ -3048,24 +3128,28 @@
       "is_collapsed": false,
       "parent": 978,
       "pos": {
-        "x": 2747.1240234375,
-        "y": 970.8779907226562
+        "x": 3871.8656845092773,
+        "y": -1300.5
       },
       "nodelabelfontsize": null,
-      "nodenotesfontsize": null
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
     }
   ],
-  "grid": "true",
+  "grid": "false",
   "theme": {
     "name": "foresight",
     "bgfill": "#1c170b",
     "grid": false,
-	"snapdist": {"x": 100, "y": 100},
+    "snapdist": {
+      "x": 100,
+      "y": 100
+    },
     "selectionColor": "blue",
     "nodefill": "#7b9ecb",
     "nodelabelstroke": "black",
     "nodeborder": "white",
-	"nodeBackgroundImageURL": null,
+    "nodeBackgroundImageURL": null,
     "edgestroke": "#ccc",
     "edgeshape": "ortho",
     "edgestroketype": "solid",
@@ -3085,6 +3169,6 @@
   "exportcytoscape": true,
   "exportsvg": true,
   "title": "Intelligent Cooperation",
-  "description": "A Foresight prohect",
+  "description": "A Foresight project",
   "contact": "https://foresight.org/technologies/computation-intelligent-cooperation/"
 }
