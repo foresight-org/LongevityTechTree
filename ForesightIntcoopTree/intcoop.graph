@@ -53,19 +53,6 @@
       "shape": "ortho"
     },
     {
-      "id": 985,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 4,
-      "toId": 914,
-      "shape": "straight"
-    },
-    {
       "id": 999,
       "kind": "edge",
       "label": "",
@@ -79,7 +66,7 @@
       "shape": "ortho"
     },
     {
-      "id": 1000,
+      "id": 750,
       "kind": "edge",
       "label": "",
       "desc": "",
@@ -92,7 +79,7 @@
       "shape": "ortho"
     },
     {
-      "id": 1001,
+      "id": 751,
       "kind": "edge",
       "label": "",
       "desc": "",
@@ -102,6 +89,32 @@
       "weight": 5,
       "fromId": 184,
       "toId": 185,
+      "shape": "ortho"
+    },
+    {
+      "id": 1035,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 759,
+      "toId": 914,
+      "shape": "ortho"
+    },
+    {
+      "id": 1042,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1041,
+      "toId": 914,
       "shape": "ortho"
     },
     {
@@ -183,45 +196,6 @@
       "shape": "ortho"
     },
     {
-      "id": 983,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 42,
-      "toId": 4,
-      "shape": "ortho"
-    },
-    {
-      "id": 984,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 14,
-      "toId": 4,
-      "shape": "ortho"
-    },
-    {
-      "id": 986,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 4,
-      "toId": 44,
-      "shape": "ortho"
-    },
-    {
       "id": 987,
       "kind": "edge",
       "label": "",
@@ -232,19 +206,6 @@
       "weight": 5,
       "fromId": 132,
       "toId": 183,
-      "shape": "ortho"
-    },
-    {
-      "id": 988,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 181,
-      "toId": 132,
       "shape": "ortho"
     },
     {
@@ -391,7 +352,7 @@
       "shape": "ortho"
     },
     {
-      "id": 1002,
+      "id": 752,
       "kind": "edge",
       "label": "",
       "desc": "",
@@ -401,6 +362,734 @@
       "weight": 5,
       "fromId": 115,
       "toId": 66,
+      "shape": "ortho"
+    },
+    {
+      "id": 756,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 753,
+      "toId": 755,
+      "shape": "ortho"
+    },
+    {
+      "id": 757,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 754,
+      "toId": 755,
+      "shape": "ortho"
+    },
+    {
+      "id": 1012,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 758,
+      "toId": 1011,
+      "shape": "ortho"
+    },
+    {
+      "id": 1013,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 759,
+      "toId": 1011,
+      "shape": "ortho"
+    },
+    {
+      "id": 1014,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1010,
+      "toId": 1011,
+      "shape": "ortho"
+    },
+    {
+      "id": 1018,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1015,
+      "toId": 1017,
+      "shape": "ortho"
+    },
+    {
+      "id": 1019,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1016,
+      "toId": 1017,
+      "shape": "ortho"
+    },
+    {
+      "id": 1021,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1020,
+      "toId": 755,
+      "shape": "ortho"
+    },
+    {
+      "id": 1023,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1022,
+      "toId": 1011,
+      "shape": "ortho"
+    },
+    {
+      "id": 1027,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1011,
+      "toId": 1025,
+      "shape": "ortho"
+    },
+    {
+      "id": 1028,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 755,
+      "toId": 1025,
+      "shape": "ortho"
+    },
+    {
+      "id": 1029,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1017,
+      "toId": 1025,
+      "shape": "ortho"
+    },
+    {
+      "id": 1030,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 146,
+      "toId": 183,
+      "shape": "ortho"
+    },
+    {
+      "id": 1032,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1031,
+      "toId": 1020,
+      "shape": "ortho"
+    },
+    {
+      "id": 1034,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1033,
+      "toId": 1020,
+      "shape": "ortho"
+    },
+    {
+      "id": 1038,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1036,
+      "toId": 1031,
+      "shape": "ortho"
+    },
+    {
+      "id": 1039,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1037,
+      "toId": 1031,
+      "shape": "ortho"
+    },
+    {
+      "id": 1043,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1041,
+      "toId": 1036,
+      "shape": "ortho"
+    },
+    {
+      "id": 1044,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1040,
+      "toId": 1036,
+      "shape": "ortho"
+    },
+    {
+      "id": 1046,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1045,
+      "toId": 1037,
+      "shape": "ortho"
+    },
+    {
+      "id": 1048,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1047,
+      "toId": 1037,
+      "shape": "ortho"
+    },
+    {
+      "id": 1053,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1050,
+      "toId": 1033,
+      "shape": "ortho"
+    },
+    {
+      "id": 1054,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1052,
+      "toId": 1050,
+      "shape": "ortho"
+    },
+    {
+      "id": 1055,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1051,
+      "toId": 1050,
+      "shape": "ortho"
+    },
+    {
+      "id": 1056,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1049,
+      "toId": 1033,
+      "shape": "ortho"
+    },
+    {
+      "id": 1059,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1058,
+      "toId": 1049,
+      "shape": "ortho"
+    },
+    {
+      "id": 1060,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1057,
+      "toId": 1049,
+      "shape": "ortho"
+    },
+    {
+      "id": 1069,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1062,
+      "toId": 754,
+      "shape": "ortho"
+    },
+    {
+      "id": 1070,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1061,
+      "toId": 754,
+      "shape": "ortho"
+    },
+    {
+      "id": 1071,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1063,
+      "toId": 1061,
+      "shape": "ortho"
+    },
+    {
+      "id": 1072,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1064,
+      "toId": 1061,
+      "shape": "ortho"
+    },
+    {
+      "id": 1073,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1067,
+      "toId": 1062,
+      "shape": "ortho"
+    },
+    {
+      "id": 1074,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1066,
+      "toId": 1062,
+      "shape": "ortho"
+    },
+    {
+      "id": 1075,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1065,
+      "toId": 1062,
+      "shape": "ortho"
+    },
+    {
+      "id": 1076,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1068,
+      "toId": 1062,
+      "shape": "ortho"
+    },
+    {
+      "id": 1079,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1078,
+      "toId": 753,
+      "shape": "ortho"
+    },
+    {
+      "id": 1080,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1077,
+      "toId": 753,
+      "shape": "ortho"
+    },
+    {
+      "id": 1082,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1081,
+      "toId": 1078,
+      "shape": "ortho"
+    },
+    {
+      "id": 1084,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1083,
+      "toId": 1078,
+      "shape": "ortho"
+    },
+    {
+      "id": 1086,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1085,
+      "toId": 1083,
+      "shape": "ortho"
+    },
+    {
+      "id": 1088,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1087,
+      "toId": 1083,
+      "shape": "ortho"
+    },
+    {
+      "id": 1090,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1089,
+      "toId": 1083,
+      "shape": "ortho"
+    },
+    {
+      "id": 1092,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1091,
+      "toId": 1081,
+      "shape": "ortho"
+    },
+    {
+      "id": 1095,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1093,
+      "toId": 1077,
+      "shape": "ortho"
+    },
+    {
+      "id": 1096,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1094,
+      "toId": 1077,
+      "shape": "ortho"
+    },
+    {
+      "id": 1098,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1097,
+      "toId": 1094,
+      "shape": "ortho"
+    },
+    {
+      "id": 1100,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1099,
+      "toId": 1094,
+      "shape": "ortho"
+    },
+    {
+      "id": 1102,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1101,
+      "toId": 1099,
+      "shape": "ortho"
+    },
+    {
+      "id": 1104,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1103,
+      "toId": 1081,
+      "shape": "ortho"
+    },
+    {
+      "id": 1106,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1105,
+      "toId": 1081,
+      "shape": "ortho"
+    },
+    {
+      "id": 1108,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1107,
+      "toId": 1094,
+      "shape": "ortho"
+    },
+    {
+      "id": 1110,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1109,
+      "toId": 1093,
+      "shape": "ortho"
+    },
+    {
+      "id": 1112,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1111,
+      "toId": 1093,
+      "shape": "ortho"
+    },
+    {
+      "id": 1113,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 755,
+      "toId": 1011,
+      "shape": "ortho"
+    },
+    {
+      "id": 1115,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1114,
+      "toId": 1017,
+      "shape": "ortho"
+    },
+    {
+      "id": 1117,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1116,
+      "toId": 1010,
       "shape": "ortho"
     },
     {
@@ -430,6 +1119,71 @@
       "shape": "ortho"
     },
     {
+      "id": 1118,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 147,
+      "toId": 149,
+      "shape": "straight"
+    },
+    {
+      "id": 1119,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 148,
+      "toId": 149,
+      "shape": "straight"
+    },
+    {
+      "id": 1120,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 149,
+      "toId": 151,
+      "shape": "straight"
+    },
+    {
+      "id": 1121,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 149,
+      "toId": 150,
+      "shape": "straight"
+    },
+    {
+      "id": 1122,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 952,
+      "toId": 135,
+      "shape": "straight"
+    },
+    {
       "id": 50,
       "kind": "node",
       "label": "decentralised consensus systems",
@@ -443,11 +1197,11 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1686.8452788166942,
-        "y": -1571.6626258700044
+        "x": 7236.845278816694,
+        "y": 1279.1114132947378
       },
       "fill": "#144bf1ff",
-      "nodelabelfontsize": 40,
+      "nodelabelfontsize": 150,
       "backgroundImageURL": null
     },
     {
@@ -457,18 +1211,15 @@
       "notes": "",
       "desc": "",
       "link": "",
-      "tags": [
-        "core"
-      ],
+      "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -1147.7450143210935,
-        "y": -452.07615104409797
+        "x": -3066.698417663574,
+        "y": 3866.9994468688965
       },
-      "fill": "#144bf1ff",
-      "nodelabelfontsize": 40,
+      "nodelabelfontsize": 150,
       "backgroundImageURL": null
     },
     {
@@ -485,11 +1236,11 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4090.095218664257,
-        "y": -420.57719080414427
+        "x": 13788.650024414062,
+        "y": 289.42280919585573
       },
       "fill": "#eccd2aff",
-      "nodelabelfontsize": 40,
+      "nodelabelfontsize": 150,
       "backgroundImageURL": null
     },
     {
@@ -506,11 +1257,11 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 620.1333312988281,
-        "y": -437.37548828125
+        "x": 7537.7332763671875,
+        "y": 5322.62451171875
       },
       "fill": "#eccd2aff",
-      "nodelabelfontsize": 40,
+      "nodelabelfontsize": 150,
       "backgroundImageURL": null
     },
     {
@@ -527,11 +1278,11 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4077.0154970589974,
-        "y": -1239.785918522868
+        "x": 7442.183349609375,
+        "y": -2029.785918522868
       },
       "fill": "#eccd2aff",
-      "nodelabelfontsize": 40,
+      "nodelabelfontsize": 150,
       "backgroundImageURL": null
     },
     {
@@ -548,11 +1299,11 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3346.650801603686,
-        "y": -973.3753792105299
+        "x": -13696.650801603686,
+        "y": 562.3753792105299
       },
       "fill": "#144bf1ff",
-      "nodelabelfontsize": 40,
+      "nodelabelfontsize": 150,
       "backgroundImageURL": null
     },
     {
@@ -569,529 +1320,11 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -980.3787355721624,
-        "y": -1735.173761059461
+        "x": -3041.7454080880316,
+        "y": -1827.8786709671003
       },
       "fill": "#144bf1ff",
-      "nodelabelfontsize": 40,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 1,
-      "kind": "node",
-      "label": "Artificial General Intelligence",
-      "notes": "",
-      "desc": "Ability of an intelligent agent to understand or learn any intellectual task that a human being can.\n\n ## History\n- 1950s - First generation of AI researcher were convinced that artificial intelligence was possible\n- 1970s - AI winter\n- 1980s - Knowledge became focus of mainstream AI\n- 1987 - 1993 - AI winter\n- 1993 - 2011 - Used successfully throughout the technology industry\n- 2011 - present Deep learning, big data and artificial general intelligence\n\n ## Projects\n- <a target=_blank href=https://www.vicarious.com>Vicarious</a>\n- <a target=_blank href=https://numenta.com>Numenta</a>\n- <a target=_blank href=https://vast.ai>Vast.ai</a>\n- <a target=_blank href=https://www.deepmind.com>DeepMind</a>\n- <a target=_blank href=https://aibrain.com/about>AIBrain</a>\n- <a target=_blank href=https://openai.com/about/>OpenAI</a>\n- <a target=_blank href=http://olbrain.com>Olbrain - The AGI Brain</a>\n- <a target=_blank href=https://generallyintelligent.ai/>generallyintelligent.ai/</a>\n\n ## Labs\n- <a target=_blank href=https://web.archive.org/web/20050405071221/http://genesis.csail.mit.edu/index.html>Genesis</a>\n- <a target=_blank href=https://ccrg.cs.memphis.edu/projects.html>CCRG - Cognitive Computing Research Group - Projects</a>\n- <a target=_blank href=https://www.eleuther.ai/>EleutherAI</a>\n- <a target=_blank href=https://cse.buffalo.edu/sneps/>SNePS Research Group Home Page</a>\n- <a target=_blank href=https://www.epfl.ch/research/domains/bluebrain/>Blue Brain Project ‐ EPFL</a>\n\n ## People\n- <a target=_blank href=https://people.idsia.ch/~juergen/>people.idsia.ch/~juergen/</a>\n- <a target=_blank href=https://cis.temple.edu/~wangp>cis.temple.edu/~wangp/</a>\n- <a target=_blank href=https://www.linkedin.com/in/bengoertzel/>Ben Goertzel</a>\n\n## How to get involved\n- <a target=_blank href=https://github.com/SoarGroup>Open-NARS, University of Michigan Soar Group · GitHub, Contribute to open source projects</a>\n- <a target=_blank href=https://opencog.org/donate/>OpenCog Foundation | Donate, Donate to openCog</a>\n- <a target=_blank href=http://goertzel.org/agi-curriculum/>Theoretical Foundations of Artificial General Intelligence | SpringerLink, Start with creating a reading list or join existing curriculum AGI Curriculum – goertzel.org</a>\n- <a target=_blank href=https://www.eleuther.ai/>EleutherAI, Join a AI community</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 4,
-      "pos": {
-        "x": -904.5810817263991,
-        "y": -288.78703637465696
-      },
-      "fill": "#eccd2aff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 11,
-      "kind": "node",
-      "label": "recommendation systems",
-      "notes": "",
-      "desc": "Predicts what rating or preferences a user would give to an item.\n\n ## History\n- 1990 - First mentioned by Jussi Karlgren\n- 1994 - Implemented at scale\n\n ## Projects\n- <a target=_blank href=https://www.stridelysolutions.com/smart-product-recommendation/>Smart Product Recommendation - Stridely Solutions</a>\n- <a target=_blank href=https://www.recombee.com/>AI-Powered Real-Time Recommender | Recombee</a>\n- <a target=_blank href=https://abacus.ai/user_eng?token=reco1&gclid=Cj0KCQjw3IqSBhCoARIsAMBkTb2dNVhJX66WCFrjXOhXy-ROy41cWUwUaLP9QNp0HUorUE8YCqK1xTgaAoWnEALw_wcB>Abacus.AI - Effortlessly Embed Cutting Edge AI In Your Applications.</a>\n- <a target=_blank href=https://xgen.ai/>xgen</a>\n- <a target=_blank href=https://www.preezie.com/ai-product-recommendation>preezie | #1 AI Product Recommendation Engine</a>\n\n ## Labs\n- <a target=_blank href=http://www.that-recsys-lab.net>Home | That Recommender Systems Lab</a>\n- <a target=_blank href=https://www.martijnwillemsen.nl/recommenderlab/>Recommender LAB</a>\n- <a target=_blank href=https://cs.hse.ru/en/ai/issa/Field_Recommender_Systems>Recommender Systems — International Laboratory for Intelligent Systems and Structural Analysis — HSE University</a>\n- <a target=_blank href=https://www.cs.utexas.edu/users/ai-lab/?learnrecommender>AI Lab Areas -  Learning for Recommender Systems</a>\n- <a target=_blank href=https://fekri.ece.gatech.edu/proj_soc_comp.html>SPC Lab</a>\n\n ## People\n- <a target=_blank href=https://martijnwillemsen.nl>Martijn Willemsen</a>\n- <a target=_blank href=https://www.linkedin.com/in/mschrage/>Michael Schrage - author of Recommendation Engines</a>\n- <a target=_blank href=https://felfernig.ist.tugraz.at/>Alexander Felfernig</a>\n- <a target=_blank href=https://scholar.google.com/citations?user=KqefJxsAAAAJ&hl=en>Pijush Kanti Dutta Pramanik</a>\n- <a target=_blank href=https://scholar.google.com/citations?user=MrZiOykAAAAJ&hl=en>Avick Kumar Dey</a>\n\n## How to get involved\n- <a target=_blank href=https://github.com/that-recsys-lab>That Recommender Systems Lab · GitHub, Contribution</a>\n- <a target=_blank href=https://mitpress.mit.edu/books/recommendation-engines>Recommendation Engines - Michael Schrage - Google Books, Reading</a>\n\n ## Resources\n- <a target=_blank href=https://github.com/grahamjenson/list_of_recommender_systems>A List of Recommender Systems and Resources</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 4,
-      "pos": {
-        "x": -873.6887248538405,
-        "y": -613.7262758766101
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 6,
-      "kind": "node",
-      "label": "computer vision",
-      "notes": "",
-      "desc": "Deals with how computers can gain high level understanding from digital images or videos.\n\n ## History\n- 1960 - Start at universities\n- 1970s - formed the early foundations of many computer vision algorithms which exist today\n- 1990s - changes through increased interactions between the fields of computer graphics and computer vision\n\n ## Projects\n- <a target=_blank href=https://www.anduril.com/>Anduril | Military use</a>\n- <a target=_blank href=https://metropolis.io/>Metropolis | Mobile commerce and parking</a>\n- <a target=_blank href=https://misorobotics.com/>Miso Robotics | Robotics focus on restaurant industry</a>\n- <a target=_blank href=https://shop.piaggiofastforward.com/?_ga=2.63624109.309326748.1648511687-11106.1648511687>gita store - Piaggio Fast Forward, Following robots</a>\n- <a target=_blank href=https://viso.ai/>Viso Suite | Platform for building computer vision platforms without code</a>\n\n ## Labs\n- <a target=_blank href=https://groups.csail.mit.edu/vision/welcome/>MIT CSAIL Computer Vision Research Group</a>\n- <a target=_blank href=https://ci2cv.net>CI2CV Computer Vision Lab</a>\n- <a target=_blank href=http://www.vision.caltech.edu>Computational Vision: [Home]</a>\n- <a target=_blank href=http://vision.ucla.edu>UCLA Vision Lab</a>\n- <a target=_blank href=https://hci.iwr.uni-heidelberg.de/vislearn/>Computer Vision and Learning Lab Heidelberg</a>\n\n ## People\n- <a target=_blank href=www.robots.ox.ac.uk/~az/>Andrew Zisserman</a>\n- <a target=_blank href=http://olivalab.mit.edu/audeoliva.html>Computational Perception & Cognition, Aude Oliva</a>\n- <a target=_blank href=https://www.cs.toronto.edu/~kriz/>Alex Krizhevsky</a>\n- <a target=_blank href=https://sites.google.com/site/pushmeet/>Pushmeet Kohli</a>\n- <a target=_blank href=https://www.ri.cmu.edu/ri-faculty/takeo-kanade/>Takeo Kanade - The Robotics Institute Carnegie Mellon University</a>\n\n## How to get involved\n- <a target=_blank href=https://www.aicrowd.com/challenges/ai-blitz-xiii>AIcrowd | AI Blitz XIII | Challenges, Do these five computer challenges</a>\n- <a target=_blank href=https://www.forbes.com/sites/forbestechcouncil/2022/03/02/tips-on-getting-started-with-computer-vision-in-your-business/?sh=2ae195636976>Tips On Getting Started With Computer Vision In Your Business, Implement computer vision in your business</a>\n\n ## Resources\n- <a target=_blank href=https://github.com/jbhuang0604/awesome-computer-vision>A curated list of awesome computer vision resources, comprehensive list of projects</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 4,
-      "pos": {
-        "x": -981.297981262207,
-        "y": -540.7505178058864
-      },
-      "fill": "#eccd2aff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 5,
-      "kind": "node",
-      "label": "bioinformatics",
-      "notes": "",
-      "desc": "Field which develops methods and software tools for understanding biological data\n\n ## History\n- 1970 - Paulien Hogeweg and Ben Hesper coined it 1970\n\n ## Projects\n- <a target=_blank href=https://www.isomorphiclabs.com/>Isomorphic Labs | Home, Drug discovery</a>\n- <a target=_blank href=https://www.causaly.com/>Home - Causaly, Uses ML to read scientific articles and extract causal associations</a>\n- <a target=_blank href=https://www.biodesix.com/>Diagnostic Tests for Lung Cancer | Lung Cancer Tests | Biodesix, Uncovers blood based biomarker patterns</a>\n- <a target=_blank href=https://www.biotrillion.com/>BioTrillion — Data from Life. Data for Life., Takes sensor datas from customer environment to measure disease development and response to drugs</a>\n- <a target=_blank href=https://www.gero.ai/>GERO.AI – Hacking complex diseases and aging, Identifies biomarkers of aging and drug discovery for aging</a>\n\n ## Labs\n- <a target=_blank href=https://function.princeton.edu/>Troyanskaya Laboratory</a>\n- <a target=_blank href=https://kiwi-biolab.de/>kiwi-biolab</a>\n- <a target=_blank href=https://bsse.ethz.ch/mlcb>Machine Learning & Computational Biology Lab | ETH Zurich</a>\n- <a target=_blank href=https://aims.cs.washington.edu/>AIMS Lab</a>\n- <a target=_blank href=https://www.helmholtz-munich.de/icb/research/labs/machine-learning/overview/index.html>Machine Learning</a>\n\n ## People\n- <a target=_blank href=https://scholar.google.com/citations?user=gI8o6x8AAAAJ>Wolfgang Huber</a>\n- <a target=_blank href=https://scholar.google.com/citations?user=POWKkqEAAAAJ&hl=en>Serafim Batzoglou</a>\n- <a target=_blank href=https://scholar.google.com/citations?user=sUVeH-4AAAAJ&hl=en>Steven Salzberg</a>\n- <a target=_blank href=https://scholar.google.com/citations?user=M6Etr6oAAAAJ&hl=en>Peer Bork</a>\n- <a target=_blank href=https://www.researchgate.net/profile/Piotr-Dabrowski-10>Piotr DABROWSKI</a>\n\n## How to get involved\n- <a target=_blank href=https://rosalind.info/problems/locations/>ROSALIND | Problems | Locations, Solve problems</a>\n- <a target=_blank href=www.youtube.com/watch?v=jBlTQjcKuaY&t=5014s>Drug discovery tutorial</a>\n- <a target=_blank href=https://4273pi.org/>4273pi Bioinformatics Education project</a>\n- <a target=_blank href=https://abi.am/donate/>Donate – Armenian Bioinformatics Institute, Donation</a>\n\n ## Resources\n- <a target=_blank href=https://en.wikipedia.org/wiki/List_of_open-source_bioinformatics_software>List of open-source bioinformatics software - Wikipedia</a>\n- <a target=_blank href=https://blog.benchsci.com/startups-using-artificial-intelligence-in-drug-discovery>230 Startups Using Artificial Intelligence in Drug Discovery, list of AI drug discovery companies</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 4,
-      "pos": {
-        "x": -836.7284816287429,
-        "y": -350.24452538832884
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 8,
-      "kind": "node",
-      "label": "natural language processing (NLP)",
-      "notes": "",
-      "desc": "Concerned with interactions between computers and human language.\n\n ## History\n- 1954 - Automatic translation of more than sixty Russian sentences into English\n- 60s ‒ Further development of notable natural language processing systems ELIZA & SHRDLU\n- 70s - Many programmers wrote conceptual ontologies\n- 80s - Hey-day of symbolic methods in NLP\n- 1990s - 2010s - Introduction of machine learning algorithms for language processing\n\n ## Projects\n- <a target=_blank href=https://aigo.ai/>Aigo.ai – Enterprise Chatbot with a Brain | Chatbot</a>\n- <a target=_blank href=https://verbit.ai/>Verbit: Professional AI-Based Transcription & Captioning Services | Transcription</a>\n- <a target=_blank href=https://skit.ai/>Augmented Voice Intelligence for Contact Centers | Skit.ai | Augmented voice</a>\n- <a target=_blank href=https://primer.ai/>Home - PrimerAI | Text organisation</a>\n- <a target=_blank href=https://www.failory.com/startups/natural-language-processing#toc-2-primer>Top 42 Startups in the Natural Language Processing Industry | Customer service</a>\n\n ## Labs\n- <a target=_blank href=https://www.ims.uni-stuttgart.de/en/institute/researchgroups/>Research Groups | Institute for Natural Language Processing | University of Stuttgart</a>\n- <a target=_blank href=http://nlp.cs.berkeley.edu/>The Berkeley NLP Group</a>\n- <a target=_blank href=https://mr.cs.ucl.ac.uk/>UCL Machine Reading</a>\n- <a target=_blank href=https://nlp.stanford.edu/>The Stanford Natural Language Processing Group</a>\n- <a target=_blank href=https://www.cl.cam.ac.uk/research/nl/>Computer Laboratory – Natural Language and Information Processing Research Group: NLIP Group</a>\n\n ## People\n- <a target=_blank href=https://www.linkedin.com/in/vosspeter>Peter Voss</a>\n- <a target=_blank href=https://profiles.stanford.edu/chris-manning>Christopher Manning’s Profile | Stanford Profiles</a>\n- <a target=_blank href=https://ruder.io/>Sebastian Ruder</a>\n- <a target=_blank href=https://www.rctatman.com/>Dr. Rachael Tatman</a>\n- <a target=_blank href=https://www.socher.org/>Richard Socher</a>\n\n## How to get involved\n- <a target=_blank href=https://gpt3demo.com/>Explore use cases of language models like GPT-3</a>\n- <a target=_blank href=https://transformer.huggingface.co/>Write With Transformer, Start writing with language models</a>\n\n ## Resources\n- <a target=_blank href=https://github.com/keon/awesome-nlp>GitHub - keon/awesome-nlp: A curated list of resources dedicated to Natural Language Processing (NLP)</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 4,
-      "pos": {
-        "x": -874.6618159793288,
-        "y": -470.6493715797351
-      },
-      "fill": "#eccd2aff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 12,
-      "kind": "node",
-      "label": "XR/AI",
-      "notes": "",
-      "desc": "Use of machine learning and artificial intelligence in virtual realities.\n\n ## History\n- 1968- Ivan Sutherland and Bob Sproull created the first VR / AR head mounted display\n- 2007 – Google introduced Street View, which provides panoramic views of locations.\n- 2010 – The first prototype of the Oculus Rift headset was designed.\n- 2014 - Google Glass\n- 2021 - Replika launches in the Oculus store\n\n ## Projects\n- <a target=_blank href=https://www.google.com/glass/tech-specs/>Google Glass</a>\n- <a target=_blank href=https://replika.ai/>Replika</a>\n- <a target=_blank href=https://nianticlabs.com/en/>Niantic, Inc.</a>\n- <a target=_blank href=https://www.avegant.com/products.html>Avegant | Products</a>\n- <a target=_blank href=https://ai.facebook.com/>Meta AI</a>\n- <a target=_blank href=https://www.microsoft.com/en-us/research/lab/mixed-reality-ai-zurich/>Mixed Reality & AI Lab – Zurich - Microsoft Research</a>\n- <a target=_blank href=https://lucidrealitylabs.com/>AR, VR, MR & AI solutions for business | Lucid Reality Labs</a>\n- <a target=_blank href=https://www.nvidia.com/en-us/omniverse/>Omniverse Platform for 3D Design Collaboration and Simulation | NVIDIA</a>\n\n ## Labs\n- <a target=_blank href=https://metagen.ai/>MetaGen | Bringing AI to the Metaverse, and viceversa</a>\n- <a target=_blank href=https://aixr.org/insights/>Insights - AIXR</a>\n- <a target=_blank href=https://stanfordvr.com/>VHIL | Virtual Human Interaction Lab</a>\n- <a target=_blank href=https://xrlab.berkeley.edu/research>Research - XR Lab - UC Berkeley</a>\n- <a target=_blank href=https://www.media.mit.edu/research/?filter=everything&tag=augmented-reality>Research — MIT Media Lab</a>\n\n ## People\n- <a target=_blank href=https://www.linkedin.com/in/eugenia-kuyda-638a8a1b/>Eugenia Kuyda</a>\n- <a target=_blank href=https://www.cathyhackl.com/>Cathy Hackl</a>\n- <a target=_blank href=https://www.linkedin.com/in/benitopagotto/?originalSubdomain=uk>Benito Pagotto</a>\n- <a target=_blank href=https://www.linkedin.com/in/borgetsebastien>Sébastien Borget</a>\n- <a target=_blank href=https://www.linkedin.com/in/hrishlotlikar/>Hrishi Lotlikar</a>\n\n## How to get involved\n- <a target=_blank href=https://arvr.google.com/cardboard/>Google Cardboard</a>\n- <a target=_blank href=https://www.oculus.com/experiences/quest/5620852627988042>Replika (Early Access) on Oculus Quest | Oculus, Create your Replika on the Oculus</a>\n- <a target=_blank href=https://aixr.org>AIXR - The Academy of International Extended Reality, Become a member</a>\n\n ## Resources\n- <a target=_blank href=https://helsinkixrcenter.com/xr-research-group-index>XR Research Group Index | Catalog of XR related institutions</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 4,
-      "pos": {
-        "x": -1005.9114192859997,
-        "y": -347.4598464431501
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 10,
-      "kind": "node",
-      "label": "pattern recognition",
-      "notes": "",
-      "desc": "Automated recognition of patterns and regularities in data\n\n## History\n- 1967 - Invention of nearest neighbor algorithm and begin of basic pattern recognition\n\n ## Projects\n- <a target=_blank href=https://plantix.net/en/>Plantix | Diagnosis of diseases, pests and nutrient deficiencies</a>\n- <a target=_blank href=https://osaro.com/>Osaro | Robotics solution for e-commerce</a>\n- <a target=_blank href=https://www.mecuris.com/>CAD/CAM Software fuer Orthopädietechniker | Mecuris, Orthoses production</a>\n- <a target=_blank href=https://www.planet.com/>Planet | Homepage, Geospatial analysis</a>\n- <a target=_blank href=https://sensiml.com/>SensiML | Pattern recognition with IoT</a>\n\n ## Labs\n- <a target=_blank href=https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics>Pattern Recognition & Bioinformatics | TU Delft</a>\n- <a target=_blank href=https://www.egr.msu.edu/future-engineer/pattern-recognition-and-image-processing-prip-lab>Pattern Recognition and Image Processing (PRIP) Lab | Michigan State University | College of Engineering | Future Engineers</a>\n- <a target=_blank href=https://www.rit.edu/facilities/document-and-pattern-recognition-lab>Document and Pattern Recognition Lab | RIT</a>\n- <a target=_blank href=https://lme.tf.fau.de/>Overview - Pattern Recognition Lab | FAU</a>\n\n ## People\n- <a target=_blank href=https://see.xidian.edu.cn/faculty/xbgao/>Xinbo Gao</a>\n- <a target=_blank href=https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en>Licheng Jiao</a>\n- <a target=_blank href=https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en>Dacheng Tao</a>\n- <a target=_blank href=https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=en>Xiang Bai</a>\n- <a target=_blank href=http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/>Jiwen Lu</a>\n\n## How to get involved\n- <a target=_blank href=https://www.icpr2022.com/>International Conference on Pattern Recognition</a>\n- <a target=_blank href=https://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/SPRPAGES/sprdat.htm>Public datasets for symbolic pattern recognition</a>\n\n ## Resources\n- <a target=_blank href=https://www.geeksforgeeks.org/pattern-recognition-introduction>Pattern Recognition | Introduction - GeeksforGeeks, Intro</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 4,
-      "pos": {
-        "x": -915.9768451236159,
-        "y": -409.19182153090696
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 26,
-      "kind": "node",
-      "label": "OpenCog",
-      "notes": "",
-      "desc": "OpenCog per se is a framework for AGI. OpenCog Prime is an architecture for robot and virtual embodied cognition that defines set of interacting components.\n\n ## History\n- 2008 - Founded via grant from Singularity Institute for AI and a donation from Novamente.\n\n ## Projects\n- <a target=_blank href=https://www.cisco.com/>Cisco - Networking, Cloud, and Cybersecurity Solutions</a>\n- <a target=_blank href=https://www.huawei.com/us/>Huawei United States</a>\n- <a target=_blank href=https://www.hansonrobotics.com/>home - Hanson Robotics</a>\n\n ## Labs\n- <a target=_blank href=https://opencog.org>OpenCog Foundation</a>\n\n ## People\n- <a target=_blank href=https://www.linkedin.com/in/alex-van-der-peet-488a9b48>Alex van der Peet</a>\n- <a target=_blank href=http://linas.org>Linas VEPSTAS</a>\n- <a target=_blank href=https://www.linkedin.com/in/shujing-ke-38b27179/>Shujing Ke</a>\n\n## How to get involved\n- <a target=_blank href=https://opencog.org/donate/>OpenCog Foundation  |  Donate</a>\n- <a target=_blank href=https://groups.google.com/g/opencog>opencog - Google Groups</a>\n- <a target=_blank href=https://github.com/opencog/>OpenCog · GitHub</a>\n- <a target=_blank href=https://wiki.opencog.org/w/The_Open_Cognition_Project)>OpenCog ways to contribute</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 14,
-      "pos": {
-        "x": -1781.644915533292,
-        "y": -68.60390949249268
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 15,
-      "kind": "node",
-      "label": "AIXI",
-      "notes": "",
-      "desc": "Is a reinforcement learning agent.\n\n ## History\n- 2000- First proposal from Marcus Hutter\n- 2005 - Several results regarding AIXI are proved in Hutter’s 2005 book Universal Artificial Intelligence ## People\n- <a target=_blank href=www.hutter1.net>Marcus Hutter</a>\n\n## How to get involved\n- <a target=_blank href=http://www.hutter1.net/prize/index.htm>Try the compressing human knowledge challenge</a>\n- <a target=_blank href=https://cecs.anu.edu.au/people/marcus-hutter>Join projects which are promoted by Hutter</a>\n\n ## Resources\n- <a target=_blank href=https://www.lesswrong.com/tag/aixi>Read the AIXI discussion on Lesswrong</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 14,
-      "pos": {
-        "x": -1641.4915476178394,
-        "y": -220.5
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 23,
-      "kind": "node",
-      "label": "MicroPsi",
-      "notes": "",
-      "desc": "Agent architecture which describes the interaction of emotion, motivation and cognition of situated agents.\n\n ## History\n- 1999 - 2002 - Creation of the Psi theory\n- 2003 - 2007 - MicroPsi 1\n- 2012 - Start MicroPsi 2\n\n ## Labs \n- <a target=_blank href=https://www.media.mit.edu/projects/micropsi-an-architecture-for-motivated-cognition/people/> MicroPsi: An Architecture for Motivated Cognition — MIT Media Lab</a>\n- <a target=_blank href=http://www.cognitive-ai.com/>Cognitive AI</a>\n\n ## People\n- <a target=_blank href=http://bach.ai/>Joscha Bach</a>\n- <a target=_blank href=https://www.linkedin.com/in/rvuine/>Ronnie Vuine</a>\n- <a target=_blank href=https://www.linkedin.com/in/dominik-welland-324b2394>Dominik Welland</a>\n- <a target=_blank href=https://www.topionetworks.com/people/priska-herger-5bf84f321dedae2392ceb78e>Priska Herger, Machine Learning Engineer and Co-Founder, Micropsi Industries</a>\n- <a target=_blank href=https://www.linkedin.com/in/jonas-kemper-a0908857>Jonas Kemper</a>\n\n## How to get involved\n\n ## Resources\n- <a target=_blank href=https://github.com/joschabach/micropsi2>[GitHub - joschabach/micropsi2: Python version of cognitive architecture MicroPsi]</a>\n- <a target=_blank href=https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780195370676.001.0001/acprof-9780195370676>Principles of Synthetic Intelligence PSI: An Architecture of Motivated Cognition = Joscha Bach</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 14,
-      "pos": {
-        "x": -1777.8533640240894,
-        "y": -220.5
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 24,
-      "kind": "node",
-      "label": "NARS",
-      "notes": "",
-      "desc": "NARS (Non-Axiomatic Reasoning System) is a project aimed at the building of a general-purpose intelligent system, i.e., a “thinking machine”.\n\n ## History\n- 1986 - Version 1 at Peking University\n- 1992 - Version 2 at Indiana University\n- 1995 - Version 3 at Indiana University\n- 1998 - Philadelphia University\n- 2008 - Open source version Open-NARS\n\n ## Labs \n- <a target=_blank href=https://cis.temple.edu/tagit/>Temple AGI Team</a>\n\n ## People\n- <a target=_blank href=https://cis.temple.edu/~pwang/>Pei Wang</a>\n- <a target=_blank href=https://www.christianhahm.com>Christian Hahm</a>\n- <a target=_blank href=https://www.linkedin.com/in/mina-gabriel-b9628913b/>Mina Gabriel</a>\n- <a target=_blank href=https://www.linkedin.com/in/edward-sharick/>Edward Sharick</a>\n\n## How to get involved\n- <a target=_blank href=https://cis.temple.edu/tagit/>Join the team</a>\n- <a target=_blank href=https://groups.google.com/g/open-nars>open-nars - Google Groups, Participate in group discussions</a>\n\n ## Resources\n- <a target=_blank href=https://www.worldscientific.com/worldscibooks/10.1142/8665>Non-Axiomatic Logic</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 14,
-      "pos": {
-        "x": -1936.2082147931324,
-        "y": -220.5
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 19,
-      "kind": "node",
-      "label": "Badger Architecture",
-      "notes": "",
-      "desc": "Set of design principles and a learning protocol.\n\n ## History\n- 2019 - Release of Badger architecture\n\n ## Projects\n- <a target=_blank href=https://www.goodai.com/>GoodAI | Develop safe general artificial intelligence – as fast as possible – to help humanity and understand the universe.</a> ## People\n- <a target=_blank href=https://www.linkedin.com/in/marekrosa1/>Marek Rosa, Founder of GoodAI</a>\n\n## How to get involved\n- <a target=_blank href=https://www.goodai.com/goodai-grants/>GoodAI Grants, Apply for an grant</a>\n- <a target=_blank href=https://www.goodai.com/careers/>GoodAI Careers, Apply</a>\n\n ## Resources\n- <a target=_blank href=https://arxiv.org/abs/1912.01513>[[1912.01513] BADGER: Learning to (Learn [Learning Algorithms] through Multi-Agent Communication)]</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 14,
-      "pos": {
-        "x": -1892.9499121045337,
-        "y": -144.08631134033203
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 17,
-      "kind": "node",
-      "label": "ACT-R",
-      "notes": "",
-      "desc": "Theory about how human cognition works.\n\n ## History\n- 1973 - 1990 - ACT-R is the ultimate successor of a series of increasingly precise models of human cognition developed by John R. Anderson.\n- 1990 - 1998 - Release of ACT-R 4.0 (software)\n\n ## Labs \n- <a target=_blank href=http://act-r.psy.cmu.edu/>ACT-R</a>\n- <a target=_blank href=https://learnlab.org/>LearnLab – Part of the Simon Initiative</a>\n- <a target=_blank href=https://www.parc.com/>Research Services, Open Innovation and Breakthrough Technology</a>\n- <a target=_blank href=http://pact.cs.cmu.edu/>PACT Center @ Carnegie Mellon University</a>\n\n ## People\n- <a target=_blank href=https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/anderson-john.html>John R Anderson - Department of Psychology - Dietrich College of Humanities and Social Sciences - Carnegie Mellon University</a>\n- <a target=_blank href=http://act-r.psy.cmu.edu/people/>[ACT-R » People], Extensive list of people which are involved in the project</a>\n\n## How to get involved\n\n ## Resources\n- <a target=_blank href=https://global.oup.com/academic/product/how-can-the-human-mind-occur-in-the-physical-universe-9780195324259?q=american%20architecture&lang=en&cc=us>How Can the Human Mind Occur in the Physical Universe? - John R. Anderson - Oxford University Press</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 14,
-      "pos": {
-        "x": -1937.0434026243565,
-        "y": -68.36210346221924
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 21,
-      "kind": "node",
-      "label": "language models",
-      "notes": "",
-      "desc": "Probability distribution over sequences of words.\n\n ## History\n- 2001 - First neural language model\n- 2008 - Multi-task learning \n- 2013 - Word embeddings\n- 2014 - Sequence to sequence models\n- 2015 - Memory based networks\n- 2018 - Pretrained language models\n\n ## Projects\n- <a target=_blank href=https://www.ai21.com/>AI21 Labs</a>\n- <a target=_blank href=https://info.cloudfactory.com/natural-language-processing>Natural Language Processing | CloudFactory</a>\n- <a target=_blank href=https://openai.com/blog/>OpenAI Blog</a>\n- <a target=_blank href=https://www.aleph-alpha.com/>ALEPH ALPHA</a>\n\n ## Labs\n- <a target=_blank href=https://www.eleuther.ai/>EleutherAI</a>\n- <a target=_blank href=https://www.baai.ac.cn>www.baai.ac.cn/</a>\n\n ## People\n- <a target=_blank href=https://twitter.com/johannes_hage) >Johannes Hage</a>\n- <a target=_blank href=https://twitter.com/npcollapse)>Connor Leahy</a>\n- <a target=_blank href=https://www.linkedin.com/in/jonasandrulis)>Jonas Andrulis</a>\n- <a target=_blank href=https://www.linkedin.com/in/dario-amodei-3934934/)>Dario Amodei</a>\n- <a target=_blank href=https://kimiyoung.github.io/)         >Zhilin Yang | Carnegie Mellon University</a>\n\n## How to get involved\n- <a target=_blank href=https://github.com/keon/awesome-nlp>A curated list of resources dedicated to Natural Language Processing (NLP)</a>\n- <a target=_blank href=https://gpt3demo.com/>Explore use cases of language models like GPT-3</a>\n- <a target=_blank href=https://transformer.huggingface.co/>Write With Transformer</a>\n\n ## Resources\n- <a target=_blank href=https://github.com/karpathy/minGPT>GitHub - karpathy/minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training</a>\n",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 14,
-      "pos": {
-        "x": -1663.7799101208911,
-        "y": -144.08631134033203
-      },
-      "fill": "#144bf1ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 28,
-      "kind": "node",
-      "label": "Soar",
-      "notes": "",
-      "desc": "Is a generative cognitive architecture for developing systems that exhibit intelligent behavior.\n\n ## History\n- 1983 - Beginning of John Laird’s thesis\n- 1990 - Unified Theories gets published\n- 2012 - Most current and comprehensive books of Soar gets published\n\n ## Projects\n- <a target=_blank href=https://soartech.com>SoarTech</a>\n- <a target=_blank href=https://www.cogniteam.com>Cogniteam</a>\n\n ## Labs\n- <a target=_blank href=https://soar.eecs.umich.edu>Soar Home Page</a>\n- <a target=_blank href=http://acs.ist.psu.edu/wp>Applied Cognitive Science Lab</a>\n- <a target=_blank href=http://csis.pace.edu/robotlab/projects.html>Robotics Lab - Pace University</a>\n- <a target=_blank href=https://u.cs.biu.ac.il/~kaminkg/maverick>The MAVERICK Research Group</a>\n\n ## People\n- <a target=_blank href=https://laird.engin.umich.edu>John E. Laird</a>\n- <a target=_blank href=https://scijones.github.io>Steven J. Jones</a>\n- <a target=_blank href=https://preetiramaraj.github.io>Preeti Ramaraj</a>\n- <a target=_blank href=https://schatzju.github.io>Jule Schatz</a>\n- <a target=_blank href=http://jonathanvoigt.com>Jonathan Voigt</a>\n\n## How to get involved\n- <a target=_blank href=https://soar.eecs.umich.edu>Visit the workshop which gets presented on this site</a>\n- <a target=_blank href=https://github.com/SoarGroup>University of Michigan Soar Group · Contribute on Github</a>\n\n ## Resources\n- <a target=_blank href=https://soar.eecs.umich.edu/articles/downloads/soar-suite/228-soar-tutorial-9-6-0>Follow the tutorial</a>\n- <a target=_blank href=https://mitpress.mit.edu/books/soar-cognitive-architecture>The Soar Cognitive Architecture (The MIT Press): Laird, John E., III, et al</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 14,
-      "pos": {
-        "x": -1637.1207952024815,
-        "y": -70.32762908935547
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 39,
-      "kind": "node",
-      "label": "Quantum computing",
-      "notes": "",
-      "desc": "Performs calculations via properties of quantum states, such as superposition, interference, and entanglement, to perform calculations.\n\n ## History\n- 1980 - Paul Benioff proposed quantum mechanical model of the Turing machine.\n- 1994 - Peter Shor developed quantum algorithm for finding prime factors of an integer.\n- 1998 - Isaac Chuang, Neil Gershenfeld and Mark Kubinec created two-qubit quantum computer that could perform computations.\n- 2019 - Google AI and NASA claiming to have performed quantum computation that was infeasible on any classical computer (gets still researched if claim is valid or not)\n\n ## Projects\n- <a target=_blank href=https://quantumai.google/>Google Quantum</a>\n- <a target=_blank href=https://www.meetiqm.com/>IQM</a>\n- <a target=_blank href=https://research.ibm.com/quantum-computing>IBM Quantum Computing | IBM Research</a>\n- <a target=_blank href=https://www.dwavesys.com/>D-Wave SystemsD-Wave Systems | The Practical Quantum Computing Company</a>\n- <a target=_blank href=https://quantumcircuits.com/>QCI Quantum Circuits, Inc.</a>\n\n ## Labs\n- <a target=_blank href=http://oxfordquantum.org/>Oxford Quantum Oxford Quantum</a>\n- <a target=_blank href=https://uwaterloo.ca/institute-for-quantum-computing/>Institute for quantum computing Waterloo Home | Institute for Quantum Computing | University of Waterloo</a>\n- <a target=_blank href=https://physics.mit.edu/research/labs-centers/center-for-theoretical-physics/>Center for Theoretical Physics MIT Center for Theoretical Physics » MIT Physics</a>\n- <a target=_blank href=https://www.quantumlah.org/>Centre Quantum Technologies CQT | Centre for Quantum Technologies</a>\n- <a target=_blank href=https://qarlab.de/en/research/>QAR LAB Quantencomputing-Forschung: Paper und Abschlussarbeiten am QAR-Lab</a>\n\n ## People\n- <a target=_blank href=twitter.com/jangoetz6>Jan Goetz</a>\n- <a target=_blank href=http://web.physics.ucsb.edu/~martinisgroup/>John M. Martinis | Martinis Group - Home</a>\n- <a target=_blank href=https://physics.berkeley.edu/people/faculty/irfan-siddiqi>Irfan Siddiqi | UC Berkeley Physics</a>\n- <a target=_blank href=https://qudev.phys.ethz.ch/>Andreas Walraff | Quantum Device Lab</a>\n- <a target=_blank href=http://yacoby.physics.harvard.edu/yacoby_spinqubits.html>Amir Yacoby | Yacoby Lab Spin Qubits</a>\n\n## How to get involved\n- <a target=_blank href=https://github.com/Qiskit/>contribute to Qiskit Qiskit · GitHub</a>\n- <a target=_blank href=https://unitary.fund/ideas.html>List of projects Unitary Fund</a>\n- <a target=_blank href=https://unitary.fund/donate.html>Donate Unitary Fund</a>\n- <a target=_blank href=https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2020>List of projects Google Summer of Code 2020 · qutip/qutip Wiki · GitHub</a>\n\n ## Resources\n- <a target=_blank href=https://www.quora.com/Who-are-the-top-professors-working-on-Quantum-Computation>List of people Who are the top professors working on Quantum Computation? - Quora</a>\n- <a target=_blank href=https://medium.com/qiskit/the-hitchhiking-cats-guide-to-getting-a-job-in-quantum-computing-da7e3bb9ff64>Tips for getting involved The Hitchhiking Cat’s Guide to Getting a Job in Quantum Computing | by Jay Gambetta | Qiskit | Medium</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 29,
-      "pos": {
-        "x": -1845.2696904731547,
-        "y": -760.5
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 33,
-      "kind": "node",
-      "label": "CPU computing",
-      "notes": "",
-      "desc": "Is the electronic circuitry that executes instructions comprising a computer program.\n\n ## History\n- 1945 - John von Neumann distributed paper entitled “First draft of a Report on the EDVAC”\n- 1955 - Central processing unit term is used\n- 1964 - IBM introduced computer architecture that was used in series of computers based on transistors\n- 1971 - Introduction first commercially available micro processor\n\n ## Projects\n- <a target=_blank href=https://www.amd.com/en>AMD</a>\n- <a target=_blank href=https://www.mediatek.com/>MediaTek | Homepage</a>\n- <a target=_blank href=https://gf.com/>Homepage | GLOBALFOUNDRIES</a>\n- <a target=_blank href=https://www.marvell.com/>Marvell Technology, Inc. | Essential technology, done right</a>\n- <a target=_blank href=https://www.renesas.com/us/en>Renesas Electronics Corporation</a>\n\n ## Labs\n- <a target=_blank href=https://www.amd.com/en/corporate/research>www.amd.com/en/corporate/research</a>\n- <a target=_blank href=https://www.cl.cam.ac.uk/research/comparch/>Computer Laboratory: Computer Architecture Group</a>\n- <a target=_blank href=https://www.mtu.edu/computing/facilities/>Labs and Facilities | College of Computing | Michigan Tech</a>\n- <a target=_blank href=https://www.intel.com/content/www/us/en/research/overview.html>Intel Labs - Computer Science Research and Collaboration</a>\n- <a target=_blank href=https://www.cics.umass.edu/research/research-groups>Research Centers & Labs | Manning College of Information and Computer Sciences | UMass Amherst        </a>\n\n ##How to get involved\n- <a target=_blank href=https://www.cudodonate.com/>Donate CPU power, they mine cryptocurrencies with it Cudo Donate</a>\n- <a target=_blank href=https://singularityhub.com/2017/12/31/9-ways-you-can-use-your-devices-for-advanced-scientific-research/>9 Ways You Can Use Your Devices for Advanced Scientific Research</a>\n- <a target=_blank href=https://www.quora.com/Can-you-build-your-own-CPU-from-scratch-How-much-would-it-cost>Build your own CPU from scratch Can you build your own CPU from scratch? How much would it cost? - Quora</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 29,
-      "pos": {
-        "x": -1622.4224012622944,
-        "y": -760.4598542248277
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 34,
-      "kind": "node",
-      "label": "DNA computing",
-      "notes": "",
-      "desc": "Information is represented and gets computed this way by using the genetic alphabet ACGT. Is mostly used for memory storage.\n\n ## History\n- 1994 - Leonard Adleman solved first algorithmic problem with DNA computing\n- 1995 - Eric Baum proposes DNA computing as memory system\n\n ## Projects\n- <a target=_blank href=https://www.catalogdna.com/>CATALOG</a>\n- <a target=_blank href=https://www.evonetix.com/>Evonetix</a>\n- <a target=_blank href=https://molecularassemblies.com/>Molecular Assemblies</a>\n- <a target=_blank href=https://www.twistbioscience.com>TWIST Bioscience</a>\n- <a target=_blank href=https://helix.works/>Helix Works</a>\n\n ## Labs\n- <a target=_blank href=http://qianlab.caltech.edu/index.html>The Qian Lab - Caltech</a>\n- <a target=_blank href=https://www.copicoh.uni-luebeck.de/en/research/projects/dna-computing.html>Center for Open Innovation in Connected Health DNA Computing: COPICOH</a>\n- <a target=_blank href=http://hilbertlab.org/>Hilbert Lab</a>\n- <a target=_blank href=https://www.seeliglab.org/>Seelig lab</a>\n- <a target=_blank href=https://www.molgen.mpg.de/2168/en>Max Planck Institute for Molecular Genetics</a>\n\n ## People\n- <a target=_blank href=https://users.fmi.uni-jena.de/~hinze/index-en.html>Thomas Hinze PD Dr.-Ing. habil. Thomas Hinze</a>\n- <a target=_blank href=https://www.bbe.caltech.edu/people/lulu-qian>Lulu Qian Lulu Qian | Biology and Biological Engineering</a>\n- <a target=_blank href=https://www.linkedin.com/in/kevin-cherry-55153135/>Kevin Cherry www.linkedin.com/in/kevin cherry 55153135/</a>\n- <a target=_blank href=https://adleman.usc.edu/>Leonard Adleman Leonard Adleman – Department of Computer Science, Department of Molecular Biology</a>\n- <a target=_blank href=https://www.dna.caltech.edu/~winfree/>Erik Winfree www.dna.caltech.edu/~winfree/</a>\n\n## How to get involved\n\n ## Resources\n- <a target=_blank href=www.youtube.com/watch?v=YBhWrHeIqDs>DNA computing tutorial</a>\n- <a target=_blank href=https://github.com/AkashGutha/D-Compute>DNA computing library in development: Library to experiment with DNA Computing</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 29,
-      "pos": {
-        "x": -1705.5745592062576,
-        "y": -595.3105223800412
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 36,
-      "kind": "node",
-      "label": "GPU computing",
-      "notes": "",
-      "desc": "General purpose computing on graphics processing units is the use of a graphics processing unit to perform computation in applications traditionally handled by the central processing \n\n## History\n- 1987 - Conways Game of Life became first example of general purpose computing\n- ~2001 - More popularity through programmable shaders and floating point support on graphics processors\n- 2005 - First common scientific program runs faster on GPU’s\n\n ## Projects\n- <a target=_blank href=https://www.nvidia.com/en-us/>NVIDIA Artificial Intelligence Computing Leadership from NVIDIA</a>\n- <a target=_blank href=https://www.amd.com/en>AMD www.amd.com/en</a>\n- <a target=_blank href=https://www.intel.com/content/www/us/en/homepage.html>Intel Intel | Data Center Solutions, IoT, and PC Innovation</a>\n- <a target=_blank href=https://www.evga.com/>EVGA www.evga.com/</a>\n- <a target=_blank href=https://www.sapphiretech.com/de-de>Sapphire SAPPHIRE Technology Limited</a>\n\n ## Labs\n- <a target=_blank href=https://chtc.cs.wisc.edu/uw-research-computing/gpu-lab.html>CHTC UW Research Computing</a>\n- <a target=_blank href=https://researchcomputing.princeton.edu/support/knowledge-base/gpu-computing>Princeton Research Computing GPU Computing</a>\n- <a target=_blank href=https://labs.engineering.asu.edu/mps-lab/research-themes/accelerated-computing/gpuc/>Make Programming Simple Lab GPU Computing</a>\n- <a target=_blank href=https://www.ichec.ie/about/activities/novel-technologies/many-core-rd/gpu-research-development>Irish Centre for High-end Computing GPU Research & Development</a>\n- <a target=_blank href=https://developer.nvidia.com/higher-education-and-research>NVIDIA GPU Research Center Higher Education and Research</a>\n\n ## People\n- <a target=_blank href=undefined>undefined</a>\n- <a target=_blank href=undefined>undefined</a>\n\n## How to get involved\n- <a target=_blank href=https://www.gpuhackathons.org/>GPU hackathon GPU Hackathons and Bootcamps | GPU Hackathon</a>\n- <a target=_blank href=https://medium.com/the-mission/how-to-build-the-perfect-deep-learning-computer-and-save-thousands-of-dollars-9ec3b2eb4ce2>Build your own on GPU computing based computerHow to build the perfect Deep Learning Computer and save thousands of dollars | by Jeff Chen | Mission.org | Medium</a>\n- <a target=_blank href=https://hostkey.com/about-us/grants-for-scientific-projects-and-startups/>GPU grant program for scientific research projects and prospective startups GPU Grant Program for Research Projects and Startups</a>\n- <a target=_blank href=https://towardsdatascience.com/how-to-use-gpus-for-machine-learning-with-the-new-nvidia-data-science-workstation-64ef37460fa0>Use a GPU cloud provider for machine learning How to use NVIDIA GPUs for Machine Learning with the new Data Science PC from Maingear | by Déborah Mesquita | Towards Data Science</a>\n- <a target=_blank href=https://www.nvidia.com/en-us/research/graduate-fellowships/>NVIDIA fellowship Graduate Fellows & Fellowship Opportunities | NVIDIA Research</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 29,
-      "pos": {
-        "x": -1706.5991195808747,
-        "y": -646.5043008551283
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 30,
-      "kind": "node",
-      "label": "AI accelerator",
-      "notes": "",
-      "desc": "Specialized hardware accelerator to accelerate AI or ML processes.\n\n ## History\n- 2010s - Through upcoming of deep learning more specia\n\n AI hardware was created\n- 2016 - GPUs get popular for AI related work\n- 2017 - In-memory computing architectures\n- 2019 - In-memory computing with analog resistive memories\n- 2020 - Atomically thin semiconductors\n- 2021 - Integrated photonic tensor core\n\n ## Projects\n- <a target=_blank href=https://cerebras.net/>Cerebras</a>\n- <a target=_blank href=https://sambanova.ai/>SambaNova Systems</a>\n- <a target=_blank href=https://www.graphcore.ai/>Graphcore: Accelerating machine learning for a world of intelligent machines</a>\n- <a target=_blank href=https://groq.com/)>Groq</a>\n- <a target=_blank href=https://mythic.ai/)>Power-efficient analog compute for edge AI - Mythic        </a>\n\n ## Labs\n- <a target=_blank href=https://ml.slac.stanford.edu>Machine Learning at SLAC | SLAC National Accelerator Laboratory</a>\n- <a target=_blank href=https://computing.fnal.gov/ai-research-areas/>AI Research Areas | Computing</a>\n- <a target=_blank href=https://li.seas.upenn.edu/>Penn Computational Intelligence Lab</a>\n\n ## People\n- <a target=_blank href=https://scholar.google.co.uk/citations?user=84ZJvbsAAAAJ&hl=en>Andreas Adelmann</a>\n- <a target=_blank href=https://www.linkedin.com/in/jonathan-ross-12a95156/>Jonathan Ross</a>\n- <a target=_blank href=https://www.linkedin.com/in/mike-henry-72204123/>Mike Henry</a>\n- <a target=_blank href=https://portal.slac.stanford.edu/sites/lcls_public/science/people/dratner/Pages/default.aspx>Daniel Ratner</a>\n- <a target=_blank href=https://ml.slac.stanford.edu/saramiskovich>Sara A. Miskovich</a>\n\n## How to get involved\n\n ## Resources\n- <a target=_blank href=https://cs217.stanford.edu/>Hardware Accelerators for Machine Learning (CS 217) by cs217, Follow a curriculum on the field</a>\n- <a target=_blank href=https://www.researchgate.net/publication/342024767_NANO-CHIPS_2030_On-Chip_AI_for_an_Efficient_Data-Driven_World_On-Chip_AI_for_an_Efficient_Data-Driven_World>NANO-CHIPS 2030: On-Chip AI for an Efficient Data-Driven World (The Frontiers Collection): Murmann, Boris, Hoefflinger, Bernd</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 29,
-      "pos": {
-        "x": -1629.331170076619,
-        "y": -709.0691893722287
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 38,
-      "kind": "node",
-      "label": "Optical computing",
-      "notes": "",
-      "desc": "Uses light waves produced by lasers or incoherent sources for data processing, data storage or data communication for computing.\n\n ## History\n- 1978 - First electro hybrids\n- 1994 - M Reck’s universal optical processor\n- 2004 - Large scale integrated photonics becomes possible\n- 2012 - First programmable nanophotonic processor\n- 2015 - Programmable nanophotonic processor preprint on arXiv\n\n ## Projects\n- <a target=_blank href=https://lightmatter.co/>Lightmatter - The photonic (super)computer company.</a>\n- <a target=_blank href=https://www.cognifiber.com>Cognifiber – Photonic Computing – The Revolution of Information Technology</a>\n- <a target=_blank href=https://optalysys.com/>Optalysys</a>\n- <a target=_blank href=https://lighton.ai>AI for all, everywhere. NLP Extreme scale AI usable through the Muse API</a>\n- <a target=_blank href=https://www.luminous.com/>Luminous</a>\n\n ## Labs\n- <a target=_blank href=https://optics.engin.umich.edu/>UMichigan Optics & Photonics Lab</a>\n- <a target=_blank href=https://www.rle.mit.edu/qp>Quantum Photonics Laboratory | RLE at MIT</a>\n- <a target=_blank href=https://lightwave.ee.columbia.edu>Lightwave Research Laboratory</a>\n- <a target=_blank href=https://ntt-research.com>NTT Research</a>\n- <a target=_blank href=https://www.ece.gatech.edu/research/tigs/optics-and-photonics>Optics and Photonics | School of Electrical and Computer Engineering at the Georgia Institute of Technology</a>\n\n ## People\n- <a target=_blank href=https://www.shenyichen.org/>YICHEN SHEN</a>\n- <a target=_blank href=https://cphenicie.github.io/list-of-AI-photonics-companies/>List of AI photonics companies - Christopher Phenicie</a>\n- <a target=_blank href=https://www.seas.gwu.edu/volker-j-sorger>Volker J. Sorger | School of Engineering & Applied Science | The George Washington University</a>\n- <a target=_blank href=https://www.researchgate.net/profile/Guoqing-Ma-3>Guoqing MA | PhD Student | Bachelor of Engineering | Shanghai Institute of Optics and Fine Mechanics, CAS, Shanghai | Laboratory of Information Optics and Optoelectronic Technology, CAS</a>\n- <a target=_blank href=https://www.researchgate.net/profile/Junjie-Yu-8)>Junjie YU | Ph.D | Shanghai Institute of Optics and Fine Mechanics, CAS, Shanghai | Lab of Information Optics and Optoelectronic Technology</a>\n\n## How to get involved\n- <a target=_blank href=www.optica.org//en us/opticalcomputing/>Look for incubators (this one is old)</a>\n\n ## Resources\n- <a target=_blank href=https://www.geeksforgeeks.org/introduction-of-optical-computing/>Introduction of Optical Computing - GeeksforGeeks, Read intro in optical computing</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 29,
-      "pos": {
-        "x": -1841.7540100716396,
-        "y": -707.539360561942
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 31,
-      "kind": "node",
-      "label": "Cloud computing",
-      "notes": "",
-      "desc": "On demand computing power without directive management of the computing source. Machine learning demands a lot of power which a single person with one computer is often not able to bring up.\n\n ## History\n- 1960 - Initial concepts of time sharing came up\n- 1977 - Cloud symbol represents networks of computing equipment\n- 1993 - Term cloud was used to refer to platforms for distributed computing\n\n ## Projects\n- <a target=_blank href=https://h2o.ai/platform/ai-cloud/>H2O AI Cloud | H2O.ai</a>\n- <a target=_blank href=https://vast.ai/console/create/>Vast.ai</a>\n- <a target=_blank href=https://www.leadergpu.com/>GPU servers rental for deep learning | LeaderGPU</a>\n- <a target=_blank href=https://lambdalabs.com/about>About | Lambda</a>\n- <a target=_blank href=https://console.paperspace.com/signup?R=ZKGRZB5>Paperspace Console</a>\n\n ## Labs\n- <a target=_blank href=http://www.mccrc.org/>Microsoft Cloud Computing Research Centre</a>\n- <a target=_blank href=https://nsfcac.org/>Welcome | NSF Cloud & Autonomic Computing Center (CAC)</a>\n- <a target=_blank href=https://researchcomputing.princeton.edu/about>About | Princeton Research Computing</a>\n- <a target=_blank href=https://cec.georgiasouthern.edu/research-initiatives/research-labs/>Research Laboratories | College of Engineering and Computing</a>\n- <a target=_blank href=http://hpcclab.org/>HPCC lab</a>\n\n ## People\n- <a target=_blank href=https://www.linkedin.com/in/dillonerb/>Dillon Erb, CEO Paperspace</a>\n- <a target=_blank href=https://entersingularity.wordpress.com/about/>About | Enter the Singularity Jakob Cannell, CEO Vast.ai</a>\n- <a target=_blank href=https://www.linkedin.com/in/sbalaban/>Stephen Balaban, CEO Lambda</a>\n- <a target=_blank href=https://www.linkedin.com/in/srisatishambati/>Sri Ambati, CEO H2O</a>\n- <a target=_blank href=https://www.linkedin.com/in/nicolaschaparro/?originalSubdomain=de>Nicolas Chaparro, CEO Genesis Cloud</a>\n- <a target=_blank href=https://www.linkedin.com/in/vishnusubramanian/>Vishnu Subramanian, CEO Jarvislabs</a>\n\n## How to get involved\n- <a target=_blank href=https://vast.ai/gesys_gpupro/>Careers | Vast.ai is hiring CUDA/C++ programmers</a>\n- <a target=_blank href=https://qwasar.io/tech-talent-programs/devops-and-cloud-engineer-program/>Elite Cloud Engineer Program Cloud computing bootcamp</a>\n- <a target=_blank href=https://vast.ai/console/host/setup/>Vast.ai host your computer GPU power</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 29,
-      "pos": {
-        "x": -1911.3454926802733,
-        "y": -643.4959194732764
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 29,
-      "kind": "node",
-      "label": "compute",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 42,
-      "pos": {
-        "x": -1767.8678680823086,
-        "y": -695.6668234502231
-      },
-      "nodelabelfontsize": 22,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 43,
-      "kind": "node",
-      "label": "Reinforcement learning",
-      "notes": "",
-      "desc": "Concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward.\n\n ## History\n- 1911 - Thorndike defined trial and error as the “Law of Effect” with feeling of from a given situation\n- 1954 - Minsky postulated use SNARCs (Stochastic Neural-Analogue Reinforcement Calculators)\n- 1961 - Minsky addressed “Credit Assignment Problem”\n- 1955 - Research in computational trial and error information to update connection weights\n- 1960 - 1962 - Adapted to supervised learning by using error information to update connection weights\n- 1963 - STELLA system\n- 1977 - Learning from a teacher\n- 1992 - Implementation in board games\n- 2010s - Implementation in computer games\n\n ## Projects\n- <a target=_blank href=https://www.softbankrobotics.com/emea/en>SoftBank Robotics</a>\n- <a target=_blank href=https://www.bostondynamics.com>Boston Dynamics</a>\n- <a target=_blank href=https://automata.tech/products/automata-labs>Automata Labs</a>\n- <a target=_blank href=https://webshop.robotics.abb.com/us>ABB Robotics</a>\n- <a target=_blank href=https://www.kuka.com/en-us/future-production/industrie-4-0/industrie-4-0-smartproduction>KUKA SmartProduction | KUKA AG</a>\n\n ## Labs\n- <a target=_blank href=http://rlai.ualberta.ca>Reinforcement Learning and Artificial Intelligence (RLAI) Lab, University of Alberta</a>\n- <a target=_blank href=https://www.ucsdarclab.com/>UCSD Advanced Robotics and Controls Lab</a>\n- <a target=_blank href=https://rlrl.net.technion.ac.il/>Reinforcement Learning Research Labs - Technion Research</a>\n- <a target=_blank href=https://www.universiteitleiden.nl/en/science/computer-science/artificial-intelligence--machine-learning/reinforcement-learning-lab>Reinforcement learning - Leiden University</a>\n\n ## People\n- <a target=_blank href=https://www.davidsilver.uk/>David Silver</a>\n- <a target=_blank href=https://www.littmania.com/>Littmania</a>\n- <a target=_blank href=https://www.cs.toronto.edu/~vmnih/>Vlad Mnih</a>\n- <a target=_blank href=http://www.robertbabuska.com/> Robert Babuska</a>\n- <a target=_blank href=http://joschu.net/>John Schulman</a>\n\n## How to get involved\n- <a target=_blank href=>Implement reinforcement learning in your favorite game</a>\n- <a target=_blank href=https://aws.amazon.com/de/about-aws/whats-new/2018/11/introducing-aws-deepracer/>Einführung in AWS DeepRacer , Learn reinforcement learning with an physical car</a>\n- <a target=_blank href=https://machinelearningknowledge.ai/reinforcement-learning-environments-platforms-you-did-not-know-exist/>16 Reinforcement Learning Environments and Platforms You Did Not Know Exist - MLK - Machine Learning Knowledge , Try reinforcement learning in one of these environments</a>\n- <a target=_blank href=https://rfchallenge.mit.edu/>RF Challenge | RF Challenge - AI Accelerator, Join competitions</a>\n\n ## Resources\n- <a target=_blank href=https://www.davidsilver.uk/teaching/>Teaching - David Silver, Take the course from David Silver</a>\n- <a target=_blank href=https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf>Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning series): Sutton, Richard S., Barto, Andrew G.</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 42,
-      "pos": {
-        "x": -1882.3412256186111,
-        "y": -495.3105223800412
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 41,
-      "kind": "node",
-      "label": "deep learning",
-      "notes": "",
-      "desc": "Class of machine learning algorithms which uses multiple layers to progressively extract higher-level features from the raw input.\n\n ## History\n- 1962 - In the book “Principles of Neurodynamics: Perceptrons and the Theory of Brain Mechanisms” Frank Rosenblatt described all basics of deep learning from today.\n- 1967 - Alexey Ivakhnenko and Lapa published first learning algorithm for deep learning\n- 1971 - Paper describes deep network with eight layers\n- 1980 - Kunihiko Fukushima introduced new deep learning architectures\n- 1986 - Term Depp Learning was introduced\n- 1989 - Yann LeCun applied backpropagation to a deep neural network\n- 1997 - Schmidhuber and Hochreiter came up with LSTMs\n- 1998 - Success in speaker recognition\n- 2009 - Nvidia trained neural networks with GPUs and they called it the big bang of deep learning\n- 2011 - Superhuman performance in visual \n2012 - Deep learning system wins ImageNet competition. “deep learning revolution”\n\n ## Projects\n- <a target=_blank href=https://www.deepinstinct.com/>Deep Instinct | Deep Learning AI Cybersecurity Platform</a>\n- <a target=_blank href=https://www.glean.com>Glean | Work assistant & knowledge management platform</a>\n- <a target=_blank href=https://www.neuralware.com>Neuralware</a>\n- <a target=_blank href=https://www.qualcomm.com>Qualcomm</a>\n- <a target=_blank href=https://www.pathai.com/>PathAI | Pathology Transformed</a>\n\n ## Labs\n- <a target=_blank href=http://machinelearning.mit.edu/>Machine Learning at MIT</a>\n- <a target=_blank href=http://mdlg.ai/>Melbourne Deep Learning Group</a>\n- <a target=_blank href=http://learning.cs.toronto.edu/>UofT Machine Learning</a>\n- <a target=_blank href=https://research.cs.aalto.fi/bayes/>Deep Learning at Aalto University School of Science</a>\n- <a target=_blank href=https://machinelearning.cis.cornell.edu/>Machine Learning at Cornellx</a>\n\n ## People\n- <a target=_blank href=http://vikasverma1077.github.io>Vikas Verma</a>\n- <a target=_blank href=http://www.cs.toronto.edu/~duvenaud>David Duvenaud</a>\n- <a target=_blank href=http://www.cs.utoronto.ca/~fidler/>Sanja Fidler</a>\n- <a target=_blank href=https://twitter.com/hochreitersepp>twitter.com/hochreitersepp</a>\n- <a target=_blank href=https://people.idsia.ch/~juergen/>people.idsia.ch/~juergen/</a>\n\n## How to get involved\n- <a target=_blank href=https://www.gocoder.one/blog/active-machine-learning-communities>20+ Active machine learning and data science communities | Coder One, Join a community</a>\n- <a target=_blank href=https://hackr.io/blog/best-deep-learning-projects>10 Best Deep Learning Projects, Start with an project</a>\n- <a target=_blank href=http://www.svdlg.com/>WELCOME TO The Deep Learning Group - WE LOVE DEEP LEARNING</a>\n\n ## Resources\n- <a target=_blank href=https://project-awesome.org/guillaume-chevalier/awesome-deep-learning-resources>Awesome Deep Learning Resources</a>\n- <a target=_blank href=https://www.deeplearningbook.org/>Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville</a>\n- <a target=_blank href=https://mitpress.mit.edu/books/deep-learning-1>Deep Learning - John D. Kelleher</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 42,
-      "pos": {
-        "x": -1612.74122714449,
-        "y": -495.3105223800412
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 45,
-      "kind": "node",
-      "label": "AI risk management",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "risk"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 44,
-      "pos": {
-        "x": -383.7790933984015,
-        "y": -494.128687338467
-      },
-      "fill": "#cb5656ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 48,
-      "kind": "node",
-      "label": "AI safety (technical)",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "risk"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 44,
-      "pos": {
-        "x": -392.05963435398917,
-        "y": -432.98724726840464
-      },
-      "fill": "#cb5656ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 46,
-      "kind": "node",
-      "label": "AI safety / AI alignment",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "risk"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 44,
-      "pos": {
-        "x": -391.39997000716903,
-        "y": -384.7819578773815
-      },
-      "fill": "#cb5656ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 49,
-      "kind": "node",
-      "label": "AI security (technical)",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "risk"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 44,
-      "pos": {
-        "x": -381.9309921574386,
-        "y": -543.4806518554688
-      },
-      "fill": "#cb5656ff",
+      "nodelabelfontsize": 150,
       "backgroundImageURL": null
     },
     {
@@ -1108,8 +1341,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 774.7735452816632,
-        "y": -1512.9080496045945
+        "x": 6324.773545281663,
+        "y": 1337.8659895601477
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 22,
@@ -1129,8 +1362,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 2577.302650023241,
-        "y": -1876.2275369813915
+        "x": 8127.302650023241,
+        "y": 974.5465021833506
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 22,
@@ -1150,8 +1383,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 2670.371125577716,
-        "y": -1277.7594232844067
+        "x": 8220.371125577716,
+        "y": 1573.0146158803354
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 22,
@@ -1171,8 +1404,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1454.3666687011719,
-        "y": -1273.4816287883677
+        "x": 7004.366668701172,
+        "y": 1577.2924103763744
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 22,
@@ -1192,8 +1425,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 617.9101599134265,
-        "y": -1272.7275474954695
+        "x": 6167.9101599134265,
+        "y": 1578.0464916692727
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 22,
@@ -1213,8 +1446,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1677.913003259002,
-        "y": -1849.7343860740784
+        "x": 7227.913003259002,
+        "y": 1001.0396530906637
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 22,
@@ -1232,8 +1465,8 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 747.955322265625,
-        "y": -1852.306627130345
+        "x": 6297.955322265625,
+        "y": 998.4674120343971
       },
       "nodelabelfontsize": 22,
       "backgroundImageURL": null
@@ -1252,11 +1485,11 @@
       "is_collapsed": false,
       "parent": 50,
       "pos": {
-        "x": 1969.5057525634766,
-        "y": -1451.7970861351096
+        "x": 7519.505752563477,
+        "y": 1398.9769530296326
       },
       "fill": "#cb5656ff",
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -1274,8 +1507,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 2850.974003415444,
-        "y": -1918.4602807517567
+        "x": 8400.974003415444,
+        "y": 932.3137584129854
       },
       "fill": "#b8e986ff",
       "backgroundImageURL": null
@@ -1294,8 +1527,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 2277.281411114265,
-        "y": -1926.7935591569867
+        "x": 7827.281411114265,
+        "y": 923.9804800077554
       },
       "fill": "#b8e986ff",
       "backgroundImageURL": null
@@ -1314,8 +1547,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 2550.5783976883704,
-        "y": -1856.6315854558216
+        "x": 8100.57839768837,
+        "y": 994.1424537089206
       },
       "fill": "#b8e986ff",
       "backgroundImageURL": null
@@ -1334,8 +1567,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 2299.554029830517,
-        "y": -1855.3283497321345
+        "x": 7849.554029830517,
+        "y": 995.4456894326077
       },
       "fill": "#b8e986ff",
       "backgroundImageURL": null
@@ -1354,8 +1587,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 2850.9827614183723,
-        "y": -1854.7015635407834
+        "x": 8400.982761418372,
+        "y": 996.0724756239588
       },
       "fill": "#b8e986ff",
       "backgroundImageURL": null
@@ -1374,8 +1607,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 2767.4236915486163,
-        "y": -1793.5188863231624
+        "x": 8317.423691548616,
+        "y": 1057.2551528415797
       },
       "fill": "#b8e986ff",
       "backgroundImageURL": null
@@ -1394,8 +1627,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 2500.6095163255486,
-        "y": -1791.8913223849086
+        "x": 8050.609516325549,
+        "y": 1058.8827167798336
       },
       "fill": "#b8e986ff",
       "backgroundImageURL": null
@@ -1414,8 +1647,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 2271.891230370853,
-        "y": -1800.386717286795
+        "x": 7821.891230370853,
+        "y": 1050.3873218779472
       },
       "fill": "#b8e986ff",
       "backgroundImageURL": null
@@ -1434,8 +1667,8 @@
       "is_collapsed": false,
       "parent": 51,
       "pos": {
-        "x": 2557.135606008571,
-        "y": -1919.4774077075563
+        "x": 8107.135606008571,
+        "y": 931.2966314571859
       },
       "fill": "#cb5656ff",
       "backgroundImageURL": null
@@ -1452,8 +1685,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1768.5065461888025,
-        "y": -1880.888228777948
+        "x": 7318.5065461888025,
+        "y": 969.8858103867942
       },
       "nodelabelfontsize": 22,
       "backgroundImageURL": null
@@ -1470,8 +1703,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1601.341570425664,
-        "y": -1708.1947329834147
+        "x": 7151.341570425664,
+        "y": 1142.5793061813274
       },
       "backgroundImageURL": null
     },
@@ -1487,8 +1720,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1559.766934025074,
-        "y": -1767.5170154510324
+        "x": 7109.766934025074,
+        "y": 1083.2570237137097
       },
       "backgroundImageURL": null
     },
@@ -1504,8 +1737,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1783.2735369541806,
-        "y": -1762.741394283199
+        "x": 7333.273536954181,
+        "y": 1088.032644881543
       },
       "backgroundImageURL": null
     },
@@ -1521,8 +1754,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1828.2051406514856,
-        "y": -1709.3497237488064
+        "x": 7378.205140651486,
+        "y": 1141.4243154159358
       },
       "backgroundImageURL": null
     },
@@ -1538,8 +1771,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1544.334781815327,
-        "y": -1826.913308178191
+        "x": 7094.334781815327,
+        "y": 1023.8607309865511
       },
       "backgroundImageURL": null
     },
@@ -1555,8 +1788,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1543.431714310973,
-        "y": -1877.769042109382
+        "x": 7093.431714310973,
+        "y": 973.00499705536
       },
       "backgroundImageURL": null
     },
@@ -1572,8 +1805,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 1541.10888671875,
-        "y": -1933.994586309389
+        "x": 7091.10888671875,
+        "y": 916.7794528553532
       },
       "backgroundImageURL": null
     },
@@ -1589,8 +1822,8 @@
       "is_collapsed": false,
       "parent": 81,
       "pos": {
-        "x": 1767.5716384920524,
-        "y": -1872.9256592331712
+        "x": 7317.571638492052,
+        "y": 977.8483799315709
       },
       "backgroundImageURL": null
     },
@@ -1606,8 +1839,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2826.1273759421492,
-        "y": -1124.6543564198364
+        "x": 8376.12737594215,
+        "y": 1726.1196827449057
       },
       "backgroundImageURL": null
     },
@@ -1625,8 +1858,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2578.167621334256,
-        "y": -1226.2977064196994
+        "x": 8128.167621334256,
+        "y": 1624.4763327450428
       },
       "fill": "#eccd2aff",
       "backgroundImageURL": null
@@ -1643,8 +1876,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2823.864512846785,
-        "y": -1262.6935948288046
+        "x": 8373.864512846785,
+        "y": 1588.0804443359375
       },
       "backgroundImageURL": null
     },
@@ -1660,8 +1893,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2595.3184166747233,
-        "y": -1384.2551350077374
+        "x": 8145.318416674723,
+        "y": 1466.5189041570047
       },
       "backgroundImageURL": null
     },
@@ -1677,8 +1910,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2810.9589183307253,
-        "y": -1331.082766836109
+        "x": 8360.958918330725,
+        "y": 1519.6912723286332
       },
       "backgroundImageURL": null
     },
@@ -1696,8 +1929,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2610.824206174748,
-        "y": -1173.1654468748338
+        "x": 8160.824206174748,
+        "y": 1677.6085922899083
       },
       "fill": "#eccd2aff",
       "backgroundImageURL": null
@@ -1714,8 +1947,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2592.014510557967,
-        "y": -1122.8252517400088
+        "x": 8142.014510557967,
+        "y": 1727.9487874247334
       },
       "backgroundImageURL": null
     },
@@ -1733,8 +1966,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2564.595760729575,
-        "y": -1282.0720254937887
+        "x": 8114.595760729575,
+        "y": 1568.7020136709534
       },
       "fill": "#eccd2aff",
       "backgroundImageURL": null
@@ -1751,8 +1984,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2589.736870665709,
-        "y": -1330.475195667057
+        "x": 8139.736870665709,
+        "y": 1520.298843497685
       },
       "backgroundImageURL": null
     },
@@ -1770,8 +2003,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2820.825832872406,
-        "y": -1192.963751219735
+        "x": 8370.825832872406,
+        "y": 1657.810287945007
       },
       "fill": "#cb5656ff",
       "backgroundImageURL": null
@@ -1788,8 +2021,8 @@
       "is_collapsed": false,
       "parent": 85,
       "pos": {
-        "x": 2818.603225157576,
-        "y": -1401.760565654
+        "x": 8368.603225157576,
+        "y": 1449.0134735107422
       },
       "backgroundImageURL": null
     },
@@ -1807,8 +2040,8 @@
       "is_collapsed": false,
       "parent": 90,
       "pos": {
-        "x": 783.8804264397913,
-        "y": -1502.6935948288046
+        "x": 6333.880426439791,
+        "y": 1348.0804443359375
       },
       "fill": "#eccd2aff",
       "backgroundImageURL": null
@@ -1827,8 +2060,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 677.1386566162109,
-        "y": -1754.1132542606902
+        "x": 6227.138656616211,
+        "y": 1096.660784904052
       },
       "fill": "#b8e986ff",
       "backgroundImageURL": null
@@ -1847,8 +2080,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 940.0669555664062,
-        "y": -1822.4804417606902
+        "x": 6490.066955566406,
+        "y": 1028.293597404052
       },
       "fill": "#b8e986ff",
       "backgroundImageURL": null
@@ -1867,8 +2100,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 735.5612869262695,
-        "y": -1828.991611194284
+        "x": 6285.5612869262695,
+        "y": 1021.7824279704582
       },
       "fill": "#b8e986ff",
       "backgroundImageURL": null
@@ -1887,8 +2120,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 916.088134765625,
-        "y": -1892.257236194284
+        "x": 6466.088134765625,
+        "y": 958.5168029704582
       },
       "fill": "#b8e986ff",
       "backgroundImageURL": null
@@ -1907,8 +2140,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 509.55561447143555,
-        "y": -1905.2795140263152
+        "x": 6059.555614471436,
+        "y": 945.494525138427
       },
       "fill": "#b8e986ff",
       "backgroundImageURL": null
@@ -1927,8 +2160,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 720.59375,
-        "y": -1902.0239598270964
+        "x": 6270.59375,
+        "y": 948.7500793376457
       },
       "fill": "#b8e986ff",
       "backgroundImageURL": null
@@ -1947,8 +2180,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 523.0999984741211,
-        "y": -1837.8353306767058
+        "x": 6073.099998474121,
+        "y": 1012.9387084880364
       },
       "fill": "#b8e986ff",
       "backgroundImageURL": null
@@ -1967,8 +2200,8 @@
       "is_collapsed": false,
       "parent": 124,
       "pos": {
-        "x": 535.0238134928459,
-        "y": -1302.6935948288046
+        "x": 6085.023813492846,
+        "y": 1548.0804443359375
       },
       "fill": "#eccd2aff",
       "backgroundImageURL": null
@@ -1987,8 +2220,8 @@
       "is_collapsed": false,
       "parent": 124,
       "pos": {
-        "x": 540.6787308900693,
-        "y": -1225.3646690086944
+        "x": 6090.678730890069,
+        "y": 1625.4093701560478
       },
       "fill": "#eccd2aff",
       "backgroundImageURL": null
@@ -2007,8 +2240,8 @@
       "is_collapsed": false,
       "parent": 124,
       "pos": {
-        "x": 728.3703190639135,
-        "y": -1246.8348412654477
+        "x": 6278.3703190639135,
+        "y": 1603.9391978992944
       },
       "fill": "#144bf1ff",
       "backgroundImageURL": null
@@ -2025,8 +2258,8 @@
       "is_collapsed": false,
       "parent": 132,
       "pos": {
-        "x": -3482.845635508009,
-        "y": -1042.0969557318567
+        "x": -13472.733333587646,
+        "y": 1144.5
       },
       "backgroundImageURL": null
     },
@@ -2042,10 +2275,10 @@
       "is_collapsed": false,
       "parent": 132,
       "pos": {
-        "x": -3478.2262692802105,
-        "y": -1158.999652852388
+        "x": -13902.59908517205,
+        "y": 1158.0659117709056
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 35,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2061,8 +2294,8 @@
       "is_collapsed": false,
       "parent": 141,
       "pos": {
-        "x": 1443.0304987425716,
-        "y": -1226.6161312070144
+        "x": 6993.030498742572,
+        "y": 1624.1579079577277
       },
       "backgroundImageURL": null
     },
@@ -2080,8 +2313,8 @@
       "is_collapsed": false,
       "parent": 141,
       "pos": {
-        "x": 1452.5188556806024,
-        "y": -1302.6935948288046
+        "x": 7002.518855680602,
+        "y": 1548.0804443359375
       },
       "fill": "#cb5656ff",
       "backgroundImageURL": null
@@ -2098,8 +2331,8 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": -3327.8945837536685,
-        "y": -691.442823502739
+        "x": -14184.900001525879,
+        "y": 429.00603601295006
       },
       "backgroundImageURL": null
     },
@@ -2117,8 +2350,8 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": -3469.699996948242,
-        "y": -626.2507584210598
+        "x": -13919.699996948242,
+        "y": 504.00603601295006
       },
       "fill": "#eccd2aff",
       "backgroundImageURL": null
@@ -2137,8 +2370,8 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": -3523.736610363074,
-        "y": -766.2507584210598
+        "x": -13898.79999923706,
+        "y": 354.00603601295006
       },
       "fill": "#eccd2aff",
       "backgroundImageURL": null
@@ -2157,8 +2390,8 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": -3283.892427685514,
-        "y": -763.0775567952569
+        "x": -14479.716667175293,
+        "y": 504.00603601295006
       },
       "fill": "#144bf1ff",
       "backgroundImageURL": null
@@ -2175,8 +2408,8 @@
       "is_collapsed": false,
       "parent": 146,
       "pos": {
-        "x": -3614.599998474121,
-        "y": -692.8260758038723
+        "x": -14489.599998474121,
+        "y": 354.00603601295006
       },
       "backgroundImageURL": null
     },
@@ -2194,10 +2427,11 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": -839.6257934570312,
-        "y": -1733.3361234328113
+        "x": -2419.866668701172,
+        "y": -1943.2573419342007
       },
       "fill": "#eccd2aff",
+      "nodelabelfontsize": 45,
       "backgroundImageURL": null
     },
     {
@@ -2214,10 +2448,11 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": -473.0670033098522,
-        "y": -1868.2688626906238
+        "x": -4107.316665649414,
+        "y": -985.2573419342007
       },
       "fill": "#eccd2aff",
+      "nodelabelfontsize": 45,
       "backgroundImageURL": null
     },
     {
@@ -2234,10 +2469,11 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": -1658.3833312988281,
-        "y": -1497.5524320265613
+        "x": -4374.454349517822,
+        "y": -1375.5144220123257
       },
       "fill": "#144bf1ff",
+      "nodelabelfontsize": 45,
       "backgroundImageURL": null
     },
     {
@@ -2252,10 +2488,10 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": -840,
-        "y": -1867.5524320265613
+        "x": -5479.91667175293,
+        "y": -995.2573419342007
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2271,9 +2507,10 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": -1370.4213333129883,
-        "y": -1772.5778226515613
+        "x": -3537.6399993896484,
+        "y": -1934.1484552154507
       },
+      "nodelabelfontsize": 45,
       "backgroundImageURL": null
     },
     {
@@ -2290,11 +2527,11 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": -1043.9166641235352,
-        "y": -1997.5524320265613
+        "x": -5244.883361816406,
+        "y": -1700.2573419342007
       },
       "fill": "#144bf1ff",
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2312,10 +2549,11 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": -1167.8306334214276,
-        "y": -1419.847522118922
+        "x": -3231.233329772949,
+        "y": -1510.2573419342007
       },
       "fill": "#eccd2aff",
+      "nodelabelfontsize": 45,
       "backgroundImageURL": null
     },
     {
@@ -2332,11 +2570,11 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": -293.9436188341442,
-        "y": -1729.6674222609363
+        "x": -5510.616668701172,
+        "y": -1250.2573419342007
       },
       "fill": "#eccd2aff",
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2352,10 +2590,10 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": -1146.1741428972546,
-        "y": -1597.5524320265613
+        "x": -5332.166656494141,
+        "y": -1400.2573419342007
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2371,10 +2609,10 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": -184.64080625785027,
-        "y": -1597.5524320265613
+        "x": -2212.4833374023438,
+        "y": -1700.2573419342007
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 45,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2390,10 +2628,10 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": -1694.5658642968692,
-        "y": -1948.3930515181419
+        "x": -4466.015865059809,
+        "y": -1951.0979614257812
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2411,10 +2649,11 @@
       "is_collapsed": false,
       "parent": 155,
       "pos": {
-        "x": -779.9333343505859,
-        "y": -1597.5524320265613
+        "x": -2841.300006866455,
+        "y": -1690.2573419342007
       },
       "fill": "#eccd2aff",
+      "nodelabelfontsize": 45,
       "backgroundImageURL": null
     },
     {
@@ -2429,10 +2668,10 @@
       "is_collapsed": false,
       "parent": 157,
       "pos": {
-        "x": -1361.0280075073242,
-        "y": -1778.6867093703113
+        "x": -3528.2466735839844,
+        "y": -1940.2573419342007
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2448,10 +2687,10 @@
       "is_collapsed": false,
       "parent": 170,
       "pos": {
-        "x": 4275.3501052856445,
-        "y": -1190.3073120117188
+        "x": 7640.517957836022,
+        "y": -1980.3073120117188
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2467,9 +2706,10 @@
       "is_collapsed": false,
       "parent": 181,
       "pos": {
-        "x": -3958.795470950641,
-        "y": -1104.9614797156773
+        "x": -14562.137267825641,
+        "y": 1107.79062147882
       },
+      "nodelabelfontsize": 35,
       "backgroundImageURL": null
     },
     {
@@ -2484,26 +2724,10 @@
       "is_collapsed": false,
       "parent": 181,
       "pos": {
-        "x": -3960.460213164075,
-        "y": -1153.205870956669
+        "x": -14569.650001525879,
+        "y": 1231
       },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 176,
-      "kind": "node",
-      "label": "data availability",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 183,
-      "pos": {
-        "x": -2840.2357228396886,
-        "y": -1142.7830810546875
-      },
+      "nodelabelfontsize": 35,
       "backgroundImageURL": null
     },
     {
@@ -2518,10 +2742,10 @@
       "is_collapsed": false,
       "parent": 184,
       "pos": {
-        "x": 620.4638824462891,
-        "y": -224.2509765625
+        "x": 7538.063827514648,
+        "y": 5535.7490234375
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2537,10 +2761,10 @@
       "is_collapsed": false,
       "parent": 184,
       "pos": {
-        "x": 534.9955553328891,
-        "y": -412.82175646894666
+        "x": 7452.5955004012485,
+        "y": 5347.178243531053
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2556,10 +2780,10 @@
       "is_collapsed": false,
       "parent": 185,
       "pos": {
-        "x": 4310.590438854393,
-        "y": -362.8010796063354
+        "x": 14009.145244604199,
+        "y": 347.1989203936646
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2575,10 +2799,10 @@
       "is_collapsed": false,
       "parent": 185,
       "pos": {
-        "x": 3928.2006530877916,
-        "y": -394.4372795575073
+        "x": 13626.755458837597,
+        "y": 315.5627204424927
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2594,10 +2818,10 @@
       "is_collapsed": false,
       "parent": 185,
       "pos": {
-        "x": 4351.663650524315,
-        "y": -466.24999318055416
+        "x": 14050.21845627412,
+        "y": 243.75000681944584
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2613,10 +2837,10 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 3956.6010360717773,
-        "y": -1334.394287109375
+        "x": 7321.768888622155,
+        "y": -2124.394287109375
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2632,10 +2856,10 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 4243.803428649902,
-        "y": -1092.3765563964844
+        "x": 7608.97128120028,
+        "y": -1882.3765563964844
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2651,8 +2875,8 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 4272.900012308739,
-        "y": -1200.7734271301397
+        "x": 7638.0678648591165,
+        "y": -1990.7734271301397
       },
       "backgroundImageURL": null
     },
@@ -2668,10 +2892,10 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 3950.0180282592773,
-        "y": -1116.6790161132812
+        "x": 7315.185880809655,
+        "y": -1906.6790161132812
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2687,10 +2911,10 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 4233.533531188965,
-        "y": -1033.6157836914062
+        "x": 7598.701383739342,
+        "y": -1823.6157836914062
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2706,10 +2930,10 @@
       "is_collapsed": false,
       "parent": 186,
       "pos": {
-        "x": 4261.67440032959,
-        "y": -1355.0776977539062
+        "x": 7626.842252879967,
+        "y": -2145.0776977539062
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2725,9 +2949,10 @@
       "is_collapsed": false,
       "parent": 187,
       "pos": {
-        "x": -3963.506069062967,
-        "y": -1146.2999537250262
+        "x": -14563.506069062967,
+        "y": 1116.5892324304086
       },
+      "nodelabelfontsize": 45,
       "backgroundImageURL": null
     },
     {
@@ -2744,10 +2969,11 @@
       "is_collapsed": false,
       "parent": 187,
       "pos": {
-        "x": -2841.355598449707,
-        "y": -1148.94230476982
+        "x": -12998.783332824707,
+        "y": 373.3407762848674
       },
       "fill": "#eccd2aff",
+      "nodelabelfontsize": 45,
       "backgroundImageURL": null
     },
     {
@@ -2764,11 +2990,11 @@
       "is_collapsed": false,
       "parent": 187,
       "pos": {
-        "x": -3431.8045474304035,
-        "y": -716.0037764275348
+        "x": -14146.710797430404,
+        "y": 389.25301800647503
       },
       "fill": "#144bf1ff",
-      "nodelabelfontsize": 22,
+      "nodelabelfontsize": 45,
       "backgroundImageURL": null
     },
     {
@@ -2785,74 +3011,61 @@
       "is_collapsed": false,
       "parent": 187,
       "pos": {
-        "x": -3478.44832188526,
-        "y": -1146.2984778659284
+        "x": -13728.44832188526,
+        "y": 1115.2984778659284
       },
       "fill": "#eccd2aff",
-      "nodelabelfontsize": 22,
+      "nodelabelfontsize": 45,
       "backgroundImageURL": null
     },
     {
-      "id": 42,
+      "id": 753,
       "kind": "node",
-      "label": "methods",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 914,
-      "pos": {
-        "x": -1777.33879087059,
-        "y": -692.9052611900206
-      },
-      "nodelabelfontsize": 22,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 4,
-      "kind": "node",
-      "label": "applications",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 914,
-      "pos": {
-        "x": -899.0129845201245,
-        "y": -469.6435181873285
-      },
-      "nodelabelfontsize": 22,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 44,
-      "kind": "node",
-      "label": "security / alignment",
+      "label": "supervised learning",
       "notes": "",
       "desc": "",
       "link": "",
       "tags": [
-        "risk"
+        "frontier"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": 914,
       "pos": {
-        "x": -375.19499932467807,
-        "y": -470.71348469087025
+        "x": -3876.4833374023438,
+        "y": 2604.5
       },
-      "fill": "#cb5656ff",
-      "nodelabelfontsize": 22,
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
     {
-      "id": 14,
+      "id": 754,
       "kind": "node",
-      "label": "algorithms & architectures",
+      "label": "unsupervised learning",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -4440.383331298828,
+        "y": 4629.5
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 755,
+      "kind": "node",
+      "label": "machine learning",
       "notes": "",
       "desc": "",
       "link": "",
@@ -2861,10 +3074,1044 @@
       "is_collapsed": false,
       "parent": 914,
       "pos": {
-        "x": -1771.6445665288738,
-        "y": -129.32116180690173
+        "x": -3009.933334350586,
+        "y": 4629.5
       },
-      "nodelabelfontsize": 22,
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 758,
+      "kind": "node",
+      "label": "semantic translation",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -3036.9166564941406,
+        "y": 804.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 759,
+      "kind": "node",
+      "label": "language identification",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -3154.8333435058594,
+        "y": 1179.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1010,
+      "kind": "node",
+      "label": "machine translation",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -3039.380401611328,
+        "y": 1568.4746017456055
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1011,
+      "kind": "node",
+      "label": "natural language processing",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -798.0970764160156,
+        "y": 1362.9858322143555
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1015,
+      "kind": "node",
+      "label": "image recognition",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -2548.1000061035156,
+        "y": 5829.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1016,
+      "kind": "node",
+      "label": "motion analysis",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -2505.050003051758,
+        "y": 5604.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1017,
+      "kind": "node",
+      "label": "computer vision",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -774.0999984741211,
+        "y": 5829.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1020,
+      "kind": "node",
+      "label": "reinforcement learning",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -3830.75,
+        "y": 6354.5
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1022,
+      "kind": "node",
+      "label": "speech-to-text",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -2835.032783508301,
+        "y": 1911.266227722168
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1025,
+      "kind": "node",
+      "label": "artificial general intelligence (AGI)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": 528.9666748046875,
+        "y": 4629.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1031,
+      "kind": "node",
+      "label": "Markov",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -4876.666664123535,
+        "y": 5754.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1033,
+      "kind": "node",
+      "label": "evolution",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -4851.866668701172,
+        "y": 6879.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1036,
+      "kind": "node",
+      "label": "model-based",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -5770.714210510254,
+        "y": 5931.349479675293
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1037,
+      "kind": "node",
+      "label": "temporal difference",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -5753.616653442383,
+        "y": 5561.998893737793
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1040,
+      "kind": "node",
+      "label": "iterative value",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -7165.616653442383,
+        "y": 6067.498893737793
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1041,
+      "kind": "node",
+      "label": "iterative policy",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -7161.165222167969,
+        "y": 5834.864128112793
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1045,
+      "kind": "node",
+      "label": "Q-learning",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -6807.957054138184,
+        "y": 5683.464225769043
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1047,
+      "kind": "node",
+      "label": "SARSA",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -6839.058322906494,
+        "y": 5461.998893737793
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1049,
+      "kind": "node",
+      "label": "rules",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -5587.833335876465,
+        "y": 7104.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1050,
+      "kind": "node",
+      "label": "optimiser",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -5596.883331298828,
+        "y": 6729.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1051,
+      "kind": "node",
+      "label": "genetic algorithm",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -7249.250770568848,
+        "y": 6547.380485534668
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1052,
+      "kind": "node",
+      "label": "stochastic gradient",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -7255.933319091797,
+        "y": 6879.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1057,
+      "kind": "node",
+      "label": "learning classifiers",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -6662.416656494141,
+        "y": 7254.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1058,
+      "kind": "node",
+      "label": "XCS",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -6648.783332824707,
+        "y": 7029.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1061,
+      "kind": "node",
+      "label": "dimension reduction",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -5430.3365478515625,
+        "y": 4975.1220703125
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1062,
+      "kind": "node",
+      "label": "clustering",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -5440.75,
+        "y": 4254.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1063,
+      "kind": "node",
+      "label": "linear discriminant analysis (LDA)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -6824.166656494141,
+        "y": 5079.5
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1064,
+      "kind": "node",
+      "label": "principal component analysis (PCA)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -6867.433349609375,
+        "y": 4854.5
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1065,
+      "kind": "node",
+      "label": "K-means clustering",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -7255.808319091797,
+        "y": 4261.998893737793
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1066,
+      "kind": "node",
+      "label": "spectral clustering",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -7160.991653442383,
+        "y": 4161.998893737793
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1067,
+      "kind": "node",
+      "label": "hierarchical clustering",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -7139.5,
+        "y": 3954.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1068,
+      "kind": "node",
+      "label": "expectation-maximisation (EM)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -7174.791656494141,
+        "y": 4461.998893737793
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1077,
+      "kind": "node",
+      "label": "discriminative",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -4891.27498626709,
+        "y": 3161.998893737793
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1078,
+      "kind": "node",
+      "label": "generative",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -4915.766654968262,
+        "y": 2161.998893737793
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1081,
+      "kind": "node",
+      "label": "random",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -5748.175411224365,
+        "y": 2587.9433517456055
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1083,
+      "kind": "node",
+      "label": "sequence",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -5770.791656494141,
+        "y": 2061.998893737793
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1085,
+      "kind": "node",
+      "label": "Markov Process (MDP)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -6680.558319091797,
+        "y": 2061.998893737793
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1087,
+      "kind": "node",
+      "label": "Hidden Markov Model (HMM)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -6605.247283935547,
+        "y": 2202.5976486206055
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1089,
+      "kind": "node",
+      "label": "Markov Random Fields",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -6605.991653442383,
+        "y": 1861.998893737793
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1091,
+      "kind": "node",
+      "label": "Naive Bayes (NB)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -7212.08113861084,
+        "y": 2722.473747253418
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1093,
+      "kind": "node",
+      "label": "continuous",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -5660.591651916504,
+        "y": 3061.998893737793
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1094,
+      "kind": "node",
+      "label": "discrete",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -5631.799987792969,
+        "y": 3461.998893737793
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1097,
+      "kind": "node",
+      "label": "artificial neural networks (ANN)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -6974.274993896484,
+        "y": 3461.998893737793
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1099,
+      "kind": "node",
+      "label": "random forests",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -6482.299987792969,
+        "y": 3561.998893737793
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1101,
+      "kind": "node",
+      "label": "decision trees",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -7191.349990844727,
+        "y": 3561.998893737793
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1103,
+      "kind": "node",
+      "label": "latent Dirichlet allocation",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -7317.716659545898,
+        "y": 2561.998893737793
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1105,
+      "kind": "node",
+      "label": "belief network",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -7190.4999923706055,
+        "y": 2461.998893737793
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1107,
+      "kind": "node",
+      "label": "support vector machine (SVM)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -6479.574981689453,
+        "y": 3261.998893737793
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1109,
+      "kind": "node",
+      "label": "linear regression",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -6611.786155700684,
+        "y": 3009.7070846557617
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1111,
+      "kind": "node",
+      "label": "logistic regression",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -6629.811935424805,
+        "y": 3120.6787338256836
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1114,
+      "kind": "node",
+      "label": "image restoration",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -2454.0758514404297,
+        "y": 5998.754753112793
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1116,
+      "kind": "node",
+      "label": "statistical semantics",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 914,
+      "pos": {
+        "x": -4232.75,
+        "y": 1554.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
     {
@@ -2879,10 +4126,10 @@
       "is_collapsed": false,
       "parent": 932,
       "pos": {
-        "x": 3916.677032482323,
-        "y": -408.22017750672603
+        "x": 13615.231838232128,
+        "y": 301.77982249327397
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2898,10 +4145,10 @@
       "is_collapsed": false,
       "parent": 932,
       "pos": {
-        "x": 3924.1467285272447,
-        "y": -329.78902516297603
+        "x": 13622.70153427705,
+        "y": 380.21097483702397
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2917,10 +4164,10 @@
       "is_collapsed": false,
       "parent": 946,
       "pos": {
-        "x": -1689.965060655506,
-        "y": -1937.5524320265613
+        "x": -4461.4150614184455,
+        "y": -1940.2573419342007
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2938,8 +4185,8 @@
       "is_collapsed": false,
       "parent": 952,
       "pos": {
-        "x": -3426.4299765952273,
-        "y": -1145.5936407951685
+        "x": -13899.731503168809,
+        "y": 1216.6318235418112
       },
       "fill": "#144bf1ff",
       "backgroundImageURL": null
@@ -2958,8 +4205,8 @@
       "is_collapsed": false,
       "parent": 952,
       "pos": {
-        "x": -3548.992020483145,
-        "y": -1143.9500460642157
+        "x": -13923.364836374985,
+        "y": 1141.6318235418112
       },
       "fill": "#144bf1ff",
       "backgroundImageURL": null
@@ -2976,10 +4223,10 @@
       "is_collapsed": false,
       "parent": 959,
       "pos": {
-        "x": 4261.67440032959,
-        "y": -1340.201171875
+        "x": 7626.842252879967,
+        "y": -2130.201171875
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -2995,10 +4242,10 @@
       "is_collapsed": false,
       "parent": 964,
       "pos": {
-        "x": 490.29999923706055,
-        "y": -380.5
+        "x": 7407.89994430542,
+        "y": 5379.5
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -3014,10 +4261,10 @@
       "is_collapsed": false,
       "parent": 964,
       "pos": {
-        "x": 536.9521593367954,
-        "y": -440.59543810957166
+        "x": 7454.552104405155,
+        "y": 5319.404561890428
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -3033,10 +4280,10 @@
       "is_collapsed": false,
       "parent": 967,
       "pos": {
-        "x": 3893.599998474121,
-        "y": -1066.3064575195312
+        "x": 7258.767851024499,
+        "y": -1856.3064575195312
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -3052,10 +4299,10 @@
       "is_collapsed": false,
       "parent": 967,
       "pos": {
-        "x": 3879.0498275756836,
-        "y": -1128.872314453125
+        "x": 7244.217680126061,
+        "y": -1918.872314453125
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -3071,10 +4318,10 @@
       "is_collapsed": false,
       "parent": 967,
       "pos": {
-        "x": 4067.572105407715,
-        "y": -1064.7501220703125
+        "x": 7432.739957958092,
+        "y": -1854.7501220703125
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -3090,10 +4337,10 @@
       "is_collapsed": false,
       "parent": 967,
       "pos": {
-        "x": 4048.92098236084,
-        "y": -1127.6118774414062
+        "x": 7414.088834911217,
+        "y": -1917.6118774414062
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -3109,10 +4356,10 @@
       "is_collapsed": false,
       "parent": 975,
       "pos": {
-        "x": 1976.4264068603516,
-        "y": -1451.2731603538596
+        "x": 7526.426406860352,
+        "y": 1399.5008788108826
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -3128,22 +4375,22 @@
       "is_collapsed": false,
       "parent": 978,
       "pos": {
-        "x": 3871.8656845092773,
-        "y": -1300.5
+        "x": 7237.033537059655,
+        "y": -2090.5
       },
-      "nodelabelfontsize": null,
+      "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     }
   ],
-  "grid": "false",
+  "grid": "true",
   "theme": {
     "name": "foresight",
     "bgfill": "#1c170b",
-    "grid": false,
+    "grid": true,
     "snapdist": {
-      "x": 100,
-      "y": 100
+      "x": 75,
+      "y": 75
     },
     "selectionColor": "blue",
     "nodefill": "#7b9ecb",
