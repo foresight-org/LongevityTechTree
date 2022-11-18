@@ -1,370 +1,6 @@
 {
   "items": [
     {
-      "id": 915,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 50,
-      "toId": 186,
-      "shape": "ortho"
-    },
-    {
-      "id": 918,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 50,
-      "toId": 184,
-      "shape": "ortho"
-    },
-    {
-      "id": 943,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 170,
-      "toId": 185,
-      "shape": "ortho"
-    },
-    {
-      "id": 926,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 187,
-      "toId": 168,
-      "shape": "ortho"
-    },
-    {
-      "id": 999,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 187,
-      "toId": 914,
-      "shape": "ortho"
-    },
-    {
-      "id": 750,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 914,
-      "toId": 184,
-      "shape": "ortho"
-    },
-    {
-      "id": 751,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 184,
-      "toId": 185,
-      "shape": "ortho"
-    },
-    {
-      "id": 1035,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 759,
-      "toId": 914,
-      "shape": "ortho"
-    },
-    {
-      "id": 1042,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 1041,
-      "toId": 914,
-      "shape": "ortho"
-    },
-    {
-      "id": 980,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 170,
-      "toId": 978,
-      "shape": "ortho"
-    },
-    {
-      "id": 954,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 170,
-      "toId": 953,
-      "shape": "ortho"
-    },
-    {
-      "id": 955,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 168,
-      "toId": 953,
-      "shape": "ortho"
-    },
-    {
-      "id": 922,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 170,
-      "toId": 170,
-      "shape": "ortho"
-    },
-    {
-      "id": 957,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 51,
-      "toId": 51,
-      "shape": "ortho"
-    },
-    {
-      "id": 958,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 51,
-      "toId": 59,
-      "shape": "ortho"
-    },
-    {
-      "id": 987,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 132,
-      "toId": 183,
-      "shape": "ortho"
-    },
-    {
-      "id": 989,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 124,
-      "toId": 141,
-      "shape": "ortho"
-    },
-    {
-      "id": 990,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 141,
-      "toId": 85,
-      "shape": "ortho"
-    },
-    {
-      "id": 991,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 115,
-      "toId": 90,
-      "shape": "ortho"
-    },
-    {
-      "id": 992,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 975,
-      "toId": 51,
-      "shape": "ortho"
-    },
-    {
-      "id": 948,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 946,
-      "toId": 947,
-      "shape": "ortho"
-    },
-    {
-      "id": 993,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 962,
-      "toId": 158,
-      "shape": "ortho"
-    },
-    {
-      "id": 994,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 160,
-      "toId": 161,
-      "shape": "ortho"
-    },
-    {
-      "id": 995,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 161,
-      "toId": 982,
-      "shape": "ortho"
-    },
-    {
-      "id": 996,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 946,
-      "toId": 157,
-      "shape": "ortho"
-    },
-    {
-      "id": 997,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 157,
-      "toId": 160,
-      "shape": "ortho"
-    },
-    {
-      "id": 998,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 946,
-      "toId": 159,
-      "shape": "ortho"
-    },
-    {
-      "id": 752,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 115,
-      "toId": 66,
-      "shape": "ortho"
-    },
-    {
       "id": 756,
       "kind": "edge",
       "label": "",
@@ -518,19 +154,6 @@
       "weight": 5,
       "fromId": 1017,
       "toId": 1025,
-      "shape": "ortho"
-    },
-    {
-      "id": 1030,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 146,
-      "toId": 183,
       "shape": "ortho"
     },
     {
@@ -1093,6 +716,448 @@
       "shape": "ortho"
     },
     {
+      "id": 957,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 51,
+      "toId": 51,
+      "shape": "ortho"
+    },
+    {
+      "id": 958,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 51,
+      "toId": 59,
+      "shape": "ortho"
+    },
+    {
+      "id": 991,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 115,
+      "toId": 90,
+      "shape": "ortho"
+    },
+    {
+      "id": 752,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 115,
+      "toId": 66,
+      "shape": "ortho"
+    },
+    {
+      "id": 948,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 946,
+      "toId": 947,
+      "shape": "ortho"
+    },
+    {
+      "id": 994,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 160,
+      "toId": 161,
+      "shape": "ortho"
+    },
+    {
+      "id": 996,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 946,
+      "toId": 157,
+      "shape": "ortho"
+    },
+    {
+      "id": 997,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 157,
+      "toId": 160,
+      "shape": "ortho"
+    },
+    {
+      "id": 1123,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 959,
+      "toId": 956,
+      "shape": "ortho"
+    },
+    {
+      "id": 1126,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 967,
+      "toId": 959,
+      "shape": "ortho"
+    },
+    {
+      "id": 1135,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 181,
+      "toId": 755,
+      "shape": "ortho"
+    },
+    {
+      "id": 1136,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 947,
+      "toId": 159,
+      "shape": "ortho"
+    },
+    {
+      "id": 1137,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 947,
+      "toId": 935,
+      "shape": "ortho"
+    },
+    {
+      "id": 1139,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 755,
+      "toId": 964,
+      "shape": "ortho"
+    },
+    {
+      "id": 1141,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1140,
+      "toId": 168,
+      "shape": "ortho"
+    },
+    {
+      "id": 1142,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1140,
+      "toId": 953,
+      "shape": "ortho"
+    },
+    {
+      "id": 1144,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1143,
+      "toId": 953,
+      "shape": "ortho"
+    },
+    {
+      "id": 1145,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 953,
+      "toId": 956,
+      "shape": "ortho"
+    },
+    {
+      "id": 1146,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 932,
+      "toId": 1130,
+      "shape": "ortho"
+    },
+    {
+      "id": 1147,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 933,
+      "toId": 1130,
+      "shape": "ortho"
+    },
+    {
+      "id": 1148,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 964,
+      "toId": 930,
+      "shape": "ortho"
+    },
+    {
+      "id": 1149,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 930,
+      "toId": 1130,
+      "shape": "ortho"
+    },
+    {
+      "id": 1150,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 755,
+      "toId": 935,
+      "shape": "ortho"
+    },
+    {
+      "id": 1151,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 935,
+      "toId": 1130,
+      "shape": "ortho"
+    },
+    {
+      "id": 1152,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 964,
+      "toId": 1131,
+      "shape": "ortho"
+    },
+    {
+      "id": 1118,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 147,
+      "toId": 149,
+      "shape": "ortho"
+    },
+    {
+      "id": 1119,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 148,
+      "toId": 149,
+      "shape": "ortho"
+    },
+    {
+      "id": 1121,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 149,
+      "toId": 150,
+      "shape": "ortho"
+    },
+    {
+      "id": 1155,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 52,
+      "toId": 150,
+      "shape": "ortho"
+    },
+    {
+      "id": 1157,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 141,
+      "toId": 85,
+      "shape": "ortho"
+    },
+    {
+      "id": 1158,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1132,
+      "toId": 141,
+      "shape": "ortho"
+    },
+    {
+      "id": 1159,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 51,
+      "toId": 85,
+      "shape": "ortho"
+    },
+    {
+      "id": 1160,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1132,
+      "toId": 51,
+      "shape": "ortho"
+    },
+    {
+      "id": 1161,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 141,
+      "toId": 115,
+      "shape": "ortho"
+    },
+    {
       "id": 924,
       "kind": "edge",
       "label": "",
@@ -1103,6 +1168,318 @@
       "weight": 5,
       "fromId": 126,
       "toId": 128,
+      "shape": "ortho"
+    },
+    {
+      "id": 1122,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 952,
+      "toId": 135,
+      "shape": "ortho"
+    },
+    {
+      "id": 1164,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 135,
+      "toId": 1132,
+      "shape": "ortho"
+    },
+    {
+      "id": 1167,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1166,
+      "toId": 1132,
+      "shape": "ortho"
+    },
+    {
+      "id": 1171,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1170,
+      "toId": 1166,
+      "shape": "ortho"
+    },
+    {
+      "id": 1172,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1168,
+      "toId": 1170,
+      "shape": "ortho"
+    },
+    {
+      "id": 1173,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 149,
+      "toId": 135,
+      "shape": "ortho"
+    },
+    {
+      "id": 1174,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 126,
+      "toId": 60,
+      "shape": "ortho"
+    },
+    {
+      "id": 1176,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1175,
+      "toId": 168,
+      "shape": "ortho"
+    },
+    {
+      "id": 1177,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 168,
+      "toId": 933,
+      "shape": "ortho"
+    },
+    {
+      "id": 1178,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 947,
+      "toId": 981,
+      "shape": "ortho"
+    },
+    {
+      "id": 1180,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1179,
+      "toId": 981,
+      "shape": "ortho"
+    },
+    {
+      "id": 1182,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1181,
+      "toId": 1179,
+      "shape": "ortho"
+    },
+    {
+      "id": 1183,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 168,
+      "toId": 1133,
+      "shape": "ortho"
+    },
+    {
+      "id": 1184,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 981,
+      "toId": 982,
+      "shape": "ortho"
+    },
+    {
+      "id": 1185,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1133,
+      "toId": 1134,
+      "shape": "ortho"
+    },
+    {
+      "id": 1186,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 982,
+      "toId": 1134,
+      "shape": "ortho"
+    },
+    {
+      "id": 1187,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 158,
+      "toId": 1133,
+      "shape": "ortho"
+    },
+    {
+      "id": 1188,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 947,
+      "toId": 158,
+      "shape": "ortho"
+    },
+    {
+      "id": 1189,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 158,
+      "toId": 133,
+      "shape": "ortho"
+    },
+    {
+      "id": 1190,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 126,
+      "toId": 88,
+      "shape": "ortho"
+    },
+    {
+      "id": 1191,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 88,
+      "toId": 1132,
+      "shape": "ortho"
+    },
+    {
+      "id": 1127,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 66,
+      "toId": 66,
+      "shape": "ortho"
+    },
+    {
+      "id": 1192,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 944,
+      "toId": 1133,
+      "shape": "ortho"
+    },
+    {
+      "id": 1193,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 971,
+      "toId": 1133,
       "shape": "ortho"
     },
     {
@@ -1119,1906 +1496,6 @@
       "shape": "ortho"
     },
     {
-      "id": 1118,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 147,
-      "toId": 149,
-      "shape": "straight"
-    },
-    {
-      "id": 1119,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 148,
-      "toId": 149,
-      "shape": "straight"
-    },
-    {
-      "id": 1120,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 149,
-      "toId": 151,
-      "shape": "straight"
-    },
-    {
-      "id": 1121,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 149,
-      "toId": 150,
-      "shape": "straight"
-    },
-    {
-      "id": 1122,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 952,
-      "toId": 135,
-      "shape": "straight"
-    },
-    {
-      "id": 50,
-      "kind": "node",
-      "label": "decentralised consensus systems",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": null,
-      "pos": {
-        "x": 7236.845278816694,
-        "y": 1279.1114132947378
-      },
-      "fill": "#144bf1ff",
-      "nodelabelfontsize": 150,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 914,
-      "kind": "node",
-      "label": "artificial intelligence",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": null,
-      "pos": {
-        "x": -3066.698417663574,
-        "y": 3866.9994468688965
-      },
-      "nodelabelfontsize": 150,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 185,
-      "kind": "node",
-      "label": "private artificial intelligence",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": null,
-      "pos": {
-        "x": 13788.650024414062,
-        "y": 289.42280919585573
-      },
-      "fill": "#eccd2aff",
-      "nodelabelfontsize": 150,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 184,
-      "kind": "node",
-      "label": "decentralised artificial intelligence",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": null,
-      "pos": {
-        "x": 7537.7332763671875,
-        "y": 5322.62451171875
-      },
-      "fill": "#eccd2aff",
-      "nodelabelfontsize": 150,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 186,
-      "kind": "node",
-      "label": "private decentralised computation",
-      "notes": "",
-      "desc": "## Projects\n- [Aleo](https://www.aleo.org/)\n- [DarkFi](https://dark.fi/)\n\n## Resources\n- [ZEXE (2018)](https://eprint.iacr.org/2018/962.pdf)\n- [VERI-ZEXE (2022)](https://eprint.iacr.org/2022/802)",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": null,
-      "pos": {
-        "x": 7442.183349609375,
-        "y": -2029.785918522868
-      },
-      "fill": "#eccd2aff",
-      "nodelabelfontsize": 150,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 187,
-      "kind": "node",
-      "label": "open data",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": null,
-      "pos": {
-        "x": -13696.650801603686,
-        "y": 562.3753792105299
-      },
-      "fill": "#144bf1ff",
-      "nodelabelfontsize": 150,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 155,
-      "kind": "node",
-      "label": "private computation",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": null,
-      "pos": {
-        "x": -3041.7454080880316,
-        "y": -1827.8786709671003
-      },
-      "fill": "#144bf1ff",
-      "nodelabelfontsize": 150,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 90,
-      "kind": "node",
-      "label": "public goods funding",
-      "notes": "",
-      "desc": "Mechanisms to raise funds for public goods (e.g. open-source client code, protocol research, documentation, community-building)",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 50,
-      "pos": {
-        "x": 6324.773545281663,
-        "y": 1337.8659895601477
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 22,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 51,
-      "kind": "node",
-      "label": "decentralised finance (DeFi)",
-      "notes": "",
-      "desc": "Financial products and services that do not rely on a central authority or middleman.",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 50,
-      "pos": {
-        "x": 8127.302650023241,
-        "y": 974.5465021833506
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 22,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 85,
-      "kind": "node",
-      "label": "decentralised society (DeSoc)",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 50,
-      "pos": {
-        "x": 8220.371125577716,
-        "y": 1573.0146158803354
-      },
-      "fill": "#eccd2aff",
-      "nodelabelfontsize": 22,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 141,
-      "kind": "node",
-      "label": "decentralised governance",
-      "notes": "",
-      "desc": "Protocols for collective decision-making by stakeholders and participants in a community.",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 50,
-      "pos": {
-        "x": 7004.366668701172,
-        "y": 1577.2924103763744
-      },
-      "fill": "#eccd2aff",
-      "nodelabelfontsize": 22,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 124,
-      "kind": "node",
-      "label": "consensus protocols",
-      "notes": "",
-      "desc": "A mechanism for nodes to reach an agreement on the network's current state.",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 50,
-      "pos": {
-        "x": 6167.9101599134265,
-        "y": 1578.0464916692727
-      },
-      "fill": "#144bf1ff",
-      "nodelabelfontsize": 22,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 66,
-      "kind": "node",
-      "label": "decentralised science (DeSci)",
-      "notes": "",
-      "desc": "The use of decentralised technologies such as smart contracts, tokens, decentralised storage and computation to enable new possibilities to make science more accessible, auditable, transparent, independent, and fair.\n\n ## Projects\n- <a target=_blank href=https://mirror.xyz/descifoundation.eth>DeSci Foundation</a>\n- <a target=_blank href=https://desci.com/>DeSci Labs</a>\n\n ## Resources\n- <a target=_blank href=https://hackernoon.com/desci-the-new-web-3-movement-to-revolutionize-scientific-research-and-funding>DeSci - the New Web 3 Movement to Revolutionize Scientific Research & Funding (2022) - Serge Baloyan</a>\n- <a target=_blank href=https://www.cryptoaltruism.org/blog/ten-more-desci-projects>Ten more DeSci projects disrupting scientific research, development, and knowledge sharing.</a>\n- <a target=_blank href=https://cointelegraph.com/magazine/2022/04/15/desci-tokens-help-improve-scientific-research>DeSci: Can crypto improve scientific research? (2022) - Max Parasol</a>\n- <a target=_blank href=https://future.com/what-is-decentralized-science-aka-desci/>A Guide to DeSci, the Latest Web3 Movement - Sarah Hamburg</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 50,
-      "pos": {
-        "x": 7227.913003259002,
-        "y": 1001.0396530906637
-      },
-      "fill": "#eccd2aff",
-      "nodelabelfontsize": 22,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 115,
-      "kind": "node",
-      "label": "decentralised autonomous organisations (DAO)",
-      "notes": "",
-      "desc": "Virtual communities that come together around a common purpose, coordinated by voting through smart contracts on a public blockchain. These communities feature collective ownership and decision-making.\n\n ## Resources\n- <a target=_blank href=A Prehistory of DAOs>A Prehistory of DAOs (2021) - Kei Kreutler</a>\n- <a target=_blank href=https://www.fwb.help/wip/what-co-ops-and-daos-can-learn-from-each-other>What Co-ops and DAOs Can Learn From Each Other (2022) - Austin Robey</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 50,
-      "pos": {
-        "x": 6297.955322265625,
-        "y": 998.4674120343971
-      },
-      "nodelabelfontsize": 22,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 975,
-      "kind": "node",
-      "label": "security",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "risk"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 50,
-      "pos": {
-        "x": 7519.505752563477,
-        "y": 1398.9769530296326
-      },
-      "fill": "#cb5656ff",
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 57,
-      "kind": "node",
-      "label": "decentralised derivative platforms",
-      "notes": "",
-      "desc": "DeFi derivatives are financial contracts which track or provide exposure to an underlying asset. \n\n ## Projects \n- <a target=_blank href=https://dydx.exchange>dYdX</a>\n- <a target=_blank href=https://www.opyn.co/>Opyn</a>\n- <a target=_blank href=https://synthetix.io/>Synthetix</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 8400.974003415444,
-        "y": 932.3137584129854
-      },
-      "fill": "#b8e986ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 58,
-      "kind": "node",
-      "label": "decentralised insurance platforms",
-      "notes": "",
-      "desc": "An insurance policy that relies on its community of users to dictate premiums and orchestrate payouts. \n\n ## Projects \n- <a target=_blank href=https://www.insurace.io/>InsurAce</a>\n- <a target=_blank href=https://nexusmutual.io/>Nexus Mutual</a>\n- <a target=_blank href=https://opium.finance/>Opium</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 7827.281411114265,
-        "y": 923.9804800077554
-      },
-      "fill": "#b8e986ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 56,
-      "kind": "node",
-      "label": "uncollateralised community lending",
-      "notes": "",
-      "desc": "Community-based lending practices where members of a social network agree to support one another's liabilities. \n\n ## Projects \n- <a target=_blank href=https://grameenbank.org/>Grameen Bank</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 8100.57839768837,
-        "y": 994.1424537089206
-      },
-      "fill": "#b8e986ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 54,
-      "kind": "node",
-      "label": "decentralised credit platforms",
-      "notes": "",
-      "desc": "Decentralized lending platforms provide loans to businesses, or the public with no intermediaries are present. These also allow lendres to earn interest on supplied stablecoins and cryptocurrencies. \n\n ## Projects \n- <a target=_blank href=https://makerdao.com/en/>MakerDAO</a>\n- <a target=_blank href=https://truefi.io/>TrueFi</a>\n- <a target=_blank href=https://yield.credit/>Yield Protocol</a>\n- <a target=_blank href=https://aave.com/>Aave</a>\n- <a target=_blank href=https://compound.finance/>Compound</a>\n- <a target=_blank href=https://cream.finance/>C.R.E.A.M</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 7849.554029830517,
-        "y": 995.4456894326077
-      },
-      "fill": "#b8e986ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 52,
-      "kind": "node",
-      "label": "decentralised exchange (DEX)",
-      "notes": "",
-      "desc": "A peer-to-peer marketplace where users can trade cryptocurrencies in a non-custodial manner without the need for an intermediary to facilitate the transfer and custody of funds. \n\n ## Projects \n- <a target=_blank href=https://uniswap.org/>Uniswap Protocol</a>\n- <a target=_blank href=https://curve.fi/>Curve Finance</a>\n- <a target=_blank href=https://pancakeswap.finance/>PancakeSwap</a>\n- <a target=_blank href=https://balancer.fi/>Balancer</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 8400.982761418372,
-        "y": 996.0724756239588
-      },
-      "fill": "#b8e986ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 55,
-      "kind": "node",
-      "label": "undercollaterised lending markets",
-      "notes": "",
-      "desc": "Lending based on some measure of creditworthiness, as opposed to collateral.",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 8317.423691548616,
-        "y": 1057.2551528415797
-      },
-      "fill": "#b8e986ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 59,
-      "kind": "node",
-      "label": "decentralised prediction markets",
-      "notes": "",
-      "desc": "Prediction market, facilitated by smart contracts, which allow users to trade the outcome of events. \n\n ## Projects \n- <a target=_blank href=https://augur.net/>Augur</a>\n- <a target=_blank href=https://polymarket.com/>Polymarket</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 8050.609516325549,
-        "y": 1058.8827167798336
-      },
-      "fill": "#b8e986ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 53,
-      "kind": "node",
-      "label": "stablecoins",
-      "notes": "",
-      "desc": "Cryptocurrencies designed to decrease the volatility of the coin's price, relative to some “stable” asset or basket of assets. \n\n ## Projects \n- <a target=_blank href=https://makerdao.com/en/>Maker Dai</a>\n- <a target=_blank href=https://reflexer.finance/>RAI</a>\n- <a target=_blank href=https://tether.to/>Tether</a>\n- <a target=_blank href=https://www.circle.com/en/usdc>USDC</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 7821.891230370853,
-        "y": 1050.3873218779472
-      },
-      "fill": "#b8e986ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 60,
-      "kind": "node",
-      "label": "maximal extractable value (MEV)",
-      "notes": "",
-      "desc": "Maximal extractable value (MEV) refers to the maximum value that can be extracted from block production in excess of the standard block reward and gas fees by including, excluding, and changing the order of transactions in a block.\n\n## Projects\n- <a target=_blank href=https://docs.flashbots.net/>Flashbots</a>\n",
-      "link": "",
-      "tags": [
-        "risk"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 8107.135606008571,
-        "y": 931.2966314571859
-      },
-      "fill": "#cb5656ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 81,
-      "kind": "node",
-      "label": "open science",
-      "notes": "",
-      "desc": "The movement to make scientific research (including publications, data, physical samples, and software) and its dissemination accessible to all levels of society, amateur or professional\n\n ## Projects\n- <a target=_blank href=https://codeocean.com>Code Ocean</a>\n- <a target=_blank href=https://alleninstitute.org>Allen Institute for Brain Science</a>\n- <a target=_blank href=https://okfn.org>Open Knowledge Foundation</a>\n- <a target=_blank href=https://osf.io>Open Science Framweork</a>\n- <a target=_blank href=https://oso.network>Open Science Organization</a>\n- <a target=_blank href=https://cos.io>Center for Open Science</a>\n\n ## Resources\n- <a target=_blank href=https://en.wikipedia.org/wiki/Open_science>Open science (Wikipedia)</a>\n- <a target=_blank href=https://publicaccess.nih.gov/>Public Access Policy (National Institute of Health)</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 66,
-      "pos": {
-        "x": 7318.5065461888025,
-        "y": 969.8858103867942
-      },
-      "nodelabelfontsize": 22,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 74,
-      "kind": "node",
-      "label": "autonomous research communities (ARCs)",
-      "notes": "",
-      "desc": "Communities to select, validate, and curate scientific discoveries, with each step in the process being stored on chain, creating an immutable record.\n ## Resources\n- <a target=_blank href=https://desci.com/arcs>The DAO stack for Scientific Societies</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 66,
-      "pos": {
-        "x": 7151.341570425664,
-        "y": 1142.5793061813274
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 70,
-      "kind": "node",
-      "label": "decentralised scientometrics",
-      "notes": "",
-      "desc": "Robust methods to determine scientific impact. These are alternative to the existing peer-review process and journal circulation.",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 66,
-      "pos": {
-        "x": 7109.766934025074,
-        "y": 1083.2570237137097
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 71,
-      "kind": "node",
-      "label": "decentralised scientific funding",
-      "notes": "",
-      "desc": "Decentralised methods of funding scientific research. These are an alternative to grant proposals and centralised funding bodies.\n\n ## Projects\n- <a target=_blank href=https://www.vitadao.com/>VitaDAO</a>\n- <a target=_blank href=https://www.molecule.to/>Molecule</a>\n\n ## Resources\n- <a target=_blank href=https://www.lifespan.io/topic/funding-science-with-a-dao-the-who-what-why-how/>Funding Science With a DAO: The Who, What, Why & How</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 66,
-      "pos": {
-        "x": 7333.273536954181,
-        "y": 1088.032644881543
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 67,
-      "kind": "node",
-      "label": "Research Objects",
-      "notes": "",
-      "desc": "A method for the identification, aggregation and exchange of scholarly information on the Web. The primary goal of the research object approach is to provide a mechanism to associate related resources about a scientific investigation so that they can be shared using a single identifier.\n ## Projects\n- <a target=_blank href=https://figshare.com/>Figshare</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 66,
-      "pos": {
-        "x": 7378.205140651486,
-        "y": 1141.4243154159358
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 73,
-      "kind": "node",
-      "label": "incentivised peer review",
-      "notes": "",
-      "desc": "Incentive systems that rewards scientists for peer-reviewing other scientists' work and that builds up trust and reputation.\n\n ## Projects\n- <a target=_blank href=https://linktr.ee/antsreview>Ants-Review</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 66,
-      "pos": {
-        "x": 7094.334781815327,
-        "y": 1023.8607309865511
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 69,
-      "kind": "node",
-      "label": "digital computational lab",
-      "notes": "",
-      "desc": "A virtual lab environment for scientists to standardize workflows, and to track and reproduce all computations and discoveries\n ## Projects\n- <a target=_blank href=https://codeocean.com>Code Ocean</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 66,
-      "pos": {
-        "x": 7093.431714310973,
-        "y": 973.00499705536
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 68,
-      "kind": "node",
-      "label": "Verified Research Objects",
-      "notes": "",
-      "desc": "Dynamic research objects (5) that combine text, code, data, videos, peer-reviews, annotations, and commentaries, allowing to trace the development of a research object over time including version management, citations, replication status, and the on-chain verification of open science practices, badges (e.g. for FAIR data), and replication status.\n\n ## Projects\n- <a target=_blank href=https://desci.com/sciweave>DeSci Nodes</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 66,
-      "pos": {
-        "x": 7091.10888671875,
-        "y": 916.7794528553532
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 82,
-      "kind": "node",
-      "label": "open science infrastructure",
-      "notes": "",
-      "desc": "The infrastructure school is founded on the assumption that 'efficient' research depends on the availability of tools and applications. Therefore, the goal of the school is to promote the creation of openly available platforms, tools, and services for scientists.\n\n ## Projects\n- <a target=_blank href=https://opensciencegrid.org/>Open Science Grid</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 81,
-      "pos": {
-        "x": 7317.571638492052,
-        "y": 977.8483799315709
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 95,
-      "kind": "node",
-      "label": "social recovery",
-      "notes": "",
-      "desc": "The recovery of an account's private keys using the consent of a member from a qualified majority of (a random subset of) the account's communities.",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 85,
-      "pos": {
-        "x": 8376.12737594215,
-        "y": 1726.1196827449057
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 93,
-      "kind": "node",
-      "label": "decentralised identity (DID)",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 85,
-      "pos": {
-        "x": 8128.167621334256,
-        "y": 1624.4763327450428
-      },
-      "fill": "#eccd2aff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 98,
-      "kind": "node",
-      "label": "plural property",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 85,
-      "pos": {
-        "x": 8373.864512846785,
-        "y": 1588.0804443359375
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 94,
-      "kind": "node",
-      "label": "verifiable reputation",
-      "notes": "",
-      "desc": "Protocols to verify users' reputation aross platforms.",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 85,
-      "pos": {
-        "x": 8145.318416674723,
-        "y": 1466.5189041570047
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 92,
-      "kind": "node",
-      "label": "verifiable credentials",
-      "notes": "",
-      "desc": "Verifiable credentials (VCs) are an open standard for digital credentials. They can represent information found in physical credentials, such as a passport or license, as well as new things that have no physical equivalent, such as ownership of a bank account.\n\n ## Projects\n- <a target=_blank href=https://www.w3.org/TR/vc-data-model/#use-cases-and-requirements>W3C Recommendation</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 85,
-      "pos": {
-        "x": 8360.958918330725,
-        "y": 1519.6912723286332
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 86,
-      "kind": "node",
-      "label": "soulbound tokens",
-      "notes": "",
-      "desc": "Publicly visible, non-transferable (but possibly revocable-by-the-issuer) tokens.\n\n## Resources\n- <a target=_blank href=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763>Soulbound Tokens (SBTs)</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 85,
-      "pos": {
-        "x": 8160.824206174748,
-        "y": 1677.6085922899083
-      },
-      "fill": "#eccd2aff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 97,
-      "kind": "node",
-      "label": "programmable plural privacy",
-      "notes": "",
-      "desc": "A paradigm where privacy as privacy is treated as a programmable, loosely coupled bundle of rights to permission access, alter or profit from information.",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 85,
-      "pos": {
-        "x": 8142.014510557967,
-        "y": 1727.9487874247334
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 89,
-      "kind": "node",
-      "label": "decentralised social media",
-      "notes": "",
-      "desc": "Networks of identity and reputation that do not rely on a centralised administrator or host.\n\n ## Projects\n- <a target=_blank href=https://blueskyweb.xyz/>Bluesky</a>\n- <a target=_blank href=https://unirep.gitbook.io/unirep-social/>Unirep Social</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 85,
-      "pos": {
-        "x": 8114.595760729575,
-        "y": 1568.7020136709534
-      },
-      "fill": "#eccd2aff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 96,
-      "kind": "node",
-      "label": "quadratic funding",
-      "notes": "",
-      "desc": "Distribution of funds using quadratic voting\n\n ## Projects\n- <a target=_blank href=https://gitcoin.co/>Gitcoin Grants</a>\n- <a target=_blank href=https://clr.fund/#/>Clr.fund</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 85,
-      "pos": {
-        "x": 8139.736870665709,
-        "y": 1520.298843497685
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 88,
-      "kind": "node",
-      "label": "Sybil resistance",
-      "notes": "",
-      "desc": "A Sybil attack is a type of attack on a computer network service in which an attacker subverts the service's reputation system by creating a large number of pseudonymous identities and uses them to gain a disproportionately large influence.\n\n## Projects\n- <a target=_blank href=https://www.proofofhumanity.id/>Proof of Humanity</a>\n",
-      "link": "",
-      "tags": [
-        "risk"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 85,
-      "pos": {
-        "x": 8370.825832872406,
-        "y": 1657.810287945007
-      },
-      "fill": "#cb5656ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 87,
-      "kind": "node",
-      "label": "social provenance",
-      "notes": "",
-      "desc": "Social context about the origin of some artifact",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 85,
-      "pos": {
-        "x": 8368.603225157576,
-        "y": 1449.0134735107422
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 91,
-      "kind": "node",
-      "label": "retroactive public goods funding",
-      "notes": "",
-      "desc": "## Projects\n- <a target=_blank href=https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c>Retroactive Public Goods Funding (Optimism)</a>\n- <a target=_blank href=https://research.protocol.ai/blog/2022/a-public-goods-experiment-on-filecoin-retroactively-funding-impact-with-quadratic-voting/>Filecoin Community PR</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 90,
-      "pos": {
-        "x": 6333.880426439791,
-        "y": 1348.0804443359375
-      },
-      "fill": "#eccd2aff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 118,
-      "kind": "node",
-      "label": "social DAOs",
-      "notes": "",
-      "desc": "A digitally native tribe consisting of people with similar interests.\n\n ## Projects\n- <a target=_blank href=https://www.fwb.help/>Friends With Benefits</a>\n- <a target=_blank href=https://www.seedclub.xyz/>Seed Club</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 115,
-      "pos": {
-        "x": 6227.138656616211,
-        "y": 1096.660784904052
-      },
-      "fill": "#b8e986ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 117,
-      "kind": "node",
-      "label": "grant DAOs",
-      "notes": "",
-      "desc": "A DAO that pools and distributes funds to projects.\n\n ## Projects\n- <a target=_blank href=https://aavegrants.org/>Aave Grants DAO</a>\n- <a target=_blank href=https://molochdao.com/>MolochDAO</a>\n- <a target=_blank href=https://oceanprotocol.com>Ocean Protocol</a>\n- <a target=_blank href=https://www.vitadao.com/>VitaDAO</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 115,
-      "pos": {
-        "x": 6490.066955566406,
-        "y": 1028.293597404052
-      },
-      "fill": "#b8e986ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 120,
-      "kind": "node",
-      "label": "investment DAOs",
-      "notes": "",
-      "desc": "A DAO that invests in companies in order to generate gains and/or influence decision-making.\n\n ## Projects\n- <a target=_blank href=https://www.krausehouse.club/>Krause House</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 115,
-      "pos": {
-        "x": 6285.5612869262695,
-        "y": 1021.7824279704582
-      },
-      "fill": "#b8e986ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 116,
-      "kind": "node",
-      "label": "protocol DAOs",
-      "notes": "",
-      "desc": "A DAO that votes to decide changes in a technology protocol.\n\n ## Projects\n- <a target=_blank href=https://www.fwb.help/>Friends With Benefits</a>\n- <a target=_blank href=https://www.seedclub.xyz/>Seed Club</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 115,
-      "pos": {
-        "x": 6466.088134765625,
-        "y": 958.5168029704582
-      },
-      "fill": "#b8e986ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 122,
-      "kind": "node",
-      "label": "impact DAOs",
-      "notes": "",
-      "desc": "A DAO that votes to decide changes in a technology protocol.\n\n ## Projects\n- <a target=_blank href=https://www.fwb.help/>Friends With Benefits</a>\n- <a target=_blank href=https://www.seedclub.xyz/>Seed Club</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 115,
-      "pos": {
-        "x": 6059.555614471436,
-        "y": 945.494525138427
-      },
-      "fill": "#b8e986ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 121,
-      "kind": "node",
-      "label": "collector DAOs",
-      "notes": "",
-      "desc": "A group of collectors who pool their funds to acquire ownership of NFTs or real-world art.\n\n ## Projects\n- <a target=_blank href=https://pleasr.org/>PleasrDAO</a>\n- <a target=_blank href=https://flamingodao.xyz/>Flamingo DAO</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 115,
-      "pos": {
-        "x": 6270.59375,
-        "y": 948.7500793376457
-      },
-      "fill": "#b8e986ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 119,
-      "kind": "node",
-      "label": "professional DAOs",
-      "notes": "",
-      "desc": "A collective of professionals in a common field, who share skills and resources to collaborate on projects.\n\n ## Projects\n- <a target=_blank href=https://www.raidguild.org/#manifesto>RaidGuild</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 115,
-      "pos": {
-        "x": 6073.099998474121,
-        "y": 1012.9387084880364
-      },
-      "fill": "#b8e986ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 128,
-      "kind": "node",
-      "label": "private proof of stake",
-      "notes": "",
-      "desc": "A PoS protocol that preserves the privacy of stakers\n\n ## Projects\n- <a target=_blank href=https://eprint.iacr.org/2018/1132>Ouroboros Crypsinous</a>\n- <a target=_blank href=https://penumbra.zone/technology/stake>Penumbra</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 124,
-      "pos": {
-        "x": 6085.023813492846,
-        "y": 1548.0804443359375
-      },
-      "fill": "#eccd2aff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 126,
-      "kind": "node",
-      "label": "proof of stake",
-      "notes": "",
-      "desc": "A consensus mechanism in which validators explicitly stake capital, which acts as collateral that can be destroyed in case of dishonest behaviour\n\n## Projects \n- <a target=_blank href=https://tendermint.com/>Tendermint</a>\n- <a target=_blank href=https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/>LMD-GHOST (Eth 2.0)</a>\n- <a target=_blank href=https://cardano.org/ouroboros/>Ouroboros</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 124,
-      "pos": {
-        "x": 6090.678730890069,
-        "y": 1625.4093701560478
-      },
-      "fill": "#eccd2aff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 127,
-      "kind": "node",
-      "label": "proof of work",
-      "notes": "",
-      "desc": "A consensus mechanism in which validators explicitly stake capital, which acts as collateral that can be destroyed in case of dishonest behaviour\n\n## Projects \n- <a target=_blank href=https://tendermint.com/>Tendermint</a>\n- <a target=_blank href=https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/>LMD-GHOST (Eth 2.0)</a>\n- <a target=_blank href=https://cardano.org/ouroboros/>Ouroboros</a>\n",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 124,
-      "pos": {
-        "x": 6278.3703190639135,
-        "y": 1603.9391978992944
-      },
-      "fill": "#144bf1ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 135,
-      "kind": "node",
-      "label": "succinct blockchain",
-      "notes": "",
-      "desc": "A blockchain that requires only constant-size computation to validate.\n\n ## Projects\n- <a target=_blank href=https://minaprotocol.com/>Mina Protocol</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 132,
-      "pos": {
-        "x": -13472.733333587646,
-        "y": 1144.5
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 952,
-      "kind": "node",
-      "label": "rollups",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 132,
-      "pos": {
-        "x": -13902.59908517205,
-        "y": 1158.0659117709056
-      },
-      "nodelabelfontsize": 35,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 142,
-      "kind": "node",
-      "label": "decentralised voting",
-      "notes": "",
-      "desc": "A voting protocol that preserves the correctness and secrecy of votes without a central coordinating body.\n\n ## Projects\n- <a target=_blank href=https://vocdoni.app/>Vocdoni</a>\n- <a target=_blank href=https://snapshot.org/>Snapshot</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 141,
-      "pos": {
-        "x": 6993.030498742572,
-        "y": 1624.1579079577277
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 143,
-      "kind": "node",
-      "label": "anti-collusion",
-      "notes": "",
-      "desc": "A protocol that prevents malicious users from buying votes.\n\n## Projects\n- <a target=_blank href=https://github.com/privacy-scaling-explorations/maci>Minimal Anti-Collusion Infrastructure (MACI)</a>\n- <a target=_blank href=https://clr.fund/#/>Clr.fund</a>\n",
-      "link": "",
-      "tags": [
-        "risk"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 141,
-      "pos": {
-        "x": 7002.518855680602,
-        "y": 1548.0804443359375
-      },
-      "fill": "#cb5656ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 149,
-      "kind": "node",
-      "label": "inter-blockchain bridges",
-      "notes": "",
-      "desc": "Protocols to transfer data across blockchains with minimal trust assumptions and maximal security. These protocols aim to achieve cross-chain composability.\n\n ## Projects\n- <a target=_blank href=https://app.nomad.xyz/>Nomad</a>\n- <a target=_blank href=https://layerzero.network/>LayerZero</a>\n- <a target=_blank href=https://wormholenetwork.com/>Wormhole</a>\n\n ## Resources\n- <a target=_blank href=https://zeeprime.capital/the-bridges-are-dead-long-live-the-bridges/>The Bridges Are Dead, Long Live The Bridges! (2022)</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 146,
-      "pos": {
-        "x": -14184.900001525879,
-        "y": 429.00603601295006
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 150,
-      "kind": "node",
-      "label": "cross-chain decentralised exchanges",
-      "notes": "",
-      "desc": "A decentralised exchange that can trade assets originating from different chains.",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 146,
-      "pos": {
-        "x": -13919.699996948242,
-        "y": 504.00603601295006
-      },
-      "fill": "#eccd2aff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 151,
-      "kind": "node",
-      "label": "cross-chain lending",
-      "notes": "",
-      "desc": "Lending protocols that can use collateral sitting on chain A to borrow on chain B, instead of wrapping the collateral and forcing it across chains",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 146,
-      "pos": {
-        "x": -13898.79999923706,
-        "y": 354.00603601295006
-      },
-      "fill": "#eccd2aff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 148,
-      "kind": "node",
-      "label": "communication protocols",
-      "notes": "",
-      "desc": "Standards and protocols for communication, networking, and transfer between systems.\n\n ## Projects\n- <a target=_blank href=https://ibcprotocol.org/>Inter-Blockchain Communication (IBC)</a>\n- <a target=_blank href=https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview>Hypertext Transfer Protocol (HTTP)</a>\n- <a target=_blank href=https://wiki.polkadot.network/docs/learn-crosschain>Cross-Consensus Message Format (XCM)</a>\n",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 146,
-      "pos": {
-        "x": -14479.716667175293,
-        "y": 504.00603601295006
-      },
-      "fill": "#144bf1ff",
-      "backgroundImageURL": null
-    },
-    {
-      "id": 147,
-      "kind": "node",
-      "label": "common data formats",
-      "notes": "",
-      "desc": "An open file format is a file format for storing digital data, defined by a openly published specification usually maintained by a standards organization, and which can be used and implemented by anyone. Open file format is licensed with open license.\n\n ## Projects\n- <a target=_blank href=https://www.unidata.ucar.edu/software/netcdf/>Network Common Data Form (netCDF)</a>\n\n ## Resources\n- <a target=_blank href=https://en.wikipedia.org/wiki/Open_file_format>Open file format (Wikipedia)</a>\n- <a target=_blank href=http://opendatahandbook.org/guide/en/appendices/file-formats/>Open Data Handbook</a>\n- <a target=_blank href=https://ipld.io/>InterPlanetary Linked Data (IPLD)</a>\n- <a target=_blank href=https://www.wolfram.com/cdf/>Computable Document Format (Wolfram)</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 146,
-      "pos": {
-        "x": -14489.599998474121,
-        "y": 354.00603601295006
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 160,
-      "kind": "node",
-      "label": "incrementally verifiable computation (IVC)",
-      "notes": "",
-      "desc": "An efficient verifiable computation that can be verified at any intermediate point in the computation. The proof at each step is generated efficiently by updating the previous proof, without recomputing the entire proof from scratch. \n ## Resources\n- <a target=_blank href=https://link.springer.com/chapter/10.1007/978-3-540-78524-8_1>Incrementally Verifiable Computation or Proofs of Knowledge Imply Time/Space Efficiency</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": -2419.866668701172,
-        "y": -1943.2573419342007
-      },
-      "fill": "#eccd2aff",
-      "nodelabelfontsize": 45,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 158,
-      "kind": "node",
-      "label": "zero-knowledge virtual machines",
-      "notes": "",
-      "desc": "The encoding of a virtual machine (state transition function) in a zero-knowledge circuit. This enables any general-purpose program which can be compiled down to a reduced instruction set, to be verifiably computed in a zero-knowledge proof.\n\n ## Projects\n- <a target=_blank href=https://www.risczero.com/>Risc Zero</a>\n- <a target=_blank href=https://polygon.technology/solutions/polygon-miden/>Polygon Miden (Miden VM)</a>\n- <a target=_blank href=https://starkware.co/tech-stack/>Starkware (Cairo VM)</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": -4107.316665649414,
-        "y": -985.2573419342007
-      },
-      "fill": "#eccd2aff",
-      "nodelabelfontsize": 45,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 159,
-      "kind": "node",
-      "label": "zero-knowledge set membership",
-      "notes": "",
-      "desc": "A scheme to prove inclusion in a set, without revealing which member of the set it is.\n\n ## Projects\n- <a target=_blank href=https://github.com/semaphore-protocol/semaphore/>Semaphore</a>\n",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": -4374.454349517822,
-        "y": -1375.5144220123257
-      },
-      "fill": "#144bf1ff",
-      "nodelabelfontsize": 45,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 962,
-      "kind": "node",
-      "label": "DSLs / IRs",
-      "notes": "domain-specific languages and intermediate representations",
-      "desc": "## Projects\n- [CirC](https://github.com/circify/circ)\n- [SnarkyJS](https://github.com/o1-labs/snarkyjs)\n- [Zokrates](https://zokrates.github.io/)\n- [circom](https://docs.circom.io/)",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": -5479.91667175293,
-        "y": -995.2573419342007
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 157,
-      "kind": "node",
-      "label": "recursive SNARKs",
-      "notes": "",
-      "desc": "A protocol in which each SNARK proof can verify a previous instance of a SNARK proof.\n\n ## Projects\n- <a target=_blank href=https://zcash.github.io/halo2/>Halo 2</a>\n- <a target=_blank href=https://github.com/mir-protocol/plonky2>plonky2</a>\n- <a target=_blank href=https://github.com/microsoft/Nova>Nova</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": -3537.6399993896484,
-        "y": -1934.1484552154507
-      },
-      "nodelabelfontsize": 45,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 941,
-      "kind": "node",
-      "label": "Trusted Execution Environment (TEE)",
-      "notes": "",
-      "desc": "A Trusted Execution Environment (TEE) is an environment for executing code, that provides isolation and attestation.\n\n**Isolation**: External entities cannot access the memory used by this process.\n\n**Attestation**: the ability to prove the correctness of the process being run, and the identity of the machine running it.\n\n## Projects\n- [Intel SGX](https://software.intel.com/en-us/sgx)",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": -5244.883361816406,
-        "y": -1700.2573419342007
-      },
-      "fill": "#144bf1ff",
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 168,
-      "kind": "node",
-      "label": "homomorphic encryption",
-      "notes": "",
-      "desc": "An encryption scheme that enables analytical functions to be run directly on encrypted data while yielding the same encrypted results as if the functions were run on plaintext.\n ## Projects \n- <a target=_blank href=https://www.zama.ai/>Zama</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": -3231.233329772949,
-        "y": -1510.2573419342007
-      },
-      "fill": "#eccd2aff",
-      "nodelabelfontsize": 45,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 944,
-      "kind": "node",
-      "label": "witness encryption",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": -5510.616668701172,
-        "y": -1250.2573419342007
-      },
-      "fill": "#eccd2aff",
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 971,
-      "kind": "node",
-      "label": "indistinguishability obfuscation",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": -5332.166656494141,
-        "y": -1400.2573419342007
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 982,
-      "kind": "node",
-      "label": "distributed proving",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": -2212.4833374023438,
-        "y": -1700.2573419342007
-      },
-      "nodelabelfontsize": 45,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 946,
-      "kind": "node",
-      "label": "SNARKs",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": -4466.015865059809,
-        "y": -1951.0979614257812
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 161,
-      "kind": "node",
-      "label": "proof-carrying data (PCD)",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 155,
-      "pos": {
-        "x": -2841.300006866455,
-        "y": -1690.2573419342007
-      },
-      "fill": "#eccd2aff",
-      "nodelabelfontsize": 45,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 950,
-      "kind": "node",
-      "label": "accumulation schemes",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 157,
-      "pos": {
-        "x": -3528.2466735839844,
-        "y": -1940.2573419342007
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 939,
-      "kind": "node",
-      "label": "garbled circuits",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 170,
-      "pos": {
-        "x": 7640.517957836022,
-        "y": -1980.3073120117188
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 180,
-      "kind": "node",
-      "label": "data analysis",
-      "notes": "",
-      "desc": "Process of inspecting, cleansing, transforming and modelling data with the goal of useful information, informing conclusions and supporting decision-making.\n\n ## History\n- C 18000 BCE - Humans using tally sticks for analyzing data\n- C 2400 BCE - Invention of abacus\n- 300 BC - 48 AD - Library of Alexandria\n- C 100 - 200 AD - Use of Antikythera mechanism\n- 1663 - First experiment in statistical data analysis\n- 1865 - Term 'business intelligence' is termed\n- 1880 - Hollerith Tabulating Machine\n- 1926 - Method for storing information magnetically on tape gets innovated\n- 1958 - New definition of business intelligence\n- 1965 - US plans worlds first data center\n- 1970 - First time used the term 'Big Data'\n- 1999 - First use of term 'IoT'\n\n ## Projects\n- <a target=_blank href=https://www.itechart.com/solutions/big-data>www.itechart.com/solutions/big data</a>\n- <a target=_blank href=https://dhiva.ai/>dhiva.ai/</a>\n- <a target=_blank href=https://databricks.com/>Databricks - The Data and AI Company</a>\n- <a target=_blank href=https://craft.co/>Just a moment...</a>\n- <a target=_blank href=https://www.civisanalytics.com/>Empowered Data Solutions - Data Science | Civis Analytics</a>\n\n ## Labs\n- <a target=_blank href=https://ed.buffalo.edu/dal>Quantitative and Qualitative Data Analysis Lab - Graduate School of Education - University at Buffalo</a>\n- <a target=_blank href=http://www.da.inf.ethz.ch/>Data Analytics Lab</a>\n- <a target=_blank href=https://www.fhsu.edu/psych/data-analysis-lab>     Data Analysis Lab -  Fort Hays State University</a>\n- <a target=_blank href=https://chemlab.truman.edu/data-analysis/>Data Analysis  |  Chem Lab</a>\n- <a target=_blank href=https://sites.usc.edu/dslab/>DATA SCIENCE LAB – Led by Dr. Viktor K. Prasanna</a>\n\n ## People\n- <a target=_blank href=https://www.dkriesel.com/)>David Kriesel</a>\n- <a target=_blank href=https://en.wikipedia.org/wiki/Christopher_Wylie>Christoper Wylie - Author of [Mindf*ck: Cambridge Analytica and the Plot to Break America</a>\n- <a target=_blank href=http://www.abbottanalytics.com/data-mining-consulting-services-about.php>About Abbott Analytics - Abbott Analytics: Data Mining Services in San Diego</a>\n- <a target=_blank href=https://www.linkedin.com/in/mjaberry/>Michael Berry</a>\n- <a target=_blank href=https://www.tomdavenport.com/>Home - Tom Davenport</a>\n\n## How to get involved\n- <a target=_blank href=https://www.youtube.com/watch?v=-YpwsdRKt8Q>Try to find a project like him and collect data over periods of time which you will analyze</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 181,
-      "pos": {
-        "x": -14562.137267825641,
-        "y": 1107.79062147882
-      },
-      "nodelabelfontsize": 35,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 177,
-      "kind": "node",
-      "label": "data curation",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 181,
-      "pos": {
-        "x": -14569.650001525879,
-        "y": 1231
-      },
-      "nodelabelfontsize": 35,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 930,
-      "kind": "node",
-      "label": "federated learning",
-      "notes": "",
-      "desc": "A distributed machine learning technique that trains\ndata on local devices, then the local devices upload the local\nmodel updates, i. e., weights and gradients of the local models,\nto a central server and runs a predefined aggregation algorithm\nto obtain a global model\n\n## History\n- 2016 - Google introduces a novel distributed\nmachine learning framework termed \"federated learning\" [[\"Communication-Efficient Learning of Deep Networks from Decentralized Data\"]](https://arxiv.org/abs/1602.05629)\n\n## Resources\n- [Blockchain-based Federated Learning: A Comprehensive Survey (2021)](https://arxiv.org/abs/2110.02182)\n\n## Ways to get involved\n- [PETS Prize Challenges](https://petsprizechallenges.com/)",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 184,
-      "pos": {
-        "x": 7538.063827514648,
-        "y": 5535.7490234375
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 964,
-      "kind": "node",
-      "label": "distributed machine learning",
-      "notes": "",
-      "desc": "Multi-node machine learning algorithms and systems\nthat are designed to improve performance, increase accuracy, and scale to larger input data\nsizes.",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 184,
-      "pos": {
-        "x": 7452.5955004012485,
-        "y": 5347.178243531053
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 935,
-      "kind": "node",
-      "label": "zero-knowledge machine learning",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 185,
-      "pos": {
-        "x": 14009.145244604199,
-        "y": 347.1989203936646
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 932,
-      "kind": "node",
-      "label": "differential privacy",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 185,
-      "pos": {
-        "x": 13626.755458837597,
-        "y": 315.5627204424927
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 933,
-      "kind": "node",
-      "label": "encrypting data",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 185,
-      "pos": {
-        "x": 14050.21845627412,
-        "y": 243.75000681944584
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 978,
-      "kind": "node",
-      "label": "zk-MPC",
-      "notes": "zero-knowledge multi-party computation",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 186,
-      "pos": {
-        "x": 7321.768888622155,
-        "y": -2124.394287109375
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 953,
-      "kind": "node",
-      "label": "flow encryption",
-      "notes": "",
-      "desc": "## Projects\n- [Penumbra](https://protocol.penumbra.zone/main/crypto/flow/ideal.html)",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 186,
-      "pos": {
-        "x": 7608.97128120028,
-        "y": -1882.3765563964844
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 170,
-      "kind": "node",
-      "label": "multi-party computation",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 186,
-      "pos": {
-        "x": 7638.0678648591165,
-        "y": -1990.7734271301397
-      },
-      "backgroundImageURL": null
-    },
-    {
-      "id": 967,
-      "kind": "node",
-      "label": "private retrieval",
-      "notes": "",
-      "desc": "## Resources\n\n\n-   [Express: Lowering the Cost of Metadata-hiding Communication with Cryptographic Privacy - Usenix Security 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/eskandarian) \n-   [Karaoke: Distributed Private Messaging Immune to Passive Traffic Analysis - OSDI 2018](https://www.usenix.org/conference/osdi18/presentation/lazar)\n-   [PIR-Tor: Scalable Anonymous Communication Using Private Information Retrieval](https://www.usenix.org/conference/usenix-security-11/pir-tor-scalable-anonymous-communication-using-private-information)\n-   [Oblivious DNS: Practical Privacy for DNS Queries](https://petsymposium.org/2019/files/papers/issue2/popets-2019-0028.pdf)\n-   [CryptDB: processing queries on an encrypted database](https://dl.acm.org/doi/abs/10.1145/2330667.2330691)",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 186,
-      "pos": {
-        "x": 7315.185880809655,
-        "y": -1906.6790161132812
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 956,
-      "kind": "node",
-      "label": "private DeFi",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 186,
-      "pos": {
-        "x": 7598.701383739342,
-        "y": -1823.6157836914062
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 959,
-      "kind": "node",
-      "label": "private currency",
-      "notes": "",
-      "desc": "## Projects\n- [Zcash](https://z.cash/)\n- [Monero](https://www.getmonero.org/)\n- [Espresso]()",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 186,
-      "pos": {
-        "x": 7626.842252879967,
-        "y": -2145.0776977539062
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 181,
-      "kind": "node",
-      "label": "data mining",
-      "notes": "",
-      "desc": "Extracting and discovering patterns in large data sets.\n\n## History\n- 1960s - Economists used terms like data fishing or data dredging to refer what they considered bad practice of analyzing data without an a-priori hypothesis.\n- 1990 - Term data mining appeared in database community generally with positive connotations.\n- 1996 - Usama Fayyad launched journal by Kluwer called Data Mining and Knowledge Discovery\n\n ## Projects\n- <a target=_blank href=https://www.wckdrzr.com/>WCKD RZR - Unlocking the potential of the world’s data</a>\n- <a target=_blank href=https://www.dayta.ai/>The New Era of Shopper Analytics | Dayta AI</a>\n- <a target=_blank href=https://cannerdata.com/>Canner - Data Access Workflow Simplified.</a>\n- <a target=_blank href=https://emergeiq.co/>EMERGEiQ – Data Science as a Service</a>\n- <a target=_blank href=https://www.hoodieanalytics.com/)>Real-time Cannabis Pricing & Sales Analytics & Intelligence - Hoodie Analytics</a>\n\n ## Labs\n- <a target=_blank href=https://sciences.ucf.edu/statistics/dms/data-mining-lab/)>Data Mining Lab – DATA SCIENCE PROGRAM</a>\n- <a target=_blank href=https://www.cs.utexas.edu/users/dml/)>www.cs.utexas.edu/users/dml/</a>\n- <a target=_blank href=http://dml.cs.byu.edu/)>BYU Data Mining Lab</a>\n- <a target=_blank href=http://web.cse.ohio-state.edu/dmrl/)>Data Mining Research at The Ohio State University</a>\n- <a target=_blank href=http://dml.cs.byu.edu/)>BYU Data Mining Lab</a>\n\n ## People\n- <a target=_blank href=https://www.dbs.ifi.lmu.de/cms/personen/professoren/kriegel/index.html)>Hans-Peter Kriegel - Lehr- und Forschungseinheit für Datenbanksysteme - LMU Munich</a>\n- <a target=_blank href=https://www.cs.cmu.edu/~christos/)>Christos Faloutsos</a>\n- <a target=_blank href=https://hanj.cs.illinois.edu/)>Jiawei Han</a>\n- <a target=_blank href=http://www.cs.cornell.edu/johannes/)>Johannes Gehrke's Homepage</a>\n- <a target=_blank href=http://infolab.stanford.edu/people/hector.html)>Hector Garcia-Molina</a>\n\n## How to get involved\n- <a target=_blank href=https://www.meetup.com/de-DE/topics/data-mining/>Data Mining Gruppen in Deutschland | Meetup</a>\n- <a target=_blank href=https://favtutor.com/blogs/data-mining-projects>13 Interesting Data Mining Projects in 2022 (for Students) | FavTutor</a>\n\n ## Resources\n- <a target=_blank href=https://dataminingbook.info/>Main Page | Data Mining and Machine Learning</a>\n- <a target=_blank href=https://www.edx.org/course/learning-from-data-introductory-machine-learning>Learning From Data (Introductory Machine Learning) | edX</a>\n- <a target=_blank href=https://www.kdnuggets.com/faq/learning-data-mining-data-science.html)>Where to start with Data Mining and Data Science - KDnuggets</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 187,
-      "pos": {
-        "x": -14563.506069062967,
-        "y": 1116.5892324304086
-      },
-      "nodelabelfontsize": 45,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 183,
-      "kind": "node",
-      "label": "decentralised data storage",
-      "notes": "",
-      "desc": "Data is encrypted and stored across multiple locations, or nodes, that are run by individuals or organizations that share their extra disk space for a fee. Only the data's owner holds the private encryption key; storage providers cannot access the data. In many cases, the files are also sharded and spread across multiple locations, providing yet another layer of storage security.\n\n ## Projects\n- <a target=_blank href=https://filecoin.io>Filecoin</a>\n- <a target=_blank href=https://arweave.org>Arweave</a>\n- <a target=_blank href=https://maidsafe.net>MaidSafe</a>\n- <a target=_blank href=https://sia.tech>Sia</a>\n\n ## Resources\n- <a target=_blank href=https://www.techtarget.com/searchstorage/tip/Comparing-4-decentralized-data-storage-offerings>7 dece##Ped data\nrage networks compared (2022) - Brien Posey</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 187,
-      "pos": {
-        "x": -12998.783332824707,
-        "y": 373.3407762848674
-      },
-      "fill": "#eccd2aff",
-      "nodelabelfontsize": 45,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 146,
-      "kind": "node",
-      "label": "interoperability",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 187,
-      "pos": {
-        "x": -14146.710797430404,
-        "y": 389.25301800647503
-      },
-      "fill": "#144bf1ff",
-      "nodelabelfontsize": 45,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 132,
-      "kind": "node",
-      "label": "scalable data storage",
-      "notes": "",
-      "desc": "Mechanisms to increase throughput on resource-constrained execution environments.",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 187,
-      "pos": {
-        "x": -13728.44832188526,
-        "y": 1115.2984778659284
-      },
-      "fill": "#eccd2aff",
-      "nodelabelfontsize": 45,
-      "backgroundImageURL": null
-    },
-    {
       "id": 753,
       "kind": "node",
       "label": "supervised learning",
@@ -3030,10 +1507,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -3876.4833374023438,
-        "y": 2604.5
+        "x": -4926.483337402344,
+        "y": 3879.5
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -3052,10 +1529,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -4440.383331298828,
-        "y": 4629.5
+        "x": -5715.383331298828,
+        "y": 6204.5
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -3072,10 +1549,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -3009.933334350586,
-        "y": 4629.5
+        "x": -3609.933334350586,
+        "y": 6204.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3091,10 +1568,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -3036.9166564941406,
-        "y": 804.5
+        "x": -3261.9166564941406,
+        "y": 3504.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3110,10 +1587,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -3154.8333435058594,
-        "y": 1179.5
+        "x": -3679.8333435058594,
+        "y": 3954.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3129,10 +1606,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -3039.380401611328,
-        "y": 1568.4746017456055
+        "x": -2821.5,
+        "y": 4404.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3148,10 +1625,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -798.0970764160156,
-        "y": 1362.9858322143555
+        "x": -374.04998779296875,
+        "y": 3954.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3167,10 +1644,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -2548.1000061035156,
-        "y": 5829.5
+        "x": -3523.1000061035156,
+        "y": 7764.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3186,10 +1663,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -2505.050003051758,
-        "y": 5604.5
+        "x": -3535.75,
+        "y": 7149.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3205,10 +1682,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -774.0999984741211,
-        "y": 5829.5
+        "x": -1826.0333404541016,
+        "y": 7764.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3226,10 +1703,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -3830.75,
-        "y": 6354.5
+        "x": -4880.75,
+        "y": 8154.5
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -3246,10 +1723,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -2835.032783508301,
-        "y": 1911.266227722168
+        "x": -3201.366668701172,
+        "y": 4779.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3265,12 +1742,12 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": 528.9666748046875,
-        "y": 4629.5
+        "x": 5478.9666748046875,
+        "y": 6204.5
       },
-      "nodelabelfontsize": 75,
+      "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -3284,10 +1761,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -4876.666664123535,
-        "y": 5754.5
+        "x": -5851.666664123535,
+        "y": 7854.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3303,10 +1780,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -4851.866668701172,
-        "y": 6879.5
+        "x": -5826.866668701172,
+        "y": 8979.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3322,10 +1799,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -5770.714210510254,
-        "y": 5931.349479675293
+        "x": -7870.91667175293,
+        "y": 7404.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3341,10 +1818,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -5753.616653442383,
-        "y": 5561.998893737793
+        "x": -7925.399993896484,
+        "y": 8079.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3360,10 +1837,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -7165.616653442383,
-        "y": 6067.498893737793
+        "x": -9808.41667175293,
+        "y": 7629.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3379,10 +1856,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -7161.165222167969,
-        "y": 5834.864128112793
+        "x": -9799.649993896484,
+        "y": 7179.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3398,10 +1875,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -6807.957054138184,
-        "y": 5683.464225769043
+        "x": -9860.933334350586,
+        "y": 7929.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3417,10 +1894,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -6839.058322906494,
-        "y": 5461.998893737793
+        "x": -9833.48332977295,
+        "y": 8229.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3436,10 +1913,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -5587.833335876465,
-        "y": 7104.5
+        "x": -7912.833335876465,
+        "y": 8604.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3455,10 +1932,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -5596.883331298828,
-        "y": 6729.5
+        "x": -7921.883331298828,
+        "y": 9354.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3474,10 +1951,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -7249.250770568848,
-        "y": 6547.380485534668
+        "x": -9230.283340454102,
+        "y": 9579.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3493,10 +1970,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -7255.933319091797,
-        "y": 6879.5
+        "x": -9280.933319091797,
+        "y": 9204.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3512,10 +1989,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -6662.416656494141,
-        "y": 7254.5
+        "x": -9437.41665649414,
+        "y": 8904.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3531,10 +2008,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -6648.783332824707,
-        "y": 7029.5
+        "x": -9423.783332824707,
+        "y": 8529.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3550,10 +2027,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -5430.3365478515625,
-        "y": 4975.1220703125
+        "x": -6461.036544799805,
+        "y": 6520.1220703125
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3569,10 +2046,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -5440.75,
-        "y": 4254.5
+        "x": -6471.449996948242,
+        "y": 5799.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3590,10 +2067,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -6824.166656494141,
-        "y": 5079.5
+        "x": -8549.16665649414,
+        "y": 6729.5
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
@@ -3612,10 +2089,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -6867.433349609375,
-        "y": 4854.5
+        "x": -8517.433349609375,
+        "y": 6429.5
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
@@ -3632,10 +2109,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -7255.808319091797,
-        "y": 4261.998893737793
+        "x": -8905.066680908203,
+        "y": 5904.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3651,10 +2128,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -7160.991653442383,
-        "y": 4161.998893737793
+        "x": -8916.16665649414,
+        "y": 5679.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3670,10 +2147,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -7139.5,
-        "y": 3954.5
+        "x": -8170.199996948242,
+        "y": 5499.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3689,10 +2166,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -7174.791656494141,
-        "y": 4461.998893737793
+        "x": -8206.41665649414,
+        "y": 6129.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3708,10 +2185,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -4891.27498626709,
-        "y": 3161.998893737793
+        "x": -5921.974983215332,
+        "y": 4706.998893737793
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3727,10 +2204,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -4915.766654968262,
-        "y": 2161.998893737793
+        "x": -5958.566665649414,
+        "y": 3504.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3746,10 +2223,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -5748.175411224365,
-        "y": 2587.9433517456055
+        "x": -6897.416664123535,
+        "y": 2754.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3765,10 +2242,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -5770.791656494141,
-        "y": 2061.998893737793
+        "x": -6869.33332824707,
+        "y": 3729.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3786,10 +2263,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -6680.558319091797,
-        "y": 2061.998893737793
+        "x": -8625.966674804688,
+        "y": 3729.5
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
@@ -3808,10 +2285,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -6605.247283935547,
-        "y": 2202.5976486206055
+        "x": -8607.733337402344,
+        "y": 3954.5
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
@@ -3830,10 +2307,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -6605.991653442383,
-        "y": 1861.998893737793
+        "x": -8626.866668701172,
+        "y": 3504.5
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
@@ -3852,10 +2329,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -7212.08113861084,
-        "y": 2722.473747253418
+        "x": -8633.683334350586,
+        "y": 3054.5
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
@@ -3872,10 +2349,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -5660.591651916504,
-        "y": 3061.998893737793
+        "x": -6997.466659545898,
+        "y": 4329.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3891,10 +2368,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -5631.799987792969,
-        "y": 3461.998893737793
+        "x": -7717.883331298828,
+        "y": 4929.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3912,10 +2389,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -6974.274993896484,
-        "y": 3461.998893737793
+        "x": -10980.366668701172,
+        "y": 4929.5
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
@@ -3934,10 +2411,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -6482.299987792969,
-        "y": 3561.998893737793
+        "x": -9636.850006103516,
+        "y": 5229.5
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
@@ -3956,10 +2433,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -7191.349990844727,
-        "y": 3561.998893737793
+        "x": -10706.233337402344,
+        "y": 5229.5
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
@@ -3978,10 +2455,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -7317.716659545898,
-        "y": 2561.998893737793
+        "x": -8673.41665649414,
+        "y": 2529.5
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
@@ -4000,10 +2477,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -7190.4999923706055,
-        "y": 2461.998893737793
+        "x": -8604.433334350586,
+        "y": 2754.5
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
@@ -4022,10 +2499,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -6479.574981689453,
-        "y": 3261.998893737793
+        "x": -9641.783325195312,
+        "y": 4779.5
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
@@ -4044,10 +2521,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -6611.786155700684,
-        "y": 3009.7070846557617
+        "x": -10068.283340454102,
+        "y": 4254.5
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
@@ -4066,10 +2543,10 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -6629.811935424805,
-        "y": 3120.6787338256836
+        "x": -10043.299987792969,
+        "y": 4479.5
       },
       "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
@@ -4086,10 +2563,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -2454.0758514404297,
-        "y": 5998.754753112793
+        "x": -3528.7999877929688,
+        "y": 8214.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4105,13 +2582,1756 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 914,
+      "parent": null,
       "pos": {
-        "x": -4232.75,
-        "y": 1554.5
+        "x": -3782.75,
+        "y": 4404.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 181,
+      "kind": "node",
+      "label": "data mining",
+      "notes": "",
+      "desc": "Extracting and discovering patterns in large data sets.\n\n## History\n- 1960s - Economists used terms like data fishing or data dredging to refer what they considered bad practice of analyzing data without an a-priori hypothesis.\n- 1990 - Term data mining appeared in database community generally with positive connotations.\n- 1996 - Usama Fayyad launched journal by Kluwer called Data Mining and Knowledge Discovery\n\n ## Projects\n- <a target=_blank href=https://www.wckdrzr.com/>WCKD RZR - Unlocking the potential of the world’s data</a>\n- <a target=_blank href=https://www.dayta.ai/>The New Era of Shopper Analytics | Dayta AI</a>\n- <a target=_blank href=https://cannerdata.com/>Canner - Data Access Workflow Simplified.</a>\n- <a target=_blank href=https://emergeiq.co/>EMERGEiQ – Data Science as a Service</a>\n- <a target=_blank href=https://www.hoodieanalytics.com/)>Real-time Cannabis Pricing & Sales Analytics & Intelligence - Hoodie Analytics</a>\n\n ## Labs\n- <a target=_blank href=https://sciences.ucf.edu/statistics/dms/data-mining-lab/)>Data Mining Lab – DATA SCIENCE PROGRAM</a>\n- <a target=_blank href=https://www.cs.utexas.edu/users/dml/)>www.cs.utexas.edu/users/dml/</a>\n- <a target=_blank href=http://dml.cs.byu.edu/)>BYU Data Mining Lab</a>\n- <a target=_blank href=http://web.cse.ohio-state.edu/dmrl/)>Data Mining Research at The Ohio State University</a>\n- <a target=_blank href=http://dml.cs.byu.edu/)>BYU Data Mining Lab</a>\n\n ## People\n- <a target=_blank href=https://www.dbs.ifi.lmu.de/cms/personen/professoren/kriegel/index.html)>Hans-Peter Kriegel - Lehr- und Forschungseinheit für Datenbanksysteme - LMU Munich</a>\n- <a target=_blank href=https://www.cs.cmu.edu/~christos/)>Christos Faloutsos</a>\n- <a target=_blank href=https://hanj.cs.illinois.edu/)>Jiawei Han</a>\n- <a target=_blank href=http://www.cs.cornell.edu/johannes/)>Johannes Gehrke's Homepage</a>\n- <a target=_blank href=http://infolab.stanford.edu/people/hector.html)>Hector Garcia-Molina</a>\n\n## How to get involved\n- <a target=_blank href=https://www.meetup.com/de-DE/topics/data-mining/>Data Mining Gruppen in Deutschland | Meetup</a>\n- <a target=_blank href=https://favtutor.com/blogs/data-mining-projects>13 Interesting Data Mining Projects in 2022 (for Students) | FavTutor</a>\n\n ## Resources\n- <a target=_blank href=https://dataminingbook.info/>Main Page | Data Mining and Machine Learning</a>\n- <a target=_blank href=https://www.edx.org/course/learning-from-data-introductory-machine-learning>Learning From Data (Introductory Machine Learning) | edX</a>\n- <a target=_blank href=https://www.kdnuggets.com/faq/learning-data-mining-data-science.html)>Where to start with Data Mining and Data Science - KDnuggets</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -5632.466659545898,
+        "y": 2880.9107675695914
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 935,
+      "kind": "node",
+      "label": "zero-knowledge machine learning",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 1876.4166564941406,
+        "y": 5679.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 932,
+      "kind": "node",
+      "label": "differential privacy",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 2339.4039306640625,
+        "y": 8490.562720442493
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 933,
+      "kind": "node",
+      "label": "arbitrary computation on encrypted data",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 1150.4166870117188,
+        "y": 5004.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1130,
+      "kind": "node",
+      "label": "private artificial intelligence",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 7776.7332763671875,
+        "y": 9277.5
+      },
+      "nodelabelfontsize": 200,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 930,
+      "kind": "node",
+      "label": "federated learning",
+      "notes": "",
+      "desc": "A distributed machine learning technique that trains\ndata on local devices, then the local devices upload the local\nmodel updates, i. e., weights and gradients of the local models,\nto a central server and runs a predefined aggregation algorithm\nto obtain a global model\n\n## History\n- 2016 - Google introduces a novel distributed\nmachine learning framework termed \"federated learning\" [[\"Communication-Efficient Learning of Deep Networks from Decentralized Data\"]](https://arxiv.org/abs/1602.05629)\n\n## Resources\n- [Blockchain-based Federated Learning: A Comprehensive Survey (2021)](https://arxiv.org/abs/2110.02182)\n\n## Ways to get involved\n- [PETS Prize Challenges](https://petsprizechallenges.com/)",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 5403.683319091797,
+        "y": 6654.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 964,
+      "kind": "node",
+      "label": "distributed machine learning",
+      "notes": "",
+      "desc": "Multi-node machine learning algorithms and systems\nthat are designed to improve performance, increase accuracy, and scale to larger input data\nsizes.",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -203.45001220703125,
+        "y": 6668.974630249803
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1131,
+      "kind": "node",
+      "label": "decentralised artificial intelligence",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 907.7166748046875,
+        "y": 9577.5
+      },
+      "nodelabelfontsize": 200,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 90,
+      "kind": "node",
+      "label": "public goods funding",
+      "notes": "",
+      "desc": "Mechanisms to raise funds for public goods (e.g. open-source client code, protocol research, documentation, community-building)",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 11680.406868951097,
+        "y": 8711.285545224211
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 51,
+      "kind": "node",
+      "label": "decentralised finance (DeFi)",
+      "notes": "",
+      "desc": "Financial products and services that do not rely on a central authority or middleman.",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 11639.345460309774,
+        "y": 3705.6307445082102
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 45,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 85,
+      "kind": "node",
+      "label": "decentralised society (DeSoc)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 16732.317534090253,
+        "y": 4687.788655045078
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 141,
+      "kind": "node",
+      "label": "decentralised governance",
+      "notes": "",
+      "desc": "Protocols for collective decision-making by stakeholders and participants in a community.",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 11597.766662597656,
+        "y": 5902.288033959563
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 66,
+      "kind": "node",
+      "label": "decentralised science (DeSci)",
+      "notes": "",
+      "desc": "The use of decentralised technologies such as smart contracts, tokens, decentralised storage and computation to enable new possibilities to make science more accessible, auditable, transparent, independent, and fair.\n\n ## Projects\n- <a target=_blank href=https://mirror.xyz/descifoundation.eth>DeSci Foundation</a>\n- <a target=_blank href=https://desci.com/>DeSci Labs</a>\n\n ## Resources\n- <a target=_blank href=https://hackernoon.com/desci-the-new-web-3-movement-to-revolutionize-scientific-research-and-funding>DeSci - the New Web 3 Movement to Revolutionize Scientific Research & Funding (2022) - Serge Baloyan</a>\n- <a target=_blank href=https://www.cryptoaltruism.org/blog/ten-more-desci-projects>Ten more DeSci projects disrupting scientific research, development, and knowledge sharing.</a>\n- <a target=_blank href=https://cointelegraph.com/magazine/2022/04/15/desci-tokens-help-improve-scientific-research>DeSci: Can crypto improve scientific research? (2022) - Max Parasol</a>\n- <a target=_blank href=https://future.com/what-is-decentralized-science-aka-desci/>A Guide to DeSci, the Latest Web3 Movement - Sarah Hamburg</a>\n",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 16338.333771996795,
+        "y": 7670.704692153164
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 115,
+      "kind": "node",
+      "label": "decentralised autonomous organisations (DAO)",
+      "notes": "",
+      "desc": "Virtual communities that come together around a common purpose, coordinated by voting through smart contracts on a public blockchain. These communities feature collective ownership and decision-making.\n\n ## Resources\n- <a target=_blank href=A Prehistory of DAOs>A Prehistory of DAOs (2021) - Kei Kreutler</a>\n- <a target=_blank href=https://www.fwb.help/wip/what-co-ops-and-daos-can-learn-from-each-other>What Co-ops and DAOs Can Learn From Each Other (2022) - Austin Robey</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 11891.366668701172,
+        "y": 7663.306627130345
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1132,
+      "kind": "node",
+      "label": "censorship-resistant computation",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 9444.25,
+        "y": 4702.5
+      },
+      "nodelabelfontsize": 200,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 160,
+      "kind": "node",
+      "label": "incrementally verifiable computation (IVC)",
+      "notes": "",
+      "desc": "An efficient verifiable computation that can be verified at any intermediate point in the computation. The proof at each step is generated efficiently by updating the previous proof, without recomputing the entire proof from scratch. \n ## Resources\n- <a target=_blank href=https://link.springer.com/chapter/10.1007/978-3-540-78524-8_1>Incrementally Verifiable Computation or Proofs of Knowledge Imply Time/Space Efficiency</a>\n",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -3869.866668701172,
+        "y": 1236.5
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 158,
+      "kind": "node",
+      "label": "zero-knowledge virtual machines",
+      "notes": "",
+      "desc": "The encoding of a virtual machine (state transition function) in a zero-knowledge circuit. This enables any general-purpose program which can be compiled down to a reduced instruction set, to be verifiably computed in a zero-knowledge proof.\n\n ## Projects\n- <a target=_blank href=https://www.risczero.com/>Risc Zero</a>\n- <a target=_blank href=https://polygon.technology/solutions/polygon-miden/>Polygon Miden (Miden VM)</a>\n- <a target=_blank href=https://starkware.co/tech-stack/>Starkware (Cairo VM)</a>\n",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -532.5666809082031,
+        "y": -545.5
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 159,
+      "kind": "node",
+      "label": "zero-knowledge set membership",
+      "notes": "",
+      "desc": "A scheme to prove inclusion in a set, without revealing which member of the set it is.\n\n ## Projects\n- <a target=_blank href=https://github.com/semaphore-protocol/semaphore/>Semaphore</a>\n",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -2862.5333251953125,
+        "y": 504.5
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": 45,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 157,
+      "kind": "node",
+      "label": "recursive SNARKs",
+      "notes": "",
+      "desc": "A protocol in which each SNARK proof can verify a previous instance of a SNARK proof.\n\n ## Projects\n- <a target=_blank href=https://zcash.github.io/halo2/>Halo 2</a>\n- <a target=_blank href=https://github.com/mir-protocol/plonky2>plonky2</a>\n- <a target=_blank href=https://github.com/microsoft/Nova>Nova</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -5037.639999389648,
+        "y": 1215.8515447845493
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 168,
+      "kind": "node",
+      "label": "fully homomorphic encryption",
+      "notes": "",
+      "desc": "An encryption scheme that enables analytical functions to be run directly on encrypted data while yielding the same encrypted results as if the functions were run on plaintext.\n ## Projects \n- <a target=_blank href=https://www.zama.ai/>Zama</a>\n",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 1074.6166687011719,
+        "y": 1179.5
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 944,
+      "kind": "node",
+      "label": "witness encryption",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -510.6166687011719,
+        "y": -1070.5
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 971,
+      "kind": "node",
+      "label": "indistinguishability obfuscation",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -557.1666564941406,
+        "y": -1445.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 982,
+      "kind": "node",
+      "label": "distributed proving",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 6387.516662597656,
+        "y": -1370.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 946,
+      "kind": "node",
+      "label": "SNARKs",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -6962.683334350586,
+        "y": 879.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 161,
+      "kind": "node",
+      "label": "proof-carrying data (PCD)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -2363.366668701172,
+        "y": 1254.5
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1133,
+      "kind": "node",
+      "label": "general private computation",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 5474.7833251953125,
+        "y": -547.5
+      },
+      "nodelabelfontsize": 200,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 953,
+      "kind": "node",
+      "label": "flow encryption",
+      "notes": "",
+      "desc": "## Projects\n- [Penumbra](https://protocol.penumbra.zone/main/crypto/flow/ideal.html)",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 1763.3500061035156,
+        "y": 1629.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 967,
+      "kind": "node",
+      "label": "private retrieval",
+      "notes": "",
+      "desc": "## Resources\n\n\n-   [Express: Lowering the Cost of Metadata-hiding Communication with Cryptographic Privacy - Usenix Security 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/eskandarian) \n-   [Karaoke: Distributed Private Messaging Immune to Passive Traffic Analysis - OSDI 2018](https://www.usenix.org/conference/osdi18/presentation/lazar)\n-   [PIR-Tor: Scalable Anonymous Communication Using Private Information Retrieval](https://www.usenix.org/conference/usenix-security-11/pir-tor-scalable-anonymous-communication-using-private-information)\n-   [Oblivious DNS: Practical Privacy for DNS Queries](https://petsymposium.org/2019/files/papers/issue2/popets-2019-0028.pdf)\n-   [CryptDB: processing queries on an encrypted database](https://dl.acm.org/doi/abs/10.1145/2330667.2330691)",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 5624.0704005353255,
+        "y": 799.9486694335938
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 956,
+      "kind": "node",
+      "label": "private DeFi",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 11988,
+        "y": 1629.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 959,
+      "kind": "node",
+      "label": "private currency",
+      "notes": "",
+      "desc": "## Projects\n- [Zcash](https://z.cash/)\n- [Monero](https://www.getmonero.org/)\n- [Espresso]()",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 8609.383331298828,
+        "y": 780.5533433933924
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1134,
+      "kind": "node",
+      "label": "private decentralised computation",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 11859.516723632812,
+        "y": -547.5
+      },
+      "nodelabelfontsize": 200,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 947,
+      "kind": "node",
+      "label": "zk-SNARKs",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -5045.616668701172,
+        "y": 504.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1140,
+      "kind": "node",
+      "label": "additively homomorphic encryption",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -1398.8500061035156,
+        "y": 504.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1143,
+      "kind": "node",
+      "label": "threshold encryption",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -786.1166687011719,
+        "y": 1629.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 149,
+      "kind": "node",
+      "label": "inter-blockchain bridges",
+      "notes": "",
+      "desc": "Protocols to transfer data across blockchains with minimal trust assumptions and maximal security. These protocols aim to achieve cross-chain composability.\n\n ## Projects\n- <a target=_blank href=https://app.nomad.xyz/>Nomad</a>\n- <a target=_blank href=https://layerzero.network/>LayerZero</a>\n- <a target=_blank href=https://wormholenetwork.com/>Wormhole</a>\n\n ## Resources\n- <a target=_blank href=https://zeeprime.capital/the-bridges-are-dead-long-live-the-bridges/>The Bridges Are Dead, Long Live The Bridges! (2022)</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 6013.399993896484,
+        "y": 2304.5
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 150,
+      "kind": "node",
+      "label": "cross-chain decentralised exchanges",
+      "notes": "",
+      "desc": "A decentralised exchange that can trade assets originating from different chains.",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 15801.566650390625,
+        "y": 2304.5
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 148,
+      "kind": "node",
+      "label": "communication protocols",
+      "notes": "",
+      "desc": "Standards and protocols for communication, networking, and transfer between systems.\n\n ## Projects\n- <a target=_blank href=https://ibcprotocol.org/>Inter-Blockchain Communication (IBC)</a>\n- <a target=_blank href=https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview>Hypertext Transfer Protocol (HTTP)</a>\n- <a target=_blank href=https://wiki.polkadot.network/docs/learn-crosschain>Cross-Consensus Message Format (XCM)</a>\n",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 3862.4666748046875,
+        "y": 1929.5
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 147,
+      "kind": "node",
+      "label": "common data formats",
+      "notes": "",
+      "desc": "An open file format is a file format for storing digital data, defined by a openly published specification usually maintained by a standards organization, and which can be used and implemented by anyone. Open file format is licensed with open license.\n\n ## Projects\n- <a target=_blank href=https://www.unidata.ucar.edu/software/netcdf/>Network Common Data Form (netCDF)</a>\n\n ## Resources\n- <a target=_blank href=https://en.wikipedia.org/wiki/Open_file_format>Open file format (Wikipedia)</a>\n- <a target=_blank href=http://opendatahandbook.org/guide/en/appendices/file-formats/>Open Data Handbook</a>\n- <a target=_blank href=https://ipld.io/>InterPlanetary Linked Data (IPLD)</a>\n- <a target=_blank href=https://www.wolfram.com/cdf/>Computable Document Format (Wolfram)</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 3891.2000122070312,
+        "y": 2679.5
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 128,
+      "kind": "node",
+      "label": "private proof of stake",
+      "notes": "",
+      "desc": "A PoS protocol that preserves the privacy of stakers\n\n ## Projects\n- <a target=_blank href=https://eprint.iacr.org/2018/1132>Ouroboros Crypsinous</a>\n- <a target=_blank href=https://penumbra.zone/technology/stake>Penumbra</a>\n",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 3378.3999938964844,
+        "y": 4719
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 100,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 126,
+      "kind": "node",
+      "label": "proof of stake",
+      "notes": "",
+      "desc": "A consensus mechanism in which validators explicitly stake capital, which acts as collateral that can be destroyed in case of dishonest behaviour\n\n## Projects \n- <a target=_blank href=https://tendermint.com/>Tendermint</a>\n- <a target=_blank href=https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/>LMD-GHOST (Eth 2.0)</a>\n- <a target=_blank href=https://cardano.org/ouroboros/>Ouroboros</a>\n",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 4585.450012207031,
+        "y": 4719
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 100,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 135,
+      "kind": "node",
+      "label": "scalable blockchain",
+      "notes": "",
+      "desc": "A blockchain that requires only constant-size computation to validate.\n\n ## Projects\n- <a target=_blank href=https://minaprotocol.com/>Mina Protocol</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 6045.616668701172,
+        "y": 3144
+      },
+      "nodelabelfontsize": 100,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 952,
+      "kind": "node",
+      "label": "rollups",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 4456.448998901067,
+        "y": 3177.0416581735917
+      },
+      "nodelabelfontsize": 35,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1166,
+      "kind": "node",
+      "label": "data availability",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 6041.583343505859,
+        "y": 5244
+      },
+      "nodelabelfontsize": 100,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1168,
+      "kind": "node",
+      "label": "erasure coding",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 3852.2000122070312,
+        "y": 5244
+      },
+      "nodelabelfontsize": 100,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1170,
+      "kind": "node",
+      "label": "data availability sampling",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 4880.516662597656,
+        "y": 5244
+      },
+      "nodelabelfontsize": 100,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 60,
+      "kind": "node",
+      "label": "maximal extractable value (MEV)",
+      "notes": "",
+      "desc": "Maximal extractable value (MEV) refers to the maximum value that can be extracted from block production in excess of the standard block reward and gas fees by including, excluding, and changing the order of transactions in a block.\n\n## Projects\n- <a target=_blank href=https://docs.flashbots.net/>Flashbots</a>\n",
+      "link": "",
+      "tags": [
+        "risk"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 3976.4500122070312,
+        "y": 3819
+      },
+      "fill": "#cb5656ff",
+      "nodelabelfontsize": 100,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1175,
+      "kind": "node",
+      "label": "LWE (Learning with Errors)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 1025.0666809082031,
+        "y": 429.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 981,
+      "kind": "node",
+      "label": "collaborative zk-SNARKS",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -2824.2000122070312,
+        "y": -20.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1179,
+      "kind": "node",
+      "label": "multi-party computation (MPC)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -5059.383331298828,
+        "y": -245.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1181,
+      "kind": "node",
+      "label": "garbled circuits",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -6860.300003051758,
+        "y": -245.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 88,
+      "kind": "node",
+      "label": "Sybil resistance",
+      "notes": "",
+      "desc": "A Sybil attack is a type of attack on a computer network service in which an attacker subverts the service's reputation system by creating a large number of pseudonymous identities and uses them to gain a disproportionately large influence.\n\n## Projects\n- <a target=_blank href=https://www.proofofhumanity.id/>Proof of Humanity</a>\n",
+      "link": "",
+      "tags": [
+        "risk"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 6044.700012207031,
+        "y": 4719
+      },
+      "fill": "#cb5656ff",
+      "nodelabelfontsize": 100,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 52,
+      "kind": "node",
+      "label": "decentralised exchange (DEX)",
+      "notes": "",
+      "desc": "A peer-to-peer marketplace where users can trade cryptocurrencies in a non-custodial manner without the need for an intermediary to facilitate the transfer and custody of funds. \n\n ## Projects \n- <a target=_blank href=https://uniswap.org/>Uniswap Protocol</a>\n- <a target=_blank href=https://curve.fi/>Curve Finance</a>\n- <a target=_blank href=https://pancakeswap.finance/>PancakeSwap</a>\n- <a target=_blank href=https://balancer.fi/>Balancer</a>\n",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 51,
+      "pos": {
+        "x": 12173.766662597656,
+        "y": 3429.5
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 55,
+      "kind": "node",
+      "label": "undercollaterised lending markets",
+      "notes": "",
+      "desc": "Lending based on some measure of creditworthiness, as opposed to collateral.",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 51,
+      "pos": {
+        "x": 10882.5,
+        "y": 4104.5
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 57,
+      "kind": "node",
+      "label": "decentralised derivative platforms",
+      "notes": "",
+      "desc": "DeFi derivatives are financial contracts which track or provide exposure to an underlying asset. \n\n ## Projects \n- <a target=_blank href=https://dydx.exchange>dYdX</a>\n- <a target=_blank href=https://www.opyn.co/>Opyn</a>\n- <a target=_blank href=https://synthetix.io/>Synthetix</a>\n",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 51,
+      "pos": {
+        "x": 12233.16665649414,
+        "y": 4104.5
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 58,
+      "kind": "node",
+      "label": "decentralised insurance platforms",
+      "notes": "",
+      "desc": "An insurance policy that relies on its community of users to dictate premiums and orchestrate payouts. \n\n ## Projects \n- <a target=_blank href=https://www.insurace.io/>InsurAce</a>\n- <a target=_blank href=https://nexusmutual.io/>Nexus Mutual</a>\n- <a target=_blank href=https://opium.finance/>Opium</a>\n",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 51,
+      "pos": {
+        "x": 10884.799987792969,
+        "y": 3879.5
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 56,
+      "kind": "node",
+      "label": "uncollateralised community lending",
+      "notes": "",
+      "desc": "Community-based lending practices where members of a social network agree to support one another's liabilities. \n\n ## Projects \n- <a target=_blank href=https://grameenbank.org/>Grameen Bank</a>\n",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 51,
+      "pos": {
+        "x": 12180.816650390625,
+        "y": 3654.5
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 54,
+      "kind": "node",
+      "label": "decentralised credit platforms",
+      "notes": "",
+      "desc": "Decentralized lending platforms provide loans to businesses, or the public with no intermediaries are present. These also allow lendres to earn interest on supplied stablecoins and cryptocurrencies. \n\n ## Projects \n- <a target=_blank href=https://makerdao.com/en/>MakerDAO</a>\n- <a target=_blank href=https://truefi.io/>TrueFi</a>\n- <a target=_blank href=https://yield.credit/>Yield Protocol</a>\n- <a target=_blank href=https://aave.com/>Aave</a>\n- <a target=_blank href=https://compound.finance/>Compound</a>\n- <a target=_blank href=https://cream.finance/>C.R.E.A.M</a>\n",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 51,
+      "pos": {
+        "x": 10975.83334350586,
+        "y": 3654.5
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 59,
+      "kind": "node",
+      "label": "decentralised prediction markets",
+      "notes": "",
+      "desc": "Prediction market, facilitated by smart contracts, which allow users to trade the outcome of events. \n\n ## Projects \n- <a target=_blank href=https://augur.net/>Augur</a>\n- <a target=_blank href=https://polymarket.com/>Polymarket</a>\n",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 51,
+      "pos": {
+        "x": 10940.66665649414,
+        "y": 3429.5
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 53,
+      "kind": "node",
+      "label": "stablecoins",
+      "notes": "",
+      "desc": "Cryptocurrencies designed to decrease the volatility of the coin's price, relative to some “stable” asset or basket of assets. \n\n ## Projects \n- <a target=_blank href=https://makerdao.com/en/>Maker Dai</a>\n- <a target=_blank href=https://reflexer.finance/>RAI</a>\n- <a target=_blank href=https://tether.to/>Tether</a>\n- <a target=_blank href=https://www.circle.com/en/usdc>USDC</a>\n",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 51,
+      "pos": {
+        "x": 12207.649993896484,
+        "y": 3879.5
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 74,
+      "kind": "node",
+      "label": "autonomous research communities (ARCs)",
+      "notes": "",
+      "desc": "Communities to select, validate, and curate scientific discoveries, with each step in the process being stored on chain, creating an immutable record.\n ## Resources\n- <a target=_blank href=https://desci.com/arcs>The DAO stack for Scientific Societies</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 66,
+      "pos": {
+        "x": 15915.183349609375,
+        "y": 7906.909384306327
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 70,
+      "kind": "node",
+      "label": "decentralised scientometrics",
+      "notes": "",
+      "desc": "Robust methods to determine scientific impact. These are alternative to the existing peer-review process and journal circulation.",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 66,
+      "pos": {
+        "x": 15859.566680908203,
+        "y": 8131.909384306327
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 71,
+      "kind": "node",
+      "label": "decentralised scientific funding",
+      "notes": "",
+      "desc": "Decentralised methods of funding scientific research. These are an alternative to grant proposals and centralised funding bodies.\n\n ## Projects\n- <a target=_blank href=https://www.vitadao.com/>VitaDAO</a>\n- <a target=_blank href=https://www.molecule.to/>Molecule</a>\n\n ## Resources\n- <a target=_blank href=https://www.lifespan.io/topic/funding-science-with-a-dao-the-who-what-why-how/>Funding Science With a DAO: The Who, What, Why & How</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 66,
+      "pos": {
+        "x": 16867.866668701172,
+        "y": 8131.909384306327
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 67,
+      "kind": "node",
+      "label": "Research Objects",
+      "notes": "",
+      "desc": "A method for the identification, aggregation and exchange of scholarly information on the Web. The primary goal of the research object approach is to provide a mechanism to associate related resources about a scientific investigation so that they can be shared using a single identifier.\n ## Projects\n- <a target=_blank href=https://figshare.com/>Figshare</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 66,
+      "pos": {
+        "x": 17078.749117479918,
+        "y": 7929.115234375
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 73,
+      "kind": "node",
+      "label": "incentivised peer review",
+      "notes": "",
+      "desc": "Incentive systems that rewards scientists for peer-reviewing other scientists' work and that builds up trust and reputation.\n\n ## Projects\n- <a target=_blank href=https://linktr.ee/antsreview>Ants-Review</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 66,
+      "pos": {
+        "x": 16803.91754399359,
+        "y": 7479.5
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 69,
+      "kind": "node",
+      "label": "digital computational lab",
+      "notes": "",
+      "desc": "A virtual lab environment for scientists to standardize workflows, and to track and reproduce all computations and discoveries\n ## Projects\n- <a target=_blank href=https://codeocean.com>Code Ocean</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 66,
+      "pos": {
+        "x": 15724.983337402344,
+        "y": 7681.909384306327
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 68,
+      "kind": "node",
+      "label": "Verified Research Objects",
+      "notes": "",
+      "desc": "Dynamic research objects (5) that combine text, code, data, videos, peer-reviews, annotations, and commentaries, allowing to trace the development of a research object over time including version management, citations, replication status, and the on-chain verification of open science practices, badges (e.g. for FAIR data), and replication status.\n\n ## Projects\n- <a target=_blank href=https://desci.com/sciweave>DeSci Nodes</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 66,
+      "pos": {
+        "x": 15737.33334350586,
+        "y": 7456.909384306327
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 82,
+      "kind": "node",
+      "label": "open science infrastructure",
+      "notes": "",
+      "desc": "The infrastructure school is founded on the assumption that 'efficient' research depends on the availability of tools and applications. Therefore, the goal of the school is to promote the creation of openly available platforms, tools, and services for scientists.\n\n ## Projects\n- <a target=_blank href=https://opensciencegrid.org/>Open Science Grid</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 66,
+      "pos": {
+        "x": 16887.233337402344,
+        "y": 7681.909384306327
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 95,
+      "kind": "node",
+      "label": "social recovery",
+      "notes": "",
+      "desc": "The recovery of an account's private keys using the consent of a member from a qualified majority of (a random subset of) the account's communities.",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 85,
+      "pos": {
+        "x": 16683.483337402344,
+        "y": 5004.5
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 93,
+      "kind": "node",
+      "label": "decentralised identity (DID)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 85,
+      "pos": {
+        "x": 17008.29998779297,
+        "y": 4704.5
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 98,
+      "kind": "node",
+      "label": "plural property",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 85,
+      "pos": {
+        "x": 17351.566665649414,
+        "y": 4854.5
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 94,
+      "kind": "node",
+      "label": "verifiable reputation",
+      "notes": "",
+      "desc": "Protocols to verify users' reputation aross platforms.",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 85,
+      "pos": {
+        "x": 16228.33334350586,
+        "y": 4479.5
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 92,
+      "kind": "node",
+      "label": "verifiable credentials",
+      "notes": "",
+      "desc": "Verifiable credentials (VCs) are an open standard for digital credentials. They can represent information found in physical credentials, such as a passport or license, as well as new things that have no physical equivalent, such as ownership of a bank account.\n\n ## Projects\n- <a target=_blank href=https://www.w3.org/TR/vc-data-model/#use-cases-and-requirements>W3C Recommendation</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 85,
+      "pos": {
+        "x": 17288.86839032406,
+        "y": 4509.077310090155
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 86,
+      "kind": "node",
+      "label": "soulbound tokens",
+      "notes": "",
+      "desc": "Publicly visible, non-transferable (but possibly revocable-by-the-issuer) tokens.\n\n## Resources\n- <a target=_blank href=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763>Soulbound Tokens (SBTs)</a>\n",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 85,
+      "pos": {
+        "x": 16123.283325195312,
+        "y": 4704.5
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 97,
+      "kind": "node",
+      "label": "programmable plural privacy",
+      "notes": "",
+      "desc": "A paradigm where privacy as privacy is treated as a programmable, loosely coupled bundle of rights to permission access, alter or profit from information.",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 85,
+      "pos": {
+        "x": 16203.816680908203,
+        "y": 4854.5
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 89,
+      "kind": "node",
+      "label": "decentralised social media",
+      "notes": "",
+      "desc": "Networks of identity and reputation that do not rely on a centralised administrator or host.\n\n ## Projects\n- <a target=_blank href=https://blueskyweb.xyz/>Bluesky</a>\n- <a target=_blank href=https://unirep.gitbook.io/unirep-social/>Unirep Social</a>\n",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 85,
+      "pos": {
+        "x": 17227.79998779297,
+        "y": 4329.5
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 96,
+      "kind": "node",
+      "label": "quadratic funding",
+      "notes": "",
+      "desc": "Distribution of funds using quadratic voting\n\n ## Projects\n- <a target=_blank href=https://gitcoin.co/>Gitcoin Grants</a>\n- <a target=_blank href=https://clr.fund/#/>Clr.fund</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 85,
+      "pos": {
+        "x": 15950.030377628747,
+        "y": 5047.288247590155
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 87,
+      "kind": "node",
+      "label": "social provenance",
+      "notes": "",
+      "desc": "Social context about the origin of some artifact",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 85,
+      "pos": {
+        "x": 17403.08334350586,
+        "y": 5004.5
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 91,
+      "kind": "node",
+      "label": "retroactive public goods funding",
+      "notes": "",
+      "desc": "## Projects\n- <a target=_blank href=https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c>Retroactive Public Goods Funding (Optimism)</a>\n- <a target=_blank href=https://research.protocol.ai/blog/2022/a-public-goods-experiment-on-filecoin-retroactively-funding-impact-with-quadratic-voting/>Filecoin Community PR</a>\n",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 90,
+      "pos": {
+        "x": 11683.149993896484,
+        "y": 8754.5
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 118,
+      "kind": "node",
+      "label": "social DAOs",
+      "notes": "",
+      "desc": "A digitally native tribe consisting of people with similar interests.\n\n ## Projects\n- <a target=_blank href=https://www.fwb.help/>Friends With Benefits</a>\n- <a target=_blank href=https://www.seedclub.xyz/>Seed Club</a>\n",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 115,
+      "pos": {
+        "x": 12706.731315612793,
+        "y": 7898.06637926069
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 117,
+      "kind": "node",
+      "label": "grant DAOs",
+      "notes": "",
+      "desc": "A DAO that pools and distributes funds to projects.\n\n ## Projects\n- <a target=_blank href=https://aavegrants.org/>Aave Grants DAO</a>\n- <a target=_blank href=https://molochdao.com/>MolochDAO</a>\n- <a target=_blank href=https://oceanprotocol.com>Ocean Protocol</a>\n- <a target=_blank href=https://www.vitadao.com/>VitaDAO</a>\n",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 115,
+      "pos": {
+        "x": 12205.033340454102,
+        "y": 7704.5
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 120,
+      "kind": "node",
+      "label": "investment DAOs",
+      "notes": "",
+      "desc": "A DAO that invests in companies in order to generate gains and/or influence decision-making.\n\n ## Projects\n- <a target=_blank href=https://www.krausehouse.club/>Krause House</a>\n",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 115,
+      "pos": {
+        "x": 11015.66667175293,
+        "y": 7629.5
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 116,
+      "kind": "node",
+      "label": "protocol DAOs",
+      "notes": "",
+      "desc": "A DAO that votes to decide changes in a technology protocol.\n\n ## Projects\n- <a target=_blank href=https://www.fwb.help/>Friends With Benefits</a>\n- <a target=_blank href=https://www.seedclub.xyz/>Seed Club</a>\n",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 115,
+      "pos": {
+        "x": 12624.449996948242,
+        "y": 7479.5
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 122,
+      "kind": "node",
+      "label": "impact DAOs",
+      "notes": "",
+      "desc": "A DAO that votes to decide changes in a technology protocol.\n\n ## Projects\n- <a target=_blank href=https://www.fwb.help/>Friends With Benefits</a>\n- <a target=_blank href=https://www.seedclub.xyz/>Seed Club</a>\n",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 115,
+      "pos": {
+        "x": 11598.496612548828,
+        "y": 7677.4306640625
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 121,
+      "kind": "node",
+      "label": "collector DAOs",
+      "notes": "",
+      "desc": "A group of collectors who pool their funds to acquire ownership of NFTs or real-world art.\n\n ## Projects\n- <a target=_blank href=https://pleasr.org/>PleasrDAO</a>\n- <a target=_blank href=https://flamingodao.xyz/>Flamingo DAO</a>\n",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 115,
+      "pos": {
+        "x": 12030.25,
+        "y": 7929.5
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 119,
+      "kind": "node",
+      "label": "professional DAOs",
+      "notes": "",
+      "desc": "A collective of professionals in a common field, who share skills and resources to collaborate on projects.\n\n ## Projects\n- <a target=_blank href=https://www.raidguild.org/#manifesto>RaidGuild</a>\n",
+      "link": "",
+      "tags": [
+        "application"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 115,
+      "pos": {
+        "x": 11033.549987792969,
+        "y": 7929.5
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 142,
+      "kind": "node",
+      "label": "decentralised voting",
+      "notes": "",
+      "desc": "A voting protocol that preserves the correctness and secrecy of votes without a central coordinating body.\n\n ## Projects\n- <a target=_blank href=https://vocdoni.app/>Vocdoni</a>\n- <a target=_blank href=https://snapshot.org/>Snapshot</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 141,
+      "pos": {
+        "x": 11616.399993896484,
+        "y": 6038.076067919126
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 143,
+      "kind": "node",
+      "label": "anti-collusion",
+      "notes": "",
+      "desc": "A protocol that prevents malicious users from buying votes.\n\n## Projects\n- <a target=_blank href=https://github.com/privacy-scaling-explorations/maci>Minimal Anti-Collusion Infrastructure (MACI)</a>\n- <a target=_blank href=https://clr.fund/#/>Clr.fund</a>\n",
+      "link": "",
+      "tags": [
+        "risk"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 141,
+      "pos": {
+        "x": 11595.918849577087,
+        "y": 5873.076067919126
+      },
+      "fill": "#cb5656ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 180,
+      "kind": "node",
+      "label": "data analysis",
+      "notes": "",
+      "desc": "Process of inspecting, cleansing, transforming and modelling data with the goal of useful information, informing conclusions and supporting decision-making.\n\n ## History\n- C 18000 BCE - Humans using tally sticks for analyzing data\n- C 2400 BCE - Invention of abacus\n- 300 BC - 48 AD - Library of Alexandria\n- C 100 - 200 AD - Use of Antikythera mechanism\n- 1663 - First experiment in statistical data analysis\n- 1865 - Term 'business intelligence' is termed\n- 1880 - Hollerith Tabulating Machine\n- 1926 - Method for storing information magnetically on tape gets innovated\n- 1958 - New definition of business intelligence\n- 1965 - US plans worlds first data center\n- 1970 - First time used the term 'Big Data'\n- 1999 - First use of term 'IoT'\n\n ## Projects\n- <a target=_blank href=https://www.itechart.com/solutions/big-data>www.itechart.com/solutions/big data</a>\n- <a target=_blank href=https://dhiva.ai/>dhiva.ai/</a>\n- <a target=_blank href=https://databricks.com/>Databricks - The Data and AI Company</a>\n- <a target=_blank href=https://craft.co/>Just a moment...</a>\n- <a target=_blank href=https://www.civisanalytics.com/>Empowered Data Solutions - Data Science | Civis Analytics</a>\n\n ## Labs\n- <a target=_blank href=https://ed.buffalo.edu/dal>Quantitative and Qualitative Data Analysis Lab - Graduate School of Education - University at Buffalo</a>\n- <a target=_blank href=http://www.da.inf.ethz.ch/>Data Analytics Lab</a>\n- <a target=_blank href=https://www.fhsu.edu/psych/data-analysis-lab>     Data Analysis Lab -  Fort Hays State University</a>\n- <a target=_blank href=https://chemlab.truman.edu/data-analysis/>Data Analysis  |  Chem Lab</a>\n- <a target=_blank href=https://sites.usc.edu/dslab/>DATA SCIENCE LAB – Led by Dr. Viktor K. Prasanna</a>\n\n ## People\n- <a target=_blank href=https://www.dkriesel.com/)>David Kriesel</a>\n- <a target=_blank href=https://en.wikipedia.org/wiki/Christopher_Wylie>Christoper Wylie - Author of [Mindf*ck: Cambridge Analytica and the Plot to Break America</a>\n- <a target=_blank href=http://www.abbottanalytics.com/data-mining-consulting-services-about.php>About Abbott Analytics - Abbott Analytics: Data Mining Services in San Diego</a>\n- <a target=_blank href=https://www.linkedin.com/in/mjaberry/>Michael Berry</a>\n- <a target=_blank href=https://www.tomdavenport.com/>Home - Tom Davenport</a>\n\n## How to get involved\n- <a target=_blank href=https://www.youtube.com/watch?v=-YpwsdRKt8Q>Try to find a project like him and collect data over periods of time which you will analyze</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 181,
+      "pos": {
+        "x": -5663.72726070998,
+        "y": 2886.5
+      },
+      "nodelabelfontsize": 45,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 177,
+      "kind": "node",
+      "label": "data curation",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 181,
+      "pos": {
+        "x": -5638.610592008808,
+        "y": 2995.3215351391827
+      },
+      "nodelabelfontsize": 45,
       "backgroundImageURL": null
     },
     {
@@ -4126,8 +4346,8 @@
       "is_collapsed": false,
       "parent": 932,
       "pos": {
-        "x": 13615.231838232128,
-        "y": 301.77982249327397
+        "x": 2360.5,
+        "y": 8526.625440884985
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4145,27 +4365,8 @@
       "is_collapsed": false,
       "parent": 932,
       "pos": {
-        "x": 13622.70153427705,
-        "y": 380.21097483702397
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 947,
-      "kind": "node",
-      "label": "zk-SNARKs",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 946,
-      "pos": {
-        "x": -4461.4150614184455,
-        "y": -1940.2573419342007
+        "x": 2260.3500061035156,
+        "y": 8721.625440884985
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4185,10 +4386,11 @@
       "is_collapsed": false,
       "parent": 952,
       "pos": {
-        "x": -13899.731503168809,
-        "y": 1216.6318235418112
+        "x": 4442.033340454102,
+        "y": 3269.5833163471834
       },
       "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
     {
@@ -4205,10 +4407,11 @@
       "is_collapsed": false,
       "parent": 952,
       "pos": {
-        "x": -13923.364836374985,
-        "y": 1141.6318235418112
+        "x": 4406.66667175293,
+        "y": 3147.5
       },
       "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
     {
@@ -4223,8 +4426,8 @@
       "is_collapsed": false,
       "parent": 959,
       "pos": {
-        "x": 7626.842252879967,
-        "y": -2130.201171875
+        "x": 8613.449996948242,
+        "y": 837.9107639352223
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4242,8 +4445,8 @@
       "is_collapsed": false,
       "parent": 964,
       "pos": {
-        "x": 7407.89994430542,
-        "y": 5379.5
+        "x": -212.30213492273288,
+        "y": 6803.449260499607
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4261,8 +4464,8 @@
       "is_collapsed": false,
       "parent": 964,
       "pos": {
-        "x": 7454.552104405155,
-        "y": 5319.404561890428
+        "x": -186.45212881921725,
+        "y": 6653.449260499607
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4280,8 +4483,8 @@
       "is_collapsed": false,
       "parent": 967,
       "pos": {
-        "x": 7258.767851024499,
-        "y": -1856.3064575195312
+        "x": 5597.780174849948,
+        "y": 862.0112915039062
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4299,8 +4502,8 @@
       "is_collapsed": false,
       "parent": 967,
       "pos": {
-        "x": 7244.217680126061,
-        "y": -1918.872314453125
+        "x": 5410.850006103516,
+        "y": 675.3973388671875
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4318,8 +4521,8 @@
       "is_collapsed": false,
       "parent": 967,
       "pos": {
-        "x": 7432.739957958092,
-        "y": -1854.7501220703125
+        "x": 5931.416664123535,
+        "y": 1065.3973388671875
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4337,46 +4540,8 @@
       "is_collapsed": false,
       "parent": 967,
       "pos": {
-        "x": 7414.088834911217,
-        "y": -1917.6118774414062
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 976,
-      "kind": "node",
-      "label": "formal verification",
-      "notes": "",
-      "desc": "### Specification languages for creating formal specifications \n\n**Act**: _*Act allows specification of storage updates, pre/post conditions and contract invariants. Its tool suite also has proof backends able to prove many properties via Coq, SMT solvers, or hevm.*_\n\n- [GitHub](https://github.com/ethereum/act)\n- [Documentation](https://ethereum.github.io/act/)\n\n**Scribble** - _*Scribble transforms code annotations in the Scribble specification language into concrete assertions that check the specification.*_\n\n- [Documentation](https://docs.scribble.codes/)\n\n**Dafny** - _*Dafny is a verification-ready programming language that relies on high-level annotations to reason about and prove correctness of code.*_\n\n- [GitHub](https://github.com/dafny-lang/dafny)\n\n### Program verifiers for checking correctness {#program-verifiers}\n\n**Solidity SMTChecker** - _*Solidity’s SMTChecker is a built-in model checker based on SMT (Satisfiability Modulo Theories) and Horn solving. It confirms if a contract’s source code matches specifications during compilation and statically checks for violations of safety properties.*_\n\n- [GitHub](https://github.com/ethereum/solidity)\n\n**solc-verify** - _*solc-verify is an extended version of the Solidity compiler that can perform automated formal verification on Solidity code using annotations and modular program verification.*_\n\n- [GitHub](https://github.com/SRI-CSL/solidity)\n\n**KEVM** - _*KEVM is a formal semantics of the Ethereum Virtual Machine (EVM) written in the K framework. KEVM is executable and can prove certain property-related assertions using reachability logic.*_\n\n- [GitHub](https://github.com/runtimeverification/evm-semantics)\n- [Documentation](https://jellopaper.org/)\n\n### Logical frameworks for theorem proving {#theorem-provers}\n\n**Isabelle** - _Isabelle/HOL is a proof assistant that allows mathematical formulas to be expressed in a formal language and provides tools for proving those formulas. The main application is the formalization of mathematical proofs and in particular formal verification, which includes proving the correctness of computer hardware or software and proving properties of computer languages and protocols._\n\n- [GitHub](https://github.com/isabelle-prover)\n- [Documentation](https://isabelle.in.tum.de/documentation.html)\n\n**Coq** - _Coq is an interactive theorem prover that lets you define programs using theorems and interactively generate machine-checked proofs of correctness._\n\n- [GitHub](https://github.com/coq/coq)\n- [Documentation](https://coq.github.io/doc/v8.13/refman/index.html)\n\n### Symbolic execution-based tools for detecting vulnerable patterns in smart contracts {#symbolic-execution-tools}\n\n**Manticore** - _*A tool for analyzing EVM bytecode analysis tool based on symbolic execution*._\n\n- [GitHub](https://github.com/trailofbits/manticore)\n- [Documentation](https://github.com/trailofbits/manticore/wiki)\n\n**hevm** - _*hevm is a symbolic execution engine and equivalence checker for EVM bytecode.*_\n\n- [GitHub](https://github.com/dapphub/dapptools/tree/master/src/hevm)\n\n## Further reading\n\n- [How Formal Verification of Smart Contracts Works](https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/)\n- [How Formal Verification Can Ensure Flawless Smart Contracts](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1)\n- [An Overview of Formal Verification Projects in the Ethereum Ecosystem](https://github.com/leonardoalt/ethereum_formal_verification_overview)\n- [End-to-End Formal Verification of Ethereum 2.0 Deposit Smart Contract](https://runtimeverification.com/blog/end-to-end-formal-verification-of-ethereum-2-0-deposit-smart-contract/)\n- [SMTChecker and Formal Verification](https://docs.soliditylang.org/en/v0.8.15/smtchecker.html)\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 975,
-      "pos": {
-        "x": 7526.426406860352,
-        "y": 1399.5008788108826
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 981,
-      "kind": "node",
-      "label": "collaborative zk-SNARKS",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 978,
-      "pos": {
-        "x": 7237.033537059655,
-        "y": -2090.5
+        "x": 5448.066665649414,
+        "y": 1050.3973388671875
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
