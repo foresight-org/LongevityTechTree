@@ -820,19 +820,6 @@
       "shape": "ortho"
     },
     {
-      "id": 1126,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 967,
-      "toId": 959,
-      "shape": "ortho"
-    },
-    {
       "id": 1135,
       "kind": "edge",
       "label": "",
@@ -1964,6 +1951,84 @@
       "shape": "ortho"
     },
     {
+      "id": 1239,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 969,
+      "toId": 972,
+      "shape": "ortho"
+    },
+    {
+      "id": 1240,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 972,
+      "toId": 968,
+      "shape": "ortho"
+    },
+    {
+      "id": 1241,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 968,
+      "toId": 967,
+      "shape": "ortho"
+    },
+    {
+      "id": 1242,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 970,
+      "toId": 967,
+      "shape": "ortho"
+    },
+    {
+      "id": 1244,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1243,
+      "toId": 959,
+      "shape": "ortho"
+    },
+    {
+      "id": 1245,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 967,
+      "toId": 1243,
+      "shape": "ortho"
+    },
+    {
       "id": 753,
       "kind": "node",
       "label": "supervised learning",
@@ -2095,7 +2160,7 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -374.04998779296875,
+        "x": -449.04998779296875,
         "y": 3954.5
       },
       "nodelabelfontsize": 75,
@@ -2540,7 +2605,6 @@
         "x": -8549.16665649414,
         "y": 6729.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2562,7 +2626,6 @@
         "x": -8517.433349609375,
         "y": 6429.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2736,7 +2799,6 @@
         "x": -8625.966674804688,
         "y": 3729.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2758,7 +2820,6 @@
         "x": -8607.733337402344,
         "y": 3954.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2780,7 +2841,6 @@
         "x": -8626.866668701172,
         "y": 3504.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2802,7 +2862,6 @@
         "x": -8633.683334350586,
         "y": 3054.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2862,7 +2921,6 @@
         "x": -10980.366668701172,
         "y": 4929.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2884,7 +2942,6 @@
         "x": -9636.850006103516,
         "y": 5229.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2906,7 +2963,6 @@
         "x": -10706.233337402344,
         "y": 5229.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2928,7 +2984,6 @@
         "x": -8673.41665649414,
         "y": 2529.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2950,7 +3005,6 @@
         "x": -8604.433334350586,
         "y": 2754.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2972,7 +3026,6 @@
         "x": -9641.783325195312,
         "y": 4779.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2994,7 +3047,6 @@
         "x": -10068.283340454102,
         "y": 4254.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3016,7 +3068,6 @@
         "x": -10043.299987792969,
         "y": 4479.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3092,6 +3143,10 @@
         "x": 1876.4166564941406,
         "y": 5679.5
       },
+      "tags": [
+        "frontier"
+      ],
+      "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3146,8 +3201,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8676.733276367188,
-        "y": 7852.5
+        "x": 17076.733276367188,
+        "y": 8452.5
       },
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
@@ -3204,8 +3259,12 @@
       "parent": null,
       "pos": {
         "x": 382.7166748046875,
-        "y": 8752.5
+        "y": 8827.5
       },
+      "tags": [
+        "frontier"
+      ],
+      "fill": "#eccd2aff",
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3366,8 +3425,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -532.5666809082031,
-        "y": -545.5
+        "x": -1732.5666809082031,
+        "y": -920.5
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -3390,7 +3449,6 @@
         "x": -2862.5333251953125,
         "y": 504.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": 45,
       "backgroundImageURL": null
@@ -3448,8 +3506,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -510.6166687011719,
-        "y": -1070.5
+        "x": -1785.6166687011719,
+        "y": -1895.5
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -3468,8 +3526,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -557.1666564941406,
-        "y": -1445.5
+        "x": -3032.1666564941406,
+        "y": -1520.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3487,8 +3545,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6387.516662597656,
-        "y": -1370.5
+        "x": 6687.516662597656,
+        "y": -545.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3509,6 +3567,9 @@
         "x": -6962.683334350586,
         "y": 879.5
       },
+      "tags": [
+        "core"
+      ],
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3546,9 +3607,13 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5474.7833251953125,
-        "y": -547.5
+        "x": 6749.7833251953125,
+        "y": -1522.5
       },
+      "tags": [
+        "frontier"
+      ],
+      "fill": "#eccd2aff",
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3584,8 +3649,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5624.0704005353255,
-        "y": 799.9486694335938
+        "x": 7239.550003051758,
+        "y": 804.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3603,7 +3668,7 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11988,
+        "x": 13338,
         "y": 1629.5
       },
       "nodelabelfontsize": 75,
@@ -3622,7 +3687,7 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8598.5,
+        "x": 10398.5,
         "y": 804.5
       },
       "nodelabelfontsize": 75,
@@ -3641,9 +3706,13 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11859.516723632812,
-        "y": -547.5
+        "x": 16509.516723632812,
+        "y": -922.5
       },
+      "tags": [
+        "frontier"
+      ],
+      "fill": "#eccd2aff",
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3682,6 +3751,9 @@
         "x": -1398.8500061035156,
         "y": 504.5
       },
+      "tags": [
+        "core"
+      ],
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3701,6 +3773,9 @@
         "x": -786.1166687011719,
         "y": 1629.5
       },
+      "tags": [
+        "core"
+      ],
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3717,8 +3792,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6013.399993896484,
-        "y": 2304.5
+        "x": 8038.399993896484,
+        "y": 2229.5
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -3758,10 +3833,9 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3862.4666748046875,
-        "y": 1929.5
+        "x": 5062.4666748046875,
+        "y": 1854.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -3777,9 +3851,12 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3891.2000122070312,
+        "x": 5091.200012207031,
         "y": 2679.5
       },
+      "tags": [
+        "core"
+      ],
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -3877,6 +3954,9 @@
         "x": 3852.2000122070312,
         "y": 5244
       },
+      "tags": [
+        "core"
+      ],
       "nodelabelfontsize": 100,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3993,6 +4073,9 @@
         "x": -6860.300003051758,
         "y": -245.5
       },
+      "tags": [
+        "core"
+      ],
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4033,6 +4116,10 @@
         "x": 9487.33334350586,
         "y": 2679.5
       },
+      "tags": [
+        "application"
+      ],
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4249,6 +4336,7 @@
       "tags": [
         "frontier"
       ],
+      "fill": "#eccd2aff",
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
@@ -4256,7 +4344,6 @@
         "x": 13783.149993896484,
         "y": 6054.5
       },
-      "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4309,6 +4396,7 @@
       "tags": [
         "application"
       ],
+      "fill": "#b8e986ff",
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
@@ -4316,7 +4404,6 @@
         "x": 12982.5,
         "y": 2754.5
       },
-      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4371,9 +4458,13 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8613.449996948242,
-        "y": 279.5
+        "x": 10413.449996948242,
+        "y": 54.5
       },
+      "tags": [
+        "application"
+      ],
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4433,7 +4524,6 @@
         "x": 4531.216659545898,
         "y": 2904.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4454,7 +4544,6 @@
         "x": 4492.033340454102,
         "y": 3279.5
       },
-      "fill": "#144bf1ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4506,6 +4595,7 @@
       "tags": [
         "frontier"
       ],
+      "fill": "#eccd2aff",
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
@@ -4513,7 +4603,6 @@
         "x": 6609.0333251953125,
         "y": 4194
       },
-      "fill": "#eccd2aff",
       "nodelabelfontsize": 100,
       "backgroundImageURL": null
     },
@@ -4604,7 +4693,109 @@
         "x": 8658.483337402344,
         "y": 5529.5
       },
+      "tags": [
+        "application"
+      ],
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 970,
+      "kind": "node",
+      "label": "mixnets",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 6231.416664123535,
+        "y": 1029.5
+      },
+      "tags": [
+        "core"
+      ],
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 972,
+      "kind": "node",
+      "label": "oblivious RAM",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 5048.066665649414,
+        "y": 654.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 969,
+      "kind": "node",
+      "label": "oblivious message retrieval",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 4860.850006103516,
+        "y": 354.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 968,
+      "kind": "node",
+      "label": "private information retrieval (PIR)",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 6221.816680908203,
+        "y": 654.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1243,
+      "kind": "node",
+      "label": "anonymous communication network",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 8745.483337402344,
+        "y": 804.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
     {
@@ -4641,82 +4832,6 @@
         "y": 2995.3215351391827
       },
       "nodelabelfontsize": 45,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 968,
-      "kind": "node",
-      "label": "private information retrieval (PIR)",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 967,
-      "pos": {
-        "x": 5597.780174849948,
-        "y": 862.0112915039062
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 969,
-      "kind": "node",
-      "label": "oblivious message retrieval",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 967,
-      "pos": {
-        "x": 5410.850006103516,
-        "y": 675.3973388671875
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 970,
-      "kind": "node",
-      "label": "mixnets",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 967,
-      "pos": {
-        "x": 5931.416664123535,
-        "y": 1065.3973388671875
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 972,
-      "kind": "node",
-      "label": "oblivious RAM",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 967,
-      "pos": {
-        "x": 5448.066665649414,
-        "y": 1050.3973388671875
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
       "backgroundImageURL": null
     }
   ],
