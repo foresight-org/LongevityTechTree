@@ -738,7 +738,7 @@
       "directed": true,
       "weight": 5,
       "fromId": 51,
-      "toId": 59,
+      "toId": 51,
       "shape": "ortho"
     },
     {
@@ -752,19 +752,6 @@
       "weight": 5,
       "fromId": 115,
       "toId": 90,
-      "shape": "ortho"
-    },
-    {
-      "id": 752,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 115,
-      "toId": 66,
       "shape": "ortho"
     },
     {
@@ -1088,21 +1075,8 @@
       "tags": [],
       "directed": true,
       "weight": 5,
-      "fromId": 52,
+      "fromId": 51,
       "toId": 150,
-      "shape": "ortho"
-    },
-    {
-      "id": 1157,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 141,
-      "toId": 85,
       "shape": "ortho"
     },
     {
@@ -1116,19 +1090,6 @@
       "weight": 5,
       "fromId": 1132,
       "toId": 141,
-      "shape": "ortho"
-    },
-    {
-      "id": 1159,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 51,
-      "toId": 85,
       "shape": "ortho"
     },
     {
@@ -1168,19 +1129,6 @@
       "weight": 5,
       "fromId": 126,
       "toId": 128,
-      "shape": "ortho"
-    },
-    {
-      "id": 1122,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": true,
-      "weight": 5,
-      "fromId": 952,
-      "toId": 135,
       "shape": "ortho"
     },
     {
@@ -1483,6 +1431,136 @@
       "shape": "ortho"
     },
     {
+      "id": 1194,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 147,
+      "toId": 67,
+      "shape": "ortho"
+    },
+    {
+      "id": 1195,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 67,
+      "toId": 68,
+      "shape": "ortho"
+    },
+    {
+      "id": 1196,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1132,
+      "toId": 68,
+      "shape": "ortho"
+    },
+    {
+      "id": 1197,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 115,
+      "toId": 74,
+      "shape": "ortho"
+    },
+    {
+      "id": 1198,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 74,
+      "toId": 71,
+      "shape": "ortho"
+    },
+    {
+      "id": 1201,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 70,
+      "toId": 82,
+      "shape": "ortho"
+    },
+    {
+      "id": 1202,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 69,
+      "toId": 82,
+      "shape": "ortho"
+    },
+    {
+      "id": 1203,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1199,
+      "toId": 69,
+      "shape": "ortho"
+    },
+    {
+      "id": 1204,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1132,
+      "toId": 73,
+      "shape": "ortho"
+    },
+    {
+      "id": 1205,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 73,
+      "toId": 70,
+      "shape": "ortho"
+    },
+    {
       "id": 937,
       "kind": "edge",
       "label": "",
@@ -1493,6 +1571,396 @@
       "weight": 5,
       "fromId": 143,
       "toId": 142,
+      "shape": "ortho"
+    },
+    {
+      "id": 1206,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1132,
+      "toId": 143,
+      "shape": "ortho"
+    },
+    {
+      "id": 1208,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 159,
+      "toId": 1207,
+      "shape": "ortho"
+    },
+    {
+      "id": 1209,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1207,
+      "toId": 143,
+      "shape": "ortho"
+    },
+    {
+      "id": 1210,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 71,
+      "toId": 66,
+      "shape": "ortho"
+    },
+    {
+      "id": 1211,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 82,
+      "toId": 66,
+      "shape": "ortho"
+    },
+    {
+      "id": 1212,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 90,
+      "toId": 91,
+      "shape": "ortho"
+    },
+    {
+      "id": 1213,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 142,
+      "toId": 96,
+      "shape": "ortho"
+    },
+    {
+      "id": 1214,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 96,
+      "toId": 90,
+      "shape": "ortho"
+    },
+    {
+      "id": 1216,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 51,
+      "toId": 55,
+      "shape": "ortho"
+    },
+    {
+      "id": 1217,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 93,
+      "toId": 94,
+      "shape": "ortho"
+    },
+    {
+      "id": 1218,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1132,
+      "toId": 94,
+      "shape": "ortho"
+    },
+    {
+      "id": 1219,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 94,
+      "toId": 89,
+      "shape": "ortho"
+    },
+    {
+      "id": 1220,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 959,
+      "toId": 960,
+      "shape": "ortho"
+    },
+    {
+      "id": 1221,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 94,
+      "toId": 55,
+      "shape": "ortho"
+    },
+    {
+      "id": 1222,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 973,
+      "toId": 932,
+      "shape": "ortho"
+    },
+    {
+      "id": 1223,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 974,
+      "toId": 932,
+      "shape": "ortho"
+    },
+    {
+      "id": 1224,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 133,
+      "toId": 135,
+      "shape": "ortho"
+    },
+    {
+      "id": 1225,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 134,
+      "toId": 135,
+      "shape": "ortho"
+    },
+    {
+      "id": 1226,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 965,
+      "toId": 964,
+      "shape": "ortho"
+    },
+    {
+      "id": 1227,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 966,
+      "toId": 964,
+      "shape": "ortho"
+    },
+    {
+      "id": 1228,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 88,
+      "toId": 88,
+      "shape": "straight"
+    },
+    {
+      "id": 1230,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 98,
+      "toId": 97,
+      "shape": "ortho"
+    },
+    {
+      "id": 1231,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1132,
+      "toId": 86,
+      "shape": "ortho"
+    },
+    {
+      "id": 1232,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 86,
+      "toId": 98,
+      "shape": "ortho"
+    },
+    {
+      "id": 1233,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 93,
+      "toId": 88,
+      "shape": "ortho"
+    },
+    {
+      "id": 1234,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 92,
+      "toId": 88,
+      "shape": "ortho"
+    },
+    {
+      "id": 1235,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 86,
+      "toId": 88,
+      "shape": "ortho"
+    },
+    {
+      "id": 1236,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 86,
+      "toId": 87,
+      "shape": "ortho"
+    },
+    {
+      "id": 1237,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 87,
+      "toId": 94,
+      "shape": "ortho"
+    },
+    {
+      "id": 1238,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1132,
+      "toId": 95,
       "shape": "ortho"
     },
     {
@@ -2640,8 +3108,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 2339.4039306640625,
-        "y": 8490.562720442493
+        "x": 3833.8333435058594,
+        "y": 8454.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2678,8 +3146,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 7776.7332763671875,
-        "y": 9277.5
+        "x": 8676.733276367188,
+        "y": 7852.5
       },
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
@@ -2716,8 +3184,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -203.45001220703125,
-        "y": 6668.974630249803
+        "x": -745.8500061035156,
+        "y": 6654.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2735,8 +3203,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 907.7166748046875,
-        "y": 9577.5
+        "x": 382.7166748046875,
+        "y": 8752.5
       },
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
@@ -2756,8 +3224,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11680.406868951097,
-        "y": 8711.285545224211
+        "x": 11595.08334350586,
+        "y": 6054.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -2777,31 +3245,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11639.345460309774,
-        "y": 3705.6307445082102
+        "x": 11608.483337402344,
+        "y": 3711.5
       },
       "fill": "#b8e986ff",
-      "nodelabelfontsize": 45,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 85,
-      "kind": "node",
-      "label": "decentralised society (DeSoc)",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": null,
-      "pos": {
-        "x": 16732.317534090253,
-        "y": 4687.788655045078
-      },
-      "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -2819,8 +3266,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11597.766662597656,
-        "y": 5902.288033959563
+        "x": 12202.33334350586,
+        "y": 4645.288033959563
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -2840,8 +3287,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 16338.333771996795,
-        "y": 7670.704692153164
+        "x": 17943.483337402344,
+        "y": 6354.5
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -2859,8 +3306,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11891.366668701172,
-        "y": 7663.306627130345
+        "x": 13326.933349609375,
+        "y": 5379.5
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -2877,7 +3324,7 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 9444.25,
+        "x": 9594.25,
         "y": 4702.5
       },
       "nodelabelfontsize": 200,
@@ -2898,8 +3345,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3869.866668701172,
-        "y": 1236.5
+        "x": -4977.0999755859375,
+        "y": 1629.5
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -3080,8 +3527,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -2363.366668701172,
-        "y": 1254.5
+        "x": -5063.366668701172,
+        "y": 2154.5
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -3175,8 +3622,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8609.383331298828,
-        "y": 780.5533433933924
+        "x": 8598.5,
+        "y": 804.5
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3397,25 +3844,6 @@
       "backgroundImageURL": null
     },
     {
-      "id": 952,
-      "kind": "node",
-      "label": "rollups",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": null,
-      "pos": {
-        "x": 4456.448998901067,
-        "y": 3177.0416581735917
-      },
-      "nodelabelfontsize": 35,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
       "id": 1166,
       "kind": "node",
       "label": "data availability",
@@ -3591,241 +4019,19 @@
       "backgroundImageURL": null
     },
     {
-      "id": 52,
+      "id": 68,
       "kind": "node",
-      "label": "decentralised exchange (DEX)",
+      "label": "Verified Research Objects",
       "notes": "",
-      "desc": "A peer-to-peer marketplace where users can trade cryptocurrencies in a non-custodial manner without the need for an intermediary to facilitate the transfer and custody of funds. \n\n ## Projects \n- <a target=_blank href=https://uniswap.org/>Uniswap Protocol</a>\n- <a target=_blank href=https://curve.fi/>Curve Finance</a>\n- <a target=_blank href=https://pancakeswap.finance/>PancakeSwap</a>\n- <a target=_blank href=https://balancer.fi/>Balancer</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 12173.766662597656,
-        "y": 3429.5
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 55,
-      "kind": "node",
-      "label": "undercollaterised lending markets",
-      "notes": "",
-      "desc": "Lending based on some measure of creditworthiness, as opposed to collateral.",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 10882.5,
-        "y": 4104.5
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 57,
-      "kind": "node",
-      "label": "decentralised derivative platforms",
-      "notes": "",
-      "desc": "DeFi derivatives are financial contracts which track or provide exposure to an underlying asset. \n\n ## Projects \n- <a target=_blank href=https://dydx.exchange>dYdX</a>\n- <a target=_blank href=https://www.opyn.co/>Opyn</a>\n- <a target=_blank href=https://synthetix.io/>Synthetix</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 12233.16665649414,
-        "y": 4104.5
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 58,
-      "kind": "node",
-      "label": "decentralised insurance platforms",
-      "notes": "",
-      "desc": "An insurance policy that relies on its community of users to dictate premiums and orchestrate payouts. \n\n ## Projects \n- <a target=_blank href=https://www.insurace.io/>InsurAce</a>\n- <a target=_blank href=https://nexusmutual.io/>Nexus Mutual</a>\n- <a target=_blank href=https://opium.finance/>Opium</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 10884.799987792969,
-        "y": 3879.5
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 56,
-      "kind": "node",
-      "label": "uncollateralised community lending",
-      "notes": "",
-      "desc": "Community-based lending practices where members of a social network agree to support one another's liabilities. \n\n ## Projects \n- <a target=_blank href=https://grameenbank.org/>Grameen Bank</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 12180.816650390625,
-        "y": 3654.5
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 54,
-      "kind": "node",
-      "label": "decentralised credit platforms",
-      "notes": "",
-      "desc": "Decentralized lending platforms provide loans to businesses, or the public with no intermediaries are present. These also allow lendres to earn interest on supplied stablecoins and cryptocurrencies. \n\n ## Projects \n- <a target=_blank href=https://makerdao.com/en/>MakerDAO</a>\n- <a target=_blank href=https://truefi.io/>TrueFi</a>\n- <a target=_blank href=https://yield.credit/>Yield Protocol</a>\n- <a target=_blank href=https://aave.com/>Aave</a>\n- <a target=_blank href=https://compound.finance/>Compound</a>\n- <a target=_blank href=https://cream.finance/>C.R.E.A.M</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 10975.83334350586,
-        "y": 3654.5
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 59,
-      "kind": "node",
-      "label": "decentralised prediction markets",
-      "notes": "",
-      "desc": "Prediction market, facilitated by smart contracts, which allow users to trade the outcome of events. \n\n ## Projects \n- <a target=_blank href=https://augur.net/>Augur</a>\n- <a target=_blank href=https://polymarket.com/>Polymarket</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 10940.66665649414,
-        "y": 3429.5
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 53,
-      "kind": "node",
-      "label": "stablecoins",
-      "notes": "",
-      "desc": "Cryptocurrencies designed to decrease the volatility of the coin's price, relative to some “stable” asset or basket of assets. \n\n ## Projects \n- <a target=_blank href=https://makerdao.com/en/>Maker Dai</a>\n- <a target=_blank href=https://reflexer.finance/>RAI</a>\n- <a target=_blank href=https://tether.to/>Tether</a>\n- <a target=_blank href=https://www.circle.com/en/usdc>USDC</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 51,
-      "pos": {
-        "x": 12207.649993896484,
-        "y": 3879.5
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 74,
-      "kind": "node",
-      "label": "autonomous research communities (ARCs)",
-      "notes": "",
-      "desc": "Communities to select, validate, and curate scientific discoveries, with each step in the process being stored on chain, creating an immutable record.\n ## Resources\n- <a target=_blank href=https://desci.com/arcs>The DAO stack for Scientific Societies</a>\n",
+      "desc": "Dynamic research objects (5) that combine text, code, data, videos, peer-reviews, annotations, and commentaries, allowing to trace the development of a research object over time including version management, citations, replication status, and the on-chain verification of open science practices, badges (e.g. for FAIR data), and replication status.\n\n ## Projects\n- <a target=_blank href=https://desci.com/sciweave>DeSci Nodes</a>\n",
       "link": "",
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 66,
+      "parent": null,
       "pos": {
-        "x": 15915.183349609375,
-        "y": 7906.909384306327
-      },
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 70,
-      "kind": "node",
-      "label": "decentralised scientometrics",
-      "notes": "",
-      "desc": "Robust methods to determine scientific impact. These are alternative to the existing peer-review process and journal circulation.",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 66,
-      "pos": {
-        "x": 15859.566680908203,
-        "y": 8131.909384306327
-      },
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 71,
-      "kind": "node",
-      "label": "decentralised scientific funding",
-      "notes": "",
-      "desc": "Decentralised methods of funding scientific research. These are an alternative to grant proposals and centralised funding bodies.\n\n ## Projects\n- <a target=_blank href=https://www.vitadao.com/>VitaDAO</a>\n- <a target=_blank href=https://www.molecule.to/>Molecule</a>\n\n ## Resources\n- <a target=_blank href=https://www.lifespan.io/topic/funding-science-with-a-dao-the-who-what-why-how/>Funding Science With a DAO: The Who, What, Why & How</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 66,
-      "pos": {
-        "x": 16867.866668701172,
-        "y": 8131.909384306327
-      },
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 67,
-      "kind": "node",
-      "label": "Research Objects",
-      "notes": "",
-      "desc": "A method for the identification, aggregation and exchange of scholarly information on the Web. The primary goal of the research object approach is to provide a mechanism to associate related resources about a scientific investigation so that they can be shared using a single identifier.\n ## Projects\n- <a target=_blank href=https://figshare.com/>Figshare</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 66,
-      "pos": {
-        "x": 17078.749117479918,
-        "y": 7929.115234375
+        "x": 9487.33334350586,
+        "y": 2679.5
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -3840,10 +4046,10 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 66,
+      "parent": null,
       "pos": {
-        "x": 16803.91754399359,
-        "y": 7479.5
+        "x": 9537.983337402344,
+        "y": 5904.5
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -3858,28 +4064,82 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 66,
+      "parent": null,
       "pos": {
-        "x": 15724.983337402344,
-        "y": 7681.909384306327
+        "x": 9474.983337402344,
+        "y": 7329.5
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
     {
-      "id": 68,
+      "id": 74,
       "kind": "node",
-      "label": "Verified Research Objects",
+      "label": "autonomous research communities (ARCs)",
       "notes": "",
-      "desc": "Dynamic research objects (5) that combine text, code, data, videos, peer-reviews, annotations, and commentaries, allowing to trace the development of a research object over time including version management, citations, replication status, and the on-chain verification of open science practices, badges (e.g. for FAIR data), and replication status.\n\n ## Projects\n- <a target=_blank href=https://desci.com/sciweave>DeSci Nodes</a>\n",
+      "desc": "Communities to select, validate, and curate scientific discoveries, with each step in the process being stored on chain, creating an immutable record.\n ## Resources\n- <a target=_blank href=https://desci.com/arcs>The DAO stack for Scientific Societies</a>\n",
       "link": "",
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 66,
+      "parent": null,
       "pos": {
-        "x": 15737.33334350586,
-        "y": 7456.909384306327
+        "x": 15365.183349609375,
+        "y": 5379.5
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 70,
+      "kind": "node",
+      "label": "decentralised scientometrics",
+      "notes": "",
+      "desc": "Robust methods to determine scientific impact. These are alternative to the existing peer-review process and journal circulation.",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 9534.566680908203,
+        "y": 6504.5
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 71,
+      "kind": "node",
+      "label": "decentralised scientific funding",
+      "notes": "",
+      "desc": "Decentralised methods of funding scientific research. These are an alternative to grant proposals and centralised funding bodies.\n\n ## Projects\n- <a target=_blank href=https://www.vitadao.com/>VitaDAO</a>\n- <a target=_blank href=https://www.molecule.to/>Molecule</a>\n\n ## Resources\n- <a target=_blank href=https://www.lifespan.io/topic/funding-science-with-a-dao-the-who-what-why-how/>Funding Science With a DAO: The Who, What, Why & How</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 15342.866668701172,
+        "y": 5904.5
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 67,
+      "kind": "node",
+      "label": "Research Objects",
+      "notes": "",
+      "desc": "A method for the identification, aggregation and exchange of scholarly information on the Web. The primary goal of the research object approach is to provide a mechanism to associate related resources about a scientific investigation so that they can be shared using a single identifier.\n ## Projects\n- <a target=_blank href=https://figshare.com/>Figshare</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 8019.866668701172,
+        "y": 2679.5
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -3894,28 +4154,126 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 66,
+      "parent": null,
       "pos": {
-        "x": 16887.233337402344,
-        "y": 7681.909384306327
+        "x": 15287.233337402344,
+        "y": 6954.5
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
     {
-      "id": 95,
+      "id": 1199,
       "kind": "node",
-      "label": "social recovery",
+      "label": "open data",
       "notes": "",
-      "desc": "The recovery of an account's private keys using the consent of a member from a qualified majority of (a random subset of) the account's communities.",
+      "desc": "",
       "link": "",
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 85,
+      "parent": null,
       "pos": {
-        "x": 16683.483337402344,
-        "y": 5004.5
+        "x": 7610.733337402344,
+        "y": 7329.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 143,
+      "kind": "node",
+      "label": "anti-collusion",
+      "notes": "",
+      "desc": "A protocol that prevents malicious users from buying votes.\n\n## Projects\n- <a target=_blank href=https://github.com/privacy-scaling-explorations/maci>Minimal Anti-Collusion Infrastructure (MACI)</a>\n- <a target=_blank href=https://clr.fund/#/>Clr.fund</a>\n",
+      "link": "",
+      "tags": [
+        "risk"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 10435.516662597656,
+        "y": 5229.5
+      },
+      "fill": "#cb5656ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 142,
+      "kind": "node",
+      "label": "decentralised voting",
+      "notes": "",
+      "desc": "A voting protocol that preserves the correctness and secrecy of votes without a central coordinating body.\n\n ## Projects\n- <a target=_blank href=https://vocdoni.app/>Vocdoni</a>\n- <a target=_blank href=https://snapshot.org/>Snapshot</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 11583.299987792969,
+        "y": 5229.5
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1207,
+      "kind": "node",
+      "label": "zero-knowledge signalling",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -2884.1000061035156,
+        "y": 1329.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 91,
+      "kind": "node",
+      "label": "retroactive public goods funding",
+      "notes": "",
+      "desc": "## Projects\n- <a target=_blank href=https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c>Retroactive Public Goods Funding (Optimism)</a>\n- <a target=_blank href=https://research.protocol.ai/blog/2022/a-public-goods-experiment-on-filecoin-retroactively-funding-impact-with-quadratic-voting/>Filecoin Community PR</a>\n",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 13783.149993896484,
+        "y": 6054.5
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 96,
+      "kind": "node",
+      "label": "quadratic funding",
+      "notes": "",
+      "desc": "Distribution of funds using quadratic voting\n\n ## Projects\n- <a target=_blank href=https://gitcoin.co/>Gitcoin Grants</a>\n- <a target=_blank href=https://clr.fund/#/>Clr.fund</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 11620.683334350586,
+        "y": 5679.5
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -3932,30 +4290,33 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 85,
+      "parent": null,
       "pos": {
-        "x": 17008.29998779297,
-        "y": 4704.5
+        "x": 5963.9666748046875,
+        "y": 3669
       },
       "fill": "#eccd2aff",
-      "nodelabelfontsize": 75,
+      "nodelabelfontsize": 100,
       "backgroundImageURL": null
     },
     {
-      "id": 98,
+      "id": 55,
       "kind": "node",
-      "label": "plural property",
+      "label": "undercollaterised lending markets",
       "notes": "",
-      "desc": "",
+      "desc": "Lending based on some measure of creditworthiness, as opposed to collateral.",
       "link": "",
-      "tags": [],
+      "tags": [
+        "application"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 85,
+      "parent": null,
       "pos": {
-        "x": 17351.566665649414,
-        "y": 4854.5
+        "x": 12982.5,
+        "y": 2754.5
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -3969,69 +4330,12 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 85,
+      "parent": null,
       "pos": {
-        "x": 16228.33334350586,
-        "y": 4479.5
+        "x": 10699.116668701172,
+        "y": 3219
       },
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 92,
-      "kind": "node",
-      "label": "verifiable credentials",
-      "notes": "",
-      "desc": "Verifiable credentials (VCs) are an open standard for digital credentials. They can represent information found in physical credentials, such as a passport or license, as well as new things that have no physical equivalent, such as ownership of a bank account.\n\n ## Projects\n- <a target=_blank href=https://www.w3.org/TR/vc-data-model/#use-cases-and-requirements>W3C Recommendation</a>\n",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 85,
-      "pos": {
-        "x": 17288.86839032406,
-        "y": 4509.077310090155
-      },
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 86,
-      "kind": "node",
-      "label": "soulbound tokens",
-      "notes": "",
-      "desc": "Publicly visible, non-transferable (but possibly revocable-by-the-issuer) tokens.\n\n## Resources\n- <a target=_blank href=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763>Soulbound Tokens (SBTs)</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 85,
-      "pos": {
-        "x": 16123.283325195312,
-        "y": 4704.5
-      },
-      "fill": "#eccd2aff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 97,
-      "kind": "node",
-      "label": "programmable plural privacy",
-      "notes": "",
-      "desc": "A paradigm where privacy as privacy is treated as a programmable, loosely coupled bundle of rights to permission access, alter or profit from information.",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 85,
-      "pos": {
-        "x": 16203.816680908203,
-        "y": 4854.5
-      },
-      "nodelabelfontsize": 75,
+      "nodelabelfontsize": 100,
       "backgroundImageURL": null
     },
     {
@@ -4046,31 +4350,225 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 85,
+      "parent": null,
       "pos": {
-        "x": 17227.79998779297,
-        "y": 4329.5
+        "x": 15856.683349609375,
+        "y": 3219
       },
       "fill": "#eccd2aff",
-      "nodelabelfontsize": 75,
+      "nodelabelfontsize": 100,
       "backgroundImageURL": null
     },
     {
-      "id": 96,
+      "id": 960,
       "kind": "node",
-      "label": "quadratic funding",
+      "label": "mixers",
       "notes": "",
-      "desc": "Distribution of funds using quadratic voting\n\n ## Projects\n- <a target=_blank href=https://gitcoin.co/>Gitcoin Grants</a>\n- <a target=_blank href=https://clr.fund/#/>Clr.fund</a>\n",
+      "desc": "## Projects\n- [TornadoCash](https://ipfs.io/ipns/tornadocash.eth/)",
       "link": "",
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 85,
+      "parent": null,
       "pos": {
-        "x": 15950.030377628747,
-        "y": 5047.288247590155
+        "x": 8613.449996948242,
+        "y": 279.5
       },
       "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 973,
+      "kind": "node",
+      "label": "DP-SGD",
+      "notes": "differentially private stochastic gradient descent",
+      "desc": "## Projects\n- [TensorFlow Privacy](https://github.com/tensorflow/privacy)\n- [Objax](https://github.com/google/objax)\n- [Opacus](https://github.com/pytorch/opacus)",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 2785.5,
+        "y": 8709.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": 45,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 974,
+      "kind": "node",
+      "label": "Model Agnostic Private Learning",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 2685.3500061035156,
+        "y": 8154.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 133,
+      "kind": "node",
+      "label": "zkRollups",
+      "notes": "",
+      "desc": "A scaling solution that provides validity proofs for off-chain transactions.\n\n ## Projects\n- <a target=_blank href=https://zksync.io/>zkSync</a>\n- <a target=_blank href=https://loopring.org/#/>Loopring</a>\n- <a target=_blank href=https://aztec.network/>Aztec</a>\n- <a target=_blank href=https://starkware.co/starknet/>StarkNet</a>\n- <a target=_blank href=https://polygon.technology/solutions/polygon-zero/>Polygon Zero</a>\n- <a target=_blank href=https://polygon.technology/solutions/polygon-hermez/>Polygon Hermez</a>\n",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 4531.216659545898,
+        "y": 2904.5
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 134,
+      "kind": "node",
+      "label": "optimistic rollups",
+      "notes": "",
+      "desc": "An optimistic scaling solution that provides fraud proofs for off-chain transactions.\n\n ## Projects\n- <a target=_blank href=https://www.optimism.io/>Optimism</a>\n- <a target=_blank href=https://arbitrum.io/>Arbitrum</a>\n- <a target=_blank href=https://polygon.technology/solutions/polygon-nightfall/>Polygon Nightfall</a>\n- <a target=_blank href=https://fuel.network/>Fuel Network</a>\n",
+      "link": "",
+      "tags": [
+        "core"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 4492.033340454102,
+        "y": 3279.5
+      },
+      "fill": "#144bf1ff",
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 966,
+      "kind": "node",
+      "label": "model parallelism",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -1127.0499877929688,
+        "y": 7254.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 965,
+      "kind": "node",
+      "label": "data parallelism",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -327.8999938964844,
+        "y": 7254.5
+      },
+      "nodelabelfontsize": 75,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 86,
+      "kind": "node",
+      "label": "soulbound tokens",
+      "notes": "",
+      "desc": "Publicly visible, non-transferable (but possibly revocable-by-the-issuer) tokens.\n\n## Resources\n- <a target=_blank href=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763>Soulbound Tokens (SBTs)</a>\n",
+      "link": "",
+      "tags": [
+        "frontier"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 6609.0333251953125,
+        "y": 4194
+      },
+      "fill": "#eccd2aff",
+      "nodelabelfontsize": 100,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 97,
+      "kind": "node",
+      "label": "programmable plural privacy",
+      "notes": "",
+      "desc": "A paradigm where privacy as privacy is treated as a programmable, loosely coupled bundle of rights to permission access, alter or profit from information.",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 12903.816680908203,
+        "y": 4179.5
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 98,
+      "kind": "node",
+      "label": "plural property",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 11201.566665649414,
+        "y": 4179.5
+      },
+      "nodelabelfontsize": 75,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 92,
+      "kind": "node",
+      "label": "verifiable credentials",
+      "notes": "",
+      "desc": "Verifiable credentials (VCs) are an open standard for digital credentials. They can represent information found in physical credentials, such as a passport or license, as well as new things that have no physical equivalent, such as ownership of a bank account.\n\n ## Projects\n- <a target=_blank href=https://www.w3.org/TR/vc-data-model/#use-cases-and-requirements>W3C Recommendation</a>\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 5314.483337402344,
+        "y": 4194
+      },
+      "nodelabelfontsize": 100,
       "backgroundImageURL": null
     },
     {
@@ -4083,218 +4581,29 @@
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 85,
+      "parent": null,
       "pos": {
-        "x": 17403.08334350586,
-        "y": 5004.5
+        "x": 8778.08334350586,
+        "y": 3954.5
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
     {
-      "id": 91,
+      "id": 95,
       "kind": "node",
-      "label": "retroactive public goods funding",
+      "label": "social recovery",
       "notes": "",
-      "desc": "## Projects\n- <a target=_blank href=https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c>Retroactive Public Goods Funding (Optimism)</a>\n- <a target=_blank href=https://research.protocol.ai/blog/2022/a-public-goods-experiment-on-filecoin-retroactively-funding-impact-with-quadratic-voting/>Filecoin Community PR</a>\n",
-      "link": "",
-      "tags": [
-        "frontier"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 90,
-      "pos": {
-        "x": 11683.149993896484,
-        "y": 8754.5
-      },
-      "fill": "#eccd2aff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 118,
-      "kind": "node",
-      "label": "social DAOs",
-      "notes": "",
-      "desc": "A digitally native tribe consisting of people with similar interests.\n\n ## Projects\n- <a target=_blank href=https://www.fwb.help/>Friends With Benefits</a>\n- <a target=_blank href=https://www.seedclub.xyz/>Seed Club</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 115,
-      "pos": {
-        "x": 12706.731315612793,
-        "y": 7898.06637926069
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 117,
-      "kind": "node",
-      "label": "grant DAOs",
-      "notes": "",
-      "desc": "A DAO that pools and distributes funds to projects.\n\n ## Projects\n- <a target=_blank href=https://aavegrants.org/>Aave Grants DAO</a>\n- <a target=_blank href=https://molochdao.com/>MolochDAO</a>\n- <a target=_blank href=https://oceanprotocol.com>Ocean Protocol</a>\n- <a target=_blank href=https://www.vitadao.com/>VitaDAO</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 115,
-      "pos": {
-        "x": 12205.033340454102,
-        "y": 7704.5
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 120,
-      "kind": "node",
-      "label": "investment DAOs",
-      "notes": "",
-      "desc": "A DAO that invests in companies in order to generate gains and/or influence decision-making.\n\n ## Projects\n- <a target=_blank href=https://www.krausehouse.club/>Krause House</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 115,
-      "pos": {
-        "x": 11015.66667175293,
-        "y": 7629.5
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 116,
-      "kind": "node",
-      "label": "protocol DAOs",
-      "notes": "",
-      "desc": "A DAO that votes to decide changes in a technology protocol.\n\n ## Projects\n- <a target=_blank href=https://www.fwb.help/>Friends With Benefits</a>\n- <a target=_blank href=https://www.seedclub.xyz/>Seed Club</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 115,
-      "pos": {
-        "x": 12624.449996948242,
-        "y": 7479.5
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 122,
-      "kind": "node",
-      "label": "impact DAOs",
-      "notes": "",
-      "desc": "A DAO that votes to decide changes in a technology protocol.\n\n ## Projects\n- <a target=_blank href=https://www.fwb.help/>Friends With Benefits</a>\n- <a target=_blank href=https://www.seedclub.xyz/>Seed Club</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 115,
-      "pos": {
-        "x": 11598.496612548828,
-        "y": 7677.4306640625
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 121,
-      "kind": "node",
-      "label": "collector DAOs",
-      "notes": "",
-      "desc": "A group of collectors who pool their funds to acquire ownership of NFTs or real-world art.\n\n ## Projects\n- <a target=_blank href=https://pleasr.org/>PleasrDAO</a>\n- <a target=_blank href=https://flamingodao.xyz/>Flamingo DAO</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 115,
-      "pos": {
-        "x": 12030.25,
-        "y": 7929.5
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 119,
-      "kind": "node",
-      "label": "professional DAOs",
-      "notes": "",
-      "desc": "A collective of professionals in a common field, who share skills and resources to collaborate on projects.\n\n ## Projects\n- <a target=_blank href=https://www.raidguild.org/#manifesto>RaidGuild</a>\n",
-      "link": "",
-      "tags": [
-        "application"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 115,
-      "pos": {
-        "x": 11033.549987792969,
-        "y": 7929.5
-      },
-      "fill": "#b8e986ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 142,
-      "kind": "node",
-      "label": "decentralised voting",
-      "notes": "",
-      "desc": "A voting protocol that preserves the correctness and secrecy of votes without a central coordinating body.\n\n ## Projects\n- <a target=_blank href=https://vocdoni.app/>Vocdoni</a>\n- <a target=_blank href=https://snapshot.org/>Snapshot</a>\n",
+      "desc": "The recovery of an account's private keys using the consent of a member from a qualified majority of (a random subset of) the account's communities.",
       "link": "",
       "tags": [],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 141,
+      "parent": null,
       "pos": {
-        "x": 11616.399993896484,
-        "y": 6038.076067919126
+        "x": 8658.483337402344,
+        "y": 5529.5
       },
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 143,
-      "kind": "node",
-      "label": "anti-collusion",
-      "notes": "",
-      "desc": "A protocol that prevents malicious users from buying votes.\n\n## Projects\n- <a target=_blank href=https://github.com/privacy-scaling-explorations/maci>Minimal Anti-Collusion Infrastructure (MACI)</a>\n- <a target=_blank href=https://clr.fund/#/>Clr.fund</a>\n",
-      "link": "",
-      "tags": [
-        "risk"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 141,
-      "pos": {
-        "x": 11595.918849577087,
-        "y": 5873.076067919126
-      },
-      "fill": "#cb5656ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4332,143 +4641,6 @@
         "y": 2995.3215351391827
       },
       "nodelabelfontsize": 45,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 973,
-      "kind": "node",
-      "label": "DP-SGD",
-      "notes": "differentially private stochastic gradient descent",
-      "desc": "## Projects\n- [TensorFlow Privacy](https://github.com/tensorflow/privacy)\n- [Objax](https://github.com/google/objax)\n- [Opacus](https://github.com/pytorch/opacus)",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 932,
-      "pos": {
-        "x": 2360.5,
-        "y": 8526.625440884985
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 974,
-      "kind": "node",
-      "label": "Model Agnostic Private Learning",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 932,
-      "pos": {
-        "x": 2260.3500061035156,
-        "y": 8721.625440884985
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 134,
-      "kind": "node",
-      "label": "optimistic rollups",
-      "notes": "",
-      "desc": "An optimistic scaling solution that provides fraud proofs for off-chain transactions.\n\n ## Projects\n- <a target=_blank href=https://www.optimism.io/>Optimism</a>\n- <a target=_blank href=https://arbitrum.io/>Arbitrum</a>\n- <a target=_blank href=https://polygon.technology/solutions/polygon-nightfall/>Polygon Nightfall</a>\n- <a target=_blank href=https://fuel.network/>Fuel Network</a>\n",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 952,
-      "pos": {
-        "x": 4442.033340454102,
-        "y": 3269.5833163471834
-      },
-      "fill": "#144bf1ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 133,
-      "kind": "node",
-      "label": "zkRollups",
-      "notes": "",
-      "desc": "A scaling solution that provides validity proofs for off-chain transactions.\n\n ## Projects\n- <a target=_blank href=https://zksync.io/>zkSync</a>\n- <a target=_blank href=https://loopring.org/#/>Loopring</a>\n- <a target=_blank href=https://aztec.network/>Aztec</a>\n- <a target=_blank href=https://starkware.co/starknet/>StarkNet</a>\n- <a target=_blank href=https://polygon.technology/solutions/polygon-zero/>Polygon Zero</a>\n- <a target=_blank href=https://polygon.technology/solutions/polygon-hermez/>Polygon Hermez</a>\n",
-      "link": "",
-      "tags": [
-        "core"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 952,
-      "pos": {
-        "x": 4406.66667175293,
-        "y": 3147.5
-      },
-      "fill": "#144bf1ff",
-      "nodelabelfontsize": 75,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 960,
-      "kind": "node",
-      "label": "mixers",
-      "notes": "",
-      "desc": "## Projects\n- [TornadoCash](https://ipfs.io/ipns/tornadocash.eth/)",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 959,
-      "pos": {
-        "x": 8613.449996948242,
-        "y": 837.9107639352223
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 965,
-      "kind": "node",
-      "label": "data parallelism",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 964,
-      "pos": {
-        "x": -212.30213492273288,
-        "y": 6803.449260499607
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 966,
-      "kind": "node",
-      "label": "model parallelism",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": 964,
-      "pos": {
-        "x": -186.45212881921725,
-        "y": 6653.449260499607
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
     {
