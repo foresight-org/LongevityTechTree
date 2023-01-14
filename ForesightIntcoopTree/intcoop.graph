@@ -6,8 +6,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 753,
       "toId": 755,
@@ -19,8 +21,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 754,
       "toId": 755,
@@ -32,8 +36,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 758,
       "toId": 1011,
@@ -45,8 +51,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 759,
       "toId": 1011,
@@ -58,8 +66,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1010,
       "toId": 1011,
@@ -71,8 +81,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1015,
       "toId": 1017,
@@ -84,8 +96,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1016,
       "toId": 1017,
@@ -97,8 +111,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1020,
       "toId": 755,
@@ -110,8 +126,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1022,
       "toId": 1011,
@@ -123,8 +141,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1011,
       "toId": 1025,
@@ -136,8 +156,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 755,
       "toId": 1025,
@@ -149,8 +171,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1017,
       "toId": 1025,
@@ -162,8 +186,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1031,
       "toId": 1020,
@@ -175,8 +201,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1033,
       "toId": 1020,
@@ -188,8 +216,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1036,
       "toId": 1031,
@@ -201,8 +231,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1037,
       "toId": 1031,
@@ -214,8 +246,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1041,
       "toId": 1036,
@@ -227,8 +261,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1040,
       "toId": 1036,
@@ -240,8 +276,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1045,
       "toId": 1037,
@@ -253,8 +291,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1047,
       "toId": 1037,
@@ -266,8 +306,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1050,
       "toId": 1033,
@@ -279,8 +321,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1052,
       "toId": 1050,
@@ -292,8 +336,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1051,
       "toId": 1050,
@@ -305,8 +351,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1049,
       "toId": 1033,
@@ -318,8 +366,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1058,
       "toId": 1049,
@@ -331,8 +381,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1057,
       "toId": 1049,
@@ -344,8 +396,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1062,
       "toId": 754,
@@ -357,8 +411,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1061,
       "toId": 754,
@@ -370,8 +426,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1063,
       "toId": 1061,
@@ -383,8 +441,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1064,
       "toId": 1061,
@@ -396,8 +456,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1067,
       "toId": 1062,
@@ -409,8 +471,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1066,
       "toId": 1062,
@@ -422,8 +486,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1065,
       "toId": 1062,
@@ -435,8 +501,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1068,
       "toId": 1062,
@@ -448,8 +516,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1078,
       "toId": 753,
@@ -461,8 +531,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1077,
       "toId": 753,
@@ -474,8 +546,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1081,
       "toId": 1078,
@@ -487,8 +561,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1083,
       "toId": 1078,
@@ -500,8 +576,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1085,
       "toId": 1083,
@@ -513,8 +591,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1087,
       "toId": 1083,
@@ -526,8 +606,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1089,
       "toId": 1083,
@@ -539,8 +621,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1091,
       "toId": 1081,
@@ -552,8 +636,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1093,
       "toId": 1077,
@@ -565,8 +651,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1094,
       "toId": 1077,
@@ -578,8 +666,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1097,
       "toId": 1094,
@@ -591,8 +681,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1099,
       "toId": 1094,
@@ -604,8 +696,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1101,
       "toId": 1099,
@@ -617,8 +711,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1103,
       "toId": 1081,
@@ -630,8 +726,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1105,
       "toId": 1081,
@@ -643,8 +741,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1107,
       "toId": 1094,
@@ -656,8 +756,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1109,
       "toId": 1093,
@@ -669,8 +771,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1111,
       "toId": 1093,
@@ -682,8 +786,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 755,
       "toId": 1011,
@@ -695,8 +801,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1114,
       "toId": 1017,
@@ -708,8 +816,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1116,
       "toId": 1010,
@@ -721,8 +831,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 51,
       "toId": 51,
@@ -734,8 +846,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 51,
       "toId": 51,
@@ -747,8 +861,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 115,
       "toId": 90,
@@ -760,8 +876,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 946,
       "toId": 947,
@@ -773,8 +891,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 160,
       "toId": 161,
@@ -786,8 +906,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 946,
       "toId": 157,
@@ -799,8 +921,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 157,
       "toId": 160,
@@ -812,8 +936,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 959,
       "toId": 956,
@@ -825,8 +951,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 181,
       "toId": 755,
@@ -838,8 +966,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 947,
       "toId": 159,
@@ -851,8 +981,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 947,
       "toId": 935,
@@ -864,8 +996,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 755,
       "toId": 964,
@@ -877,8 +1011,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1140,
       "toId": 168,
@@ -890,8 +1026,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1140,
       "toId": 953,
@@ -903,8 +1041,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1143,
       "toId": 953,
@@ -916,8 +1056,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 953,
       "toId": 956,
@@ -929,8 +1071,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 932,
       "toId": 1130,
@@ -942,8 +1086,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 933,
       "toId": 1130,
@@ -955,8 +1101,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 964,
       "toId": 930,
@@ -968,8 +1116,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 930,
       "toId": 1130,
@@ -981,8 +1131,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 755,
       "toId": 935,
@@ -994,8 +1146,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 935,
       "toId": 1130,
@@ -1007,8 +1161,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 964,
       "toId": 1131,
@@ -1020,8 +1176,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 147,
       "toId": 149,
@@ -1033,8 +1191,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 148,
       "toId": 149,
@@ -1046,8 +1206,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 149,
       "toId": 150,
@@ -1059,8 +1221,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 51,
       "toId": 150,
@@ -1072,8 +1236,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1132,
       "toId": 141,
@@ -1085,8 +1251,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1132,
       "toId": 51,
@@ -1098,8 +1266,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 141,
       "toId": 115,
@@ -1111,8 +1281,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 126,
       "toId": 128,
@@ -1124,8 +1296,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 135,
       "toId": 1132,
@@ -1137,8 +1311,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1166,
       "toId": 1132,
@@ -1150,8 +1326,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1170,
       "toId": 1166,
@@ -1163,8 +1341,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1168,
       "toId": 1170,
@@ -1176,8 +1356,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 149,
       "toId": 135,
@@ -1189,8 +1371,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 126,
       "toId": 60,
@@ -1202,8 +1386,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1175,
       "toId": 168,
@@ -1215,8 +1401,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 168,
       "toId": 933,
@@ -1228,8 +1416,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 947,
       "toId": 981,
@@ -1241,8 +1431,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1179,
       "toId": 981,
@@ -1254,8 +1446,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1181,
       "toId": 1179,
@@ -1267,8 +1461,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 168,
       "toId": 1133,
@@ -1280,8 +1476,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 981,
       "toId": 982,
@@ -1293,8 +1491,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1133,
       "toId": 1134,
@@ -1306,8 +1506,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 982,
       "toId": 1134,
@@ -1319,8 +1521,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 158,
       "toId": 1133,
@@ -1332,8 +1536,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 947,
       "toId": 158,
@@ -1345,8 +1551,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 158,
       "toId": 133,
@@ -1358,8 +1566,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 126,
       "toId": 88,
@@ -1371,8 +1581,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 88,
       "toId": 1132,
@@ -1384,8 +1596,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 66,
       "toId": 66,
@@ -1397,8 +1611,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 944,
       "toId": 1133,
@@ -1410,8 +1626,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 971,
       "toId": 1133,
@@ -1423,8 +1641,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 147,
       "toId": 67,
@@ -1436,8 +1656,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 67,
       "toId": 68,
@@ -1449,8 +1671,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1132,
       "toId": 68,
@@ -1462,8 +1686,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 115,
       "toId": 74,
@@ -1475,8 +1701,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 74,
       "toId": 71,
@@ -1488,8 +1716,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 70,
       "toId": 82,
@@ -1501,8 +1731,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 69,
       "toId": 82,
@@ -1514,8 +1746,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1199,
       "toId": 69,
@@ -1527,8 +1761,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1132,
       "toId": 73,
@@ -1540,8 +1776,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 73,
       "toId": 70,
@@ -1553,8 +1791,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 143,
       "toId": 142,
@@ -1566,8 +1806,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1132,
       "toId": 143,
@@ -1579,8 +1821,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 159,
       "toId": 1207,
@@ -1592,8 +1836,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1207,
       "toId": 143,
@@ -1605,8 +1851,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 71,
       "toId": 66,
@@ -1618,8 +1866,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 82,
       "toId": 66,
@@ -1631,8 +1881,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 90,
       "toId": 91,
@@ -1644,8 +1896,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 142,
       "toId": 96,
@@ -1657,8 +1911,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 96,
       "toId": 90,
@@ -1670,8 +1926,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 51,
       "toId": 55,
@@ -1683,8 +1941,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 93,
       "toId": 94,
@@ -1696,8 +1956,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1132,
       "toId": 94,
@@ -1709,8 +1971,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 94,
       "toId": 89,
@@ -1722,8 +1986,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 959,
       "toId": 960,
@@ -1735,8 +2001,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 94,
       "toId": 55,
@@ -1748,8 +2016,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 973,
       "toId": 932,
@@ -1761,8 +2031,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 974,
       "toId": 932,
@@ -1774,8 +2046,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 133,
       "toId": 135,
@@ -1787,8 +2061,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 134,
       "toId": 135,
@@ -1800,8 +2076,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 965,
       "toId": 964,
@@ -1813,8 +2091,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 966,
       "toId": 964,
@@ -1826,8 +2106,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 88,
       "toId": 88,
@@ -1839,8 +2121,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 98,
       "toId": 97,
@@ -1852,8 +2136,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1132,
       "toId": 86,
@@ -1865,8 +2151,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 86,
       "toId": 98,
@@ -1878,8 +2166,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 93,
       "toId": 88,
@@ -1891,8 +2181,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 92,
       "toId": 88,
@@ -1904,8 +2196,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 86,
       "toId": 88,
@@ -1917,8 +2211,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 86,
       "toId": 87,
@@ -1930,8 +2226,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 87,
       "toId": 94,
@@ -1943,8 +2241,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1132,
       "toId": 95,
@@ -1956,8 +2256,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 969,
       "toId": 972,
@@ -1969,8 +2271,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 972,
       "toId": 968,
@@ -1982,8 +2286,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 968,
       "toId": 967,
@@ -1995,8 +2301,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 970,
       "toId": 967,
@@ -2008,8 +2316,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 1243,
       "toId": 959,
@@ -2021,8 +2331,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [],
-      "directed": true,
+      "tags": [
+
+      ],
+      "directed": false,
       "weight": 5,
       "fromId": 967,
       "toId": 1243,
@@ -2037,14 +2349,15 @@
       "link": "",
       "tags": [
         "frontier",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -4926.483337402344,
-        "y": 3879.5
+        "x": -4852.4609375,
+        "y": 2080
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -2060,14 +2373,15 @@
       "link": "",
       "tags": [
         "frontier",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5715.383331298828,
-        "y": 6204.5
+        "x": -6391.359375,
+        "y": 3280
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -2082,14 +2396,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3609.933334350586,
-        "y": 6204.5
+        "x": -3010.9140625,
+        "y": 3280
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2103,14 +2418,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3261.9166564941406,
-        "y": 3504.5
+        "x": -2887.9296875,
+        "y": 2380
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2124,14 +2440,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3679.8333435058594,
-        "y": 3954.5
+        "x": -3080.84375,
+        "y": 2605
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2145,14 +2462,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -2821.5,
-        "y": 4404.5
+        "x": -2597.5,
+        "y": 2155
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2166,14 +2484,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -449.04998779296875,
-        "y": 3954.5
+        "x": -1575.0078125,
+        "y": 2905
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2187,14 +2506,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3523.1000061035156,
-        "y": 7764.5
+        "x": -5549.0859375,
+        "y": 4930
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2208,14 +2528,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3535.75,
-        "y": 7149.5
+        "x": -5581.0625,
+        "y": 4705
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2229,14 +2550,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -1826.0333404541016,
-        "y": 7764.5
+        "x": -3327.03125,
+        "y": 4930
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2251,14 +2573,15 @@
       "link": "",
       "tags": [
         "frontier",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -4880.75,
-        "y": 8154.5
+        "x": -6006.7265625,
+        "y": 4255
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -2273,14 +2596,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3201.366668701172,
-        "y": 4779.5
+        "x": -3427.3515625,
+        "y": 2905
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2294,14 +2618,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5478.9666748046875,
-        "y": 6204.5
+        "x": 1341.171875,
+        "y": 4930
       },
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
@@ -2315,14 +2640,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5851.666664123535,
-        "y": 7854.5
+        "x": -7352.6796875,
+        "y": 4255
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2336,14 +2662,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5826.866668701172,
-        "y": 8979.5
+        "x": -7327.8671875,
+        "y": 5155
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2357,14 +2684,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7870.91667175293,
-        "y": 7404.5
+        "x": -8471.9140625,
+        "y": 4255
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2378,14 +2706,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7925.399993896484,
-        "y": 8079.5
+        "x": -8526.3828125,
+        "y": 4630
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2399,14 +2728,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9808.41667175293,
-        "y": 7629.5
+        "x": -9584.40625,
+        "y": 4255
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2420,14 +2750,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9799.649993896484,
-        "y": 7179.5
+        "x": -9575.671875,
+        "y": 4105
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2441,14 +2772,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9860.933334350586,
-        "y": 7929.5
+        "x": -9636.921875,
+        "y": 4480
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2462,14 +2794,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9833.48332977295,
-        "y": 8229.5
+        "x": -9684.46875,
+        "y": 4630
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2483,14 +2816,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7912.833335876465,
-        "y": 8604.5
+        "x": -8138.8203125,
+        "y": 5155
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2504,14 +2838,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7921.883331298828,
-        "y": 9354.5
+        "x": -8147.890625,
+        "y": 5605
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2525,14 +2860,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9230.283340454102,
-        "y": 9579.5
+        "x": -9531.2890625,
+        "y": 5605
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2546,14 +2882,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9280.933319091797,
-        "y": 9204.5
+        "x": -9506.953125,
+        "y": 5380
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2567,14 +2904,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9437.41665649414,
-        "y": 8904.5
+        "x": -9513.4140625,
+        "y": 5155
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2588,14 +2926,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9423.783332824707,
-        "y": 8529.5
+        "x": -9724.7734375,
+        "y": 4930
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2609,14 +2948,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6461.036544799805,
-        "y": 6520.1220703125
+        "x": -7463.7890625,
+        "y": 3655
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2630,14 +2970,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6471.449996948242,
-        "y": 5799.5
+        "x": -7316.75,
+        "y": 3130
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2652,14 +2993,15 @@
       "link": "",
       "tags": [
         "core",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8549.16665649414,
-        "y": 6729.5
+        "x": -9000.203125,
+        "y": 3805
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2674,14 +3016,15 @@
       "link": "",
       "tags": [
         "core",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8517.433349609375,
-        "y": 6429.5
+        "x": -8968.4375,
+        "y": 3655
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2695,14 +3038,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8905.066680908203,
-        "y": 5904.5
+        "x": -9206.0546875,
+        "y": 3280
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2716,14 +3060,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8916.16665649414,
-        "y": 5679.5
+        "x": -9217.1640625,
+        "y": 3130
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2737,14 +3082,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8170.199996948242,
-        "y": 5499.5
+        "x": -9165.515625,
+        "y": 2980
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2758,14 +3104,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8206.41665649414,
-        "y": 6129.5
+        "x": -9032.4296875,
+        "y": 3430
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2779,14 +3126,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5921.974983215332,
-        "y": 4706.998893737793
+        "x": -6057.0625,
+        "y": 2080
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2800,14 +3148,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5958.566665649414,
-        "y": 3504.5
+        "x": -5884.5390625,
+        "y": 1555
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2821,14 +3170,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6897.416664123535,
-        "y": 2754.5
+        "x": -6448.4140625,
+        "y": 1255
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2842,14 +3192,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6869.33332824707,
-        "y": 3729.5
+        "x": -6720.3046875,
+        "y": 1705
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2864,14 +3215,15 @@
       "link": "",
       "tags": [
         "core",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8625.966674804688,
-        "y": 3729.5
+        "x": -8401.9609375,
+        "y": 1705
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2886,14 +3238,15 @@
       "link": "",
       "tags": [
         "core",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8607.733337402344,
-        "y": 3954.5
+        "x": -8383.7421875,
+        "y": 1855
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2908,14 +3261,15 @@
       "link": "",
       "tags": [
         "core",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8626.866668701172,
-        "y": 3504.5
+        "x": -8402.8828125,
+        "y": 1555
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2930,14 +3284,15 @@
       "link": "",
       "tags": [
         "core",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8633.683334350586,
-        "y": 3054.5
+        "x": -7584.6328125,
+        "y": 1405
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2951,14 +3306,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6997.466659545898,
-        "y": 4329.5
+        "x": -7598.4609375,
+        "y": 2080
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2972,14 +3328,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7717.883331298828,
-        "y": 4929.5
+        "x": -6968.890625,
+        "y": 2455
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2994,14 +3351,15 @@
       "link": "",
       "tags": [
         "core",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -10980.366668701172,
-        "y": 4929.5
+        "x": -9781.3671875,
+        "y": 2605
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3016,14 +3374,15 @@
       "link": "",
       "tags": [
         "core",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9636.850006103516,
-        "y": 5229.5
+        "x": -9412.8359375,
+        "y": 2455
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3038,14 +3397,15 @@
       "link": "",
       "tags": [
         "core",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -10706.233337402344,
-        "y": 5229.5
+        "x": -10107.2265625,
+        "y": 2455
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3060,14 +3420,15 @@
       "link": "",
       "tags": [
         "core",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8673.41665649414,
-        "y": 2529.5
+        "x": -7624.4609375,
+        "y": 1105
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3082,14 +3443,15 @@
       "link": "",
       "tags": [
         "core",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8604.433334350586,
-        "y": 2754.5
+        "x": -8230.4296875,
+        "y": 1255
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3104,14 +3466,15 @@
       "link": "",
       "tags": [
         "core",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9641.783325195312,
-        "y": 4779.5
+        "x": -8292.7421875,
+        "y": 2755
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3126,14 +3489,15 @@
       "link": "",
       "tags": [
         "core",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -10068.283340454102,
-        "y": 4254.5
+        "x": -8644.25,
+        "y": 2080
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3148,14 +3512,15 @@
       "link": "",
       "tags": [
         "core",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -10043.299987792969,
-        "y": 4479.5
+        "x": -8619.2890625,
+        "y": 2230
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3169,14 +3534,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3528.7999877929688,
-        "y": 8214.5
+        "x": -5554.78125,
+        "y": 5155
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3190,14 +3556,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3782.75,
-        "y": 4404.5
+        "x": -3408.7890625,
+        "y": 2155
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3212,14 +3579,15 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "data governance"
+        "data governance",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5632.466659545898,
-        "y": 2880.9107675695914
+        "x": -5708.4609375,
+        "y": 2806.4107675695914
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -3231,19 +3599,19 @@
       "notes": "",
       "desc": "",
       "link": "",
-      "tags": [],
+      "tags": [
+        "frontier",
+        "artificial intelligence",
+        "private computation",
+        "goal"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1876.4166564941406,
-        "y": 5679.5
+        "x": 2250.453125,
+        "y": 4555
       },
-      "tags": [
-        "frontier",
-        "artificial intelligence",
-        "private computation"
-      ],
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3258,14 +3626,15 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3833.8333435058594,
-        "y": 8454.5
+        "x": 5407.8125,
+        "y": 4105
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3279,14 +3648,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1150.4166870117188,
-        "y": 5004.5
+        "x": 3324.40625,
+        "y": 4330
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3301,14 +3671,15 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 17076.733276367188,
-        "y": 8452.5
+        "x": 8075.6953125,
+        "y": 4330
       },
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
@@ -3323,14 +3694,15 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5403.683319091797,
-        "y": 6654.5
+        "x": 3902.703125,
+        "y": 5380
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3345,14 +3717,15 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -745.8500061035156,
-        "y": 6654.5
+        "x": -821.8515625,
+        "y": 5380
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3366,21 +3739,18 @@
       "desc": "",
       "link": "",
       "tags": [
+        "frontier",
+        "decentralised systems",
         "artificial intelligence",
-        "decentralised systems"
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 382.7166748046875,
-        "y": 8827.5
+        "x": 3156.65625,
+        "y": 5680
       },
-      "tags": [
-        "frontier",
-        "decentralised systems",
-        "artificial intelligence"
-      ],
       "fill": "#eccd2aff",
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
@@ -3395,14 +3765,15 @@
       "link": "",
       "tags": [
         "application",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11595.08334350586,
-        "y": 6054.5
+        "x": 14069.0859375,
+        "y": 3880
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3417,14 +3788,15 @@
       "link": "",
       "tags": [
         "application",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11608.483337402344,
-        "y": 3711.5
+        "x": 10869.1171875,
+        "y": 2755
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3439,14 +3811,15 @@
       "link": "",
       "tags": [
         "frontier",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 12202.33334350586,
-        "y": 4645.288033959563
+        "x": 11661.65625,
+        "y": 3430
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -3461,14 +3834,15 @@
       "link": "",
       "tags": [
         "frontier",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 17943.483337402344,
-        "y": 6354.5
+        "x": 17792.484375,
+        "y": 3430
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -3482,14 +3856,15 @@
       "desc": "Virtual communities that come together around a common purpose, coordinated by voting through smart contracts on a public blockchain. These communities feature collective ownership and decision-making.\n\n ## Resources\n- <a target=_blank href=A Prehistory of DAOs>A Prehistory of DAOs (2021) - Kei Kreutler</a>\n- <a target=_blank href=https://www.fwb.help/wip/what-co-ops-and-daos-can-learn-from-each-other>What Co-ops and DAOs Can Learn From Each Other (2022) - Austin Robey</a>\n",
       "link": "",
       "tags": [
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 13326.933349609375,
-        "y": 5379.5
+        "x": 13025.953125,
+        "y": 3430
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -3502,14 +3877,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 9594.25,
-        "y": 4702.5
+        "x": 9593.2265625,
+        "y": 3430
       },
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
@@ -3524,14 +3900,15 @@
       "link": "",
       "tags": [
         "frontier",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -4977.0999755859375,
-        "y": 1629.5
+        "x": -3328.109375,
+        "y": 430
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -3546,14 +3923,15 @@
       "link": "",
       "tags": [
         "frontier",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -1732.5666809082031,
-        "y": -920.5
+        "x": -1283.5546875,
+        "y": -320
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -3568,14 +3946,15 @@
       "link": "",
       "tags": [
         "core",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -2862.5333251953125,
-        "y": 504.5
+        "x": -2938.484375,
+        "y": 130
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": 45,
@@ -3590,14 +3969,15 @@
       "link": "",
       "tags": [
         "frontier",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5037.639999389648,
-        "y": 1215.8515447845493
+        "x": -4498.25,
+        "y": 430
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -3611,14 +3991,15 @@
       "link": "",
       "tags": [
         "frontier",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1074.6166687011719,
-        "y": 1179.5
+        "x": 1298.59375,
+        "y": 880
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -3633,14 +4014,15 @@
       "link": "",
       "tags": [
         "frontier",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -1785.6166687011719,
-        "y": -1895.5
+        "x": -61.6171875,
+        "y": -1445
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -3656,14 +4038,15 @@
       "link": "",
       "tags": [
         "frontier",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3032.1666564941406,
-        "y": -1520.5
+        "x": -258.21875,
+        "y": -1295
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3678,14 +4061,15 @@
       "link": "",
       "tags": [
         "decentralised systems",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6687.516662597656,
-        "y": -545.5
+        "x": 3236.4921875,
+        "y": -545
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3698,17 +4082,18 @@
       "notes": "",
       "desc": "",
       "link": "",
+      "tags": [
+        "core",
+        "private computation",
+        "goal"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6962.683334350586,
-        "y": 879.5
+        "x": -5688.671875,
+        "y": -95
       },
-      "tags": [
-        "core",
-        "private computation"
-      ],
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3722,14 +4107,15 @@
       "link": "",
       "tags": [
         "frontier",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5063.366668701172,
-        "y": 2154.5
+        "x": -1989.375,
+        "y": 430
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -3742,17 +4128,18 @@
       "notes": "",
       "desc": "",
       "link": "",
+      "tags": [
+        "frontier",
+        "private computation",
+        "goal"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6749.7833251953125,
-        "y": -1522.5
+        "x": 3748.7890625,
+        "y": -1145
       },
-      "tags": [
-        "frontier",
-        "private computation"
-      ],
       "fill": "#eccd2aff",
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
@@ -3766,14 +4153,15 @@
       "desc": "## Projects\n- [Penumbra](https://protocol.penumbra.zone/main/crypto/flow/ideal.html)",
       "link": "",
       "tags": [
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1763.3500061035156,
-        "y": 1629.5
+        "x": 1162.3515625,
+        "y": 1255
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3787,14 +4175,15 @@
       "desc": "## Resources\n\n\n-   [Express: Lowering the Cost of Metadata-hiding Communication with Cryptographic Privacy - Usenix Security 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/eskandarian) \n-   [Karaoke: Distributed Private Messaging Immune to Passive Traffic Analysis - OSDI 2018](https://www.usenix.org/conference/osdi18/presentation/lazar)\n-   [PIR-Tor: Scalable Anonymous Communication Using Private Information Retrieval](https://www.usenix.org/conference/usenix-security-11/pir-tor-scalable-anonymous-communication-using-private-information)\n-   [Oblivious DNS: Practical Privacy for DNS Queries](https://petsymposium.org/2019/files/papers/issue2/popets-2019-0028.pdf)\n-   [CryptDB: processing queries on an encrypted database](https://dl.acm.org/doi/abs/10.1145/2330667.2330691)",
       "link": "",
       "tags": [
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 7239.550003051758,
-        "y": 804.5
+        "x": 6263.5546875,
+        "y": -20
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3809,14 +4198,15 @@
       "link": "",
       "tags": [
         "private computation",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 13338,
-        "y": 1629.5
+        "x": 9737.015625,
+        "y": 430
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3831,14 +4221,15 @@
       "link": "",
       "tags": [
         "private computation",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 10398.5,
-        "y": 804.5
+        "x": 8822.5078125,
+        "y": -20
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3851,18 +4242,19 @@
       "notes": "",
       "desc": "",
       "link": "",
+      "tags": [
+        "frontier",
+        "private computation",
+        "decentralised systems",
+        "goal"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 16509.516723632812,
-        "y": -922.5
+        "x": 6608.5078125,
+        "y": -545
       },
-      "tags": [
-        "frontier",
-        "private computation",
-        "decentralised systems"
-      ],
       "fill": "#eccd2aff",
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
@@ -3876,14 +4268,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5045.616668701172,
-        "y": 504.5
+        "x": -4296.609375,
+        "y": -95
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -3896,17 +4289,18 @@
       "notes": "",
       "desc": "",
       "link": "",
+      "tags": [
+        "core",
+        "private computation",
+        "goal"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -1398.8500061035156,
-        "y": 504.5
+        "x": -424.8828125,
+        "y": 1030
       },
-      "tags": [
-        "core",
-        "private computation"
-      ],
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3918,17 +4312,18 @@
       "notes": "",
       "desc": "",
       "link": "",
+      "tags": [
+        "core",
+        "private computation",
+        "goal"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -786.1166687011719,
-        "y": 1629.5
+        "x": -337.1171875,
+        "y": 1330
       },
-      "tags": [
-        "core",
-        "private computation"
-      ],
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3942,14 +4337,15 @@
       "link": "",
       "tags": [
         "decentralised systems",
-        "data governance"
+        "data governance",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8038.399993896484,
-        "y": 2229.5
+        "x": 7812.390625,
+        "y": 1630
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -3964,14 +4360,15 @@
       "tags": [
         "frontier",
         "decentralised systems",
-        "data governance"
+        "data governance",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 15801.566650390625,
-        "y": 2304.5
+        "x": 11825.5859375,
+        "y": 1630
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
@@ -3986,14 +4383,15 @@
       "link": "",
       "tags": [
         "core",
-        "data governance"
+        "data governance",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5062.4666748046875,
-        "y": 1854.5
+        "x": 5061.453125,
+        "y": 1630
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -4005,18 +4403,18 @@
       "notes": "",
       "desc": "An open file format is a file format for storing digital data, defined by a openly published specification usually maintained by a standards organization, and which can be used and implemented by anyone. Open file format is licensed with open license.\n\n ## Projects\n- <a target=_blank href=https://www.unidata.ucar.edu/software/netcdf/>Network Common Data Form (netCDF)</a>\n\n ## Resources\n- <a target=_blank href=https://en.wikipedia.org/wiki/Open_file_format>Open file format (Wikipedia)</a>\n- <a target=_blank href=http://opendatahandbook.org/guide/en/appendices/file-formats/>Open Data Handbook</a>\n- <a target=_blank href=https://ipld.io/>InterPlanetary Linked Data (IPLD)</a>\n- <a target=_blank href=https://www.wolfram.com/cdf/>Computable Document Format (Wolfram)</a>\n",
       "link": "",
-      "tags": [],
+      "tags": [
+        "core",
+        "data governance",
+        "goal"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5091.200012207031,
-        "y": 2679.5
+        "x": 5090.1953125,
+        "y": 1855
       },
-      "tags": [
-        "core",
-        "data governance"
-      ],
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4030,14 +4428,15 @@
       "tags": [
         "frontier",
         "decentralised systems",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3378.3999938964844,
-        "y": 4719
+        "x": 6227.40625,
+        "y": 3520
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 100,
@@ -4052,14 +4451,15 @@
       "link": "",
       "tags": [
         "frontier",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4585.450012207031,
-        "y": 4719
+        "x": 4734.4609375,
+        "y": 3070
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 100,
@@ -4073,14 +4473,15 @@
       "desc": "A blockchain that requires only constant-size computation to validate.\n\n ## Projects\n- <a target=_blank href=https://minaprotocol.com/>Mina Protocol</a>\n",
       "link": "",
       "tags": [
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6045.616668701172,
-        "y": 3144
+        "x": 6269.640625,
+        "y": 2320
       },
       "nodelabelfontsize": 100,
       "backgroundImageURL": null
@@ -4094,14 +4495,15 @@
       "link": "",
       "tags": [
         "decentralised systems",
-        "data governance"
+        "data governance",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6041.583343505859,
-        "y": 5244
+        "x": 7015.640625,
+        "y": 3745
       },
       "nodelabelfontsize": 100,
       "nodenotesfontsize": null,
@@ -4114,17 +4516,18 @@
       "notes": "",
       "desc": "",
       "link": "",
+      "tags": [
+        "core",
+        "data governance",
+        "goal"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3852.2000122070312,
-        "y": 5244
+        "x": 4826.2109375,
+        "y": 3745
       },
-      "tags": [
-        "core",
-        "data governance"
-      ],
       "nodelabelfontsize": 100,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4137,14 +4540,15 @@
       "desc": "",
       "link": "",
       "tags": [
-        "data governance"
+        "data governance",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4880.516662597656,
-        "y": 5244
+        "x": 5929.578125,
+        "y": 3745
       },
       "nodelabelfontsize": 100,
       "nodenotesfontsize": null,
@@ -4159,14 +4563,15 @@
       "link": "",
       "tags": [
         "risk",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3976.4500122070312,
-        "y": 3819
+        "x": 6450.453125,
+        "y": 3295
       },
       "fill": "#cb5656ff",
       "nodelabelfontsize": 100,
@@ -4181,14 +4586,15 @@
       "link": "",
       "tags": [
         "core",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1025.0666809082031,
-        "y": 429.5
+        "x": 124.0859375,
+        "y": 655
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4203,14 +4609,15 @@
       "link": "",
       "tags": [
         "frontier",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -2824.2000122070312,
-        "y": -20.5
+        "x": -2225.1953125,
+        "y": -545
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4225,14 +4632,15 @@
       "link": "",
       "tags": [
         "core",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5059.383331298828,
-        "y": -245.5
+        "x": -4460.4140625,
+        "y": -545
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4247,14 +4655,15 @@
       "link": "",
       "tags": [
         "core",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6860.300003051758,
-        "y": -245.5
+        "x": -5586.3125,
+        "y": -545
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4269,14 +4678,15 @@
       "link": "",
       "tags": [
         "risk",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6044.700012207031,
-        "y": 4719
+        "x": 6043.7109375,
+        "y": 3070
       },
       "fill": "#cb5656ff",
       "nodelabelfontsize": 100,
@@ -4292,14 +4702,15 @@
       "tags": [
         "application",
         "decentralised systems",
-        "data governance"
+        "data governance",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 9487.33334350586,
-        "y": 2679.5
+        "x": 8361.359375,
+        "y": 2005
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -4314,14 +4725,15 @@
       "link": "",
       "tags": [
         "application",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 9537.983337402344,
-        "y": 5904.5
+        "x": 9986.9921875,
+        "y": 4330
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -4336,14 +4748,15 @@
       "tags": [
         "application",
         "decentralised systems",
-        "data governance"
+        "data governance",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 9474.983337402344,
-        "y": 7329.5
+        "x": 15098.9453125,
+        "y": 4555
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -4358,14 +4771,15 @@
       "tags": [
         "application",
         "decentralised systems",
-        "data governance"
+        "data governance",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 15365.183349609375,
-        "y": 5379.5
+        "x": 14914.2265625,
+        "y": 3430
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -4380,14 +4794,15 @@
       "tags": [
         "application",
         "decentralised systems",
-        "data governance"
+        "data governance",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 9534.566680908203,
-        "y": 6504.5
+        "x": 14933.546875,
+        "y": 4330
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -4401,14 +4816,15 @@
       "link": "",
       "tags": [
         "application",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 15342.866668701172,
-        "y": 5904.5
+        "x": 16166.8359375,
+        "y": 3430
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -4423,14 +4839,15 @@
       "tags": [
         "core",
         "decentralised systems",
-        "data governance"
+        "data governance",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8019.866668701172,
-        "y": 2679.5
+        "x": 6443.8984375,
+        "y": 2005
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -4445,14 +4862,15 @@
       "tags": [
         "frontier",
         "decentralised systems",
-        "data governance"
+        "data governance",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 15287.233337402344,
-        "y": 6954.5
+        "x": 16261.265625,
+        "y": 3730
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -4467,14 +4885,15 @@
       "tags": [
         "frontier",
         "decentralised systems",
-        "data governance"
+        "data governance",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 7610.733337402344,
-        "y": 7329.5
+        "x": 14284.75,
+        "y": 4555
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4489,14 +4908,15 @@
       "link": "",
       "tags": [
         "risk",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 10435.516662597656,
-        "y": 5229.5
+        "x": 10284.5,
+        "y": 3880
       },
       "fill": "#cb5656ff",
       "nodelabelfontsize": 75,
@@ -4511,14 +4931,15 @@
       "link": "",
       "tags": [
         "core",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11583.299987792969,
-        "y": 5229.5
+        "x": 10982.296875,
+        "y": 3880
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -4532,14 +4953,15 @@
       "link": "",
       "tags": [
         "core",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -2884.1000061035156,
-        "y": 1329.5
+        "x": -1760.0859375,
+        "y": 130
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4554,16 +4976,17 @@
       "link": "",
       "tags": [
         "application",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
-      "fill": "#eccd2aff",
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 13783.149993896484,
-        "y": 6054.5
+        "x": 15057.1640625,
+        "y": 3880
       },
+      "fill": "#eccd2aff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4576,14 +4999,15 @@
       "link": "",
       "tags": [
         "core",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11620.683334350586,
-        "y": 5679.5
+        "x": 11769.6640625,
+        "y": 3880
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -4597,14 +5021,15 @@
       "link": "",
       "tags": [
         "core",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5963.9666748046875,
-        "y": 3669
+        "x": 6338.0234375,
+        "y": 2545
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 100,
@@ -4619,16 +5044,17 @@
       "link": "",
       "tags": [
         "application",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
-      "fill": "#b8e986ff",
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 12982.5,
-        "y": 2754.5
+        "x": 13281.4921875,
+        "y": 2755
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4641,14 +5067,15 @@
       "link": "",
       "tags": [
         "application",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 10699.116668701172,
-        "y": 3219
+        "x": 10623.1328125,
+        "y": 2395
       },
       "nodelabelfontsize": 100,
       "backgroundImageURL": null
@@ -4662,14 +5089,15 @@
       "link": "",
       "tags": [
         "application",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 15856.683349609375,
-        "y": 3219
+        "x": 12780.703125,
+        "y": 2395
       },
       "fill": "#eccd2aff",
       "nodelabelfontsize": 100,
@@ -4682,17 +5110,18 @@
       "notes": "",
       "desc": "## Projects\n- [TornadoCash](https://ipfs.io/ipns/tornadocash.eth/)",
       "link": "",
+      "tags": [
+        "application",
+        "private computation",
+        "goal"
+      ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 10413.449996948242,
-        "y": 54.5
+        "x": 9587.453125,
+        "y": -170
       },
-      "tags": [
-        "application",
-        "private computation"
-      ],
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4707,14 +5136,15 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 2785.5,
-        "y": 8709.5
+        "x": 2935,
+        "y": 3701
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": 45,
@@ -4729,14 +5159,15 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 2685.3500061035156,
-        "y": 8154.5
+        "x": 3059.359375,
+        "y": 4105
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4751,14 +5182,15 @@
       "link": "",
       "tags": [
         "core",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4531.216659545898,
-        "y": 2904.5
+        "x": 5130.2109375,
+        "y": 2155
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -4772,14 +5204,15 @@
       "link": "",
       "tags": [
         "core",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4492.033340454102,
-        "y": 3279.5
+        "x": 4941.0078125,
+        "y": 2455
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -4793,14 +5226,15 @@
       "link": "",
       "tags": [
         "core",
-        "data governance"
+        "data governance",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -1127.0499877929688,
-        "y": 7254.5
+        "x": -3603.0625,
+        "y": 5380
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4815,14 +5249,15 @@
       "link": "",
       "tags": [
         "core",
-        "data governance"
+        "data governance",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -327.8999938964844,
-        "y": 7254.5
+        "x": -3328.9140625,
+        "y": 5230
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -4837,16 +5272,17 @@
       "link": "",
       "tags": [
         "frontier",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
-      "fill": "#eccd2aff",
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6609.0333251953125,
-        "y": 4194
+        "x": 7133.0703125,
+        "y": 2920
       },
+      "fill": "#eccd2aff",
       "nodelabelfontsize": 100,
       "backgroundImageURL": null
     },
@@ -4859,14 +5295,15 @@
       "link": "",
       "tags": [
         "application",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 12903.816680908203,
-        "y": 4179.5
+        "x": 11927.8359375,
+        "y": 2980
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -4880,14 +5317,15 @@
       "link": "",
       "tags": [
         "application",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11201.566665649414,
-        "y": 4179.5
+        "x": 10900.578125,
+        "y": 2980
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -4901,14 +5339,15 @@
       "link": "",
       "tags": [
         "application",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5314.483337402344,
-        "y": 4194
+        "x": 4863.4921875,
+        "y": 2770
       },
       "nodelabelfontsize": 100,
       "backgroundImageURL": null
@@ -4922,14 +5361,15 @@
       "link": "",
       "tags": [
         "core",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8778.08334350586,
-        "y": 3954.5
+        "x": 9452.1015625,
+        "y": 2605
       },
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
@@ -4943,14 +5383,15 @@
       "link": "",
       "tags": [
         "application",
-        "decentralised systems"
+        "decentralised systems",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8658.483337402344,
-        "y": 5529.5
+        "x": 11357.4765625,
+        "y": 3655
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -4965,19 +5406,15 @@
       "link": "",
       "tags": [
         "core",
-        "decentralised systems",
-        "private computation"
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6231.416664123535,
-        "y": 1029.5
+        "x": 5330.4140625,
+        "y": 205
       },
-      "tags": [
-        "core"
-      ],
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4992,14 +5429,15 @@
       "tags": [
         "frontier",
         "decentralised systems",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5048.066665649414,
-        "y": 654.5
+        "x": 3997.0625,
+        "y": -20
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -5015,14 +5453,15 @@
       "tags": [
         "frontier",
         "decentralised systems",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4860.850006103516,
-        "y": 354.5
+        "x": 3059.8671875,
+        "y": -20
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -5038,14 +5477,15 @@
       "tags": [
         "frontier",
         "decentralised systems",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6221.816680908203,
-        "y": 654.5
+        "x": 5020.8203125,
+        "y": -20
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -5061,14 +5501,15 @@
       "tags": [
         "frontier",
         "decentralised systems",
-        "private computation"
+        "private computation",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8745.483337402344,
-        "y": 804.5
+        "x": 7469.4921875,
+        "y": -20
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -5083,14 +5524,15 @@
       "link": "",
       "tags": [
         "data governance",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": 181,
       "pos": {
-        "x": -5663.72726070998,
-        "y": 2886.5
+        "x": -5739.721538664082,
+        "y": 2812
       },
       "nodelabelfontsize": 45,
       "backgroundImageURL": null
@@ -5104,14 +5546,15 @@
       "link": "",
       "tags": [
         "data governance",
-        "artificial intelligence"
+        "artificial intelligence",
+        "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": 181,
       "pos": {
-        "x": -5638.610592008808,
-        "y": 2995.3215351391827
+        "x": -5714.60486996291,
+        "y": 2920.8215351391827
       },
       "nodelabelfontsize": 45,
       "backgroundImageURL": null
