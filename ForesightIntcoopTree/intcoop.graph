@@ -846,19 +846,6 @@
       "shape": "ortho"
     },
     {
-      "id": 1141,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": false,
-      "weight": 5,
-      "fromId": 1140,
-      "toId": 168,
-      "shape": "ortho"
-    },
-    {
       "id": 1142,
       "kind": "edge",
       "label": "",
@@ -2070,8 +2057,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -4852.4609375,
-        "y": 2080
+        "x": -13825.483337402344,
+        "y": 2468.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -2094,8 +2081,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6391.359375,
-        "y": 3280
+        "x": -15873.359375,
+        "y": 4405
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -2118,8 +2105,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3010.9140625,
-        "y": 3280
+        "x": -12492.9140625,
+        "y": 4405
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -2142,8 +2129,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3161.9166564941406,
-        "y": 2454.5
+        "x": -12643.91665649414,
+        "y": 3579.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -2165,8 +2152,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3029.8333435058594,
-        "y": 2654.5
+        "x": -12511.83334350586,
+        "y": 3779.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -2189,8 +2176,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -271.5,
-        "y": 2354.5
+        "x": -9753.5,
+        "y": 3479.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -2213,8 +2200,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 950.9500122070312,
-        "y": 2654.5
+        "x": -8531.049987792969,
+        "y": 3779.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -2236,8 +2223,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3898.1000061035156,
-        "y": 5054.5
+        "x": -13380.100006103516,
+        "y": 6179.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -2260,8 +2247,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3930.050003051758,
-        "y": 4854.5
+        "x": -13412.050003051758,
+        "y": 5979.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -2284,8 +2271,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -2726.0333404541016,
-        "y": 4854.5
+        "x": -12208.033340454102,
+        "y": 5979.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -2308,8 +2295,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6630.75,
-        "y": 4854.5
+        "x": -16112.75,
+        "y": 5979.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -2332,8 +2319,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3151.366668701172,
-        "y": 2954.5
+        "x": -12633.366668701172,
+        "y": 4079.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -2356,8 +2343,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1342.2332763671875,
-        "y": 4927.5
+        "x": -8139.7667236328125,
+        "y": 6052.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 200,
@@ -2380,8 +2367,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7251.666664123535,
-        "y": 4454.5
+        "x": -16733.666664123535,
+        "y": 5579.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2404,8 +2391,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7226.866668701172,
-        "y": 5454.5
+        "x": -16708.866668701172,
+        "y": 6579.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2428,8 +2415,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8471.9140625,
-        "y": 4255
+        "x": -17953.9140625,
+        "y": 5380
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2452,8 +2439,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8575.399993896484,
-        "y": 4654.5
+        "x": -18057.399993896484,
+        "y": 5779.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2476,8 +2463,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9558.41667175293,
-        "y": 4354.5
+        "x": -19040.41667175293,
+        "y": 5479.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2500,8 +2487,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9575.671875,
-        "y": 4105
+        "x": -19057.671875,
+        "y": 5230
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2524,8 +2511,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9610.933334350586,
-        "y": 4654.5
+        "x": -19092.933334350586,
+        "y": 5779.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2548,8 +2535,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8138.8203125,
-        "y": 5155
+        "x": -17620.8203125,
+        "y": 6280
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2572,8 +2559,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8121.883331298828,
-        "y": 5654.5
+        "x": -17603.883331298828,
+        "y": 6779.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2596,8 +2583,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9605.283340454102,
-        "y": 5854.5
+        "x": -19087.2833404541,
+        "y": 6979.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2620,8 +2607,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9580.933319091797,
-        "y": 5554.5
+        "x": -19062.933319091797,
+        "y": 6679.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2644,8 +2631,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9513.4140625,
-        "y": 5155
+        "x": -18995.4140625,
+        "y": 6280
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2668,8 +2655,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7463.7890625,
-        "y": 3655
+        "x": -16945.7890625,
+        "y": 4780
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2692,8 +2679,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7315.75,
-        "y": 3154.5
+        "x": -16797.75,
+        "y": 4279.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2716,8 +2703,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9000.203125,
-        "y": 3805
+        "x": -18482.203125,
+        "y": 4930
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2740,8 +2727,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8968.4375,
-        "y": 3655
+        "x": -18450.4375,
+        "y": 4780
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2764,8 +2751,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9206.0546875,
-        "y": 3280
+        "x": -18688.0546875,
+        "y": 4405
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2788,8 +2775,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9217.1640625,
-        "y": 3130
+        "x": -18699.1640625,
+        "y": 4255
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2812,8 +2799,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9165.515625,
-        "y": 2980
+        "x": -18647.515625,
+        "y": 4105
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2836,8 +2823,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9032.4296875,
-        "y": 3430
+        "x": -18514.4296875,
+        "y": 4555
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2860,8 +2847,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5956.033340454102,
-        "y": 2354.5
+        "x": -15438.033340454102,
+        "y": 3479.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2884,8 +2871,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5884.5390625,
-        "y": 1555
+        "x": -15457.566665649414,
+        "y": 1968.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2908,8 +2895,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6647.416664123535,
-        "y": 1254.5
+        "x": -16129.416664123535,
+        "y": 2379.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2932,8 +2919,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6619.33332824707,
-        "y": 1754.5
+        "x": -16068.33332824707,
+        "y": 1568.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2956,8 +2943,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8401.9609375,
-        "y": 1705
+        "x": -18074.966674804688,
+        "y": 1568.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -2980,8 +2967,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8383.7421875,
-        "y": 1855
+        "x": -17881.733337402344,
+        "y": 1168.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3004,8 +2991,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8402.8828125,
-        "y": 1555
+        "x": -17975.866668701172,
+        "y": 1868.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3028,8 +3015,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7584.6328125,
-        "y": 1405
+        "x": -17066.6328125,
+        "y": 2530
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3052,8 +3039,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6997.466659545898,
-        "y": 2154.5
+        "x": -16479.4666595459,
+        "y": 3279.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3076,8 +3063,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6942.883331298828,
-        "y": 2454.5
+        "x": -16424.883331298828,
+        "y": 3579.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3100,8 +3087,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9781.3671875,
-        "y": 2605
+        "x": -19263.3671875,
+        "y": 3730
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3124,8 +3111,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9412.8359375,
-        "y": 2455
+        "x": -18894.8359375,
+        "y": 3580
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3148,8 +3135,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -10356.233337402344,
-        "y": 2454.5
+        "x": -19838.233337402344,
+        "y": 3579.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3172,8 +3159,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7624.4609375,
-        "y": 1105
+        "x": -17106.4609375,
+        "y": 2230
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3196,8 +3183,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8230.4296875,
-        "y": 1255
+        "x": -17712.4296875,
+        "y": 2380
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3220,8 +3207,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8292.7421875,
-        "y": 2755
+        "x": -17774.7421875,
+        "y": 3880
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3244,8 +3231,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8644.25,
-        "y": 2080
+        "x": -18126.25,
+        "y": 3205
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3268,8 +3255,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8619.2890625,
-        "y": 2230
+        "x": -18101.2890625,
+        "y": 3355
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3292,8 +3279,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3903.7999877929688,
-        "y": 4654.5
+        "x": -13385.799987792969,
+        "y": 5779.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -3316,8 +3303,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -257.75,
-        "y": 2054.5
+        "x": -9739.75,
+        "y": 3179.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3340,8 +3327,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5708.4609375,
-        "y": 2806.4107675695914
+        "x": -15190.4609375,
+        "y": 3931.4107675695914
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -3364,8 +3351,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1526.4166564941406,
-        "y": 4454.5
+        "x": -7955.583343505859,
+        "y": 5579.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3389,8 +3376,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4508.833343505859,
-        "y": 6254.5
+        "x": -4973.166656494141,
+        "y": 7379.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -3413,8 +3400,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3324.40625,
-        "y": 4330
+        "x": -6157.59375,
+        "y": 5455
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -3438,8 +3425,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8187.6734619140625,
-        "y": 5571.2080078125
+        "x": -1294.3265380859375,
+        "y": 6696.2080078125
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 200,
@@ -3463,8 +3450,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3903.683319091797,
-        "y": 5554.5
+        "x": -5578.316680908203,
+        "y": 6679.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -3487,8 +3474,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -1296.8515625,
-        "y": 6230
+        "x": -10778.8515625,
+        "y": 7355
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3512,8 +3499,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3957.7166748046875,
-        "y": 6827.5
+        "x": -5524.2833251953125,
+        "y": 7952.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 200,
@@ -3536,8 +3523,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 17928.013458251953,
-        "y": 5506.03662109375
+        "x": 10079.013458251953,
+        "y": 5920.03662109375
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -3559,8 +3546,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 14945.116668701172,
-        "y": 3254.5
+        "x": 5463.116668701172,
+        "y": 4379.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -3582,8 +3569,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 18163.889709472656,
-        "y": 4170.5
+        "x": 8814.889709472656,
+        "y": 5084.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3605,8 +3592,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 26693.816661834717,
-        "y": 4846.5
+        "x": 14344.816661834717,
+        "y": 5960.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3628,8 +3615,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 22163.400024414062,
-        "y": 4153.5
+        "x": 12714.400024414062,
+        "y": 5067.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3651,8 +3638,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 9644.25,
-        "y": 3727.5
+        "x": 162.25,
+        "y": 4852.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 200,
@@ -3675,8 +3662,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3328.109375,
-        "y": 430
+        "x": -12810.109375,
+        "y": 1555
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3698,8 +3685,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -1283.5546875,
-        "y": -320
+        "x": -10765.5546875,
+        "y": 805
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3721,8 +3708,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -2938.484375,
-        "y": 130
+        "x": -12420.484375,
+        "y": 1255
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3745,8 +3732,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -4498.25,
-        "y": 430
+        "x": -13980.25,
+        "y": 1555
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3768,8 +3755,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1298.59375,
-        "y": 880
+        "x": -8407.383331298828,
+        "y": 1879.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3791,8 +3778,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -61.6171875,
-        "y": -1445
+        "x": -9543.6171875,
+        "y": -320
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3815,8 +3802,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -107.16665649414062,
-        "y": -945.5
+        "x": -9589.16665649414,
+        "y": 179.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3840,8 +3827,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3236.4921875,
-        "y": -545
+        "x": -6245.5078125,
+        "y": 580
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3864,8 +3851,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5688.671875,
-        "y": -95
+        "x": -15170.671875,
+        "y": 1030
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3888,8 +3875,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -1989.375,
-        "y": 430
+        "x": -11471.375,
+        "y": 1555
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3911,8 +3898,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3224.7833251953125,
-        "y": -1172.5
+        "x": -6257.2166748046875,
+        "y": -47.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 200,
@@ -3935,8 +3922,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1063.3500061035156,
-        "y": 1254.5
+        "x": -8418.649993896484,
+        "y": 2579.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -3959,8 +3946,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6263.5546875,
-        "y": -20
+        "x": -3218.4453125,
+        "y": 1105
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -3984,8 +3971,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 9737.015625,
-        "y": 430
+        "x": 255.015625,
+        "y": 1555
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -4009,8 +3996,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8822.5078125,
-        "y": -20
+        "x": -659.4921875,
+        "y": 1105
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4034,8 +4021,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 7709.2833251953125,
-        "y": -872
+        "x": -1772.7166748046875,
+        "y": 253
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 200,
@@ -4058,8 +4045,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -4296.609375,
-        "y": -95
+        "x": -13778.609375,
+        "y": 1030
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -4082,8 +4069,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -348.8500061035156,
-        "y": 1054.5
+        "x": -9830.850006103516,
+        "y": 2379.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -4106,8 +4093,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -361.1166687011719,
-        "y": 1454.5
+        "x": -9843.116668701172,
+        "y": 2779.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -4131,8 +4118,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 7812.390625,
-        "y": 1630
+        "x": -1669.609375,
+        "y": 2755
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4155,8 +4142,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 17376.566650390625,
-        "y": 1654.5
+        "x": 7894.566650390625,
+        "y": 2779.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -4178,8 +4165,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5061.453125,
-        "y": 1630
+        "x": -4420.546875,
+        "y": 2755
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -4201,8 +4188,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5090.1953125,
-        "y": 1855
+        "x": -4391.8046875,
+        "y": 2980
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -4225,8 +4212,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4053.3999938964844,
-        "y": 3569
+        "x": -5428.600006103516,
+        "y": 4694
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 100,
@@ -4248,8 +4235,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1710.4500122070312,
-        "y": 3569
+        "x": -7771.549987792969,
+        "y": 4694
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 100,
@@ -4271,8 +4258,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6320.616668701172,
-        "y": 2269
+        "x": -3161.383331298828,
+        "y": 3394
       },
       "fill": "#f5a623ff",
       "nodelabelfontsize": 100,
@@ -4295,8 +4282,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 7841.583343505859,
-        "y": 4069
+        "x": -1640.4166564941406,
+        "y": 5194
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 100,
@@ -4319,8 +4306,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5227.200012207031,
-        "y": 4069
+        "x": -4254.799987792969,
+        "y": 5194
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 100,
@@ -4343,8 +4330,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6530.516662597656,
-        "y": 4069
+        "x": -2951.4833374023438,
+        "y": 5194
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 100,
@@ -4367,8 +4354,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3376.4500122070312,
-        "y": 3969
+        "x": -6105.549987792969,
+        "y": 5094
       },
       "fill": "#f5a623ff",
       "nodelabelfontsize": 100,
@@ -4390,8 +4377,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -374.9333190917969,
-        "y": 654.5
+        "x": -9856.933319091797,
+        "y": 1879.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -4414,8 +4401,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -2225.1953125,
-        "y": -545
+        "x": -11707.1953125,
+        "y": 580
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -4438,8 +4425,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -4460.4140625,
-        "y": -545
+        "x": -13942.4140625,
+        "y": 580
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -4462,8 +4449,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5586.3125,
-        "y": -545
+        "x": -15068.3125,
+        "y": 580
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -4486,8 +4473,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4117.786022186279,
-        "y": 3100.060302734375
+        "x": -5364.213977813721,
+        "y": 4225.060302734375
       },
       "fill": "#f5a623ff",
       "nodelabelfontsize": 100,
@@ -4510,8 +4497,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8361.359375,
-        "y": 2005
+        "x": -1120.640625,
+        "y": 3130
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4533,8 +4520,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 10062.983337402344,
-        "y": 5004.5
+        "x": 580.9833374023438,
+        "y": 6129.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4557,8 +4544,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 13999.983337402344,
-        "y": 5254.5
+        "x": 4517.983337402344,
+        "y": 6379.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4581,8 +4568,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 22865.183349609375,
-        "y": 3554.5
+        "x": 13383.183349609375,
+        "y": 4679.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4605,8 +4592,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 12559.566680908203,
-        "y": 5854.5
+        "x": 3077.566680908203,
+        "y": 6979.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4628,8 +4615,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 26192.866668701172,
-        "y": 3554.5
+        "x": 14843.866668701172,
+        "y": 4668.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4652,8 +4639,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6443.8984375,
-        "y": 2005
+        "x": -3038.1015625,
+        "y": 3130
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -4676,8 +4663,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 18537.233337402344,
-        "y": 4854.5
+        "x": 9288.233337402344,
+        "y": 6968.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -4700,8 +4687,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 12285.733337402344,
-        "y": 5254.5
+        "x": 2803.7333374023438,
+        "y": 6379.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -4724,8 +4711,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8485.516662597656,
-        "y": 4779.5
+        "x": -996.4833374023438,
+        "y": 5904.5
       },
       "fill": "#f5a623ff",
       "nodelabelfontsize": 75,
@@ -4747,8 +4734,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 10908.299987792969,
-        "y": 4779.5
+        "x": 1426.2999877929688,
+        "y": 5904.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -4770,8 +4757,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -1760.0859375,
-        "y": 130
+        "x": -11242.0859375,
+        "y": 1255
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -4794,8 +4781,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 21408.149993896484,
-        "y": 5454.5
+        "x": 11926.149993896484,
+        "y": 6579.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4817,8 +4804,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 12370.683334350586,
-        "y": 4779.5
+        "x": 2888.683334350586,
+        "y": 5904.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -4840,8 +4827,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8188.9666748046875,
-        "y": 2664
+        "x": -1293.0333251953125,
+        "y": 3789
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 100,
@@ -4863,8 +4850,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 13832.5,
-        "y": 2654.5
+        "x": 4350.5,
+        "y": 3779.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4886,8 +4873,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11924.116668701172,
-        "y": 2169
+        "x": 2442.116668701172,
+        "y": 3294
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 100,
@@ -4909,8 +4896,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 14481.34247970581,
-        "y": 2160.7275390625
+        "x": 4999.342479705811,
+        "y": 3285.7275390625
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 100,
@@ -4932,8 +4919,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 9587.453125,
-        "y": -170
+        "x": 138.4499969482422,
+        "y": 954.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4957,8 +4944,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 2682.6500244140625,
-        "y": 6054.5
+        "x": -6799.3499755859375,
+        "y": 7179.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -4982,8 +4969,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 2710.3500061035156,
-        "y": 6454.5
+        "x": -6771.649993896484,
+        "y": 7579.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -5006,8 +4993,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3981.2166595458984,
-        "y": 2154.5
+        "x": -5500.783340454102,
+        "y": 3279.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -5029,8 +5016,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4092.0333404541016,
-        "y": 2454.5
+        "x": -5389.966659545898,
+        "y": 3579.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -5052,8 +5039,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -4402.049987792969,
-        "y": 6054.5
+        "x": -13884.049987792969,
+        "y": 7179.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -5076,8 +5063,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -4427.899993896484,
-        "y": 6454.5
+        "x": -13909.899993896484,
+        "y": 7579.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -5100,8 +5087,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8484.033325195312,
-        "y": 3069
+        "x": -997.9666748046875,
+        "y": 4194
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 100,
@@ -5123,8 +5110,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 13453.816680908203,
-        "y": 3054.5
+        "x": 3971.816680908203,
+        "y": 4179.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -5146,8 +5133,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11951.566665649414,
-        "y": 3054.5
+        "x": 2469.566665649414,
+        "y": 4179.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -5169,8 +5156,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 2039.4833374023438,
-        "y": 2869
+        "x": -7442.516662597656,
+        "y": 3994
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 100,
@@ -5192,8 +5179,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11903.08334350586,
-        "y": 2754.5
+        "x": 2421.0833435058594,
+        "y": 3879.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -5215,8 +5202,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 10908.483337402344,
-        "y": 4254.5
+        "x": 1426.4833374023438,
+        "y": 5379.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -5237,8 +5224,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5330.4140625,
-        "y": 205
+        "x": -4151.5859375,
+        "y": 1330
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -5262,8 +5249,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3997.0625,
-        "y": -20
+        "x": -5484.9375,
+        "y": 1105
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -5287,8 +5274,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3059.8671875,
-        "y": -20
+        "x": -6422.1328125,
+        "y": 1105
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -5312,8 +5299,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5020.8203125,
-        "y": -20
+        "x": -4461.1796875,
+        "y": 1105
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -5337,8 +5324,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 7469.4921875,
-        "y": -20
+        "x": -2012.5078125,
+        "y": 1105
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -5361,8 +5348,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6444.316665649414,
-        "y": 2736.5
+        "x": -15926.316665649414,
+        "y": 3861.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 45,
@@ -5384,8 +5371,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6444.150001525879,
-        "y": 2936.5
+        "x": -15926.150001525879,
+        "y": 4061.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 45,
@@ -5406,8 +5393,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 14923.350021362305,
-        "y": 4175.8017578125
+        "x": 5474.350021362305,
+        "y": 5089.8017578125
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 80,
@@ -5429,11 +5416,30 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -572.0499877929688,
-        "y": 5370
+        "x": -10054.049987792969,
+        "y": 6495
       },
       "fill": "#f5a623ff",
       "nodelabelfontsize": 90,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1271,
+      "kind": "node",
+      "label": "welcome to the Intelligent Cooperation Tech Tree!",
+      "notes": " ",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 656.6166381835938,
+        "y": 365.5
+      },
+      "nodelabelfontsize": 60,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
@@ -5449,8 +5455,8 @@
       "is_collapsed": false,
       "parent": 66,
       "pos": {
-        "x": 26714.633323669434,
-        "y": 4911.5
+        "x": 14365.633323669434,
+        "y": 6025.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5469,8 +5475,8 @@
       "is_collapsed": false,
       "parent": 88,
       "pos": {
-        "x": 4143.145092010498,
-        "y": 3168.05419921875
+        "x": -5338.854907989502,
+        "y": 4293.05419921875
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5489,8 +5495,8 @@
       "is_collapsed": false,
       "parent": 89,
       "pos": {
-        "x": 14528.868309020996,
-        "y": 2239.955078125
+        "x": 5046.868309020996,
+        "y": 3364.955078125
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5509,8 +5515,8 @@
       "is_collapsed": false,
       "parent": 90,
       "pos": {
-        "x": 17938.260192871094,
-        "y": 5480.5732421875
+        "x": 10089.260192871094,
+        "y": 5894.5732421875
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5529,8 +5535,8 @@
       "is_collapsed": false,
       "parent": 90,
       "pos": {
-        "x": 17969.510131835938,
-        "y": 5630.5732421875
+        "x": 10120.510131835938,
+        "y": 6044.5732421875
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5549,8 +5555,8 @@
       "is_collapsed": false,
       "parent": 93,
       "pos": {
-        "x": 8142.366638183594,
-        "y": 2746.5
+        "x": -1339.6333618164062,
+        "y": 3871.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5569,8 +5575,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 22194.133361816406,
-        "y": 4225.5
+        "x": 12745.133361816406,
+        "y": 5139.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5591,8 +5597,8 @@
       "is_collapsed": false,
       "parent": 141,
       "pos": {
-        "x": 18141.866638183594,
-        "y": 4151.5
+        "x": 8792.866638183594,
+        "y": 5065.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5611,8 +5617,8 @@
       "is_collapsed": false,
       "parent": 141,
       "pos": {
-        "x": 18174.59600830078,
-        "y": 4309.5
+        "x": 8825.596008300781,
+        "y": 5223.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5631,8 +5637,8 @@
       "is_collapsed": false,
       "parent": 141,
       "pos": {
-        "x": 18188.229370117188,
-        "y": 4459.5
+        "x": 8839.229370117188,
+        "y": 5373.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5651,8 +5657,8 @@
       "is_collapsed": false,
       "parent": 141,
       "pos": {
-        "x": 18177.34296798706,
-        "y": 4019.5
+        "x": 8828.34296798706,
+        "y": 4933.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5671,8 +5677,8 @@
       "is_collapsed": false,
       "parent": 964,
       "pos": {
-        "x": -1379.4666748046875,
-        "y": 6278.5
+        "x": -10861.466674804688,
+        "y": 7403.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5691,8 +5697,8 @@
       "is_collapsed": false,
       "parent": 1130,
       "pos": {
-        "x": 8143.699951171875,
-        "y": 5754.916015625
+        "x": -1338.300048828125,
+        "y": 6879.916015625
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 80,
@@ -5711,8 +5717,8 @@
       "is_collapsed": false,
       "parent": 1132,
       "pos": {
-        "x": 9623.1572265625,
-        "y": 3881.093994140625
+        "x": 141.1572265625,
+        "y": 5006.093994140625
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 80,
@@ -5731,8 +5737,8 @@
       "is_collapsed": false,
       "parent": 1134,
       "pos": {
-        "x": 7690.6588134765625,
-        "y": -725.5
+        "x": -1791.3411865234375,
+        "y": 399.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5751,8 +5757,8 @@
       "is_collapsed": false,
       "parent": 1256,
       "pos": {
-        "x": 14915.466674804688,
-        "y": 4170.103515625
+        "x": 5466.4666748046875,
+        "y": 5084.103515625
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5771,8 +5777,8 @@
       "is_collapsed": false,
       "parent": 1256,
       "pos": {
-        "x": 14882.066650390625,
-        "y": 4370.103515625
+        "x": 5433.066650390625,
+        "y": 5284.103515625
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5791,11 +5797,186 @@
       "is_collapsed": false,
       "parent": 1260,
       "pos": {
-        "x": -604.3833618164062,
-        "y": 5458.5
+        "x": -10086.383361816406,
+        "y": 6583.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1280,
+      "kind": "node",
+      "label": "Legend:",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1271,
+      "pos": {
+        "x": 1144.087387084961,
+        "y": 417.938232421875
+      },
+      "nodelabelfontsize": 50,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1276,
+      "kind": "node",
+      "label": "scroll to zoom the view in/out; click and drag to pan.",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1271,
+      "pos": {
+        "x": 443.79998779296875,
+        "y": 234
+      },
+      "nodelabelfontsize": 40,
+      "nodenotesfontsize": 40,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1277,
+      "kind": "node",
+      "label": "double-click on a node to view its description.",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1271,
+      "pos": {
+        "x": 392.8333435058594,
+        "y": 334
+      },
+      "nodelabelfontsize": 40,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1278,
+      "kind": "node",
+      "label": "use \"Jump to node\" to search for a node by text.",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1271,
+      "pos": {
+        "x": 412.3166809082031,
+        "y": 434
+      },
+      "nodelabelfontsize": 40,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1279,
+      "kind": "node",
+      "label": "use \"Highlight by Tag\" to view all nodes under a tag.",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1271,
+      "pos": {
+        "x": 439.9333190917969,
+        "y": 534
+      },
+      "nodelabelfontsize": 40,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1273,
+      "kind": "node",
+      "label": "application",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1280,
+      "pos": {
+        "x": 1136.0528945922852,
+        "y": 416.5157470703125
+      },
+      "fill": "#e4e013ff",
+      "nodelabelfontsize": 30,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1274,
+      "kind": "node",
+      "label": "challenge",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1280,
+      "pos": {
+        "x": 1126.0957527160645,
+        "y": 497.8968811035156
+      },
+      "fill": "#f5a623ff",
+      "nodelabelfontsize": 30,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1275,
+      "kind": "node",
+      "label": "future",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1280,
+      "pos": {
+        "x": 1102.5954093933105,
+        "y": 577.87646484375
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 30,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1272,
+      "kind": "node",
+      "label": "technology",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1280,
+      "pos": {
+        "x": 1129.9166641235352,
+        "y": 334.9239807128906
+      },
+      "fill": "#ffffffff",
+      "nodelabelfontsize": 30,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
     }
