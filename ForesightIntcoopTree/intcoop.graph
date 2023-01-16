@@ -1041,19 +1041,6 @@
       "shape": "ortho"
     },
     {
-      "id": 1158,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [],
-      "directed": false,
-      "weight": 5,
-      "fromId": 1132,
-      "toId": 141,
-      "shape": "ortho"
-    },
-    {
       "id": 1160,
       "kind": "edge",
       "label": "",
@@ -2026,6 +2013,45 @@
       "weight": 5,
       "fromId": 177,
       "toId": 181,
+      "shape": "ortho"
+    },
+    {
+      "id": 1257,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1256,
+      "toId": 141,
+      "shape": "ortho"
+    },
+    {
+      "id": 1258,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1132,
+      "toId": 1256,
+      "shape": "ortho"
+    },
+    {
+      "id": 1261,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1260,
+      "toId": 1025,
       "shape": "ortho"
     },
     {
@@ -3363,8 +3389,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3908.8333435058594,
-        "y": 3954.5
+        "x": 4508.833343505859,
+        "y": 6254.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -3412,8 +3438,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8451.733276367188,
-        "y": 5377.5
+        "x": 8187.6734619140625,
+        "y": 5571.2080078125
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 200,
@@ -3438,7 +3464,7 @@
       "parent": null,
       "pos": {
         "x": 3903.683319091797,
-        "y": 5379.5
+        "y": 5554.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -3461,8 +3487,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -946.8515625,
-        "y": 5853
+        "x": -1296.8515625,
+        "y": 6230
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3486,8 +3512,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 2857.7166748046875,
-        "y": 6202.5
+        "x": 3957.7166748046875,
+        "y": 6827.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 200,
@@ -3510,8 +3536,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 15607.519989013672,
-        "y": 4276.96337890625
+        "x": 17928.013458251953,
+        "y": 5506.03662109375
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -3533,8 +3559,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 10869.1171875,
-        "y": 2755
+        "x": 14945.116668701172,
+        "y": 3254.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -3556,8 +3582,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 12865.210388183594,
-        "y": 3737.5
+        "x": 18163.889709472656,
+        "y": 4170.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3579,8 +3605,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 18093.483337402344,
-        "y": 3129.5
+        "x": 26693.816661834717,
+        "y": 4846.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3602,8 +3628,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 15213.400024414062,
-        "y": 3753.5
+        "x": 22163.400024414062,
+        "y": 4153.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -3625,7 +3651,7 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 9594.25,
+        "x": 9644.25,
         "y": 3727.5
       },
       "fill": "#e4e013ff",
@@ -4129,8 +4155,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11825.5859375,
-        "y": 1630
+        "x": 17376.566650390625,
+        "y": 1654.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -4199,8 +4225,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6227.40625,
-        "y": 3520
+        "x": 4053.3999938964844,
+        "y": 3569
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 100,
@@ -4222,8 +4248,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4734.4609375,
-        "y": 3070
+        "x": 1710.4500122070312,
+        "y": 3569
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 100,
@@ -4269,8 +4295,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 7015.640625,
-        "y": 3745
+        "x": 7841.583343505859,
+        "y": 4069
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 100,
@@ -4293,8 +4319,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4826.2109375,
-        "y": 3745
+        "x": 5227.200012207031,
+        "y": 4069
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 100,
@@ -4317,8 +4343,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5929.578125,
-        "y": 3745
+        "x": 6530.516662597656,
+        "y": 4069
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 100,
@@ -4341,8 +4367,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6450.453125,
-        "y": 3295
+        "x": 3376.4500122070312,
+        "y": 3969
       },
       "fill": "#f5a623ff",
       "nodelabelfontsize": 100,
@@ -4460,8 +4486,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6043.7109375,
-        "y": 3070
+        "x": 4117.786022186279,
+        "y": 3100.060302734375
       },
       "fill": "#f5a623ff",
       "nodelabelfontsize": 100,
@@ -4531,8 +4557,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 15324.983337402344,
-        "y": 4779.5
+        "x": 13999.983337402344,
+        "y": 5254.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4555,8 +4581,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 16490.183349609375,
-        "y": 2154.5
+        "x": 22865.183349609375,
+        "y": 3554.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4579,8 +4605,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 15084.566680908203,
-        "y": 5004.5
+        "x": 12559.566680908203,
+        "y": 5854.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4602,8 +4628,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 16617.866668701172,
-        "y": 3129.5
+        "x": 26192.866668701172,
+        "y": 3554.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4650,8 +4676,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 18062.233337402344,
-        "y": 4779.5
+        "x": 18537.233337402344,
+        "y": 4854.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -4674,8 +4700,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 14435.733337402344,
-        "y": 4779.5
+        "x": 12285.733337402344,
+        "y": 5254.5
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
@@ -4768,8 +4794,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 18058.149993896484,
-        "y": 4179.5
+        "x": 21408.149993896484,
+        "y": 5454.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4803,7 +4829,7 @@
       "kind": "node",
       "label": "decentralised identity (DID)",
       "notes": "",
-      "desc": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/christopher-allen-brian-behlendorf-alan-karp-identity-security-focus/)]\n",
       "link": "",
       "tags": [
         "technology",
@@ -4814,8 +4840,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6338.0234375,
-        "y": 2545
+        "x": 8188.9666748046875,
+        "y": 2664
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 100,
@@ -4837,8 +4863,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 13281.4921875,
-        "y": 2755
+        "x": 13832.5,
+        "y": 2654.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -4860,8 +4886,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 10623.1328125,
-        "y": 2395
+        "x": 11924.116668701172,
+        "y": 2169
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 100,
@@ -4883,8 +4909,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 12780.703125,
-        "y": 2395
+        "x": 14481.34247970581,
+        "y": 2160.7275390625
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 100,
@@ -4931,8 +4957,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1782.6500244140625,
-        "y": 3554.5
+        "x": 2682.6500244140625,
+        "y": 6054.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -4956,8 +4982,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1810.3500061035156,
-        "y": 4054.5
+        "x": 2710.3500061035156,
+        "y": 6454.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -5026,8 +5052,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -4002.0499877929688,
-        "y": 5654.5
+        "x": -4402.049987792969,
+        "y": 6054.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -5050,8 +5076,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -4027.8999938964844,
-        "y": 5954.5
+        "x": -4427.899993896484,
+        "y": 6454.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -5074,8 +5100,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 7284.0333251953125,
-        "y": 2844
+        "x": 8484.033325195312,
+        "y": 3069
       },
       "fill": "#b8e986ff",
       "nodelabelfontsize": 100,
@@ -5097,8 +5123,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11927.8359375,
-        "y": 2980
+        "x": 13453.816680908203,
+        "y": 3054.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -5120,8 +5146,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8801.566665649414,
-        "y": 2829.5
+        "x": 11951.566665649414,
+        "y": 3054.5
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
@@ -5143,8 +5169,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4863.4921875,
-        "y": 2770
+        "x": 2039.4833374023438,
+        "y": 2869
       },
       "fill": "#e4e013ff",
       "nodelabelfontsize": 100,
@@ -5166,8 +5192,8 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 9452.1015625,
-        "y": 2605
+        "x": 11903.08334350586,
+        "y": 2754.5
       },
       "fill": "#ffffffff",
       "nodelabelfontsize": 75,
@@ -5366,6 +5392,112 @@
       "backgroundImageURL": null
     },
     {
+      "id": 1256,
+      "kind": "node",
+      "label": "decentralised conflict resolution",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "future",
+        "decentralised systems"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 14923.350021362305,
+        "y": 4175.8017578125
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 80,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1260,
+      "kind": "node",
+      "label": "AI safety / alignment",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "risk",
+        "artificial intelligence"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -572.0499877929688,
+        "y": 5370
+      },
+      "fill": "#f5a623ff",
+      "nodelabelfontsize": 90,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1266,
+      "kind": "node",
+      "label": " P. Koepellinger, D. Zhu, J.Joyce | DeSci: Progress, Challenges, Integration with Legacy Institutions",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/p-koepellinger-d-zhu-j-joyce-desci-progress-challenges-integration-with-legacy-institutions/)]",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 66,
+      "pos": {
+        "x": 26714.633323669434,
+        "y": 4911.5
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1268,
+      "kind": "node",
+      "label": " Ryan Calo & Clément Lesaege | The Future of Robots is Open & Proof of Humanity",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/ryan-calo-clement-lesaege-the-future-of-robots-is-open-proof-of-humanity/)]\n\nClément is the CTO of Kleros. He has an engineering degree from UTC (France) and a Master of Science in Computer Science from Georgia Tech (US). He worked as a smart contract security freelancer doing audits and finding vulnerabilities in smart contracts. He works on smart contracts and cryptoeconomics (CS, cryptography, game theory) at Kleros, designing mechanisms to make participants give honest answers in\non-chain disputes (escrow systems, on-chain oracles, curated lists).\n\nDistributing tokens in crypto systems is threatened by the Sybil attack – where bots attempt to gain control of a system by pretending to represent a vast majority of human users.  One solution was to use\nproof of work (mining) to validate human status.  However, most people are not miners and there are vast differences in mining potential of each person.  Some people want to use proof of stake, which is better\nthan proof of work but also has inequality problems.  This is where proof of humanity comes into the picture.\n\nThe first step is to have each new user create a video of themselves while holding a QR code to tie the video to a specific account.  The next layer of security is to have an existing user vouch for the new\nincoming user.  The incoming user needs to deposit a certain amount of cryptocurrency in order to attempt to join the network, and upon joining the amount is given back.  For bots, this prevents large volumes of\nsimultaneous attacks.\n\nThis system can be used for universal basic income, airdrops, quadratic funding, and democratic governance.  In the future it could be integrated into credit scoring and antispam tools.  Currently, Lesaege\nis focused on using this system to create private identities and ‘soulbound’ items, digital assets that cannot be traded.\n\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 88,
+      "pos": {
+        "x": 4143.145092010498,
+        "y": 3168.05419921875
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1264,
+      "kind": "node",
+      "label": " Christine Lemmer-Webber | Randy Farmer | Re-Decentralizing Networked Communities",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/christine-lemmer-webber-randy-farmer-re-decentralizing-networked-communities/)]\n\nChristine and Randy describe how the current schema of social media has failed us.  Networked communities have become centralized around a few large entities which are prone to failure.  Poor incentives drive toxic behavior and more regulation will only reinforce the dominance of the current paradigm.  The Spritely Institute outlines their plan for a new mechanism of interaction and community formation on the internet. ",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 89,
+      "pos": {
+        "x": 14528.868309020996,
+        "y": 2239.955078125
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
       "id": 1252,
       "kind": "node",
       "label": " Glen Weyl, RadicalxChange | Social Technology for a Political Economy of Increasing Returns",
@@ -5377,8 +5509,8 @@
       "is_collapsed": false,
       "parent": 90,
       "pos": {
-        "x": 15617.766723632812,
-        "y": 4251.5
+        "x": 17938.260192871094,
+        "y": 5480.5732421875
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5397,8 +5529,28 @@
       "is_collapsed": false,
       "parent": 90,
       "pos": {
-        "x": 15649.016662597656,
-        "y": 4401.5
+        "x": 17969.510131835938,
+        "y": 5630.5732421875
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1269,
+      "kind": "node",
+      "label": "Christopher Allen, Brian Behlendorf, Alan Karp | Identity & Security Focus",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/christopher-allen-brian-behlendorf-alan-karp-identity-security-focus/)]\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 93,
+      "pos": {
+        "x": 8142.366638183594,
+        "y": 2746.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5417,8 +5569,8 @@
       "is_collapsed": false,
       "parent": 115,
       "pos": {
-        "x": 15244.133361816406,
-        "y": 3825.5
+        "x": 22194.133361816406,
+        "y": 4225.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5439,8 +5591,8 @@
       "is_collapsed": false,
       "parent": 141,
       "pos": {
-        "x": 12866.866638183594,
-        "y": 3726.5
+        "x": 18141.866638183594,
+        "y": 4151.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5459,8 +5611,8 @@
       "is_collapsed": false,
       "parent": 141,
       "pos": {
-        "x": 12875.916687011719,
-        "y": 3876.5
+        "x": 18174.59600830078,
+        "y": 4309.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5479,8 +5631,28 @@
       "is_collapsed": false,
       "parent": 141,
       "pos": {
-        "x": 12889.550048828125,
-        "y": 4026.5
+        "x": 18188.229370117188,
+        "y": 4459.5
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1265,
+      "kind": "node",
+      "label": "New Sovereignties Focus",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/david-ernst-eduardo-beltraine-tom-w-bell-new-sovereignties-focus/)]\n\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 141,
+      "pos": {
+        "x": 18177.34296798706,
+        "y": 4019.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
@@ -5499,12 +5671,52 @@
       "is_collapsed": false,
       "parent": 964,
       "pos": {
-        "x": -1029.4666748046875,
-        "y": 5901.5
+        "x": -1379.4666748046875,
+        "y": 6278.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
       "nodenotesfontsize": 60,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1263,
+      "kind": "node",
+      "label": " Richard Mallah, FLI & Georgios Kaissis, OpenMined | Q&A on AI & Privacy Preserving Machine Learning",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/richard-mallah-fli-georgios-kaissis-openmined-qa-on-ai-privacy-preserving-machine-learning/)]\n\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1130,
+      "pos": {
+        "x": 8143.699951171875,
+        "y": 5754.916015625
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 80,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1267,
+      "kind": "node",
+      "label": "Cryptopaleoinstutionality, Memex, Regen",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/chris-berg-oliver-sauter-cryptopaleoinstutionality-memex-regen/)]\n\nThe field of crypto presents us with a historically unprecedented opportunity to see rapid institutional evolution.\n\nNew voting systems and community management systems are tested live, and institutional innovation will supercharge economic growth.\n\nThe cryptoeconomic stack consists of telecom hardware, layer 1 blockchains, fungible and nonfungible tokens, decentralized autonomous networks (DAO’s), and tooling. Fast copy innovation via forking creates an ecosystem of competing blockchains and tokens which rapidly iterates. Berg finds L1 and L2 interactability particularly interesting for institutional development.\n\nChris believes that crypto fundamentally solves the problem of institutional monopoly – your physical location dictates the set of institutions available to you, but crypto changes that.",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1132,
+      "pos": {
+        "x": 9623.1572265625,
+        "y": 3881.093994140625
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 80,
+      "nodenotesfontsize": null,
       "backgroundImageURL": null
     },
     {
@@ -5521,6 +5733,66 @@
       "pos": {
         "x": 7690.6588134765625,
         "y": -725.5
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1259,
+      "kind": "node",
+      "label": " Split Contracts, Comp. Law & Decentralized Arbitration | Chip Morningstar, Meng Weng, Federico Ast",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/split-contracts-comp-law-decentralized-arbitration-chip-morningstar-meng-weng-federico-ast/)]\n\nWhen we discuss smart contracts and their applications, it seems like we’re trying to automate all the things right away, with less focus on what the steps we can take to get there are. Over time, we will be able to develop better and better smart contracts as folks templatize and test, but we will still want to include human judgment in plenty of contracts. One such example: Chip Morningstar pioneered the idea of a Split Contract, a contract composed of both software and prose. Many interesting contract features were included like templating, prose/automation hybrid, human arbitration, and co-designing contractual arrangements upfront. Many of these features are now coming live. For instance, Legalese is creating computational law to democratize contract writing, and Kleros is a decentralized arbitration service for increasingly international dispute resolution. ",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1256,
+      "pos": {
+        "x": 14915.466674804688,
+        "y": 4170.103515625
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1270,
+      "kind": "node",
+      "label": " Robin Hanson, George Mason University : Value Drift | Mark S. Miller – Toward Paretotopia",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/robin-hanson-george-mason-university-value-drift-mark-s-miller-toward-paretotopia/)]\n\nToday we’re discussing “From Value Diversity to Voluntary Cooperation”.\n\nUpon investigation, we discover that values are quite diverse, even within an individual. Often our values are hard to determine with certainty at all! Is internal conflict a feature or bug? With so little insight into our own values and as our environment becomes more diverse, our values drift and behoove us to adopt strategies of voluntary cooperation.\n\nIn this session, Robin Hanson discusses Value Drift followed up by Mark Miller on Voluntary Cooperation strategies.",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1256,
+      "pos": {
+        "x": 14882.066650390625,
+        "y": 4370.103515625
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1262,
+      "kind": "node",
+      "label": " Zhu Xiaohu, Center for Safe AGI | Ontological anti-crisis and AI safety",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/zhu-xiaohu-center-for-safe-agi-ontological-anti-crisis-and-ai-safety/)]",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1260,
+      "pos": {
+        "x": -604.3833618164062,
+        "y": 5458.5
       },
       "fill": "#ccccccff",
       "nodelabelfontsize": 70,
