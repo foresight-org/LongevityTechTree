@@ -286,21 +286,6 @@
       "shape": "ortho"
     },
     {
-      "id": 1048,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-
-      ],
-      "directed": false,
-      "weight": 5,
-      "fromId": 1047,
-      "toId": 1037,
-      "shape": "ortho"
-    },
-    {
       "id": 1053,
       "kind": "edge",
       "label": "",
@@ -358,21 +343,6 @@
       "weight": 5,
       "fromId": 1049,
       "toId": 1033,
-      "shape": "ortho"
-    },
-    {
-      "id": 1059,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-
-      ],
-      "directed": false,
-      "weight": 5,
-      "fromId": 1058,
-      "toId": 1049,
       "shape": "ortho"
     },
     {
@@ -2345,7 +2315,7 @@
       "kind": "node",
       "label": "supervised learning",
       "notes": "",
-      "desc": "",
+      "desc": "Supervised learning is a type of machine learning where a model is trained to make predictions based on labeled data. The model is given a set of input-output pairs, and learns to map inputs to the correct outputs. This is in contrast to unsupervised learning, where the model is not given any labeled data and must find patterns or structure in the input data on its own. Some examples of supervised learning include image classification, spam detection and linear regression.",
       "link": "",
       "tags": [
         "frontier",
@@ -2369,7 +2339,7 @@
       "kind": "node",
       "label": "unsupervised learning",
       "notes": "",
-      "desc": "",
+      "desc": "Unsupervised learning is a type of machine learning where a model is not given any labeled data, and must find patterns or structure in the input data on its own. These models are used to find the underlying patterns in the data, which can then be used for further analysis or as input to supervised learning models. Some examples of unsupervised learning include clustering, anomaly detection, and dimensionality reduction.",
       "link": "",
       "tags": [
         "frontier",
@@ -2393,7 +2363,7 @@
       "kind": "node",
       "label": "machine learning",
       "notes": "",
-      "desc": "",
+      "desc": "Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence that uses statistical techniques to give computer systems the ability to 'learn' (i.e. progressively improve performance on a specific task) with data, without being explicitly programmed. Machine learning focuses on the development of algorithms and models that can learn from and make predictions or decisions without human intervention. There are several types of machine learning, including supervised learning, unsupervised learning, semi-supervised learning and reinforcement learning. These different types of learning can be used for a variety of tasks such as image recognition, natural language processing, and predictive modeling.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2415,7 +2385,7 @@
       "kind": "node",
       "label": "semantic translation",
       "notes": "",
-      "desc": "",
+      "desc": "Semantic translation is a type of machine learning that focuses on understanding the meaning of natural language text and accurately translating it to another language. It is different from traditional machine translation, which only focuses on translating word-by-word, resulting in translations that may not be grammatically correct or convey the same meaning as the original text. Semantic translation models use neural networks and other advanced techniques to understand the context and meaning of the text, allowing for more accurate and nuanced translations. It is increasingly used in various industries such as e-commerce, localization, and content creation for multilingual audience. It also plays an important role in natural language understanding and generation.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2437,7 +2407,7 @@
       "kind": "node",
       "label": "language identification",
       "notes": "",
-      "desc": "",
+      "desc": "Language identification is the task of determining the language of a given text. It is an important step in natural language processing, as it allows systems to properly handle and process text in different languages. Language identification can be performed at different levels of granularity, such as identifying the language of a full document, a sentence, or even a single word. Language identification is widely used in many applications such as search engines, machine translation, and text-to-speech systems. It also plays a crucial role in multilingual natural language processing tasks such as sentiment analysis, named entity recognition, and part-of-speech tagging.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2459,7 +2429,7 @@
       "kind": "node",
       "label": "machine translation",
       "notes": "",
-      "desc": "",
+      "desc": "Machine Translation (MT) is the use of technology to automatically translate text from one natural language to another. It is a subfield of natural language processing and machine learning.\nRecent advances in neural machine translation (NMT) have greatly improved the quality of machine translations, by using deep neural networks to model the entire translation process. NMT models are trained on large parallel corpora and can generate fluent and natural translations that often rival those produced by humans.\nMachine translation is widely used in various industries such as e-commerce, localization, and content creation for multilingual audience. It also plays an important role in natural language understanding and generation.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2481,7 +2451,7 @@
       "kind": "node",
       "label": "natural language processing",
       "notes": "",
-      "desc": "",
+      "desc": "Natural Language Processing (NLP) is a field of artificial intelligence and computer science that focuses on the interaction between computers and human natural languages. It enables computers to understand, interpret, and generate human language, making it possible to interact with computers in a more natural and intuitive way. NLP includes a wide range of techniques and methods such as text mining, sentiment analysis, language translation, and speech recognition.\nRecent advances in deep learning and neural networks have greatly improved the performance of NLP systems, enabling them to handle more complex and nuanced tasks such as language generation, dialogue systems and text summarization.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2503,7 +2473,7 @@
       "kind": "node",
       "label": "image recognition",
       "notes": "",
-      "desc": "",
+      "desc": "Image recognition is a field of computer vision and machine learning that involves the development of algorithms and models that can automatically recognize and identify objects, scenes, and features within images. It is used to extract information from images and can be applied to a wide range of applications such as object detection, facial recognition, and image classification.\nThere are several different approaches to image recognition, including traditional feature-based methods and more recent deep learning-based methods. Feature-based methods typically extract pre-defined features from an image and use them to train a classifier, while deep learning-based methods use neural networks to learn features directly from the image data.\nDeep learning-based models such as convolutional neural networks (CNNs) have shown to be particularly effective at image recognition tasks. These models have been trained on large datasets of labeled images and can achieve state-of-the-art performance in various image recognition tasks.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2525,7 +2495,7 @@
       "kind": "node",
       "label": "motion analysis",
       "notes": "",
-      "desc": "",
+      "desc": "Motion analysis is a field of computer vision that involves the study of motion, motion patterns and motion-based recognition in image sequences. It is used to extract information from video sequences, such as object tracking, activity recognition and gesture recognition.\nSome of its applications include video captioning, action recognition and crowd analysis.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2547,7 +2517,7 @@
       "kind": "node",
       "label": "computer vision",
       "notes": "",
-      "desc": "",
+      "desc": "Computer Vision is a field of Artificial Intelligence that deals with enabling machines to interpret and understand visual information from the world, such as images and videos. It involves the development of algorithms and models that can automatically extract meaningful information from visual data, and make decisions based on that information. It encompasses a wide range of tasks such as image recognition, object detection, image segmentation, motion analysis and scene understanding.\nComputer vision is used in various industries such as self-driving cars, surveillance, and robotics.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2569,7 +2539,7 @@
       "kind": "node",
       "label": "reinforcement learning",
       "notes": "",
-      "desc": "",
+      "desc": "Reinforcement Learning (RL) is a type of machine learning that deals with training agents to make decisions in an environment, in order to maximize a reward signal. The agent interacts with the environment by taking actions, and the environment provides the agent with rewards or penalties based on the actions taken. The agent's goal is to learn a policy, which is a mapping from states to actions, that maximizes the cumulative reward over time. Recent advances in deep learning and neural networks have greatly improved the performance of RL systems, enabling them to handle more complex and high-dimensional tasks such as robotic manipulation, game playing and recommendation systems.",
       "link": "",
       "tags": [
         "frontier",
@@ -2593,7 +2563,7 @@
       "kind": "node",
       "label": "speech-to-text",
       "notes": "",
-      "desc": "",
+      "desc": "Speech-to-text, also known as Automatic Speech Recognition (ASR), is a technology that converts spoken language into written text. It is a subfield of natural language processing and speech recognition. It is used in applications such as voice assistants, call centers, and dictation software.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2615,7 +2585,7 @@
       "kind": "node",
       "label": "artificial general intelligence (AGI)",
       "notes": "",
-      "desc": "",
+      "desc": "Artificial General Intelligence (AGI) is a subfield of Artificial Intelligence (AI) that aims to develop systems that possess a wide range of cognitive abilities, similar to those of humans. AGI is considered to be the next step beyond current AI systems, which are designed to perform specific tasks such as image recognition, speech-to-text, and game playing. AGI systems would be able to perform any intellectual task that a human can, and would be able to adapt to new situations and learn new skills.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2703,11 +2673,11 @@
       "kind": "node",
       "label": "temporal difference",
       "notes": "",
-      "desc": "",
+      "desc": "Temporal difference (TD) learning refers to a class of model-free reinforcement learning methods which learn by bootstrapping from the current estimate of the value function. These methods sample from the environment, like Monte Carlo methods, and perform updates based on current estimates, like dynamic programming methods.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "project"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
@@ -2769,7 +2739,7 @@
       "kind": "node",
       "label": "Q-learning",
       "notes": "",
-      "desc": "",
+      "desc": "Q-learning is a model-free reinforcement learning algorithm to learn the value of an action in a particular state. It does not require a model of the environment (hence 'model-free'), and it can handle problems with stochastic transitions and rewards without requiring adaptations.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2781,28 +2751,6 @@
       "pos": {
         "x": -9636.921875,
         "y": 4480
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 1047,
-      "kind": "node",
-      "label": "SARSA",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "artificial intelligence",
-        "goal"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": null,
-      "pos": {
-        "x": -9684.46875,
-        "y": 4630
       },
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
@@ -2857,7 +2805,7 @@
       "kind": "node",
       "label": "genetic algorithm",
       "notes": "",
-      "desc": "",
+      "desc": "A Genetic Algorithm (GA) is a search and optimization method inspired by the process of natural selection. In a GA, a population of candidate solutions is created, and each solution is represented by a set of parameters or variables, called a chromosome. The solutions are then evaluated using a fitness function that measures how well the solution fits the problem. The solutions that have a better fitness score have a higher chance of reproducing and passing their traits to the next generation. This process is repeated over many generations until the optimal solution is found. GA is suitable for solving problems with a large search space and no gradient information, it is often used in optimization problems, such as function optimization, scheduling, and design optimization. GAs can be computationally expensive and may not always find the global optimum, but they are often robust to noise and can find good solutions in a relatively short time.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2879,7 +2827,7 @@
       "kind": "node",
       "label": "stochastic gradient",
       "notes": "",
-      "desc": "",
+      "desc": "Stochastic Gradient (SG) is an optimization method used to train machine learning models, particularly in deep learning. It is an extension of the standard gradient descent method, where the parameters of the model are updated based on the gradient of the loss function with respect to the parameters. In SG, instead of computing the gradient using the entire dataset, the gradient is computed using a small random sample of the data, called a mini-batch. This sample is selected at random at each iteration and the parameters are updated based on the gradient of the loss function on this sample. The main advantage of using SG is that it can handle large datasets that do not fit in memory, and it can also make better use of parallel computing resources. Additionally, the use of random samples can introduce some noise in the gradients, which can help the optimization process to escape from local minima and converge to a better solution.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2901,7 +2849,7 @@
       "kind": "node",
       "label": "learning classifiers",
       "notes": "",
-      "desc": "",
+      "desc": "Learning classifier systems, or LCS, are a paradigm of rule-based machine learning methods that combine a discovery component (e.g. typically a genetic algorithm) with a learning component (performing either supervised learning, reinforcement learning, or unsupervised learning). Learning classifier systems seek to identify a set of context-dependent rules that collectively store and apply knowledge in a piecewise manner in order to make predictions (e.g. behavior modeling, classification, data mining, regression, function approximation, or game strategy). This approach allows complex solution spaces to be broken up into smaller, simpler parts. ",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2919,33 +2867,11 @@
       "backgroundImageURL": null
     },
     {
-      "id": 1058,
-      "kind": "node",
-      "label": "XCS",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "artificial intelligence",
-        "goal"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": null,
-      "pos": {
-        "x": -9724.7734375,
-        "y": 4930
-      },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
       "id": 1061,
       "kind": "node",
       "label": "dimension reduction",
       "notes": "",
-      "desc": "",
+      "desc": "Dimension reduction is a technique used in machine learning and statistics to reduce the number of features or dimensions in a dataset while preserving as much information as possible. There are several methods for dimension reduction, including feature selection, feature extraction, and manifold learning. Feature selection methods select a subset of the original features, while feature extraction methods create new features from the original features. Manifold learning methods aim to learn a low-dimensional representation of the data that preserves the underlying structure of the data. The most widely used dimension reduction techniques are Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) which are linear methods. Non-linear methods such as Isomap, t-SNE, and Autoencoder are also widely used. Dimension reduction can help to improve the performance of machine learning models by reducing overfitting, improving the interpretability of the model, and reducing the computational cost of the learning algorithms.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2967,7 +2893,7 @@
       "kind": "node",
       "label": "clustering",
       "notes": "",
-      "desc": "",
+      "desc": "Clustering is a technique used in machine learning and statistics to group similar data points together into clusters. K-means and k-medoids are examples of centroid-based methods, where the goal is to find the center of the clusters. Hierarchical methods, such as single linkage, complete linkage and average linkage, construct a hierarchy of clusters. DBSCAN and OPTICS are examples of density-based methods, where clusters are defined as dense regions of the data. Gaussian Mixture Model (GMM) and Expectation-Maximization (EM) algorithm are examples of distribution-based methods, where each cluster is modeled as a probability distribution.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2989,7 +2915,7 @@
       "kind": "node",
       "label": "linear discriminant analysis (LDA)",
       "notes": "",
-      "desc": "",
+      "desc": "Linear Discriminant Analysis (LDA) is a dimension reduction and supervised learning technique used in machine learning and statistics to find a linear combination of features that separate different classes of data. The goal of LDA is to find the linear combination of features that maximizes the ratio of the between-class variance to the within-class variance. The resulting linear combination, called the LDA axes or LDA directions, can be used as a new set of features for classification or as a tool for data visualization.",
       "link": "",
       "tags": [
         "core",
@@ -3012,7 +2938,7 @@
       "kind": "node",
       "label": "principal component analysis (PCA)",
       "notes": "",
-      "desc": "",
+      "desc": "Principal component analysis (PCA) is a popular technique for analyzing large datasets containing a high number of dimensions/features per observation, increasing the interpretability of data while preserving the maximum amount of information, and enabling the visualization of multidimensional data. Formally, PCA is a statistical technique for reducing the dimensionality of a dataset. This is accomplished by linearly transforming the data into a new coordinate system where (most of) the variation in the data can be described with fewer dimensions than the initial data. Many studies use the first two principal components in order to plot the data in two dimensions and to visually identify clusters of closely related data points. Principal component analysis has applications in many fields such as population genetics, microbiome studies, and atmospheric science.",
       "link": "",
       "tags": [
         "core",
@@ -3035,7 +2961,7 @@
       "kind": "node",
       "label": "K-means clustering",
       "notes": "",
-      "desc": "",
+      "desc": "k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -3057,7 +2983,7 @@
       "kind": "node",
       "label": "spectral clustering",
       "notes": "",
-      "desc": "",
+      "desc": "Spectral Clustering is a method of clustering that uses the eigenvectors of a similarity matrix of the data points. It is often used as a more robust alternative to traditional k-means clustering and can handle non-linearly separable datasets.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -3347,7 +3273,7 @@
       "kind": "node",
       "label": "artificial neural networks (ANN)",
       "notes": "",
-      "desc": "",
+      "desc": "Artificial neural networks (ANNs) are a type of machine learning algorithm modeled after the structure and function of the human brain. They consist of layers of interconnected 'neurons' that process and transmit information. ANNs are trained using large amounts of data and are able to learn and make decisions or predictions about new data. They are commonly used in image and speech recognition, natural language processing, and other applications.",
       "link": "",
       "tags": [
         "core",
@@ -3370,7 +3296,7 @@
       "kind": "node",
       "label": "random forests",
       "notes": "",
-      "desc": "",
+      "desc": "Random forests are a type of decision tree ensemble method. They are a combination of multiple decision trees, where each tree is trained on a different subset of the data. The final prediction is made by averaging the predictions of all the trees. Random forests are considered to be more accurate and stable than a single decision tree because it reduces overfitting by averaging multiple trees and also helps to identify the most important features. It is widely used in classification, regression and other machine learning tasks.",
       "link": "",
       "tags": [
         "core",
@@ -3392,7 +3318,7 @@
       "id": 1101,
       "kind": "node",
       "label": "decision trees",
-      "notes": "",
+      "notes": "Decision trees are a type of supervised learning algorithm that can be used for both classification and regression tasks. They are called 'trees' because the structure of the algorithm is a tree-like model of decisions and their possible consequences. Each internal node of the tree represents a 'test' on an attribute, each branch represents the outcome of the test, and each leaf node represents a class label. The topmost node in a decision tree is known as the root node. It's used to make predictions by traversing the tree from the root to a leaf node and the class label at the leaf node is the final prediction. Decision trees are simple to understand, interpret and visualize, making them a popular choice for decision making in business and industry.",
       "desc": "",
       "link": "",
       "tags": [
@@ -3416,7 +3342,7 @@
       "kind": "node",
       "label": "latent Dirichlet allocation",
       "notes": "",
-      "desc": "",
+      "desc": "In natural language processing, Latent Dirichlet Allocation (LDA) is a generative statistical model that explains a set of observations through unobserved groups, and each group explains why some parts of the data are similar. The LDA is an example of a topic model. In this, observations (e.g., words) are collected into documents, and each word's presence is attributable to one of the document's topics. Each document will contain a small number of topics.",
       "link": "",
       "tags": [
         "core",
@@ -3439,7 +3365,7 @@
       "kind": "node",
       "label": "belief network",
       "notes": "",
-      "desc": "",
+      "desc": "A belief network, also known as a Bayesian network, is a probabilistic graphical model that represents a set of variables and their probabilistic relationships. It consists of a directed acyclic graph (DAG) where each node represents a variable and each directed edge represents a direct dependency between the variables. The nodes are divided into two types: the observed variables, which have known values, and the latent variables, which are inferred from the observed variables. Belief networks are used to represent uncertain knowledge and can be used for tasks such as diagnosis, prediction, and decision making. They are widely used in artificial intelligence and machine learning, particularly in the field of expert systems.",
       "link": "",
       "tags": [
         "core",
@@ -3485,7 +3411,7 @@
       "kind": "node",
       "label": "linear regression",
       "notes": "",
-      "desc": "",
+      "desc": "Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. It is a type of supervised learning algorithm that attempts to find the best linear relationship between the variables by fitting a line through the data points. The line is represented by an equation of the form y = mx + b, where y is the dependent variable, x is the independent variable, m is the slope of the line, and b is the y-intercept. Linear regression can be used for both simple and multiple regression problems.",
       "link": "",
       "tags": [
         "core",
