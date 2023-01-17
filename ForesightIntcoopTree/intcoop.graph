@@ -6,9 +6,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 753,
@@ -21,9 +19,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 754,
@@ -36,9 +32,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 758,
@@ -51,9 +45,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 759,
@@ -66,9 +58,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1010,
@@ -81,9 +71,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1015,
@@ -96,9 +84,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1016,
@@ -111,9 +97,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1020,
@@ -126,9 +110,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1022,
@@ -141,9 +123,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1011,
@@ -156,9 +136,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 755,
@@ -171,9 +149,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1017,
@@ -186,9 +162,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1031,
@@ -201,9 +175,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1033,
@@ -216,9 +188,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1036,
@@ -231,9 +201,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1037,
@@ -246,9 +214,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1041,
@@ -261,9 +227,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1040,
@@ -276,27 +240,10 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1045,
-      "toId": 1037,
-      "shape": "ortho"
-    },
-    {
-      "id": 1048,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-
-      ],
-      "directed": false,
-      "weight": 5,
-      "fromId": 1047,
       "toId": 1037,
       "shape": "ortho"
     },
@@ -306,9 +253,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1050,
@@ -321,9 +266,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1052,
@@ -336,9 +279,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1051,
@@ -351,28 +292,11 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1049,
       "toId": 1033,
-      "shape": "ortho"
-    },
-    {
-      "id": 1059,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-
-      ],
-      "directed": false,
-      "weight": 5,
-      "fromId": 1058,
-      "toId": 1049,
       "shape": "ortho"
     },
     {
@@ -381,9 +305,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1057,
@@ -396,9 +318,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1062,
@@ -411,9 +331,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1061,
@@ -426,9 +344,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1063,
@@ -441,9 +357,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1064,
@@ -456,9 +370,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1067,
@@ -471,9 +383,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1066,
@@ -486,9 +396,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1065,
@@ -501,9 +409,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1068,
@@ -516,9 +422,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1078,
@@ -531,9 +435,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1077,
@@ -546,9 +448,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1081,
@@ -561,9 +461,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1083,
@@ -576,9 +474,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1085,
@@ -591,9 +487,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1087,
@@ -606,9 +500,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1089,
@@ -621,9 +513,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1091,
@@ -636,9 +526,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1093,
@@ -651,9 +539,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1094,
@@ -666,9 +552,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1097,
@@ -681,9 +565,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1099,
@@ -696,9 +578,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1101,
@@ -711,9 +591,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1103,
@@ -726,9 +604,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1105,
@@ -741,9 +617,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1107,
@@ -756,9 +630,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1109,
@@ -771,9 +643,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1111,
@@ -786,9 +656,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 755,
@@ -801,9 +669,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1114,
@@ -816,9 +682,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1116,
@@ -831,9 +695,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 51,
@@ -846,9 +708,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 51,
@@ -861,9 +721,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 115,
@@ -876,9 +734,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 946,
@@ -891,9 +747,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 160,
@@ -906,9 +760,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 946,
@@ -921,9 +773,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 157,
@@ -936,9 +786,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 959,
@@ -951,9 +799,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 181,
@@ -966,9 +812,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 947,
@@ -981,9 +825,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 947,
@@ -996,28 +838,11 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 755,
       "toId": 964,
-      "shape": "ortho"
-    },
-    {
-      "id": 1141,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-
-      ],
-      "directed": false,
-      "weight": 5,
-      "fromId": 1140,
-      "toId": 168,
       "shape": "ortho"
     },
     {
@@ -1026,9 +851,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1140,
@@ -1041,9 +864,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1143,
@@ -1056,9 +877,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 953,
@@ -1071,9 +890,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 932,
@@ -1086,9 +903,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 933,
@@ -1101,9 +916,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 964,
@@ -1116,9 +929,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 930,
@@ -1131,9 +942,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 755,
@@ -1146,9 +955,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 935,
@@ -1161,9 +968,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 964,
@@ -1176,9 +981,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 147,
@@ -1191,9 +994,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 148,
@@ -1206,9 +1007,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 149,
@@ -1221,28 +1020,11 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 51,
       "toId": 150,
-      "shape": "ortho"
-    },
-    {
-      "id": 1158,
-      "kind": "edge",
-      "label": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-
-      ],
-      "directed": false,
-      "weight": 5,
-      "fromId": 1132,
-      "toId": 141,
       "shape": "ortho"
     },
     {
@@ -1251,9 +1033,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1132,
@@ -1266,9 +1046,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 141,
@@ -1281,9 +1059,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 126,
@@ -1296,9 +1072,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 135,
@@ -1311,9 +1085,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1166,
@@ -1326,9 +1098,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1170,
@@ -1341,9 +1111,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1168,
@@ -1356,9 +1124,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 149,
@@ -1371,9 +1137,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 126,
@@ -1386,9 +1150,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1175,
@@ -1401,9 +1163,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 168,
@@ -1416,9 +1176,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 947,
@@ -1431,9 +1189,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1179,
@@ -1446,9 +1202,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1181,
@@ -1461,9 +1215,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 168,
@@ -1476,9 +1228,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 981,
@@ -1491,9 +1241,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1133,
@@ -1506,9 +1254,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 982,
@@ -1521,9 +1267,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 158,
@@ -1536,9 +1280,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 947,
@@ -1551,9 +1293,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 158,
@@ -1566,9 +1306,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 126,
@@ -1581,9 +1319,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 88,
@@ -1596,9 +1332,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 66,
@@ -1611,9 +1345,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 944,
@@ -1626,9 +1358,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 971,
@@ -1641,9 +1371,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 147,
@@ -1656,9 +1384,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 67,
@@ -1671,9 +1397,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1132,
@@ -1686,9 +1410,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 115,
@@ -1701,9 +1423,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 74,
@@ -1716,9 +1436,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 70,
@@ -1731,9 +1449,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 69,
@@ -1746,9 +1462,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1199,
@@ -1761,9 +1475,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1132,
@@ -1776,9 +1488,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 73,
@@ -1791,9 +1501,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 143,
@@ -1806,9 +1514,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1132,
@@ -1821,9 +1527,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 159,
@@ -1836,9 +1540,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1207,
@@ -1851,9 +1553,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 71,
@@ -1866,9 +1566,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 82,
@@ -1881,9 +1579,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 90,
@@ -1896,9 +1592,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 142,
@@ -1911,9 +1605,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 96,
@@ -1926,9 +1618,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 51,
@@ -1941,9 +1631,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 93,
@@ -1956,9 +1644,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1132,
@@ -1971,9 +1657,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 94,
@@ -1986,9 +1670,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 959,
@@ -2001,9 +1683,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 94,
@@ -2016,9 +1696,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 973,
@@ -2031,9 +1709,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 974,
@@ -2046,9 +1722,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 133,
@@ -2061,9 +1735,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 134,
@@ -2076,9 +1748,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 965,
@@ -2091,9 +1761,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 966,
@@ -2106,14 +1774,12 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 88,
       "toId": 88,
-      "shape": "straight"
+      "shape": "ortho"
     },
     {
       "id": 1230,
@@ -2121,9 +1787,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 98,
@@ -2136,9 +1800,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1132,
@@ -2151,9 +1813,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 86,
@@ -2166,9 +1826,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 93,
@@ -2181,9 +1839,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 92,
@@ -2196,9 +1852,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 86,
@@ -2211,9 +1865,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 86,
@@ -2226,9 +1878,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 87,
@@ -2241,9 +1891,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1132,
@@ -2256,9 +1904,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 969,
@@ -2271,9 +1917,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 972,
@@ -2286,9 +1930,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 968,
@@ -2301,9 +1943,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 970,
@@ -2316,9 +1956,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 1243,
@@ -2331,9 +1969,7 @@
       "label": "",
       "desc": "",
       "link": "",
-      "tags": [
-
-      ],
+      "tags": [],
       "directed": false,
       "weight": 5,
       "fromId": 967,
@@ -2341,14 +1977,79 @@
       "shape": "ortho"
     },
     {
+      "id": 1254,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 180,
+      "toId": 181,
+      "shape": "ortho"
+    },
+    {
+      "id": 1255,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 177,
+      "toId": 181,
+      "shape": "ortho"
+    },
+    {
+      "id": 1257,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1256,
+      "toId": 141,
+      "shape": "ortho"
+    },
+    {
+      "id": 1258,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1132,
+      "toId": 1256,
+      "shape": "ortho"
+    },
+    {
+      "id": 1261,
+      "kind": "edge",
+      "label": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "directed": true,
+      "weight": 5,
+      "fromId": 1260,
+      "toId": 1025,
+      "shape": "ortho"
+    },
+    {
       "id": 753,
       "kind": "node",
       "label": "supervised learning",
       "notes": "",
-      "desc": "",
+      "desc": "Supervised learning is a type of machine learning where a model is trained to make predictions based on labeled data. The model is given a set of input-output pairs, and learns to map inputs to the correct outputs. This is in contrast to unsupervised learning, where the model is not given any labeled data and must find patterns or structure in the input data on its own. Some examples of supervised learning include image classification, spam detection and linear regression.",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "artificial intelligence",
         "goal"
       ],
@@ -2356,10 +2057,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -4852.4609375,
-        "y": 2080
+        "x": -13825.483337402344,
+        "y": 2468.5
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2369,10 +2070,10 @@
       "kind": "node",
       "label": "unsupervised learning",
       "notes": "",
-      "desc": "",
+      "desc": "Unsupervised learning is a type of machine learning where a model is not given any labeled data, and must find patterns or structure in the input data on its own. These models are used to find the underlying patterns in the data, which can then be used for further analysis or as input to supervised learning models. Some examples of unsupervised learning include clustering, anomaly detection, and dimensionality reduction.",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "artificial intelligence",
         "goal"
       ],
@@ -2380,10 +2081,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6391.359375,
-        "y": 3280
+        "x": -15873.359375,
+        "y": 4405
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2393,19 +2094,21 @@
       "kind": "node",
       "label": "machine learning",
       "notes": "",
-      "desc": "",
+      "desc": "Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence that uses statistical techniques to give computer systems the ability to 'learn' (i.e. progressively improve performance on a specific task) with data, without being explicitly programmed. Machine learning focuses on the development of algorithms and models that can learn from and make predictions or decisions without human intervention. There are several types of machine learning, including supervised learning, unsupervised learning, semi-supervised learning and reinforcement learning. These different types of learning can be used for a variety of tasks such as image recognition, natural language processing, and predictive modeling.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "application"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3010.9140625,
-        "y": 3280
+        "x": -12492.9140625,
+        "y": 4405
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2415,19 +2118,21 @@
       "kind": "node",
       "label": "semantic translation",
       "notes": "",
-      "desc": "",
+      "desc": "Semantic translation is a type of machine learning that focuses on understanding the meaning of natural language text and accurately translating it to another language. It is different from traditional machine translation, which only focuses on translating word-by-word, resulting in translations that may not be grammatically correct or convey the same meaning as the original text. Semantic translation models use neural networks and other advanced techniques to understand the context and meaning of the text, allowing for more accurate and nuanced translations. It is increasingly used in various industries such as e-commerce, localization, and content creation for multilingual audience. It also plays an important role in natural language understanding and generation.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "application"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -2887.9296875,
-        "y": 2380
+        "x": -12643.91665649414,
+        "y": 3579.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2437,7 +2142,7 @@
       "kind": "node",
       "label": "language identification",
       "notes": "",
-      "desc": "",
+      "desc": "Language identification is the task of determining the language of a given text. It is an important step in natural language processing, as it allows systems to properly handle and process text in different languages. Language identification can be performed at different levels of granularity, such as identifying the language of a full document, a sentence, or even a single word. Language identification is widely used in many applications such as search engines, machine translation, and text-to-speech systems. It also plays a crucial role in multilingual natural language processing tasks such as sentiment analysis, named entity recognition, and part-of-speech tagging.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2447,9 +2152,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3080.84375,
-        "y": 2605
+        "x": -12511.83334350586,
+        "y": 3779.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2459,19 +2165,21 @@
       "kind": "node",
       "label": "machine translation",
       "notes": "",
-      "desc": "",
+      "desc": "Machine Translation (MT) is the use of technology to automatically translate text from one natural language to another. It is a subfield of natural language processing and machine learning.\nRecent advances in neural machine translation (NMT) have greatly improved the quality of machine translations, by using deep neural networks to model the entire translation process. NMT models are trained on large parallel corpora and can generate fluent and natural translations that often rival those produced by humans.\nMachine translation is widely used in various industries such as e-commerce, localization, and content creation for multilingual audience. It also plays an important role in natural language understanding and generation.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "application"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -2597.5,
-        "y": 2155
+        "x": -9753.5,
+        "y": 3479.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2481,19 +2189,21 @@
       "kind": "node",
       "label": "natural language processing",
       "notes": "",
-      "desc": "",
+      "desc": "Natural Language Processing (NLP) is a field of artificial intelligence and computer science that focuses on the interaction between computers and human natural languages. It enables computers to understand, interpret, and generate human language, making it possible to interact with computers in a more natural and intuitive way. NLP includes a wide range of techniques and methods such as text mining, sentiment analysis, language translation, and speech recognition.\nRecent advances in deep learning and neural networks have greatly improved the performance of NLP systems, enabling them to handle more complex and nuanced tasks such as language generation, dialogue systems and text summarization.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "future"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -1575.0078125,
-        "y": 2905
+        "x": -8531.049987792969,
+        "y": 3779.5
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2503,7 +2213,7 @@
       "kind": "node",
       "label": "image recognition",
       "notes": "",
-      "desc": "",
+      "desc": "Image recognition is a field of computer vision and machine learning that involves the development of algorithms and models that can automatically recognize and identify objects, scenes, and features within images. It is used to extract information from images and can be applied to a wide range of applications such as object detection, facial recognition, and image classification.\nThere are several different approaches to image recognition, including traditional feature-based methods and more recent deep learning-based methods. Feature-based methods typically extract pre-defined features from an image and use them to train a classifier, while deep learning-based methods use neural networks to learn features directly from the image data.\nDeep learning-based models such as convolutional neural networks (CNNs) have shown to be particularly effective at image recognition tasks. These models have been trained on large datasets of labeled images and can achieve state-of-the-art performance in various image recognition tasks.",
       "link": "",
       "tags": [
         "artificial intelligence",
@@ -2513,9 +2223,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5549.0859375,
-        "y": 4930
+        "x": -13380.100006103516,
+        "y": 6179.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2525,19 +2236,21 @@
       "kind": "node",
       "label": "motion analysis",
       "notes": "",
-      "desc": "",
+      "desc": "Motion analysis is a field of computer vision that involves the study of motion, motion patterns and motion-based recognition in image sequences. It is used to extract information from video sequences, such as object tracking, activity recognition and gesture recognition.\nSome of its applications include video captioning, action recognition and crowd analysis.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "application"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5581.0625,
-        "y": 4705
+        "x": -13412.050003051758,
+        "y": 5979.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2547,19 +2260,21 @@
       "kind": "node",
       "label": "computer vision",
       "notes": "",
-      "desc": "",
+      "desc": "Computer Vision is a field of Artificial Intelligence that deals with enabling machines to interpret and understand visual information from the world, such as images and videos. It involves the development of algorithms and models that can automatically extract meaningful information from visual data, and make decisions based on that information. It encompasses a wide range of tasks such as image recognition, object detection, image segmentation, motion analysis and scene understanding.\nComputer vision is used in various industries such as self-driving cars, surveillance, and robotics.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "future"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3327.03125,
-        "y": 4930
+        "x": -12208.033340454102,
+        "y": 5979.5
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2569,10 +2284,10 @@
       "kind": "node",
       "label": "reinforcement learning",
       "notes": "",
-      "desc": "",
+      "desc": "Reinforcement Learning (RL) is a type of machine learning that deals with training agents to make decisions in an environment, in order to maximize a reward signal. The agent interacts with the environment by taking actions, and the environment provides the agent with rewards or penalties based on the actions taken. The agent's goal is to learn a policy, which is a mapping from states to actions, that maximizes the cumulative reward over time. Recent advances in deep learning and neural networks have greatly improved the performance of RL systems, enabling them to handle more complex and high-dimensional tasks such as robotic manipulation, game playing and recommendation systems.",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "artificial intelligence",
         "goal"
       ],
@@ -2580,10 +2295,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6006.7265625,
-        "y": 4255
+        "x": -16112.75,
+        "y": 5979.5
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2593,19 +2308,21 @@
       "kind": "node",
       "label": "speech-to-text",
       "notes": "",
-      "desc": "",
+      "desc": "Speech-to-text, also known as Automatic Speech Recognition (ASR), is a technology that converts spoken language into written text. It is a subfield of natural language processing and speech recognition. It is used in applications such as voice assistants, call centers, and dictation software.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "application"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3427.3515625,
-        "y": 2905
+        "x": -12633.366668701172,
+        "y": 4079.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2615,19 +2332,21 @@
       "kind": "node",
       "label": "artificial general intelligence (AGI)",
       "notes": "",
-      "desc": "",
+      "desc": "Artificial General Intelligence (AGI) is a subfield of Artificial Intelligence (AI) that aims to develop systems that possess a wide range of cognitive abilities, similar to those of humans. AGI is considered to be the next step beyond current AI systems, which are designed to perform specific tasks such as image recognition, speech-to-text, and game playing. AGI systems would be able to perform any intellectual task that a human can, and would be able to adapt to new situations and learn new skills.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "future"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1341.171875,
-        "y": 4930
+        "x": -8139.7667236328125,
+        "y": 6052.5
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2641,15 +2360,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7352.6796875,
-        "y": 4255
+        "x": -16733.666664123535,
+        "y": 5579.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2663,15 +2384,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7327.8671875,
-        "y": 5155
+        "x": -16708.866668701172,
+        "y": 6579.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2685,15 +2408,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8471.9140625,
-        "y": 4255
+        "x": -17953.9140625,
+        "y": 5380
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2703,19 +2428,21 @@
       "kind": "node",
       "label": "temporal difference",
       "notes": "",
-      "desc": "",
+      "desc": "Temporal difference (TD) learning refers to a class of model-free reinforcement learning methods which learn by bootstrapping from the current estimate of the value function. These methods sample from the environment, like Monte Carlo methods, and perform updates based on current estimates, like dynamic programming methods.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "project",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8526.3828125,
-        "y": 4630
+        "x": -18057.399993896484,
+        "y": 5779.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2729,15 +2456,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9584.40625,
-        "y": 4255
+        "x": -19040.41667175293,
+        "y": 5479.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2751,15 +2480,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9575.671875,
-        "y": 4105
+        "x": -19057.671875,
+        "y": 5230
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2769,41 +2500,21 @@
       "kind": "node",
       "label": "Q-learning",
       "notes": "",
-      "desc": "",
+      "desc": "Q-learning is a model-free reinforcement learning algorithm to learn the value of an action in a particular state. It does not require a model of the environment (hence 'model-free'), and it can handle problems with stochastic transitions and rewards without requiring adaptations.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9636.921875,
-        "y": 4480
+        "x": -19092.933334350586,
+        "y": 5779.5
       },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 1047,
-      "kind": "node",
-      "label": "SARSA",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "artificial intelligence",
-        "goal"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": null,
-      "pos": {
-        "x": -9684.46875,
-        "y": 4630
-      },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2817,15 +2528,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8138.8203125,
-        "y": 5155
+        "x": -17620.8203125,
+        "y": 6280
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2839,15 +2552,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8147.890625,
-        "y": 5605
+        "x": -17603.883331298828,
+        "y": 6779.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2857,19 +2572,21 @@
       "kind": "node",
       "label": "genetic algorithm",
       "notes": "",
-      "desc": "",
+      "desc": "A Genetic Algorithm (GA) is a search and optimization method inspired by the process of natural selection. In a GA, a population of candidate solutions is created, and each solution is represented by a set of parameters or variables, called a chromosome. The solutions are then evaluated using a fitness function that measures how well the solution fits the problem. The solutions that have a better fitness score have a higher chance of reproducing and passing their traits to the next generation. This process is repeated over many generations until the optimal solution is found. GA is suitable for solving problems with a large search space and no gradient information, it is often used in optimization problems, such as function optimization, scheduling, and design optimization. GAs can be computationally expensive and may not always find the global optimum, but they are often robust to noise and can find good solutions in a relatively short time.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9531.2890625,
-        "y": 5605
+        "x": -19087.2833404541,
+        "y": 6979.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2879,19 +2596,21 @@
       "kind": "node",
       "label": "stochastic gradient",
       "notes": "",
-      "desc": "",
+      "desc": "Stochastic Gradient (SG) is an optimization method used to train machine learning models, particularly in deep learning. It is an extension of the standard gradient descent method, where the parameters of the model are updated based on the gradient of the loss function with respect to the parameters. In SG, instead of computing the gradient using the entire dataset, the gradient is computed using a small random sample of the data, called a mini-batch. This sample is selected at random at each iteration and the parameters are updated based on the gradient of the loss function on this sample. The main advantage of using SG is that it can handle large datasets that do not fit in memory, and it can also make better use of parallel computing resources. Additionally, the use of random samples can introduce some noise in the gradients, which can help the optimization process to escape from local minima and converge to a better solution.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9506.953125,
-        "y": 5380
+        "x": -19062.933319091797,
+        "y": 6679.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2901,41 +2620,21 @@
       "kind": "node",
       "label": "learning classifiers",
       "notes": "",
-      "desc": "",
+      "desc": "Learning classifier systems, or LCS, are a paradigm of rule-based machine learning methods that combine a discovery component (e.g. typically a genetic algorithm) with a learning component (performing either supervised learning, reinforcement learning, or unsupervised learning). Learning classifier systems seek to identify a set of context-dependent rules that collectively store and apply knowledge in a piecewise manner in order to make predictions (e.g. behavior modeling, classification, data mining, regression, function approximation, or game strategy). This approach allows complex solution spaces to be broken up into smaller, simpler parts. ",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9513.4140625,
-        "y": 5155
+        "x": -18995.4140625,
+        "y": 6280
       },
-      "nodelabelfontsize": 75,
-      "nodenotesfontsize": null,
-      "backgroundImageURL": null
-    },
-    {
-      "id": 1058,
-      "kind": "node",
-      "label": "XCS",
-      "notes": "",
-      "desc": "",
-      "link": "",
-      "tags": [
-        "artificial intelligence",
-        "goal"
-      ],
-      "has_dynamic_notes": false,
-      "is_collapsed": false,
-      "parent": null,
-      "pos": {
-        "x": -9724.7734375,
-        "y": 4930
-      },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2945,19 +2644,21 @@
       "kind": "node",
       "label": "dimension reduction",
       "notes": "",
-      "desc": "",
+      "desc": "Dimension reduction is a technique used in machine learning and statistics to reduce the number of features or dimensions in a dataset while preserving as much information as possible. There are several methods for dimension reduction, including feature selection, feature extraction, and manifold learning. Feature selection methods select a subset of the original features, while feature extraction methods create new features from the original features. Manifold learning methods aim to learn a low-dimensional representation of the data that preserves the underlying structure of the data. The most widely used dimension reduction techniques are Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) which are linear methods. Non-linear methods such as Isomap, t-SNE, and Autoencoder are also widely used. Dimension reduction can help to improve the performance of machine learning models by reducing overfitting, improving the interpretability of the model, and reducing the computational cost of the learning algorithms.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7463.7890625,
-        "y": 3655
+        "x": -16945.7890625,
+        "y": 4780
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2967,19 +2668,21 @@
       "kind": "node",
       "label": "clustering",
       "notes": "",
-      "desc": "",
+      "desc": "Clustering is a technique used in machine learning and statistics to group similar data points together into clusters. K-means and k-medoids are examples of centroid-based methods, where the goal is to find the center of the clusters. Hierarchical methods, such as single linkage, complete linkage and average linkage, construct a hierarchy of clusters. DBSCAN and OPTICS are examples of density-based methods, where clusters are defined as dense regions of the data. Gaussian Mixture Model (GMM) and Expectation-Maximization (EM) algorithm are examples of distribution-based methods, where each cluster is modeled as a probability distribution.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7316.75,
-        "y": 3130
+        "x": -16797.75,
+        "y": 4279.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -2989,10 +2692,10 @@
       "kind": "node",
       "label": "linear discriminant analysis (LDA)",
       "notes": "",
-      "desc": "",
+      "desc": "Linear Discriminant Analysis (LDA) is a dimension reduction and supervised learning technique used in machine learning and statistics to find a linear combination of features that separate different classes of data. The goal of LDA is to find the linear combination of features that maximizes the ratio of the between-class variance to the within-class variance. The resulting linear combination, called the LDA axes or LDA directions, can be used as a new set of features for classification or as a tool for data visualization.",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "artificial intelligence",
         "goal"
       ],
@@ -3000,9 +2703,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9000.203125,
-        "y": 3805
+        "x": -18482.203125,
+        "y": 4930
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3012,10 +2716,10 @@
       "kind": "node",
       "label": "principal component analysis (PCA)",
       "notes": "",
-      "desc": "",
+      "desc": "Principal component analysis (PCA) is a popular technique for analyzing large datasets containing a high number of dimensions/features per observation, increasing the interpretability of data while preserving the maximum amount of information, and enabling the visualization of multidimensional data. Formally, PCA is a statistical technique for reducing the dimensionality of a dataset. This is accomplished by linearly transforming the data into a new coordinate system where (most of) the variation in the data can be described with fewer dimensions than the initial data. Many studies use the first two principal components in order to plot the data in two dimensions and to visually identify clusters of closely related data points. Principal component analysis has applications in many fields such as population genetics, microbiome studies, and atmospheric science.",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "artificial intelligence",
         "goal"
       ],
@@ -3023,9 +2727,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8968.4375,
-        "y": 3655
+        "x": -18450.4375,
+        "y": 4780
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3035,19 +2740,21 @@
       "kind": "node",
       "label": "K-means clustering",
       "notes": "",
-      "desc": "",
+      "desc": "k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9206.0546875,
-        "y": 3280
+        "x": -18688.0546875,
+        "y": 4405
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3057,19 +2764,21 @@
       "kind": "node",
       "label": "spectral clustering",
       "notes": "",
-      "desc": "",
+      "desc": "Spectral Clustering is a method of clustering that uses the eigenvectors of a similarity matrix of the data points. It is often used as a more robust alternative to traditional k-means clustering and can handle non-linearly separable datasets.",
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9217.1640625,
-        "y": 3130
+        "x": -18699.1640625,
+        "y": 4255
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3083,15 +2792,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9165.515625,
-        "y": 2980
+        "x": -18647.515625,
+        "y": 4105
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3105,15 +2816,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9032.4296875,
-        "y": 3430
+        "x": -18514.4296875,
+        "y": 4555
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3127,15 +2840,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6057.0625,
-        "y": 2080
+        "x": -15438.033340454102,
+        "y": 3479.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3149,15 +2864,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5884.5390625,
-        "y": 1555
+        "x": -15457.566665649414,
+        "y": 1968.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3171,15 +2888,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6448.4140625,
-        "y": 1255
+        "x": -16129.416664123535,
+        "y": 2379.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3193,15 +2912,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6720.3046875,
-        "y": 1705
+        "x": -16068.33332824707,
+        "y": 1568.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3214,7 +2935,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "artificial intelligence",
         "goal"
       ],
@@ -3222,9 +2943,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8401.9609375,
-        "y": 1705
+        "x": -18074.966674804688,
+        "y": 1568.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3237,7 +2959,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "artificial intelligence",
         "goal"
       ],
@@ -3245,9 +2967,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8383.7421875,
-        "y": 1855
+        "x": -17881.733337402344,
+        "y": 1168.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3260,7 +2983,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "artificial intelligence",
         "goal"
       ],
@@ -3268,9 +2991,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8402.8828125,
-        "y": 1555
+        "x": -17975.866668701172,
+        "y": 1868.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3283,7 +3007,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "artificial intelligence",
         "goal"
       ],
@@ -3291,9 +3015,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7584.6328125,
-        "y": 1405
+        "x": -17066.6328125,
+        "y": 2530
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3307,15 +3032,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7598.4609375,
-        "y": 2080
+        "x": -16479.4666595459,
+        "y": 3279.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3329,15 +3056,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -6968.890625,
-        "y": 2455
+        "x": -16424.883331298828,
+        "y": 3579.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3347,10 +3076,10 @@
       "kind": "node",
       "label": "artificial neural networks (ANN)",
       "notes": "",
-      "desc": "",
+      "desc": "Artificial neural networks (ANNs) are a type of machine learning algorithm modeled after the structure and function of the human brain. They consist of layers of interconnected 'neurons' that process and transmit information. ANNs are trained using large amounts of data and are able to learn and make decisions or predictions about new data. They are commonly used in image and speech recognition, natural language processing, and other applications.",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "artificial intelligence",
         "goal"
       ],
@@ -3358,9 +3087,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9781.3671875,
-        "y": 2605
+        "x": -19263.3671875,
+        "y": 3730
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3370,10 +3100,10 @@
       "kind": "node",
       "label": "random forests",
       "notes": "",
-      "desc": "",
+      "desc": "Random forests are a type of decision tree ensemble method. They are a combination of multiple decision trees, where each tree is trained on a different subset of the data. The final prediction is made by averaging the predictions of all the trees. Random forests are considered to be more accurate and stable than a single decision tree because it reduces overfitting by averaging multiple trees and also helps to identify the most important features. It is widely used in classification, regression and other machine learning tasks.",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "artificial intelligence",
         "goal"
       ],
@@ -3381,9 +3111,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -9412.8359375,
-        "y": 2455
+        "x": -18894.8359375,
+        "y": 3580
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3393,10 +3124,10 @@
       "kind": "node",
       "label": "decision trees",
       "notes": "",
-      "desc": "",
+      "desc": "Decision trees are a type of supervised learning algorithm that can be used for both classification and regression tasks. They are called 'trees' because the structure of the algorithm is a tree-like model of decisions and their possible consequences. Each internal node of the tree represents a 'test' on an attribute, each branch represents the outcome of the test, and each leaf node represents a class label. The topmost node in a decision tree is known as the root node. It's used to make predictions by traversing the tree from the root to a leaf node and the class label at the leaf node is the final prediction. Decision trees are simple to understand, interpret and visualize, making them a popular choice for decision making in business and industry.",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "artificial intelligence",
         "goal"
       ],
@@ -3404,9 +3135,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -10107.2265625,
-        "y": 2455
+        "x": -19838.233337402344,
+        "y": 3579.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3416,10 +3148,10 @@
       "kind": "node",
       "label": "latent Dirichlet allocation",
       "notes": "",
-      "desc": "",
+      "desc": "In natural language processing, Latent Dirichlet Allocation (LDA) is a generative statistical model that explains a set of observations through unobserved groups, and each group explains why some parts of the data are similar. The LDA is an example of a topic model. In this, observations (e.g., words) are collected into documents, and each word's presence is attributable to one of the document's topics. Each document will contain a small number of topics.",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "artificial intelligence",
         "goal"
       ],
@@ -3427,9 +3159,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -7624.4609375,
-        "y": 1105
+        "x": -17106.4609375,
+        "y": 2230
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3439,10 +3172,10 @@
       "kind": "node",
       "label": "belief network",
       "notes": "",
-      "desc": "",
+      "desc": "A belief network, also known as a Bayesian network, is a probabilistic graphical model that represents a set of variables and their probabilistic relationships. It consists of a directed acyclic graph (DAG) where each node represents a variable and each directed edge represents a direct dependency between the variables. The nodes are divided into two types: the observed variables, which have known values, and the latent variables, which are inferred from the observed variables. Belief networks are used to represent uncertain knowledge and can be used for tasks such as diagnosis, prediction, and decision making. They are widely used in artificial intelligence and machine learning, particularly in the field of expert systems.",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "artificial intelligence",
         "goal"
       ],
@@ -3450,9 +3183,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8230.4296875,
-        "y": 1255
+        "x": -17712.4296875,
+        "y": 2380
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3465,7 +3199,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "artificial intelligence",
         "goal"
       ],
@@ -3473,9 +3207,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8292.7421875,
-        "y": 2755
+        "x": -17774.7421875,
+        "y": 3880
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3485,10 +3220,10 @@
       "kind": "node",
       "label": "linear regression",
       "notes": "",
-      "desc": "",
+      "desc": "Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. It is a type of supervised learning algorithm that attempts to find the best linear relationship between the variables by fitting a line through the data points. The line is represented by an equation of the form y = mx + b, where y is the dependent variable, x is the independent variable, m is the slope of the line, and b is the y-intercept. Linear regression can be used for both simple and multiple regression problems.",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "artificial intelligence",
         "goal"
       ],
@@ -3496,9 +3231,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8644.25,
-        "y": 2080
+        "x": -18126.25,
+        "y": 3205
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3511,7 +3247,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "artificial intelligence",
         "goal"
       ],
@@ -3519,9 +3255,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -8619.2890625,
-        "y": 2230
+        "x": -18101.2890625,
+        "y": 3355
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3535,15 +3272,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "application"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5554.78125,
-        "y": 5155
+        "x": -13385.799987792969,
+        "y": 5779.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3557,15 +3296,17 @@
       "link": "",
       "tags": [
         "artificial intelligence",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3408.7890625,
-        "y": 2155
+        "x": -9739.75,
+        "y": 3179.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3580,15 +3321,16 @@
       "tags": [
         "artificial intelligence",
         "data governance",
-        "goal"
+        "application"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5708.4609375,
-        "y": 2806.4107675695914
+        "x": -15190.4609375,
+        "y": 3931.4107675695914
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -3600,7 +3342,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "artificial intelligence",
         "private computation",
         "goal"
@@ -3609,10 +3351,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 2250.453125,
-        "y": 4555
+        "x": -7955.583343505859,
+        "y": 5579.5
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3627,15 +3369,17 @@
       "tags": [
         "artificial intelligence",
         "private computation",
-        "goal"
+        "goal",
+        "application"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5407.8125,
-        "y": 4105
+        "x": -4973.166656494141,
+        "y": 7379.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3649,15 +3393,17 @@
       "link": "",
       "tags": [
         "private computation",
-        "goal"
+        "goal",
+        "future"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3324.40625,
-        "y": 4330
+        "x": -6157.59375,
+        "y": 5455
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3672,15 +3418,17 @@
       "tags": [
         "artificial intelligence",
         "private computation",
-        "goal"
+        "goal",
+        "future"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8075.6953125,
-        "y": 4330
+        "x": -1294.3265380859375,
+        "y": 6696.2080078125
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3695,15 +3443,17 @@
       "tags": [
         "artificial intelligence",
         "decentralised systems",
-        "goal"
+        "goal",
+        "application"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3902.703125,
-        "y": 5380
+        "x": -5578.316680908203,
+        "y": 6679.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3716,17 +3466,18 @@
       "desc": "Multi-node machine learning algorithms and systems\nthat are designed to improve performance, increase accuracy, and scale to larger input data\nsizes.",
       "link": "",
       "tags": [
-        "artificial intelligence",
+        "future",
         "decentralised systems",
-        "goal"
+        "artificial intelligence"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -821.8515625,
-        "y": 5380
+        "x": -10778.8515625,
+        "y": 7355
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3739,7 +3490,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "decentralised systems",
         "artificial intelligence",
         "goal"
@@ -3748,10 +3499,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3156.65625,
-        "y": 5680
+        "x": -5524.2833251953125,
+        "y": 7952.5
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3772,10 +3523,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 14069.0859375,
-        "y": 3880
+        "x": 10079.013458251953,
+        "y": 5920.03662109375
       },
-      "fill": "#b8e986ff",
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -3795,10 +3546,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 10869.1171875,
-        "y": 2755
+        "x": 5463.116668701172,
+        "y": 4379.5
       },
-      "fill": "#b8e986ff",
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -3810,7 +3561,7 @@
       "desc": "Protocols for collective decision-making by stakeholders and participants in a community.",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "decentralised systems",
         "goal"
       ],
@@ -3818,10 +3569,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11661.65625,
-        "y": 3430
+        "x": 8814.889709472656,
+        "y": 5084.5
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -3833,7 +3584,7 @@
       "desc": "The use of decentralised technologies such as smart contracts, tokens, decentralised storage and computation to enable new possibilities to make science more accessible, auditable, transparent, independent, and fair.\n\n ## Projects\n- <a target=_blank href=https://mirror.xyz/descifoundation.eth>DeSci Foundation</a>\n- <a target=_blank href=https://desci.com/>DeSci Labs</a>\n\n ## Resources\n- <a target=_blank href=https://hackernoon.com/desci-the-new-web-3-movement-to-revolutionize-scientific-research-and-funding>DeSci - the New Web 3 Movement to Revolutionize Scientific Research & Funding (2022) - Serge Baloyan</a>\n- <a target=_blank href=https://www.cryptoaltruism.org/blog/ten-more-desci-projects>Ten more DeSci projects disrupting scientific research, development, and knowledge sharing.</a>\n- <a target=_blank href=https://cointelegraph.com/magazine/2022/04/15/desci-tokens-help-improve-scientific-research>DeSci: Can crypto improve scientific research? (2022) - Max Parasol</a>\n- <a target=_blank href=https://future.com/what-is-decentralized-science-aka-desci/>A Guide to DeSci, the Latest Web3 Movement - Sarah Hamburg</a>\n",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "decentralised systems",
         "goal"
       ],
@@ -3841,10 +3592,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 17792.484375,
-        "y": 3430
+        "x": 14344.816661834717,
+        "y": 5960.5
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -3857,15 +3608,17 @@
       "link": "",
       "tags": [
         "decentralised systems",
-        "goal"
+        "goal",
+        "future"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 13025.953125,
-        "y": 3430
+        "x": 12714.400024414062,
+        "y": 5067.5
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -3878,15 +3631,17 @@
       "link": "",
       "tags": [
         "decentralised systems",
-        "goal"
+        "goal",
+        "future"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 9593.2265625,
-        "y": 3430
+        "x": 162.25,
+        "y": 4852.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -3899,7 +3654,7 @@
       "desc": "An efficient verifiable computation that can be verified at any intermediate point in the computation. The proof at each step is generated efficiently by updating the previous proof, without recomputing the entire proof from scratch. \n ## Resources\n- <a target=_blank href=https://link.springer.com/chapter/10.1007/978-3-540-78524-8_1>Incrementally Verifiable Computation or Proofs of Knowledge Imply Time/Space Efficiency</a>\n",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "private computation",
         "goal"
       ],
@@ -3907,10 +3662,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3328.109375,
-        "y": 430
+        "x": -12810.109375,
+        "y": 1555
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -3922,7 +3677,7 @@
       "desc": "The encoding of a virtual machine (state transition function) in a zero-knowledge circuit. This enables any general-purpose program which can be compiled down to a reduced instruction set, to be verifiably computed in a zero-knowledge proof.\n\n ## Projects\n- <a target=_blank href=https://www.risczero.com/>Risc Zero</a>\n- <a target=_blank href=https://polygon.technology/solutions/polygon-miden/>Polygon Miden (Miden VM)</a>\n- <a target=_blank href=https://starkware.co/tech-stack/>Starkware (Cairo VM)</a>\n",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "private computation",
         "goal"
       ],
@@ -3930,10 +3685,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -1283.5546875,
-        "y": -320
+        "x": -10765.5546875,
+        "y": 805
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -3945,7 +3700,7 @@
       "desc": "A scheme to prove inclusion in a set, without revealing which member of the set it is.\n\n ## Projects\n- <a target=_blank href=https://github.com/semaphore-protocol/semaphore/>Semaphore</a>\n",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "private computation",
         "goal"
       ],
@@ -3953,9 +3708,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -2938.484375,
-        "y": 130
+        "x": -12420.484375,
+        "y": 1255
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": 45,
       "backgroundImageURL": null
@@ -3968,7 +3724,7 @@
       "desc": "A protocol in which each SNARK proof can verify a previous instance of a SNARK proof.\n\n ## Projects\n- <a target=_blank href=https://zcash.github.io/halo2/>Halo 2</a>\n- <a target=_blank href=https://github.com/mir-protocol/plonky2>plonky2</a>\n- <a target=_blank href=https://github.com/microsoft/Nova>Nova</a>\n",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "private computation",
         "goal"
       ],
@@ -3976,9 +3732,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -4498.25,
-        "y": 430
+        "x": -13980.25,
+        "y": 1555
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -3990,7 +3747,7 @@
       "desc": "An encryption scheme that enables analytical functions to be run directly on encrypted data while yielding the same encrypted results as if the functions were run on plaintext.\n ## Projects \n- <a target=_blank href=https://www.zama.ai/>Zama</a>\n",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "private computation",
         "goal"
       ],
@@ -3998,10 +3755,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1298.59375,
-        "y": 880
+        "x": -8407.383331298828,
+        "y": 1879.5
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4013,7 +3770,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "private computation",
         "goal"
       ],
@@ -4021,10 +3778,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -61.6171875,
-        "y": -1445
+        "x": -9543.6171875,
+        "y": -320
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4037,7 +3794,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "private computation",
         "goal"
       ],
@@ -4045,9 +3802,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -258.21875,
-        "y": -1295
+        "x": -9589.16665649414,
+        "y": 179.5
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4062,15 +3820,17 @@
       "tags": [
         "decentralised systems",
         "private computation",
-        "goal"
+        "goal",
+        "future"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3236.4921875,
-        "y": -545
+        "x": -6245.5078125,
+        "y": 580
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4083,7 +3843,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "private computation",
         "goal"
       ],
@@ -4091,9 +3851,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5688.671875,
-        "y": -95
+        "x": -15170.671875,
+        "y": 1030
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4106,7 +3867,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "private computation",
         "goal"
       ],
@@ -4114,10 +3875,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -1989.375,
-        "y": 430
+        "x": -11471.375,
+        "y": 1555
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4129,7 +3890,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "private computation",
         "goal"
       ],
@@ -4137,10 +3898,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3748.7890625,
-        "y": -1145
+        "x": -6257.2166748046875,
+        "y": -47.5
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4154,15 +3915,17 @@
       "link": "",
       "tags": [
         "private computation",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 1162.3515625,
-        "y": 1255
+        "x": -8418.649993896484,
+        "y": 2579.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4176,15 +3939,17 @@
       "link": "",
       "tags": [
         "private computation",
-        "goal"
+        "goal",
+        "future"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6263.5546875,
-        "y": -20
+        "x": -3218.4453125,
+        "y": 1105
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4199,15 +3964,17 @@
       "tags": [
         "private computation",
         "decentralised systems",
-        "goal"
+        "goal",
+        "future"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 9737.015625,
-        "y": 430
+        "x": 255.015625,
+        "y": 1555
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4222,15 +3989,17 @@
       "tags": [
         "private computation",
         "decentralised systems",
-        "goal"
+        "goal",
+        "application"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8822.5078125,
-        "y": -20
+        "x": -659.4921875,
+        "y": 1105
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4243,7 +4012,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "private computation",
         "decentralised systems",
         "goal"
@@ -4252,10 +4021,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6608.5078125,
-        "y": -545
+        "x": -1772.7166748046875,
+        "y": 253
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 200,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4269,15 +4038,17 @@
       "link": "",
       "tags": [
         "private computation",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -4296.609375,
-        "y": -95
+        "x": -13778.609375,
+        "y": 1030
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4290,7 +4061,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "private computation",
         "goal"
       ],
@@ -4298,9 +4069,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -424.8828125,
-        "y": 1030
+        "x": -9830.850006103516,
+        "y": 2379.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4313,7 +4085,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "private computation",
         "goal"
       ],
@@ -4321,9 +4093,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -337.1171875,
-        "y": 1330
+        "x": -9843.116668701172,
+        "y": 2779.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4338,15 +4111,17 @@
       "tags": [
         "decentralised systems",
         "data governance",
-        "goal"
+        "goal",
+        "application"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 7812.390625,
-        "y": 1630
+        "x": -1669.609375,
+        "y": 2755
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4358,7 +4133,7 @@
       "desc": "A decentralised exchange that can trade assets originating from different chains.",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "decentralised systems",
         "data governance",
         "goal"
@@ -4367,10 +4142,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11825.5859375,
-        "y": 1630
+        "x": 7894.566650390625,
+        "y": 2779.5
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4382,7 +4157,7 @@
       "desc": "Standards and protocols for communication, networking, and transfer between systems.\n\n ## Projects\n- <a target=_blank href=https://ibcprotocol.org/>Inter-Blockchain Communication (IBC)</a>\n- <a target=_blank href=https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview>Hypertext Transfer Protocol (HTTP)</a>\n- <a target=_blank href=https://wiki.polkadot.network/docs/learn-crosschain>Cross-Consensus Message Format (XCM)</a>\n",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "data governance",
         "goal"
       ],
@@ -4390,9 +4165,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5061.453125,
-        "y": 1630
+        "x": -4420.546875,
+        "y": 2755
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4404,7 +4180,7 @@
       "desc": "An open file format is a file format for storing digital data, defined by a openly published specification usually maintained by a standards organization, and which can be used and implemented by anyone. Open file format is licensed with open license.\n\n ## Projects\n- <a target=_blank href=https://www.unidata.ucar.edu/software/netcdf/>Network Common Data Form (netCDF)</a>\n\n ## Resources\n- <a target=_blank href=https://en.wikipedia.org/wiki/Open_file_format>Open file format (Wikipedia)</a>\n- <a target=_blank href=http://opendatahandbook.org/guide/en/appendices/file-formats/>Open Data Handbook</a>\n- <a target=_blank href=https://ipld.io/>InterPlanetary Linked Data (IPLD)</a>\n- <a target=_blank href=https://www.wolfram.com/cdf/>Computable Document Format (Wolfram)</a>\n",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "data governance",
         "goal"
       ],
@@ -4412,9 +4188,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5090.1953125,
-        "y": 1855
+        "x": -4391.8046875,
+        "y": 2980
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4426,7 +4203,7 @@
       "desc": "A PoS protocol that preserves the privacy of stakers\n\n ## Projects\n- <a target=_blank href=https://eprint.iacr.org/2018/1132>Ouroboros Crypsinous</a>\n- <a target=_blank href=https://penumbra.zone/technology/stake>Penumbra</a>\n",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "decentralised systems",
         "private computation",
         "goal"
@@ -4435,10 +4212,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6227.40625,
-        "y": 3520
+        "x": -5428.600006103516,
+        "y": 4694
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 100,
       "backgroundImageURL": null
     },
@@ -4450,7 +4227,7 @@
       "desc": "A consensus mechanism in which validators explicitly stake capital, which acts as collateral that can be destroyed in case of dishonest behaviour\n\n## Projects \n- <a target=_blank href=https://tendermint.com/>Tendermint</a>\n- <a target=_blank href=https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/>LMD-GHOST (Eth 2.0)</a>\n- <a target=_blank href=https://cardano.org/ouroboros/>Ouroboros</a>\n",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "decentralised systems",
         "goal"
       ],
@@ -4458,10 +4235,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4734.4609375,
-        "y": 3070
+        "x": -7771.549987792969,
+        "y": 4694
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 100,
       "backgroundImageURL": null
     },
@@ -4474,15 +4251,17 @@
       "link": "",
       "tags": [
         "decentralised systems",
-        "goal"
+        "goal",
+        "challenge"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6269.640625,
-        "y": 2320
+        "x": -3161.383331298828,
+        "y": 3394
       },
+      "fill": "#f5a623ff",
       "nodelabelfontsize": 100,
       "backgroundImageURL": null
     },
@@ -4496,15 +4275,17 @@
       "tags": [
         "decentralised systems",
         "data governance",
-        "goal"
+        "goal",
+        "application"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 7015.640625,
-        "y": 3745
+        "x": -1640.4166564941406,
+        "y": 5194
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 100,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4517,7 +4298,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "data governance",
         "goal"
       ],
@@ -4525,9 +4306,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4826.2109375,
-        "y": 3745
+        "x": -4254.799987792969,
+        "y": 5194
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 100,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4541,15 +4323,17 @@
       "link": "",
       "tags": [
         "data governance",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5929.578125,
-        "y": 3745
+        "x": -2951.4833374023438,
+        "y": 5194
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 100,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4562,7 +4346,7 @@
       "desc": "Maximal extractable value (MEV) refers to the maximum value that can be extracted from block production in excess of the standard block reward and gas fees by including, excluding, and changing the order of transactions in a block.\n\n## Projects\n- <a target=_blank href=https://docs.flashbots.net/>Flashbots</a>\n",
       "link": "",
       "tags": [
-        "risk",
+        "challenge",
         "decentralised systems",
         "goal"
       ],
@@ -4570,10 +4354,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6450.453125,
-        "y": 3295
+        "x": -6105.549987792969,
+        "y": 5094
       },
-      "fill": "#cb5656ff",
+      "fill": "#f5a623ff",
       "nodelabelfontsize": 100,
       "backgroundImageURL": null
     },
@@ -4585,7 +4369,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "private computation",
         "goal"
       ],
@@ -4593,9 +4377,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 124.0859375,
-        "y": 655
+        "x": -9856.933319091797,
+        "y": 1879.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4608,7 +4393,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "private computation",
         "goal"
       ],
@@ -4616,9 +4401,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -2225.1953125,
-        "y": -545
+        "x": -11707.1953125,
+        "y": 580
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4631,7 +4417,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "private computation",
         "goal"
       ],
@@ -4639,9 +4425,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -4460.4140625,
-        "y": -545
+        "x": -13942.4140625,
+        "y": 580
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4654,7 +4441,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "private computation",
         "goal"
       ],
@@ -4662,9 +4449,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -5586.3125,
-        "y": -545
+        "x": -15068.3125,
+        "y": 580
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4677,7 +4465,7 @@
       "desc": "A Sybil attack is a type of attack on a computer network service in which an attacker subverts the service's reputation system by creating a large number of pseudonymous identities and uses them to gain a disproportionately large influence.\n\n## Projects\n- <a target=_blank href=https://www.proofofhumanity.id/>Proof of Humanity</a>\n",
       "link": "",
       "tags": [
-        "risk",
+        "challenge",
         "decentralised systems",
         "goal"
       ],
@@ -4685,10 +4473,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6043.7109375,
-        "y": 3070
+        "x": -5364.213977813721,
+        "y": 4225.060302734375
       },
-      "fill": "#cb5656ff",
+      "fill": "#f5a623ff",
       "nodelabelfontsize": 100,
       "backgroundImageURL": null
     },
@@ -4709,10 +4497,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 8361.359375,
-        "y": 2005
+        "x": -1120.640625,
+        "y": 3130
       },
-      "fill": "#b8e986ff",
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4732,9 +4520,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 9986.9921875,
-        "y": 4330
+        "x": 580.9833374023438,
+        "y": 6129.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4755,9 +4544,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 15098.9453125,
-        "y": 4555
+        "x": 4517.983337402344,
+        "y": 6379.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4778,9 +4568,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 14914.2265625,
-        "y": 3430
+        "x": 13383.183349609375,
+        "y": 4679.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4801,9 +4592,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 14933.546875,
-        "y": 4330
+        "x": 3077.566680908203,
+        "y": 6979.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4823,9 +4615,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 16166.8359375,
-        "y": 3430
+        "x": 14843.866668701172,
+        "y": 4668.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4837,7 +4630,7 @@
       "desc": "A method for the identification, aggregation and exchange of scholarly information on the Web. The primary goal of the research object approach is to provide a mechanism to associate related resources about a scientific investigation so that they can be shared using a single identifier.\n ## Projects\n- <a target=_blank href=https://figshare.com/>Figshare</a>\n",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "decentralised systems",
         "data governance",
         "goal"
@@ -4846,9 +4639,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6443.8984375,
-        "y": 2005
+        "x": -3038.1015625,
+        "y": 3130
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4860,7 +4654,7 @@
       "desc": "The infrastructure school is founded on the assumption that 'efficient' research depends on the availability of tools and applications. Therefore, the goal of the school is to promote the creation of openly available platforms, tools, and services for scientists.\n\n ## Projects\n- <a target=_blank href=https://opensciencegrid.org/>Open Science Grid</a>\n",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "decentralised systems",
         "data governance",
         "goal"
@@ -4869,9 +4663,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 16261.265625,
-        "y": 3730
+        "x": 9288.233337402344,
+        "y": 6968.5
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4883,7 +4678,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "decentralised systems",
         "data governance",
         "goal"
@@ -4892,9 +4687,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 14284.75,
-        "y": 4555
+        "x": 2803.7333374023438,
+        "y": 6379.5
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4907,7 +4703,7 @@
       "desc": "A protocol that prevents malicious users from buying votes.\n\n## Projects\n- <a target=_blank href=https://github.com/privacy-scaling-explorations/maci>Minimal Anti-Collusion Infrastructure (MACI)</a>\n- <a target=_blank href=https://clr.fund/#/>Clr.fund</a>\n",
       "link": "",
       "tags": [
-        "risk",
+        "challenge",
         "decentralised systems",
         "goal"
       ],
@@ -4915,10 +4711,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 10284.5,
-        "y": 3880
+        "x": -996.4833374023438,
+        "y": 5904.5
       },
-      "fill": "#cb5656ff",
+      "fill": "#f5a623ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4930,7 +4726,7 @@
       "desc": "A voting protocol that preserves the correctness and secrecy of votes without a central coordinating body.\n\n ## Projects\n- <a target=_blank href=https://vocdoni.app/>Vocdoni</a>\n- <a target=_blank href=https://snapshot.org/>Snapshot</a>\n",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "decentralised systems",
         "goal"
       ],
@@ -4938,9 +4734,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 10982.296875,
-        "y": 3880
+        "x": 1426.2999877929688,
+        "y": 5904.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4952,7 +4749,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "decentralised systems",
         "goal"
       ],
@@ -4960,9 +4757,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -1760.0859375,
-        "y": 130
+        "x": -11242.0859375,
+        "y": 1255
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -4983,10 +4781,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 15057.1640625,
-        "y": 3880
+        "x": 11926.149993896484,
+        "y": 6579.5
       },
-      "fill": "#eccd2aff",
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -4998,7 +4796,7 @@
       "desc": "Distribution of funds using quadratic voting\n\n ## Projects\n- <a target=_blank href=https://gitcoin.co/>Gitcoin Grants</a>\n- <a target=_blank href=https://clr.fund/#/>Clr.fund</a>\n",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "decentralised systems",
         "goal"
       ],
@@ -5006,9 +4804,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11769.6640625,
-        "y": 3880
+        "x": 2888.683334350586,
+        "y": 5904.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -5017,10 +4816,10 @@
       "kind": "node",
       "label": "decentralised identity (DID)",
       "notes": "",
-      "desc": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/christopher-allen-brian-behlendorf-alan-karp-identity-security-focus/)]\n",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "decentralised systems",
         "goal"
       ],
@@ -5028,10 +4827,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 6338.0234375,
-        "y": 2545
+        "x": -1293.0333251953125,
+        "y": 3789
       },
-      "fill": "#eccd2aff",
+      "fill": "#ffffffff",
       "nodelabelfontsize": 100,
       "backgroundImageURL": null
     },
@@ -5051,10 +4850,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 13281.4921875,
-        "y": 2755
+        "x": 4350.5,
+        "y": 3779.5
       },
-      "fill": "#b8e986ff",
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -5074,9 +4873,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 10623.1328125,
-        "y": 2395
+        "x": 2442.116668701172,
+        "y": 3294
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 100,
       "backgroundImageURL": null
     },
@@ -5096,10 +4896,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 12780.703125,
-        "y": 2395
+        "x": 4999.342479705811,
+        "y": 3285.7275390625
       },
-      "fill": "#eccd2aff",
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 100,
       "backgroundImageURL": null
     },
@@ -5119,10 +4919,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 9587.453125,
-        "y": -170
+        "x": 138.4499969482422,
+        "y": 954.5
       },
-      "fill": "#b8e986ff",
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -5130,22 +4930,24 @@
     {
       "id": 973,
       "kind": "node",
-      "label": "DP-SGD",
-      "notes": "differentially private stochastic gradient descent",
+      "label": "differentially private stochastic gradient descent (DP-SGD)",
+      "notes": "",
       "desc": "## Projects\n- [TensorFlow Privacy](https://github.com/tensorflow/privacy)\n- [Objax](https://github.com/google/objax)\n- [Opacus](https://github.com/pytorch/opacus)",
       "link": "",
       "tags": [
         "artificial intelligence",
         "private computation",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 2935,
-        "y": 3701
+        "x": -6799.3499755859375,
+        "y": 7179.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": 45,
       "backgroundImageURL": null
@@ -5160,15 +4962,17 @@
       "tags": [
         "artificial intelligence",
         "private computation",
-        "goal"
+        "goal",
+        "technology"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3059.359375,
-        "y": 4105
+        "x": -6771.649993896484,
+        "y": 7579.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -5181,17 +4985,18 @@
       "desc": "A scaling solution that provides validity proofs for off-chain transactions.\n\n ## Projects\n- <a target=_blank href=https://zksync.io/>zkSync</a>\n- <a target=_blank href=https://loopring.org/#/>Loopring</a>\n- <a target=_blank href=https://aztec.network/>Aztec</a>\n- <a target=_blank href=https://starkware.co/starknet/>StarkNet</a>\n- <a target=_blank href=https://polygon.technology/solutions/polygon-zero/>Polygon Zero</a>\n- <a target=_blank href=https://polygon.technology/solutions/polygon-hermez/>Polygon Hermez</a>\n",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "decentralised systems",
-        "goal"
+        "project"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5130.2109375,
-        "y": 2155
+        "x": -5500.783340454102,
+        "y": 3279.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -5203,17 +5008,18 @@
       "desc": "An optimistic scaling solution that provides fraud proofs for off-chain transactions.\n\n ## Projects\n- <a target=_blank href=https://www.optimism.io/>Optimism</a>\n- <a target=_blank href=https://arbitrum.io/>Arbitrum</a>\n- <a target=_blank href=https://polygon.technology/solutions/polygon-nightfall/>Polygon Nightfall</a>\n- <a target=_blank href=https://fuel.network/>Fuel Network</a>\n",
       "link": "",
       "tags": [
-        "core",
         "decentralised systems",
-        "goal"
+        "technology",
+        "project"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4941.0078125,
-        "y": 2455
+        "x": -5389.966659545898,
+        "y": 3579.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -5225,7 +5031,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "data governance",
         "goal"
       ],
@@ -5233,9 +5039,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3603.0625,
-        "y": 5380
+        "x": -13884.049987792969,
+        "y": 7179.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -5248,7 +5055,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "data governance",
         "goal"
       ],
@@ -5256,9 +5063,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": -3328.9140625,
-        "y": 5230
+        "x": -13909.899993896484,
+        "y": 7579.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -5271,18 +5079,18 @@
       "desc": "Publicly visible, non-transferable (but possibly revocable-by-the-issuer) tokens.\n\n## Resources\n- <a target=_blank href=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763>Soulbound Tokens (SBTs)</a>\n",
       "link": "",
       "tags": [
-        "frontier",
         "decentralised systems",
-        "goal"
+        "future",
+        "project"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 7133.0703125,
-        "y": 2920
+        "x": -997.9666748046875,
+        "y": 4194
       },
-      "fill": "#eccd2aff",
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 100,
       "backgroundImageURL": null
     },
@@ -5302,9 +5110,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11927.8359375,
-        "y": 2980
+        "x": 3971.816680908203,
+        "y": 4179.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -5324,9 +5133,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 10900.578125,
-        "y": 2980
+        "x": 2469.566665649414,
+        "y": 4179.5
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -5346,9 +5156,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 4863.4921875,
-        "y": 2770
+        "x": -7442.516662597656,
+        "y": 3994
       },
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 100,
       "backgroundImageURL": null
     },
@@ -5360,7 +5171,7 @@
       "desc": "Social context about the origin of some artifact",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "decentralised systems",
         "goal"
       ],
@@ -5368,9 +5179,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 9452.1015625,
-        "y": 2605
+        "x": 2421.0833435058594,
+        "y": 3879.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -5390,10 +5202,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 11357.4765625,
-        "y": 3655
+        "x": 1426.4833374023438,
+        "y": 5379.5
       },
-      "fill": "#b8e986ff",
+      "fill": "#e4e013ff",
       "nodelabelfontsize": 75,
       "backgroundImageURL": null
     },
@@ -5405,16 +5217,17 @@
       "desc": "",
       "link": "",
       "tags": [
-        "core",
+        "technology",
         "goal"
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5330.4140625,
-        "y": 205
+        "x": -4151.5859375,
+        "y": 1330
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -5427,7 +5240,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "decentralised systems",
         "private computation",
         "goal"
@@ -5436,9 +5249,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3997.0625,
-        "y": -20
+        "x": -5484.9375,
+        "y": 1105
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -5451,7 +5265,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "decentralised systems",
         "private computation",
         "goal"
@@ -5460,9 +5274,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 3059.8671875,
-        "y": -20
+        "x": -6422.1328125,
+        "y": 1105
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -5475,7 +5290,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "decentralised systems",
         "private computation",
         "goal"
@@ -5484,9 +5299,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 5020.8203125,
-        "y": -20
+        "x": -4461.1796875,
+        "y": 1105
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -5499,7 +5315,7 @@
       "desc": "",
       "link": "",
       "tags": [
-        "frontier",
+        "future",
         "decentralised systems",
         "private computation",
         "goal"
@@ -5508,9 +5324,10 @@
       "is_collapsed": false,
       "parent": null,
       "pos": {
-        "x": 7469.4921875,
-        "y": -20
+        "x": -2012.5078125,
+        "y": 1105
       },
+      "fill": "#b8e986ff",
       "nodelabelfontsize": 75,
       "nodenotesfontsize": null,
       "backgroundImageURL": null
@@ -5529,11 +5346,12 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 181,
+      "parent": null,
       "pos": {
-        "x": -5739.721538664082,
-        "y": 2812
+        "x": -15926.316665649414,
+        "y": 3861.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 45,
       "backgroundImageURL": null
     },
@@ -5551,12 +5369,615 @@
       ],
       "has_dynamic_notes": false,
       "is_collapsed": false,
-      "parent": 181,
+      "parent": null,
       "pos": {
-        "x": -5714.60486996291,
-        "y": 2920.8215351391827
+        "x": -15926.150001525879,
+        "y": 4061.5
       },
+      "fill": "#ffffffff",
       "nodelabelfontsize": 45,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1256,
+      "kind": "node",
+      "label": "decentralised conflict resolution",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "future",
+        "decentralised systems"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 5474.350021362305,
+        "y": 5089.8017578125
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 80,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1260,
+      "kind": "node",
+      "label": "AI safety / alignment",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [
+        "risk",
+        "artificial intelligence"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": -10054.049987792969,
+        "y": 6495
+      },
+      "fill": "#f5a623ff",
+      "nodelabelfontsize": 90,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1271,
+      "kind": "node",
+      "label": "welcome to the Intelligent Cooperation Tech Tree!",
+      "notes": " ",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": null,
+      "pos": {
+        "x": 656.6166381835938,
+        "y": 365.5
+      },
+      "nodelabelfontsize": 60,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1266,
+      "kind": "node",
+      "label": " P. Koepellinger, D. Zhu, J.Joyce | DeSci: Progress, Challenges, Integration with Legacy Institutions",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/p-koepellinger-d-zhu-j-joyce-desci-progress-challenges-integration-with-legacy-institutions/)]",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 66,
+      "pos": {
+        "x": 14365.633323669434,
+        "y": 6025.5
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1268,
+      "kind": "node",
+      "label": " Ryan Calo & Clément Lesaege | The Future of Robots is Open & Proof of Humanity",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/ryan-calo-clement-lesaege-the-future-of-robots-is-open-proof-of-humanity/)]\n\nClément is the CTO of Kleros. He has an engineering degree from UTC (France) and a Master of Science in Computer Science from Georgia Tech (US). He worked as a smart contract security freelancer doing audits and finding vulnerabilities in smart contracts. He works on smart contracts and cryptoeconomics (CS, cryptography, game theory) at Kleros, designing mechanisms to make participants give honest answers in\non-chain disputes (escrow systems, on-chain oracles, curated lists).\n\nDistributing tokens in crypto systems is threatened by the Sybil attack – where bots attempt to gain control of a system by pretending to represent a vast majority of human users.  One solution was to use\nproof of work (mining) to validate human status.  However, most people are not miners and there are vast differences in mining potential of each person.  Some people want to use proof of stake, which is better\nthan proof of work but also has inequality problems.  This is where proof of humanity comes into the picture.\n\nThe first step is to have each new user create a video of themselves while holding a QR code to tie the video to a specific account.  The next layer of security is to have an existing user vouch for the new\nincoming user.  The incoming user needs to deposit a certain amount of cryptocurrency in order to attempt to join the network, and upon joining the amount is given back.  For bots, this prevents large volumes of\nsimultaneous attacks.\n\nThis system can be used for universal basic income, airdrops, quadratic funding, and democratic governance.  In the future it could be integrated into credit scoring and antispam tools.  Currently, Lesaege\nis focused on using this system to create private identities and ‘soulbound’ items, digital assets that cannot be traded.\n\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 88,
+      "pos": {
+        "x": -5338.854907989502,
+        "y": 4293.05419921875
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1264,
+      "kind": "node",
+      "label": " Christine Lemmer-Webber | Randy Farmer | Re-Decentralizing Networked Communities",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/christine-lemmer-webber-randy-farmer-re-decentralizing-networked-communities/)]\n\nChristine and Randy describe how the current schema of social media has failed us.  Networked communities have become centralized around a few large entities which are prone to failure.  Poor incentives drive toxic behavior and more regulation will only reinforce the dominance of the current paradigm.  The Spritely Institute outlines their plan for a new mechanism of interaction and community formation on the internet. ",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 89,
+      "pos": {
+        "x": 5046.868309020996,
+        "y": 3364.955078125
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1252,
+      "kind": "node",
+      "label": " Glen Weyl, RadicalxChange | Social Technology for a Political Economy of Increasing Returns",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/glen-weyl-radicalxchange-social-technology-for-a-political-economy-of-increasing-returns/)]\n\nGlen Weyl presents his ideas around Social Technology (tools and tech for cooperation and governance, that help the public to be a good public). He discusses when capitalism works, when it doesn’t, and what other methods might look like that can serve us well when existing capital systems don’t. He showcases Quadratic Funding, an experimental mechanism for allocating public resources and funding public goods developed by RadicalxChange. And he illuminates the open questions in how to develop political and economic systems that take more of the real social and political life of people into account, institutions that are really in support of how we live. \n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 90,
+      "pos": {
+        "x": 10089.260192871094,
+        "y": 5894.5732421875
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1253,
+      "kind": "node",
+      "label": " Dominant Assurance Contracts | Alex Tabarrok, George Mason University",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/dominant-assurance-contracts-alex-tabarrok-george-mason-university/)]\n\nThere are many things that we all would like to see realized, but no individual has an incentive to contribute to. Assurance Contracts have a novel payoff structure. We pre-commit to take an action —such as giving x amount of $/BTC/other cryptocurrency to the longevity/journalism/open source project of our choice— if and only if enough others commit to do the same to reach a critical threshold. Dominant assurance contract have the added condition that if the funding benchmark isn’t reached, the provider pays a prize to the pledgers. Pledging becomes a dominant strategy, or in Tabarrok’s words, “a no-lose proposition—if enough people pledge you get the public good and if not enough pledge you get the prize.”",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 90,
+      "pos": {
+        "x": 10120.510131835938,
+        "y": 6044.5732421875
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1269,
+      "kind": "node",
+      "label": "Christopher Allen, Brian Behlendorf, Alan Karp | Identity & Security Focus",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/christopher-allen-brian-behlendorf-alan-karp-identity-security-focus/)]\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 93,
+      "pos": {
+        "x": -1339.6333618164062,
+        "y": 3871.5
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1248,
+      "kind": "node",
+      "label": " DAOs: DAOstack, Decentraland, SifChain, ResearchHub, VitaDAO",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/daos-daostack-decentraland-sifchain-researchhub-vitadao/)]",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 115,
+      "pos": {
+        "x": 12745.133361816406,
+        "y": 5139.5
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1246,
+      "kind": "node",
+      "label": "Balaji Srinivasan | The Pseudonymous Economy & Transhumanism",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/balaji-srinivasan-the-pseudonymous-economy-transhumanism/)]\n\nBalaji Srinivasan is an angel investor and entrepreneur. Formerly the CTO of Coinbase and General Partner at Andreessen Horowitz, he was also the cofounder of Earn.com (acquired by Coinbase), Counsyl (acquired by Myriad), Teleport (acquired by Topia), and Coin Center.\n\nBalaji believes it’s easier to start another country than to reform the FDA.  His goal is the Network State, a state formed not from geographical borders but from connections over the internet.  A network state is a highly aligned online community with the capacity for action that crowdfunds territory around the world and which gains diplomatic recognition from pre-existing states. ",
+      "link": "",
+      "tags": [
+        "seminar"
+      ],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 141,
+      "pos": {
+        "x": 8792.866638183594,
+        "y": 5065.5
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": 40,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1250,
+      "kind": "node",
+      "label": " Audrey Tang | Taiwan Digital Minister: Tools for Openness: Asia & Beyond",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/audrey-tang-taiwan-digital-minister-tools-for-openness-asia-beyond/)]\n\nAudrey Tang is Taiwan’s Digital Minister in charge of social innovation, open governance and youth engagement.\nAudrey is known for civic hacking and use of technology for governance and is an active contributor to G0V, a community for innovation in government.",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 141,
+      "pos": {
+        "x": 8825.596008300781,
+        "y": 5223.5
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1251,
+      "kind": "node",
+      "label": " Arthur Breitman, Tezos: Blockchain Governance | Marc Stiegler: The Digital Path",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/arthur-breitman-tezos-blockchain-governance-marc-stiegler-the-digital-path/)]\n\nArthur Breitman is here to discuss what governance is, how it has been attempted in regard to blockchain systems and crypto-economic networks, and what is coming down the road in how to create decentralized governance protocols that actually work.\n\nMarc Stiegler will be discussing his science fiction book series The Digital Path, which showcases some of the technologies our group is interested in: especially split contracts for title transfer and cryptographically secured information and currency systems.",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 141,
+      "pos": {
+        "x": 8839.229370117188,
+        "y": 5373.5
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1265,
+      "kind": "node",
+      "label": "New Sovereignties Focus",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/david-ernst-eduardo-beltraine-tom-w-bell-new-sovereignties-focus/)]\n\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 141,
+      "pos": {
+        "x": 8828.34296798706,
+        "y": 4933.5
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1247,
+      "kind": "node",
+      "label": "Staking, Signals, and Other Techniques for Intelligence Coordination | Richard Craib, NumerAI",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/staking-signals-and-other-techniques-for-intelligence-coordination-richard-craib-numerai/)]\n\nRichard Craib is the founder of a company called NumerAI, a decentralized hedge fund acting as a superintelligent collective of stock traders.",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 964,
+      "pos": {
+        "x": -10861.466674804688,
+        "y": 7403.5
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": 60,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1263,
+      "kind": "node",
+      "label": " Richard Mallah, FLI & Georgios Kaissis, OpenMined | Q&A on AI & Privacy Preserving Machine Learning",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/richard-mallah-fli-georgios-kaissis-openmined-qa-on-ai-privacy-preserving-machine-learning/)]\n\n",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1130,
+      "pos": {
+        "x": -1338.300048828125,
+        "y": 6879.916015625
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 80,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1267,
+      "kind": "node",
+      "label": "Cryptopaleoinstutionality, Memex, Regen",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/chris-berg-oliver-sauter-cryptopaleoinstutionality-memex-regen/)]\n\nThe field of crypto presents us with a historically unprecedented opportunity to see rapid institutional evolution.\n\nNew voting systems and community management systems are tested live, and institutional innovation will supercharge economic growth.\n\nThe cryptoeconomic stack consists of telecom hardware, layer 1 blockchains, fungible and nonfungible tokens, decentralized autonomous networks (DAO’s), and tooling. Fast copy innovation via forking creates an ecosystem of competing blockchains and tokens which rapidly iterates. Berg finds L1 and L2 interactability particularly interesting for institutional development.\n\nChris believes that crypto fundamentally solves the problem of institutional monopoly – your physical location dictates the set of institutions available to you, but crypto changes that.",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1132,
+      "pos": {
+        "x": 141.1572265625,
+        "y": 5006.093994140625
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 80,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1249,
+      "kind": "node",
+      "label": " Zero-knowledge-enabled Cooperation: Halo 2 & Aleo | Zooko Wilcox, ECC, Howard Wu, Aleo",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/zero-knowledge-enabled-cooperation-halo-2-aleo-zooko-wilcox-ecc-howard-wu-aleo/)]",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1134,
+      "pos": {
+        "x": -1791.3411865234375,
+        "y": 399.5
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1259,
+      "kind": "node",
+      "label": " Split Contracts, Comp. Law & Decentralized Arbitration | Chip Morningstar, Meng Weng, Federico Ast",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/split-contracts-comp-law-decentralized-arbitration-chip-morningstar-meng-weng-federico-ast/)]\n\nWhen we discuss smart contracts and their applications, it seems like we’re trying to automate all the things right away, with less focus on what the steps we can take to get there are. Over time, we will be able to develop better and better smart contracts as folks templatize and test, but we will still want to include human judgment in plenty of contracts. One such example: Chip Morningstar pioneered the idea of a Split Contract, a contract composed of both software and prose. Many interesting contract features were included like templating, prose/automation hybrid, human arbitration, and co-designing contractual arrangements upfront. Many of these features are now coming live. For instance, Legalese is creating computational law to democratize contract writing, and Kleros is a decentralized arbitration service for increasingly international dispute resolution. ",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1256,
+      "pos": {
+        "x": 5466.4666748046875,
+        "y": 5084.103515625
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1270,
+      "kind": "node",
+      "label": " Robin Hanson, George Mason University : Value Drift | Mark S. Miller – Toward Paretotopia",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/robin-hanson-george-mason-university-value-drift-mark-s-miller-toward-paretotopia/)]\n\nToday we’re discussing “From Value Diversity to Voluntary Cooperation”.\n\nUpon investigation, we discover that values are quite diverse, even within an individual. Often our values are hard to determine with certainty at all! Is internal conflict a feature or bug? With so little insight into our own values and as our environment becomes more diverse, our values drift and behoove us to adopt strategies of voluntary cooperation.\n\nIn this session, Robin Hanson discusses Value Drift followed up by Mark Miller on Voluntary Cooperation strategies.",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1256,
+      "pos": {
+        "x": 5433.066650390625,
+        "y": 5284.103515625
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1262,
+      "kind": "node",
+      "label": " Zhu Xiaohu, Center for Safe AGI | Ontological anti-crisis and AI safety",
+      "notes": "",
+      "desc": "[[Foresight seminar](https://foresight.org/summary/zhu-xiaohu-center-for-safe-agi-ontological-anti-crisis-and-ai-safety/)]",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1260,
+      "pos": {
+        "x": -10086.383361816406,
+        "y": 6583.5
+      },
+      "fill": "#ccccccff",
+      "nodelabelfontsize": 70,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1280,
+      "kind": "node",
+      "label": "Legend:",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1271,
+      "pos": {
+        "x": 1144.087387084961,
+        "y": 417.938232421875
+      },
+      "nodelabelfontsize": 50,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1276,
+      "kind": "node",
+      "label": "scroll to zoom the view in/out; click and drag to pan.",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1271,
+      "pos": {
+        "x": 443.79998779296875,
+        "y": 234
+      },
+      "nodelabelfontsize": 40,
+      "nodenotesfontsize": 40,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1277,
+      "kind": "node",
+      "label": "double-click on a node to view its description.",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1271,
+      "pos": {
+        "x": 392.8333435058594,
+        "y": 334
+      },
+      "nodelabelfontsize": 40,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1278,
+      "kind": "node",
+      "label": "use \"Jump to node\" to search for a node by text.",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1271,
+      "pos": {
+        "x": 412.3166809082031,
+        "y": 434
+      },
+      "nodelabelfontsize": 40,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1279,
+      "kind": "node",
+      "label": "use \"Highlight by Tag\" to view all nodes under a tag.",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1271,
+      "pos": {
+        "x": 439.9333190917969,
+        "y": 534
+      },
+      "nodelabelfontsize": 40,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1273,
+      "kind": "node",
+      "label": "application",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1280,
+      "pos": {
+        "x": 1136.0528945922852,
+        "y": 416.5157470703125
+      },
+      "fill": "#e4e013ff",
+      "nodelabelfontsize": 30,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1274,
+      "kind": "node",
+      "label": "challenge",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1280,
+      "pos": {
+        "x": 1126.0957527160645,
+        "y": 497.8968811035156
+      },
+      "fill": "#f5a623ff",
+      "nodelabelfontsize": 30,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1275,
+      "kind": "node",
+      "label": "future",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1280,
+      "pos": {
+        "x": 1102.5954093933105,
+        "y": 577.87646484375
+      },
+      "fill": "#b8e986ff",
+      "nodelabelfontsize": 30,
+      "nodenotesfontsize": null,
+      "backgroundImageURL": null
+    },
+    {
+      "id": 1272,
+      "kind": "node",
+      "label": "technology",
+      "notes": "",
+      "desc": "",
+      "link": "",
+      "tags": [],
+      "has_dynamic_notes": false,
+      "is_collapsed": false,
+      "parent": 1280,
+      "pos": {
+        "x": 1129.9166641235352,
+        "y": 334.9239807128906
+      },
+      "fill": "#ffffffff",
+      "nodelabelfontsize": 30,
+      "nodenotesfontsize": null,
       "backgroundImageURL": null
     }
   ],
@@ -5564,15 +5985,19 @@
   "theme": {
     "name": "foresight",
     "bgfill": "#1c170b",
-    "grid": true,
+    "grid": false,
     "snapdist": {
-      "x": 75,
-      "y": 75
+      "x": 100,
+      "y": 100
     },
     "selectionColor": "blue",
+    "highlightColor": "red",
     "nodefill": "#7b9ecb",
     "nodelabelstroke": "black",
+    "nodelabelfontsize": 16,
+    "nodenotesfontsize": 16,
     "nodeborder": "white",
+    "nodeborderradius": 5,
     "nodeBackgroundImageURL": null,
     "edgestroke": "#ccc",
     "edgeshape": "ortho",
@@ -5583,7 +6008,8 @@
       "❌",
       "⚡",
       "👎",
-      "👍"
+      "👍",
+      "https://cdn.discordapp.com/attachments/987690735639875584/997881951534981203/hexbadge.png"
     ]
   },
   "jsondownload": true,
