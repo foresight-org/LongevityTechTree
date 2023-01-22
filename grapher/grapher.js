@@ -39551,7 +39551,7 @@ function lv(t) {
       e = O("sl-select"), l && l.c(), i = q();
       for (let u = 0; u < f.length; u += 1)
         f[u].c();
-      ee(e, "label", "Badge"), ee(e, "clearable", ""), ee(e, "value", r = t[0][0].badge), ee(e, "placeholder", "Select badge");
+      ee(e, "label", "Badge"), ee(e, "clearable", ""), ee(e, "value", r = t[0][0].badge || ""), ee(e, "placeholder", "Select badge");
     },
     m(u, h) {
       B(u, e, h), l && l.m(e, null), w(e, i);
@@ -39572,7 +39572,7 @@ function lv(t) {
           f[p].d(1);
         f.length = a.length;
       }
-      h[0] & 1 && r !== (r = u[0][0].badge) && ee(e, "value", r);
+      h[0] & 1 && r !== (r = u[0][0].badge || "") && ee(e, "value", r);
     },
     d(u) {
       u && j(e), l && l.d(), Dt(f, u), o = !1, s();
@@ -42710,7 +42710,7 @@ function tY(t) {
   let e, n, i, r, o, s, l, a, f, c, u, h, d, p, g, _, b, y, v, M, A = t[1] && Fv(t), P = ((x = t[1]) == null ? void 0 : x.title) && ok(t), S = ((V = t[1]) == null ? void 0 : V.description) && sk(t), D = ((R = t[1]) == null ? void 0 : R.contact) && lk(t);
   return {
     c() {
-      A && A.c(), e = q(), n = O("sl-dialog"), P && P.c(), i = q(), S && S.c(), r = q(), D && D.c(), o = q(), s = O("hr"), l = q(), a = O("p"), a.innerHTML = `The editor app <b>Grapher v230114</b> was created by
+      A && A.c(), e = q(), n = O("sl-dialog"), P && P.c(), i = q(), S && S.c(), r = q(), D && D.c(), o = q(), s = O("hr"), l = q(), a = O("p"), a.innerHTML = `The editor app <b>Grapher v230122</b> was created by
 		<a href="https://github.com/nileshtrivedi" target="_blank">@nileshtrivedi</a>
 		while being supported by
 		<a href="https://foresight.org/tech-tree/" target="_blank">The Foresight Institute</a>
@@ -42860,7 +42860,7 @@ function rY(t, e, n) {
       let _t = v.createSVGPoint();
       _t.x = b.x, _t.y = b.y;
       let qt = _t.matrixTransform(M.getCTM().inverse()), ct = W8(qt, ve, c);
-      ct && ve.parent != ct.id && !Fc(c, ct).map((Ft) => Ft.id).includes(ve.id) && (ve.parent = ct.id, R(c)), ve.id && ct === void 0 && Se();
+      ct && ve.parent != ct.id && !Fc(c, ct).map((Ft) => Ft.id).includes(ve.id) && (l.disableEditing || (ve.parent = ct.id, R(c))), ve.id && ct === void 0 && Se();
     }
     n(11, b = null), C();
   }
